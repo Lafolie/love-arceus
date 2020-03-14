@@ -1,0 +1,55 @@
+Trainer Classes
+81
+Commander
+[Class]
+Prerequisites: Novice Command
+Static
+Effect: Choose one of Ravager Orders, Marksman Orders, Trickster Orders, Guardian Orders, or Precision Orders.
+You gain the chosen Feature, even if you do not meet its prerequisites.
+Mobilize
+[Orders]
+Prerequisites: Commander
+At-Will ­ Free Action
+Target: Any Ally
+Effect: The target cannot provoke Attacks of Opportunity
+on their next turn. Mobilize may target an Ally only
+once per encounter.
+Leadership
+Prerequisites: Commander
+Static
+Effect: You may use [Orders] that have targets to target
+any Ally, even if normally those [Orders] would only let
+you apply the effect to your own Pokemon. Any other
+conditions still apply.
+Battle Conductor
+Prerequisites: Leadership
+At-Will ­ Swift Action
+Trigger: You give [Orders] with a Frequency of At-Will
+that have targets
+Effect: You may target up to two additional Allies with
+the [Orders].
+Note: This may be used with [Orders] that are have AP
+costs, but the AP Cost must be paid separately for each
+target if so.
+Complex Orders
+Prerequisites: Mastermind, at least two Features with
+the [Orders] Tag that have targets
+At-Will ­ Shift Action
+Trigger: You give [Orders] that have targets.
+Effect: You may choose a different Order to give to each
+Target. You must pay all AP costs and follow Frequency
+restrictions for all Orders used in this way.
+Tip the Scales
+Prerequisites: Commander, Expert Command
+2 AP ­ Swift Action
+Trigger: You give [Orders] that have targets.
+Effect: Your [Orders] with an At-Will Frequency instead
+target all allies within 10 Meters.
+Scheme Twist
+Prerequisites: Commander, Master Command
+Scene x2 ­ Swift Action
+Trigger: You give [Orders] with a Daily or Scene
+Frequency that have Targets.
+Effect: You may target up to two additional Allies with
+the [Orders].
+
