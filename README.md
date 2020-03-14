@@ -17,6 +17,8 @@ The following data is extracted into `json/` folder in the [Löve save directory
 Data from the Alola and Galar supplements are included.
 **Expansion content and some errata has not yet been included.**
 
+The code for this project isn't super optimised, neither is it a paradise of decoupling, and there are several globals.
+
 ## Running
 Currently, there is no .love build, so clone the repo and run from cmdline. 
 
