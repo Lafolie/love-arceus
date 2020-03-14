@@ -15,11 +15,11 @@ local function parser(str, sections)
 		local start = current.str
 		local finish = sections[n + 1].str
 
-		local sectionStr = m(str, "(" .. current .. ".-)" .. finish)
+		local sectionStr = m(str, "(" .. start .. ".-)" .. finish)
 
 		-- trim identifier from string if required
 		if current.trim then
-			sectionStr = m(sectionStr, current .. "(.+)")	
+			sectionStr = m(sectionStr, start .. "(.+)")	
 		end
 
 		-- cleanup

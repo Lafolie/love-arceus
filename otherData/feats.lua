@@ -153,7 +153,7 @@ function parseFeature(f)
 	local feat = {}
 	local sections = getFeatSections(f.str)
 	log:print(string.format("\nFEAT: %s (%s sections discovered)", f.name, #sections - 1))
-	log:print(f.str)
+	-- log:print(f.str)
 	-- break sections into strs
 	for n = 1, #sections - 1 do
 		local current = sections[n]
