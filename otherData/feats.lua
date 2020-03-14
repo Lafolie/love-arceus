@@ -22,7 +22,7 @@ end
 
 local function parseFeatTags(str)
 	local tags = {}
-	for tag in string.gmatch(str, "%[.-%]") do
+	for tag in string.gmatch(str, "%[(.-)%]") do
 		tagList[tag] = tag
 		table.insert(tags, tag)
 	end

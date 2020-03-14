@@ -55,6 +55,7 @@ function harvestOtherData()
 	-- handle feats
 	if sessionConfig 'feats' then
 		parseFeaturesData(features)
+		love.filesystem.write("json/features.json", json.encode(features))
 	end
 end
 
