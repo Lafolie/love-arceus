@@ -17,7 +17,7 @@ The following data is extracted into `json/` folder in the [Löve save directory
 Data from the Alola and Galar supplements are included.
 **Expansion content and some errata has not yet been included.**
 
-Eventually, text for fields such as effects for moves/abilties/feats/etc will be pre-formatted using markdown.
+Eventually, text for fields such as effects for moves/abilties/feats/etc will be pre-formatted using markdown notation.
 
 The code for this project isn't super optimised, neither is it a paradise of decoupling, and there are several globals.
 
