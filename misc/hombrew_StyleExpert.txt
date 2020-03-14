@@ -1,0 +1,157 @@
+Style Expert
+[Class] [Branch]
+Prerequisites: 1 Pokemon with a Move matching your chosen Style
+Static
+Effect: Your Pokémon gain a +5 bonus to damage with attacks that match your chosen Style. Whenever your Pokémon use a non-damaging attack that matches your chosen Style, they gain a +1 bonus to Evasion for one full round.
+
+Note: When you take Style Expert, choose from Beauty, Cool, Cute, Smart, or Tough. This becomes your Chosen Style. You may take Style Expert multiple times, each time choosing a different Style.
+
+Style Flourish
+[Branch]
+Prerequisites: 2 Style Expert Features
+1 AP – Free Action
+Trigger: Your Pokémon hits with a Move of your Chosen Style
+Effect: The Move gains a bonus corresponding to your chosen Style. Each effect may affect a foe only once per Scene.
+Beauty: For 1 Full Round, attacks against the triggering Move’s targets gain a +2 bonus to Effect Range, and successful attacks that activate an Effect Range cause the target to lose a Tick of HP.
+Cool: For 1 Full Round, targets of the attack cannot make Attacks of Opportunity or take actions as Reactions or Interrupts.
+Cute: For 1 Full Round, targets of the attack take a -10 penalty to all Damage Rolls.
+Smart: For 1 Full Round, targets of the attack cannot use Status-Class Moves, and may not take Swift Actions.
+Tough: For 1 Full Round, targets of the attack are Slowed and cannot Disengage.
+
+Style Adaptation
+[Branch]
+Prerequisites: Style Expert
+1 AP - Free Action
+Trigger: Your Pokémon uses a Move
+Effect: For this use, treat the triggering Move as though it matched your chosen Style. Style Adaptation may be used only once per Pokémon per Scene.
+
+Style Entrainment
+[Branch]
+Prerequisites: 4 Style Expert Features
+1 AP – Swift Action, Priority (Limited)
+Target: Your Pokémon
+Effect: Your Pokémon gains one of the following Abilities corresponding to your chosen Style for the rest of the Scene. Style Entrainment may only grant one Ability at a time. If it is used a second time, it replaces the first granted Ability.
+Beauty gives Gentle Vibe or Serene Grace
+Cool gives Defiant or Sniper
+Cute gives Cute Charm or Cute Tears
+Smart gives Analytic or Filter
+Tough gives Sturdy or Intimidate
+
+Beauty Expert
+Beautiful Ballet
+[Ranked 2]
+Rank 1 Prerequisites: Style Expert, Beauty as Chosen Style, Novice Intuition
+Rank 2 Prerequisites: Expert Intuition
+1 AP - Special
+Effect: Your Pokémon may activate Beautiful Ballet as a Standard Action to perform one of the following Moves. Once per Scene per Rank, Beautiful Ballet may be activated as a Shift Action. The user must still follow frequency limits as usual for these Moves.
+Rank 1: Captivate, Mist
+Rank 2: Lovely Kiss, Mean Look
+
+Fabulous Max
+Prerequisites: Beautiful Ballet Rank 1
+At-Will – Free Action
+Trigger: Your Pokémon uses a Beauty Move
+Battle Effect: The move gains the keyword Burst 1 if Melee, or Blast 2 if ranged. If the move is already a Burst, Blast, or Cone, increase the size of the Move's Range by 1. This does not cause a target to be hit multiple times.
+
+Enticing Beauty
+Prerequisites: Beautiful Ballet Rank 1
+Scene x2 – Free Action
+Trigger: Your Pokémon hits with a Beauty Move
+Effect: All targets hit by the attack become Infatuated with your Pokémon. This may affect a foe only once per Scene.
+
+
+Cool Expert
+
+Cool Conduct
+[Ranked 2]
+Rank 1 Prerequisites: Style Expert, Cool as Chosen Style, Novice Command
+Rank 2 Prerequisites: Expert Command
+1 AP - Special
+Effect: Your Pokémon may activate Cool Conduct as a Standard Action to perform one of the following Moves. Once per Scene per Rank, Cool Conduct may be activated as a Shift Action. The user must still follow frequency limits as usual for these Moves.
+Rank 1: Focus Energy, Noble Roar
+Rank 2: Roar, Double Team
+
+Rule of Cool
+Prerequisites: Cool Conduct Rank 1
+At-Will – Free Action
+Trigger: Your Pokémon uses a Cool Move
+Effect: The triggering Move's Crit Range is increased by 3, and Moves with the Interrupt or Shield Keywords may not be activated in reaction to this Move. The triggering Move may not be Intercepted. You may activate Rule of Cool only once per Pokémon per Scene.
+
+Action Hero Stunt
+Prerequisites: Cool Conduct Rank 1
+Daily x3 – Free Action
+Trigger: Your Pokémon makes a Skill Check for a dramatic, high risk action
+Effect: Your Pokemon gains a +3 bonus to the triggering check. If the check is successful, you gain a Stunt Token. You may have a number of Stunt Tokens up to half your Command Rank, and they disappear at the end of the day. Stunt Tokens may be spent as a Swift Action once per Pokemon per Scene to cause that Pokemon to gain +2 Combat Stages in a stat of your choice. 
+Example Trigger: Charging into a burning building for a heroic rescue
+
+
+Cute Expert
+
+Cute Cuddle
+[Ranked 2]
+Rank 1 Prerequisites: Style Expert, Cute as Chosen Style, Novice Charm
+Rank 2 Prerequisites: Expert Charm
+1 AP - Special
+Effect: Your Pokémon may activate Cute Cuddle as a Standard Action to perform one of the following Moves. Once per Scene per Rank, Cute Cuddle may be activated as a Shift Action. The user must still follow frequency limits as usual for these Moves.
+Rank 1: Charm, Block
+Rank 2: Teeter Dance, Attract
+
+Gleeful Steps
+Prerequisites: Cute Cuddle Rank 1
+At-Will – Free Action
+Trigger: Your Pokémon uses a Cute Move
+Effect: Your Pokémon may immediately Disengage up to half their Movement speed in any direction after the Move is resolved. If they end this movement next to a foe, that foe takes a -2 penalty to Save Checks, Skill Checks, and Evasion for 1 Full Round. You may activate Gleeful Steps only once per Pokémon per Scene.
+
+Let's Be Friends!
+Prerequisites: Cute Cuddle Rank 1
+Scene – Free Action
+Target: Your Pokémon and a number of foes up to half your Charm Rank
+Effect: For one Full Round, your targeted Pokemon is treated in all ways as the targeted foes’ Ally for both parties’ Moves, Abilities, and Features. Those foes may not include your targeted Pokemon as a target of a Damaging Move on their next turn, unless that Move has the Friendly keyword.
+
+
+Smart Expert
+
+Smart Scheme
+[Ranked 2]
+Rank 1 Prerequisites: Style Expert, Smart as Chosen Style, Novice Guile
+Rank 2 Prerequisites: Expert Guile
+1 AP - Special
+Effect: Your Pokémon may activate Smart Scheme as a Standard Action to perform one of the following Moves. Once per Scene per Rank, Smart Scheme may be activated as a Shift Action. The user must still follow frequency limits as usual for these Moves.
+Rank 1: Fake Tears, Calm Mind
+Rank 2: Taunt, Flatter
+
+Calculated Assault
+Prerequisites: Smart Scheme Rank 1
+At-Will – Free Action
+Trigger: Your Pokémon uses a Smart Move
+Effect: Choose one: The triggering Move gains a +1 bonus on its Accuracy Roll for each ally that attacked a target of the Move this round, or all allies get a +1 bonus to their Accuracy and Evasion against targets of the triggering Move until the end of your next turn.
+
+Learn From Your Mistakes
+Prerequisites: Smart Scheme Rank 1
+Daily x3 – Free Action
+Trigger: Your Pokémon fails a Skill Check, or misses with an attack
+Effect: Your Pokémon may re-roll the Skill Check or Accuracy check with a Bonus equal to your Guile Rank. Learn From Your Mistakes may only be used once per Scene.
+
+
+Tough Expert
+
+Tough Tumble
+[Ranked 2]
+Rank 1 Prerequisites: Style Expert, Tough as Chosen Style, Novice Intimidate
+Rank 2 Prerequisites: Expert Intimidate
+1 AP - Special
+Effect: Your Pokémon may activate Tough Tumble as a Standard Action to perform one of the following Moves. Once per Scene per Rank, Tough Tumble may be activated as a Shift Action. The user must still follow frequency limits as usual for these Moves.
+Rank 1: Scary Face, Disable
+Rank 2: Glare, Bide
+
+Macho Charge
+Prerequisites: Tough Tumble Rank 1
+At-Will – Free Action
+Trigger: Your Pokémon uses a Tough Move
+Effect: All targets hit by the Move lose a Tick of Hit Points and are Pushed 3 meters. You may activate Macho Charge only once per Scene per Pokemon.
+
+Endurance
+Prerequisites: Tough Tumble Rank 1
+Scene x2 – Free Action
+Trigger: Your Pokémon takes falling damage, begins to suffocate, would gain an Injury, or is Heavily Injured.
+Effect: Your Pokémon can ignore up to X meters of falling when calculating falling damage, act without beginning to suffocate for X additional rounds, ignore the Hit Point loss effects from acting while Heavily Injured for X rounds, or not gain an Injury. X is equal to half your Intimidate rank. Endurance may only be used once per Pokémon  per Scene.

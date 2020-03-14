@@ -1,0 +1,35 @@
+Dragon Moves:
+Move: Clanging Scales
+Type: Dragon
+Frequency: Scene x2
+AC: 2
+Damage Base 11: 3d10+10 / 27
+Class: Special
+Range: 6, 1 Target or Burst 1
+Effect: The user adds half their Defense Stat to
+Clanging Scale's Damage Roll. After the Move is
+resolved, the user's Defense is lowered by 1 CS.
+Contest Type: Cool
+Contest Effect: Good Show
+Move: Core Enforcer
+Type: Dragon
+Frequency: Daily x2
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Special
+Range: 6, Ranged Blast 3, Spirit Surge
+Effect: Each target has its Ability disabled until the
+end of the encounter. If a target has more than one
+Ability, you choose one of them to disable.
+Contest Type: Cool
+Contest Effect: Unsettling
+Move: Dragon Hammer
+Type: Dragon
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, 1 Target or Line 3
+Contest Type: Cool
+Contest Effect: Big Show
+

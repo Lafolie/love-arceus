@@ -1,0 +1,69 @@
+Normal Moves:
+Move: Court Change
+Type: Normal
+Frequency: Daily
+AC: None
+Class: Status
+Range: Field
+Effect: All Blessings and Hazards swap which side that
+they belong to.
+Contest Type: Smart
+Contest Effect: Sabotage
+Move: Howl
+Type: Normal
+Frequency: EOT
+AC: None
+Class: Status
+Range: Burst 1
+Effect: The user and all allies in the Burst have their
+Attack CS raised by 1.
+Contest Type: Cool
+Contest Effect: Get Ready
+Move: Multi-Attack
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: Melee, 1 Target
+Effect: Multi-Attack is the same Type as the Memory
+Disc, Plate, or Drive Item held.
+Contest Type: Cool
+Contest Effect: Reflective Appeal
+Move: Rapid Spin
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: Melee, 1 Target, Spirit Surge
+Effect: Rapid Spin destroys all Hazards within 5
+meters, removes Leech Seeds, and removes the user's
+Trapped or Stuck status. If Rapid Spin hits, the user's
+speed raises 1 CS.
+Contest Type: Cool
+Contest Effect: Exhausting Act
+Move: Stuff Cheeks
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self
+Effect: The user immediately consumes one of its
+Food Buffs, regardless of any conditions that need to
+be met, gaining its benefit if applicable. If a Buff is
+consumed, the user's Defense CS is raised by 2.
+Contest Type: Cute
+Contest Effect: Get Ready
+Move: Teatime
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: Field, Social
+Effect: All participants in the battle may choose to
+immediately consume one of their Food Buffs,
+regardless of if the conditions to do so are met.
+Contest Type: Cute
+Contest Effect: Safe Option
+

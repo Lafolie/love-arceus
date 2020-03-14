@@ -1,0 +1,668 @@
+Indices and Reference
+418
+Psychic Moves
+Move: Agility
+Type: Psychic
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Speed 2 Combat Stages.
+Contest Type: Cool
+Contest Effect: Saving Grace
+Move: Ally Switch
+Type: Psychic
+Frequency: Scene
+AC: None
+Class: Status
+Range: 6, 1 Target, Interrupt
+Effect: Ally Switch may be declared during a foe's turn
+as an Interrupt. The user chooses one willing ally within
+6 meters; the target and the user switch places. If the ally
+was a target of a Move, the user is now the target; If the
+user was a target of a Move, the ally is now the target.
+Contest Type: Cool
+Contest Effect: Tease
+Move: Amnesia
+Type: Psychic
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Special Defense 2 Combat Stages.
+Contest Type: Cute
+Contest Effect: Get Ready!
+Move: Barrier
+Type: Psychic
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: Hazard
+Effect: The user creates a Barrier of psychic energy. The
+user places up to 4 segments of Barrier; each segment
+must be continuous with another segment, and at least
+one must be adjacent to the user. These barriers count as
+blocking terrain and last until the end of the encounter
+or until they are destroyed. Each Barrier segment is 2
+meters tall, 1 meter wide, and 2 centimeters thick. Each
+segment has 20 Hit Points, 15 Damage Reduction, and
+takes damage as if it was Psychic Typed.
+Contest Type: Cool
+Contest Effect: Sabotage
+Move: Calm Mind
+Type: Psychic
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Special Attack 1 Combat Stage
+and raise the user's Special Defense 1 Combat Stage.
+Contest Type: Smart
+Contest Effect: Get Ready!
+Move: Confusion
+Type: Psychic
+Frequency: At-Will
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Special
+Range: 6, 1 Target
+Effect: Confusion Confuses the target on 19+.
+Contest Type: Smart
+Contest Effect: Steady Performance
+Indices and Reference
+419
+Move: Cosmic Power
+Type: Psychic
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Defense 1 Combat Stage and
+raise the user's Special Defense 1 Combat Stage.
+Contest Type: Cool
+Contest Effect: Get Ready!
+Move: Dream Eater
+Type: Psychic
+Frequency: EOT
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Special
+Range: Melee, 1 Target
+Effect: Dream Eater can only target Sleeping Pokémon
+or Trainers. After the target takes damage, the user gains
+Hit Points equal to half of the damage they dealt to the
+target. Dream Eater does not wake up sleeping targets.
+Contest Type: Smart
+Contest Effect: Good Show!
+Move: Extrasensory
+Type: Psychic
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: 5, 1 Target
+Effect: Extrasensory Flinches the target on 19+.
+Contest Type: Cool
+Contest Effect: Exhausting Act
+Move: Future Sight
+Type: Psychic
+Frequency: Scene x2
+AC: None
+Damage Base 12: 3d12+10 / 30
+Class: Special
+Range: 10, 1 Target
+Effect: Future Sight does nothing on the turn it is used.
+At the end of the user's next turn, Future Sight hits, even
+if the user is no longer on the field. Future Sight cannot
+miss.
+Contest Type: Smart
+Contest Effect: Exhausting Act
+Move: Gravity
+Type: Psychic
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Field
+Effect: For 5 rounds, the area is considered Warped.
+While Warped, Moves that involve the user being
+airborne may not be used. Pokémon cannot use Sky
+or Levitate Capabilities to end their turn at an altitude
+higher than 1 meter. Flying-Types and Pokémon with
+the Ability Levitate are no longer immune to Ground-
+Type Moves. All Accuracy Rolls receive a +2 Bonus.
+Contest Type: Beauty
+Contest Effect: Sabotage
+Move: Guard Split
+Type: Psychic
+Frequency: Scene
+AC: None
+Class: Status
+Range: Melee, 1 Target
+Effect: The target loses 5 Defense and 5 Special Defense.
+If they do, the user gains 5 Damage Reduction. These
+effects last until the end of the scene.
+Contest Type: Cute
+Contest Effect: Inversed Appeal
+Move: Guard Swap
+Type: Psychic
+Frequency: Scene
+AC: None
+Class: Status
+Range: Melee, 1 Target
+Effect: The user and the target trade Combat Stage
+values for the Defense Stat, and then for the Special
+Defense Stat.
+Contest Type: Cute
+Contest Effect: Inversed Appeal
+Indices and Reference
+420
+Move: Heal Block
+Type: Psychic
+Frequency: EOT
+AC: 2
+Class: Status
+Range: 6, 1 Target
+Effect: Until the end of the encounter, the target may
+not gain Hit Points or Temporary Hit Points from any
+source. This effect ends if the target is switched out or
+Takes a Breather.
+Contest Type: Cute
+Contest Effect: Sabotage
+Move: Healing Wish
+Type: Psychic
+Frequency: Daily
+AC: None
+Class: Status
+Range: 6, 1 Target
+Effect: The user immediately Faints, lowering its HP to
+0. The user takes no Injuries from HP Markers when
+using Healing Wish. The target is immediately cured
+of up to 3 injuries, healed to their Maximum Hit Points,
+and has the Frequency of all Moves restored. Healing
+Wish may target a Pokémon in a Poké Ball. Healing
+Wish does not restore the Frequency of Healing Wish
+or Lunar Dance. Injuries healed through Healing Wish
+count toward the total number of Injuries that can be
+healed each day, and this healing is limited by the same.
+Contest Type: Cute
+Contest Effect: Safe Option
+Move: Heal Pulse
+Type: Psychic
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: 6, 1 Target, Aura
+Effect: Restores 50% of the target's max Hit Points. Heal
+Pulse's user may not target itself with Heal Pulse.
+Contest Type: Beauty
+Contest Effect: Reflective Appeal
+Move: Heart Stamp
+Type: Psychic
+Frequency: EOT
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target
+Effect: Heart Stamp Flinches the target on 15+.
+Contest Type: Cute
+Contest Effect: Steady Performance
+Move: Heart Swap
+Type: Psychic
+Frequency: Daily
+AC: None
+Class: Status
+Range: 10, 2 Targets
+Effect: The targets trade Combat Stage values for each
+Stat.
+Contest Type: Cool
+Contest Effect: Inversed Appeal
+Move: Hypnosis
+Type: Psychic
+Frequency: Scene x2
+AC: 6
+Class: Status
+Range: 4, 1 Target
+Effect: The target falls Asleep.
+Contest Type: Smart
+Contest Effect: Excitement
+Move: Imprison
+Type: Psychic
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: 10, 1 Target
+Effect: The target is Locked for the rest of the Scene. A
+Locked target may not use any Moves the user knows.
+Imprison cannot miss.
+Contest Type: Smart
+Contest Effect: Good Show!
+Indices and Reference
+421
+Move: Kinesis
+Type: Psychic
+Frequency: Scene
+AC: None
+Class: Status
+Range: 6, 1 Target, Trigger, Interrupt
+Effect: If the user or an Ally within 6 meters is about
+to be hit by an attack, the user may use Kinesis as an
+interrupt. The triggering Accuracy Roll receives a -4
+penalty. This may cause Moves to miss.
+Contest Type: Smart
+Contest Effect: Get Ready!
+Move: Light Screen
+Type: Psychic
+Frequency: Scene
+AC: None
+Class: Status
+Range: Blessing
+Effect: Blessing ­ Any user affected by Light Screen
+may activate it when receiving Special Damage to resist
+the Damage one step. Light Screen may be activated 2
+times, and then disappears.
+Contest Type: Beauty
+Contest Effect: Sabotage
+Move: Lunar Dance
+Type: Psychic
+Frequency: Daily
+AC: None
+Class: Status
+Range: 8, 1 Target
+Effect: The user immediately Faints, lowering its
+Hit Points to 0. The user takes no Injuries from Hit
+Point Markers when using Lunar Dance. The target is
+immediately cured of up to 3 injuries, healed to their
+Maximum Hit Points, and has the Frequency of all Moves
+restored. Lunar Dance may target a Pokémon in a Poké
+Ball. Lunar Dance does not restore the Frequency of
+Healing Wish or Lunar Dance. Injuries healed through
+Lunar Dance count toward the total number of Injuries
+that can be healed each day, and this healing is limited
+by the same.
+Contest Type: Beauty
+Contest Effect: Safe Option
+Move: Luster Purge
+Type: Psychic
+Frequency: Scene x2
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: 12, 1 Target
+Effect: Luster Purge lowers the target's Special Defense
+by 1 Combat Stage on an Even-Numbered Roll.
+Contest Type: Smart
+Contest Effect: Seen Nothing Yet
+Move: Magic Coat
+Type: Psychic
+Frequency: Daily
+AC: None
+Class: Status
+Range: 4, Interrupt, Trigger
+Effect: If the user is about to get a hit by a Move that
+does not have a Damage Dice Roll, they may use Magic
+Coat as an Interrupt. The Interrupted Move's user is
+treated as if they were the target of their own Move, with
+the user of Magic Coat as the user.
+Contest Type: Beauty
+Contest Effect: Double Time
+Move: Magic Room
+Type: Psychic
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Field
+Effect: The area becomes Useless for 5 rounds. While
+Useless, Pokémon may not benefit from the effects
+of any Held Items, and Trainers cannot benefit from
+any Accessory-Slot equipment. This does not affect
+consumable or activated items, only Items with Static
+effects or Triggers.
+Contest Type: Cute
+Contest Effect: Tease
+Move: Meditate
+Type: Psychic
+Frequency: At-Will
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Attack 1 Combat Stage.
+Contest Type: Beauty
+Contest Effect: Get Ready!
+Indices and Reference
+422
+Move: Miracle Eye
+Type: Psychic
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: Self, Swift Action
+Effect: Miracle Eye may be activated as a Swift Action
+on the user's turn. For the rest of the turn, the user's
+Psychic-Type Moves can hit and affect Dark-Type
+targets, and the user can see through the Illusion Ability,
+Moves with the Illusion keyword, and effects created by
+the Illusionist Capability, ignoring all effects from those.
+Contest Type: Cute
+Contest Effect: Good Show!
+Move: Mirror Coat
+Type: Psychic
+Frequency: Scene x2
+AC: None
+Class: Special
+Range: Any, 1 Target, Reaction
+Effect: Mirror Coat may be used as a Reaction when
+the user is hit by a damaging Special Attack. Resolve the
+Triggering Attack, with Mirror Coat's user resisting the
+attack one step further. After the attack is resolved, if
+Mirror Coat's user was not Fainted, the triggering foe
+then loses Hit Points equal to twice the amount of Hit
+Points lost by the user from the triggering attack. Note
+that Mirror Coat is Special, and while it cannot miss, it
+cannot hit targets immune to Psychic-Type Moves.
+Contest Type: Beauty
+Contest Effect: Double Time
+Move: Mist Ball
+Type: Psychic
+Frequency: Scene x2
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: 12, 1 Target
+Effect: Mist Ball lowers the target's Special Attack by 1
+Combat Stage on an Even-Numbered Roll.
+Contest Type: Smart
+Contest Effect: Seen Nothing Yet
+Move: Power Split
+Type: Psychic
+Frequency: Scene
+AC: None
+Class: Status
+Range: Melee, 1 Target
+Effect: The target has their Attack and Special Attack
+lowered by 5. If they do, the user gains a +5 bonus to
+Damage Rolls. These effects last until the end of the
+scene.
+Contest Type: Beauty
+Contest Effect: Inversed Appeal
+Move: Power Swap
+Type: Psychic
+Frequency: Scene
+AC: None
+Class: Status
+Range: Melee, 1 Target
+Effect: The user and the target trade Combat Stage values
+for the Attack Stat, and then for the Special Attack Stat.
+Contest Type: Beauty
+Contest Effect: Inversed Appeal
+Move: Power Trick
+Type: Psychic
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self
+Effect: The user's Attack stat and Defense stat are
+switched for the remainder of the scene, or until the
+user is switched out or Fainted.
+Contest Type: Cool
+Contest Effect: Inversed Appeal
+Move: Psybeam
+Type: Psychic
+Frequency: At-Will
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: 6, 1 Target
+Effect: Psybeam Confuses the target on 19+.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Indices and Reference
+423
+Move: Psychic
+Type: Psychic
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Special
+Range: 5, 1 Target, Push
+Effect: The target is Pushed 1 meter in any direction.
+Psychic lowers the target's Special Defense 1 Combat
+Stage on 17+.
+Contest Type: Smart
+Contest Effect: Exhausting Act
+Special: Grants Telekinetic
+Move: Psycho Boost
+Type: Psychic
+Frequency: Scene
+AC: 4
+Damage Base 14: 4d10+15 / 40
+Class: Special
+Range: 8, Ranged Blast 3, Smite
+Effect: Lower the user's Special Attack 2 Combat Stages
+after damage is resolved.
+Contest Type: Smart
+Contest Effect: Seen Nothing Yet
+Move: Psycho Cut
+Type: Psychic
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: 6, 1 Target
+Effect: Psycho Cut is a Critical Hit on 18+.
+Contest Type: Cool
+Contest Effect: Exhausting Act
+Move: Psycho Shift
+Type: Psychic
+Frequency: Scene
+AC: None
+Class: Status
+Range: Melee, 1 Target
+Effect: The user is cured of a Status ailment and the
+target is given that Status ailment. Psycho Shift cannot
+miss. Psycho Shift can only be used if the user has a
+Status ailment and the target does not have the status
+ailment that is being transferred.
+Contest Type: Cool
+Contest Effect: Inversed Appeal
+Move: Psyshock
+Type: Psychic
+Frequency: At-Will
+AC: 2
+Damage Base 8: 2d8+10 / 21
+Class: Special
+Range: 4, 1 Target
+Effect: When calculating damage, the target subtracts
+their Defense from Psyshock's damage instead of their
+Special Defense. Psyshock is still otherwise Special
+( Special Evasion is used to avoid it, Mirror Coat can
+reflect it, etc. )
+Contest Type: Smart
+Contest Effect: Incentives
+Move: Psystrike
+Type: Psychic
+Frequency: EOT
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Special
+Range: 4, 1 Target
+Effect: When calculating damage, the target subtracts
+their Defense from Psystrike's damage instead of their
+Special Defense. Psystrike is still otherwise Special
+(Special Evasion is used to avoid it, Mirror Coat can
+reflect it, etc.)
+Contest Type: Smart
+Contest Effect: Incentives
+Move: Psywave
+Type: Psychic
+Frequency: Scene
+AC: 5
+Class: Special
+Range: 6, 1 Target
+Effect: Roll 1d4; on 1 the target loses Hit Points equal
+to half the user's Level; on 2 the target loses Hit Points
+equal to the user's Level; on 3 the target loses Hit Points
+equal to 1.5x the user's level; on 4 the target loses Hit
+Points equal to the user's Level doubled. Do not apply
+weakness or resistance, and do not apply Stats. Do apply
+Immunity.
+Contest Type: Smart
+Contest Effect: Steady Performance
+Indices and Reference
+424
+Move: Reflect
+Type: Psychic
+Frequency: Scene
+AC: None
+Class: Status
+Range: Blessing
+Effect: Blessing ­ Any user affected by Reflect may
+activate it when receiving Physical Damage to resist the
+Damage one step. Reflect may be activated 2 times, and
+then disappears.
+Contest Type: Smart
+Contest Effect: Excitement
+Move: Rest
+Type: Psychic
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self
+Effect: The user is set to their full Hit Point value. The
+user is cured of any Status ailments. Then, the user
+falls Asleep. The user cannot make Sleep Checks at the
+beginning of their turn. They are cured of the Sleep at
+the end of their turn in 2 rounds.
+Contest Type: Cute
+Contest Effect: Reflective Appeal
+Move: Role Play
+Type: Psychic
+Frequency: Daily
+AC: None
+Class: Status
+Range: Melee, 1 Target
+Effect: The user gains one of the target's Abilities,
+chosen at random, for the remainder of the encounter.
+This effect ends if the user Faints or is switched out. Role
+Play cannot miss.
+Contest Type: Cute
+Contest Effect: Catching Up
+Move: Skill Swap
+Type: Psychic
+Frequency: Scene
+AC: None
+Class: Status
+Range: Melee, 1 Target
+Effect: The user loses one of their Abilities, selected by
+the user, and gains one the target's Abilities, selected at
+random, for the remainder of encounter. The target loses
+the copied Ability, and gains the user's lost Ability. This
+effect ends if either the target or the user is Switched out
+or Fainted, but only for that Pokémon or Trainer.
+Contest Type: Smart
+Contest Effect: Excitement
+Move: Stored Power
+Type: Psychic
+Frequency: EOT
+AC: 2
+Damage Base 2: 1d6+3 / 7
+Class: Special
+Range: 10, 1 Target
+Effect: For every Combat Stage the user has above 0, add
++2 to Stored Power's Damage Base, up to a maximum of
+Damage Base 20.
+Contest Type: Tough
+Contest Effect: Incentives
+Move: Synchronoise
+Type: Psychic
+Frequency: Scene x2
+AC: 2
+Damage Base 12: 3d12+10 / 30
+Class: Special
+Range: Burst 3
+Effect: Synchronoise can only hit targets that share a
+type with Synchronoise's user.
+Contest Type: Smart
+Contest Effect: Incentives
+Indices and Reference
+425
+Move: Telekinesis
+Type: Psychic
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: 4, 1 Target
+Effect: The target becomes Lifted. While Lifted, they gain
+the Levitate Ability, are Slowed, and lose all Movement
+Capabilities except for the Levitate 4 granted by Levitate
+(reduced to 2 by the Slow condition). While Lifted, the
+user may not apply any Evasion bonuses to determine
+whether they are hit by Moves or not. The Lifted target
+may use a Shift Action to roll 1d20; on a result of 16+,
+they stop being Lifted.
+Contest Type: Smart
+Contest Effect: Steady Performance
+Special: Grants Telekinetic
+Move: Teleport
+Type: Psychic
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self, Interrupt
+Effect: The user Teleports up to X meters, where X is
+its Teleporter Capability. Teleport can be used as an
+Interrupt at any time. Moves that targeted Teleport's
+user continue through the desired target's space if the
+Move allows for it as if the user hadn't been there; single
+target moves simply miss.
+Contest Type: Cool
+Contest Effect: Saving Grace
+Special: Grants Teleporter 4
+Move: Trick
+Type: Psychic
+Frequency: Scene
+AC: 2
+Class: Status
+Range: 5, 2 Targets
+Effect: Both targets must be hit for Trick to succeed. The
+user may target itself or willing allies with Trick; you do
+not need to roll for Accuracy Check in these cases. Both
+targets lose their Held Item or Accessory Slot Item, and
+gain the other target's Held Item or Accessory Slot Item.
+If a target has no Item, it still can gain the other target's
+Item.
+Contest Type: Smart
+Contest Effect: Attention Grabber
+Move: Trick Room
+Type: Psychic
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Field
+Effect: Starting at the beginning of the next round,
+for 5 rounds, the area is considered Rewinding. While
+Rewinding, Initiative is reversed, and participants
+instead go from lowest Initiative to Highest.
+Contest Type: Cute
+Contest Effect: Tease
+Move: Wonder Room
+Type: Psychic
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Field
+Effect: For 5 rounds, the area is considered Wondered.
+While Wondered, each individual Pokémon's Defense
+and Special Defense Stats are switched.
+Contest Type: Cute
+Contest Effect: Tease
+Move: Zen Headbutt
+Type: Psychic
+Frequency: EOT
+AC: 4
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: Zen Headbutt Flinches the target on 15+.
+Contest Type: Beauty
+Contest Effect: Desperation
+

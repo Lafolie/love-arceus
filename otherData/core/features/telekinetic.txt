@@ -1,0 +1,65 @@
+Trainer Classes
+191
+Telekinetic
+[Class] [+Special Attack]
+Prerequisites: Elemental Connection (Psychic), Iron Mind
+Static
+Effect: You gain the Telekinetic Capability.
+PK Alpha
+[+Special Attack]
+Prerequisites: Telekinetic
+Static
+Effect: You learn the Moves Kinesis and Barrier.
+PK Omega
+[+Special Attack]
+Prerequisites: PK Alpha, Expert Focus
+Static
+Effect: You learn the Moves Telekinesis and Psychic.
+Power of the Mind
+[+Special Attack]
+Prerequisites: Telekinetic
+Static
+Effect: Choose Interference or Levitate. You gain the
+chosen Ability.
+PK Combat
+[+Special Attack] [Weapon]
+Prerequisites: Telekinetic, Adept Focus
+Bind 1 AP ­ Standard Action
+Effect: You may also wield weapons and items with
+your Telekinesis capability, as long as you are able to
+lift them. This means you may use Items and Melee
+Weapons that normally require you to be adjacent to
+your target at a range limited only by your Telekinesis.
+When wielding Weapons with your Telekinesis, you
+qualify for Moves using Focus instead of Combat and
+may add your Special Attack instead of your Attack Stat.
+The Attacks remain Physical, however.
+Telekinetic Burst
+[+Special Attack]
+Prerequisites: PK Combat, Expert Focus
+1 AP ­ Swift Action
+Effect: You perform a Disarm, Trip, or Push Maneuver
+using your Telekinetic Capability.
+Psionic Overload
+[+Special Attack]
+Prerequisites: PK Omega, Master Focus
+2 AP ­ Swift Action
+Trigger: You hit with Psychic or use another Telekinetic
+Move
+Effect: The effect of this Feature depends on the
+Triggering Move.
+»
+» Kinesis: The user of the triggering attack becomes
+Confused.
+»
+» Barrier: Place 2 additional segments of Barrier, and
+you may place the Barriers anywhere within 6 meters
+of yourself. They do not need to remain contiguous,
+nor does one segment have to touch you.
+»
+» Psychic: The target becomes Vulnerable for one full
+round.
+»
+» Telekinesis: At the end of each turn that the target
+remains Lifted, they lose a Tick of Hit Points.
+

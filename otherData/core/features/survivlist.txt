@@ -1,0 +1,189 @@
+Trainer Classes
+149
+Survivalist
+[Class] [+HP]
+Prerequisites: Novice Survival
+One Time Use ­ Extended Action
+Effect: Choose a Terrain in which you have spent at least three nights. You gain Naturewalk for that terrain and a
++2 bonus to Athletics, Acrobatics, Stealth, Perception, and Survival Checks in that terrain. When you have 2 Sur-
+vivalist Features, you may choose a second Terrain. When you have 4 Survivalist Features, you may choose a third
+terrain. When you have 6 Survivalist Features, you may choose a fourth terrain.
+The terrains are: Grassland, Forest, Wetlands, Ocean, Tundra, Mountain, Cave, Urban, Desert
+Natural Fighter
+[+HP]
+Prerequisites: Survivalist
+1 AP ­ Special
+Effect: You and your Pokémon become adept at using
+the environment to your advantage in battle. You
+or your Pokémon may activate Natural Fighter as a
+Standard Action to use the Move below corresponding
+to the current terrain. You and your Pokémon must still
+follow all Frequency limitations for the Move.
+Grassland: Cotton Spore; Forest: Grass Whistle;
+Wetlands: Mud Slap; Ocean: Aqua Ring; Tundra: Haze;
+Mountain: Smack Down; Cave: Astonish; Urban: Fling;
+Desert: Sand Attack
+Note: GMs! Don't be super duper strict about the
+terrains here. Obviously a beach is analogous enough
+to a desert to use Sand Attack, and a lake can count as
+ocean terrain. In urban terrain, there'll probably at least
+be trash around to Fling with the standard 6 DB option.
+On the other hand, most standard arenas for League
+matches won't qualify for any of the terrains. However,
+some arenas may be specifically designed to emulate a
+terrain type, such as a rocky stadium or a set of floating
+platforms in a pool.
+Trapper
+[+HP]
+Prerequisites: Survivalist, Adept Survival
+Daily x2 ­ Extended Action
+Effect: You create a consumable item that creates 8
+meters of Hazard within 6 meters. All 8 meters must
+be adjacent with at least one other space of the Hazard.
+These Hazards cause foes that run into them to become
+Slowed until the end of their next turn and have an
+additional effect based on the terrain in which the item
+was made. When foes run into these Hazards, they
+are destroyed after their effects resolve. Pokémon and
+Trainers with Naturewalk for the terrains associated
+with a Hazard are immune to its effects. These items
+must be used the same day they are created or they lose
+all effect.
+»
+» Dust Trap ­ Grassland or Desert: A foe that runs
+into this Hazard is Blinded until the end of their
+next turn.
+»
+» Tangle Trap ­ Forest or Wetlands: A foe that runs
+into this Hazard is must immediately stop Shifting,
+and they are Stuck instead of Slowed until the end
+of their next turn.
+»
+» Slick Trap ­ Ocean or Tundra: A foe that runs into
+this Hazard becomes Vulnerable until the end of
+their next Turn.
+»
+» Abrasion Trap ­ Mountain, Cave, or Urban: A foe
+that runs into this Hazard lowers their Defense and
+Special Defense by 1 Combat Stage.
+Trainer Classes
+150
+Wilderness Guide
+[+HP] [Orders]
+Prerequisites: Survivalist, Expert Survival
+Scene x3 ­ Standard Action
+Effect: Wilderness Guide's effect depends on your
+current terrain.
+»
+» Grassland or Forest: All allies gain the Stealth
+Capability and a +2 bonus to their Overland Speed
+for one full round.
+»
+» Ocean or Wetlands: All allies gain 5 Damage
+Reduction and a +2 bonus to their Swim Speed for
+one full round.
+»
+» Desert or Tundra: All allies do not lose Hit Points
+from Weather and ignore the effects of foes' Sand
+Veil and Snow Cloak Abilities for one full round.
+»
+» Mountain or Cave: All allies do not trigger Hazards
+and are not Blinded in Low-Light conditions for
+one full round.
+»
+» Urban: All allies gain +1 Evasion and a +2 bonus
+on Accuracy Rolls and Skill Checks to perform the
+Dirty Trick and Manipulate Combat Maneuvers for
+one full round.
+Terrain Talent
+[Ranked 2] [+HP]
+Rank 1 Prerequisites: Survivalist, 2 Mastered Terrains
+Rank 2 Prerequisites: Survivalist, 4 Mastered Terrains
+Static
+Effect: Each Rank, you gain two Terrain Talents, cho-
+sen from the Terrains for which you gained Naturewalk
+from Survivalist.
+Note: You do not have to be in the corresponding
+terrain to take advantage of Terrain Talents! They work
+everywhere.
+Adaptive Geography
+[+HP]
+Prerequisites: 4 Survivalist Features, Master Survival
+Scene x2 ­ Free Action
+Trigger: You or your Pokémon gain Initiative
+Effect: The triggering target takes their turn as if they
+were in a terrain adjacent to the terrain they are in on
+the following graphic. For example, if you are standing
+in Wetlands terrain, you may act as if you are standing
+in Forest or Ocean Terrain. This affects Survivalist
+Features, Naturewalk Capabilities, Moves with the
+Environ Keyword, etc.
+Grassland
+Forest
+Desert
+Urban Wetlands
+Mountain Tundra
+Cave Ocean
+Trainer Classes
+151
+Terrain Talents
+Plains Runner ­ Grassland Terrain
+Static
+Effect: Your Overland Speed is increased by +2. You
+gain a +2 bonus to Perception Checks to spot or identify
+objects in the far distance.
+Forest Ranger ­ Forest Terrain
+Static
+Effect: You're used to navigating the dense plant life of
+large forests. You gain the Stealth Capability.
+Marsh Stomper ­ Wetland Terrain
+Static
+Effect: You can handle the toxic fauna and flora of the
+marshes. You do not lose Hit Points from Poison and
+lose only 1 instead of 2 Combat Stages from Poison. You
+still count as Poisoned for the purpose of Moves and
+effects.
+Deep Diver ­ Ocean Terrain
+Static
+Effect: You love nothing better than the smell of the sea.
+Your Swimming Capability is equal to your Overland
+Capability instead of half. Additionally, you may hold
+your breath underwater for a number of minutes equal
+to your Survival Rank before you start suffocating.
+Arctic Pilgrim ­ Tundra Terrain
+Static
+Effect: Neither deep slow nor slippery ice can deter you.
+You are immune to the effects of Hail and to the Frozen
+condition, and gain 5 Damage Reduction against Ice-
+Type attacks.
+Surefooted ­ Mountain Terrain
+Static
+Effect: You're not afraid of precarious ledges and steep
+hills. You gain a +2 Bonus to Skill Checks made to
+climb, balance, or maintain footing ­ including resisting
+Push and Trip maneuvers. Whenever you take falling
+damage, ignore one meter and receive one less Injury
+when determining damage.
+Cave Dweller ­ Cave Terrain
+Static
+Effect: Your eyes are used to very low levels of light.
+You do not suffer Blindness for being in Low-Light
+conditions. If you would be Totally Blinded by complete
+darkness, you instead suffer the penalties of Blindness,
+and may make Survival Checks instead of Acrobatics
+to avoid becoming Tripped. You are immune to Stealth
+Rock Hazards.
+Traceur ­ Urban Terrain
+Static
+Effect: The city is your jungle. You gain a +1 Bonus to
+your Jump Capabilities. Add half your Survival Rank
+to your Evasion against Push, Trip, and Attack of
+Opportunity Maneuvers.
+Dune Walker ­ Desert Terrain
+Static
+Effect: Your long hours in the unforgiving desert have
+made you inured to sand and heat. You're immune to
+the effects of Sandstorm, Sand-Attack, and Sand Tomb,
+and you gain 5 Damage Reduction against Fire-Type
+attacks.
+

@@ -1,0 +1,218 @@
+Indices and Reference
+429
+Steel Moves
+Move: Autotomize
+Type: Steel
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: For the remainder of the Encounter, the user's
+Weight Class is one value lower, to a minimum of 1. If
+the user can, the user's Speed is raised by +2 Combat
+Stages.
+Contest Type: Smart
+Contest Effect: Get Ready!
+Move: Bullet Punch
+Type: Steel
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, 1 Target, Priority
+Effect: None.
+Contest Type: Smart
+Contest Effect: Saving Grace
+Move: Doom Desire
+Type: Steel
+Frequency: Scene x2
+AC: None
+Damage Base 14: 4d10+15 / 40
+Class: Special
+Range: 10, 1 Target
+Effect: Doom Desire does nothing on the turn it is used.
+At the end of the user's next turn, Doom Desire hits,
+even if the user is no longer on the field. Doom Desire
+cannot miss.
+Contest Type: Cool
+Contest Effect: Exhausting Act
+Move: Flash Cannon
+Type: Steel
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: 6, 1 Target
+Effect: Flash Cannon lowers the target's Special Defense
+by 1 Combat Stage on 17+.
+Contest Type: Smart
+Contest Effect: Exhausting Act
+Move: Gear Grind
+Type: Steel
+Frequency: EOT
+AC: 3
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: Melee, 1 Target, Double Strike
+Effect: None
+Contest Type: Cool
+Contest Effect: Reliable
+Move: Gyro Ball
+Type: Steel
+Frequency: Scene x2
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: 6, 1 Target
+Effect: The target reveals their Speed Stat (including
+Combat Stages). If it is higher than the user's (again,
+including Combat Stages), subtract the user's Speed
+Stat from the target's, and apply the difference as Bonus
+Damage.
+Contest Type: Beauty
+Contest Effect: Double Time
+Move: Heavy Slam
+Type: Steel
+Frequency: EOT
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, 1 Target
+Effect: For each weight class the user is above the target,
+increase Heavy Slam's damage base by +2.
+Contest Type: Tough
+Contest Effect: Incentives
+Move: Iron Defense
+Type: Steel
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Defense 2 Combat Stages.
+Contest Type: Tough
+Contest Effect: Sabotage
+Indices and Reference
+430
+Move: Iron Head
+Type: Steel
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: Iron Head Flinches the target on 15+.
+Contest Type: Tough
+Contest Effect: Desperation
+Move: Iron Tail
+Type: Steel
+Frequency: Scene x2
+AC: 6
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Melee, 1 Target, Smite
+Effect: Iron Tail lowers the target's Defense 1 Combat
+Stage on 15+.
+Contest Type: Cool
+Contest Effect: Desperation
+Move: King's Shield
+Type: Steel
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self, Interrupt, Shield, Trigger
+Effect: If the user is hit by an attack, the user may use
+King's Shield. The user is instead not hit by the Move.
+You do not take any damage nor are you affected by any
+of the Move's effects. In addition, if the triggering attack
+was Melee ranged, the attacker's Attack is lowered by 2
+Combat Stages.
+Contest Type: Cool
+Contest Effect: Inversed Appeal
+Move: Magnet Bomb
+Type: Steel
+Frequency: EOT
+AC: None
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: 8, 1 target
+Effect: Magnet Bomb cannot miss.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Special: Grants Magnetic
+Move: Metal Burst
+Type: Steel
+Frequency: Scene
+AC: None
+Damage Base: See Effect
+Class: Physical
+Range: Burst 1
+Effect: Metal Burst causes all targets in the burst to lose
+Hit Points equal to the total amount of direct Damage
+the user has taken since the beginning of this Round.
+Metal Burst cannot miss.
+Contest Type: Beauty
+Contest Effect: Double Time
+Move: Metal Claw
+Type: Steel
+Frequency: At-Will
+AC: 3
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: Melee, 1 Target, Spirit Surge
+Effect: Raise the user's Attack 1 Combat Stage on 18+.
+Contest Type: Cool
+Contest Effect: Incentives
+Move: Metal Sound
+Type: Steel
+Frequency: EOT
+AC: 4
+Class: Status
+Range: Burst 2, Friendly, Sonic
+Effect: All Legal Targets have their Special Defense
+lowered 2 Combat Stages.
+Contest Type: Smart
+Contest Effect: Unsettling
+Move: Meteor Mash
+Type: Steel
+Frequency: EOT
+AC: 4
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, 1 Target, Dash, Spirit Surge
+Effect: Raise the user's Attack 1 Combat Stage on 15+.
+Contest Type: Cool
+Contest Effect: Desperation
+Indices and Reference
+431
+Move: Mirror Shot
+Type: Steel
+Frequency: EOT
+AC: 5
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: 6, Ranged Blast 2
+Effect: All Legal Targets have their Accuracy lowered by
+-2 on 16+.
+Contest Type: Cute
+Contest Effect: Exhausting Act
+Move: Shift Gear
+Type: Steel
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Attack 1 Combat Stage and raise
+the user's Speed 2 Combat Stages.
+Contest Type: Smart
+Contest Effect: Get Ready!
+Move: Steel Wing
+Type: Steel
+Frequency: At-Will
+AC: 3
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target, Pass, Spirit Surge
+Effect: Raise the user's Defense 1 Combat Stage on 15+.
+Contest Type: Cool
+Contest Effect: Steady Performance
+

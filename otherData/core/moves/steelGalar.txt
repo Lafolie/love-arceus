@@ -1,0 +1,58 @@
+Steel Moves:
+Move: Behemoth Bash
+Type: Steel
+Frequency: Scene x2
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Melee, 1 Target
+Effect: The DB of Behemoth Bash increases by +2 for
+each positive CS the target has, to a maximum of DB
+20.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Behemoth Blade
+Type: Steel
+Frequency: Scene x2
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Melee, 1 Target
+Effect: The DB of Behemoth Blade increases by +2 for
+each positive CS the target has, to a maximum of DB
+20.
+Contest Type: Cool
+Contest Effect: Good Show
+Move: Double Iron Bash
+Type: Steel
+Frequency: Scene x2
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target, Double Strike
+Effect: Double Iron Bash Flinches the targets on 15+.
+This move is affected by Iron Fist.
+Contest Type: Tough
+Contest Effect: Reliable
+Move: Gear Up
+Type: Steel
+Frequency: Scene x2
+Class: Status
+Range: Burst 4
+Effect: All targets that are Steel-Typed receive +1
+Attack and Special Attack Combat Stages
+Contest Type: Smart
+Contest Effect: Get Ready
+Move: Steel Beam
+Type: Steel
+Frequency: Daily
+AC: 3
+Damage Base 14: 4d10+15 / 40
+Class: Special
+Range: Cone 3, Smite
+Effect: The user's Hit Points are reduced by 50% of
+their full Hit Point value. This Hit Point loss cannot be
+prevented or reduced in any way.
+Contest Type: Smart
+Contest Effect: Big Show
+

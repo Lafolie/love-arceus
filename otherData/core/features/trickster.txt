@@ -1,0 +1,130 @@
+Trainer Classes
+108
+Trickster
+[Class]
+Prerequisites: Novice Guile
+1 AP ­ Free Action
+Trigger: Your Pokémon hits a foe with a Status-Class Move or a foe triggers your Pokémon's Hazard
+Effect: After the Move is resolved, your Pokémon may perform a Dirty Trick or Manipulate Maneuver on that foe
+as a Free Action. The Maneuver automatically hits, but the target must be in range for the chosen Maneuver. Use
+your own Guile to resolve Manipulate Rolls.
+Bag of Tricks
+[Ranked 2]
+Rank 1 Prerequisites: Trickster
+Rank 2 Prerequisites: Trickster
+Static
+Effect: You gain two Trickster Techniques of your
+choice, found on the next page.
+Stacked Deck
+Prerequisites: Trickster, Adept Guile
+1 AP ­ Free Action
+Trigger: Your Pokémon hits a foe suffering from a
+Status Affliction or one of the other conditions in the
+table below
+Effect: Choose a Status Affliction or condition the
+triggering target is suffering from; the target suffers an
+additional effect according to the table below. Stacked
+Deck may only affect a foe once per Scene.
+Condition Effect
+Bad Dreams,
+Cursed, Seeded,
+Burn, Poison
+Whenever the target loses
+Hit Points from the chosen
+condition, they lose an
+additional 5 Hit Points.
+Paralysis, Frozen,
+Vortex, Sleep
+The next time the target passes
+their Save Check for the chosen
+condition, they become Tripped
+and Slowed.
+Confuse, Enrage,
+Suppression,
+Infatuation
+The target suffers a -2 penalty
+to their Accuracy and Evasion
+while suffering from the chosen
+condition.
+Flourish
+Prerequisites: Trickster
+Static
+Effect: Your Pokémon's Status-Class Moves that affect
+foes ignore non-Stat Evasion. They may Critically Hit
+like damaging Moves on a roll of 20. Upon such a
+Critical Hit, choose one effect from the list below. This
+Critical Hit rate may be modified as normal.
+»
+» If the Move inflicts a Status Affliction with a Save
+Check, all affected targets get a -4 penalty to their
+first Save Check.
+»
+» If the Move lowers Combat Stages, then pick a Stat
+that the Move lowers and lower it by 1 additional
+Combat Stage.
+»
+» Your Pokémon gains a Tick of Temporary Hit Points.
+Encore Performance
+Prerequisites: 3 Trickster Features, Expert Guile
+Daily x3 ­ Free Action
+Trigger: Your Pokémon uses a Status-Class Move that
+does not target foes.
+Choose One Effect: Your Pokémon gains +1 Combat
+Stage in any Stat in which they haven't gained a Combat
+Stage this turn; or gains a second Standard Action this
+round that must be used to make an At-Will action
+that does not trigger Encore Peformance; or, if they
+are placing Hazards, they may place an additional two
+units; or, if they are activating a Weather Effect, it lasts
+an additional two turns; or, if they are activating a
+Blessing, it gains an additional use..
+Sleight
+Prerequisites: 4 Trickster Features, Master Guile
+Scene x2 ­ Free Action
+Effect: Your Pokémon may activate Sleight as an
+Interrupt to immediately take their turn and use a Status-
+Class Move as a Standard Action. If this Move targets
+a foe, it ignores Substitute and Defensive Abilities, and
+Blessings may not be activated against the Move.
+Trainer Classes
+109
+Mind Games
+Scene x2 ­ Free Action
+Trigger: Your Pokémon hits a foe with a Move with the
+Social keyword
+Effect: The foe becomes Vulnerable for one full round. If
+the foe is afflicted with Rage, Suppression, Infatuation,
+or Confusion you may change one of the listed Volatile
+Status to another listed Volatile Status. Mind Games
+may only be activated once per Scene per foe. When
+inflicting Infatuation this way, the object of Infatuation
+is your Pokémon, regardless of gender.
+Escape Artist
+1 AP ­ Free Action
+Trigger: Your Pokémon targets an adjacent foe with a
+Status-Class Move
+Effect: The triggering Move cannot provoke an Attack
+of Opportunity, and your Pokémon may immediately
+perform a Disengage Maneuver as a Free Action.
+Escape Artist may only be activated once per Scene per
+Pokémon.
+Shell Game
+Scene x2 ­ Special
+Target: Allied Hazards
+Effect: Your Pokémon may activate Shell Game when
+placing Hazards as as Free Action or otherwise as a
+Standard Action. Choose one type of Hazard and move
+all allied instances of that Hazard up to X meters, where
+X is equal to half your Guile Rank; they do not have to
+remain contiguous. You may use Shell Game to place
+Hazards of different types on the same square or create
+layers of Toxic Spikes.
+Impromptu Trick
+1 AP ­ Free Action
+Trigger: A foe triggers an Attack of Opportunity from
+your Pokémon
+Effect: Your Pokémon may use a Move with the Hazard
+Keyword or an At-Will or EOT Frequency Status-Class
+Move targeting that foe instead of a Struggle Attack.
+Trickster Techniques
+

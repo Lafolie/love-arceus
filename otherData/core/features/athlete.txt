@@ -1,0 +1,79 @@
+Trainer Classes
+155
+Athlete
+[Class] [+HP]
+Prerequisites: Novice Athletics, One of Athletic Prowess, Mounted Prowess, Power Boost, Stamina, or Swimmer
+At-Will ­ Extended Action
+Effect: After an hour of exercise, an Athlete may choose two different Stats besides HP; both of those stats become
+Trained Stats. The default State of Trained Stats is +1 Combat Stages instead of 0. An Athlete may have two Trained
+Stats at a time.
+Training Regime
+[+HP]
+Prerequisites: Athlete
+Static
+Effect: You gain additional static bonuses based on your
+Trained Stats.
+»
+» Attack: You gain a +2 Bonus on Accuracy Checks to
+hit with Combat Maneuvers.
+»
+» Defense: You gain 5 Damage Reduction when
+Intercepting attacks.
+»
+» Special Attack: You may add half your Special
+Attack Stat to Damaging Athlete Moves. This does
+not stack with Twisted Power.
+»
+» Special Defense: You gain a +2 Bonus to Opposed
+Checks to resist Combat Maneuvers.
+»
+» Speed: When you Sprint, you double your
+Movement Capability instead of increasing by 50%.
+Coaching
+[+HP]
+Prerequisites: Training Regime
+1 AP ­ Free Action
+Trigger: Your Pokémon makes a Combat Maneuver
+Effect: Your Pokémon gains a bonus based on the type
+of Combat maneuver they are making. This Feature
+may be triggered once per Scene per Pokémon.
+»
+» Your Pokémon gains a +1d6 bonus to Opposed
+Acrobatics, Athletics, Combat, or Stealth Skill
+Checks.
+»
+» If your Pokémon was Sprinting, they double their
+Movement Capabilities instead of increasing by
+50%.
+»
+» If your Pokémon was making an Attack of
+Opportunity, they automatically hit.
+»
+» You may also activate this Feature to let them
+Intercept for any Ally regardless of Loyalty, and they
+automatically succeed on the Skill Check to do so.
+Adrenaline Rush
+[+HP]
+Prerequisites: Athlete, Expert Athletics
+Daily x3 ­ Free Action
+Trigger: You are lowered to half or your Maximum Hit
+Points or less
+Effect: You gain +1 Combat Stage in each of your
+Trained Stats, are cured of up to two Status Afflictions,
+and gain a Tick of Temporary Hit Points. Adrenaline
+Rush may be used only once per Scene
+Athletic Moves
+[Ranked 3] [+HP]
+Rank 1 Prerequisites: Athlete
+Rank 2 Prerequisites: Athlete, Expert Athletics
+Rank 3 Prerequisites: Athlete, Master Athletics
+Static
+Effect: You learn two Athlete Moves marked with the
+Rank of this Feature you are taking or lower.
+Athlete Moves
+Rank 1 Rank 2 Rank 3
+Bind Body Slam Mega Kick
+Block Take Down Facade
+Slam Extreme Speed Retaliate
+Strength
+

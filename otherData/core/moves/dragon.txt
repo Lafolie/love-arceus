@@ -1,0 +1,150 @@
+Indices and Reference
+354
+Dragon Moves
+Move: Draco Meteor
+Type: Dragon
+Frequency: Scene
+AC: 4
+Damage Base 13: 4d10+10 / 35
+Class: Special
+Range: 8, Ranged Blast 3, Smite
+Effect: Lower the user's Special Attack 2 Combat Stages
+after damage.
+Contest Type: Smart
+Contest Effect: Seen Nothing Yet
+Move: Dragon Claw
+Type: Dragon
+Frequency: At-Will
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: None
+Contest Type: Cool
+Contest Effect: Exhausting Act
+Move: Dragon Dance
+Type: Dragon
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Attack 1 Combat Stage and raise
+the user's Speed 1 Combat Stage.
+Contest Type: Cool
+Contest Effect: Get Ready!
+Move: Dragon Pulse
+Type: Dragon
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Special
+Range: 8, 1 Target, Aura
+Effect: None
+Contest Type: Smart
+Contest Effect: Incentives
+Move: Dragon Rage
+Type: Dragon
+Frequency: At-Will
+AC: 2
+Damage Base: Special
+Class: Special
+Range: 4, 1 Target
+Effect: If it hits, Dragon Rage causes the target to lose
+15 Hit Points. Dragon Rage is Special and interacts with
+other moves and effects as such (Special Evasion may be
+applied to avoid it, Mirror Coat can reflect it, etc.).
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Dragon Rush
+Type: Dragon
+Frequency: Scene x2
+AC: 4
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Melee, 1 Target, Dash, Push, Smite
+Effect: The target is Pushed 3 meters. Dragon Rush
+Flinches the target on 17+.
+Contest Type: Cool
+Contest Effect: Desperation
+Move: Dragon Tail
+Type: Dragon
+Frequency: At-Will
+AC: 3
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target, Push
+Effect: The target is Pushed 6 meters minus their Weight
+Class. On a roll of 15+, the target is also Tripped.
+Contest Type: Smart
+Contest Effect: Big Show
+Move: Dragon Breath
+Type: Dragon
+Frequency: EOT
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Special
+Range: 6, 1 Target
+Effect: Dragon Breath Paralyzes the Target on 15+.
+Contest Type: Cool
+Contest Effect: Exhausting Act
+Indices and Reference
+355
+Move: Dual Chop
+Type: Dragon
+Frequency: EOT
+AC: 3
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: Melee, 1 Target, Double Strike
+Effect: None
+Contest Type: Tough
+Contest Effect: Reliable
+Move: Outrage
+Type: Dragon
+Frequency: Scene x2
+AC: 3
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: Melee, all adjacent foes, Smite
+Effect: After damage is dealt, the user becomes Enraged
+and Confused.
+Contest Type: Cool
+Contest Effect: Reliable
+Move: Roar of Time
+Type: Dragon
+Frequency: Daily x2
+AC: 4
+Damage Base 15: 4d10+20 / 45
+Class: Special
+Range: Burst 8, Smite, Exhaust
+Effect: All legal targets are Slowed, even if the attack
+misses.
+Contest Type: Cool
+Contest Effect: Seen Nothing Yet
+Move: Spacial Rend
+Type: Dragon
+Frequency: Daily x2
+AC: 3
+Damage Base 10: 3d8+10 / 24
+Class: Special
+Range: 10, 1 Target
+Effect: Spacial Rend is a Critical Hit on Even-Numbered
+Rolls.
+Contest Type: Tough
+Contest Effect: Incentives
+Move: Twister
+Type: Dragon
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Special
+Range: 6, Ranged Blast 3
+Effect: Small or Medium targets in the central square
+of the blast are not hit. Twister Flinches the target on
+18-20 during Accuracy Check. Any Pokémon Airborne
+as a result of Fly or Sky Drop above the Blast are hit,
+ignoring range, and Twister has a Damage Base of 8
+against those targets instead.
+Contest Type: Cool
+Contest Effect: Steady Performance
+

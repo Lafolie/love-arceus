@@ -1,0 +1,47 @@
+Electric Moves:
+Move: Aura Wheel
+Type: Electric
+Frequency: Scene x2
+AC: 2
+Damage Base 11: 3d10+10 / 27
+Class: Physical
+Range: Melee, 1 Target
+Effect: The user's Speed is increased 1 CS.
+Contest Type: Cool
+Contest Effect: Special Attention
+Special: If the user is in Hangry Mode, Aura Wheel is
+Dark-Typed.
+Move: Bolt Beak
+Type: Electric
+Frequency: Scene x2
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, 1 Target
+Effect: Against targets with a lower initiative that
+have not yet acted this round, Bolt Beak deals +10
+damage.
+Contest Type: Cool
+Contest Effect: Catching Up
+Move: Magnetic Flux
+Type: Electric
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: Burst 4
+Effect: Choose +1 or -1. All targets that are Electric-
+Type or have the Magnetic Capability receive that
+many Defense and Special Defense Combat Stages.
+Contest Type: Smart
+Contest Effect: Incentives
+Special: Grants Magnetic
+Move: Overdrive
+Type: Electric
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: Cone 2, Sonic
+Contest Type: Cool
+Contest Effect: Attention Grabber
+

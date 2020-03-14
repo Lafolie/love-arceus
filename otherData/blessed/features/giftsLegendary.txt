@@ -1,0 +1,1038 @@
+The Blessed and Damned
+­58­
+Legendary Gifts
+No matter the intent or process involved, when a
+human is blessed by a Legendary Pokémon with some
+of its powers, use the following Legendary Gifts. These
+are sorted specific to species or sets of species, whereas
+there also exist more general Gifts that will be sorted by
+domain instead of species (see below).
+Minor Gifts are always Edges and represent the first step
+toward taking in a Legendary's power. They are usually
+non-obvious effects or at least not overtly supernatural.
+It is uncommon, although possible, for Trainers to
+attain multiple Minor Gifts, particularly if they are from
+within the same set of Legendaries.
+Major Gifts are Features that represent a strong alliance
+or blessing from a Legendary and are significant
+instances of granted supernatural power. They should
+not be attained easily, and accruing multiple Major
+Gifts should be very difficult. It is very rare for Trainers
+to attain Major Gifts from a second patron, and more
+than that is the stuff of legend.
+Pact Gifts are Features that represent either a nearly
+unbreakable bond between Trainer and Legendary,
+or a truly divine gift. They are usually the Legendary's
+Signature Move and are incredibly powerful and
+difficult to attain. They universally require a Trainer to
+attain all of the Legendary's Major Gifts. It is impossible
+for a Trainer to gain more than one Pact Gift. Lower
+Pantheon Legendaries do not have Pact Gifts.
+These aren't particularly balanced between options for
+various species and the like. These are somewhat in your
+hands as a GM to sort out what would be too powerful
+for their campaign and what would be sensible.
+Lower Pantheon Gifts
+Legendary Birds and Beasts
+Minor Gift - Elemental Soul
+Prerequisites: GM Permission
+Effect: You can sense the presence of Pokémon of a given
+Type within 10 meters of you based on which Legendary
+Bird or Beast granted you this Edge. Articuno grants
+Ice, Moltres and Entei grant Fire, Zapdos and Raikou
+grant Electric, and Suicune grants Water.
+Major Gift - Elemental Manipulation
+Prerequisites: Minor Gift - Elemental Soul
+Effect: You gain a Capability based on which Legendary
+Bird or Beast granted you this Feature. Articuno grants
+Freezer, Moltres and Entei grant Firestarter, Zapdos and
+Raikou grant Zapper, and Suicune grants Fountain.
+Articuno's Major Gift - Winter's Kiss
+Prerequisites: Minor Gift - Elemental Soul
+Static
+Effect: You gain the Winter's Kiss Ability.
+Moltres's Major Gift - Sun Blanket
+Prerequisites: Minor Gift - Elemental Soul
+Static
+Effect: You gain the Sun Blanket Ability.
+Zapdos's Major Gift - Lightningrod
+Prerequisites: Minor Gift - Elemental Soul
+Static
+Effect: You gain the Lightningrod Ability.
+Entei's Major Gift - Flash Fire
+Prerequisites: Minor Gift - Elemental Soul
+Static
+Effect: You gain the Flash Fire Ability.
+Raikou's Major Gift - Volt Absorb
+Prerequisites: Minor Gift - Elemental Soul
+Static
+Effect: You gain the Volt Absorb Ability.
+Suicune's Major Gift - Water Absorb
+Prerequisites: Minor Gift - Elemental Soul
+Static
+Effect: You gain the Water Absorb Ability.
+The Blessed and Damned
+­59­
+Celebi
+Minor Gift - Catastrophe Sense
+Prerequisites: GM Permission
+Effect: You have an intuitive sense of when natural
+disasters or other catastrophes are likely to occur near
+you.
+Major Gift - Probability Control
+Prerequisites: Minor Gift - Catastrophe Sense
+Effect: You gain the Probability Control Ability.
+Major Gift - Sprouter
+Prerequisites: Minor Gift - Catastrophe Sense
+Static
+Effect: You gain the Sprouter Capability.
+The Golems
+Minor Gift - Stoic Stature
+Prerequisites: GM Permission
+Effect: You subtract half of your Athletics or Focus
+Ranks from the number of meters Push effects move
+you.
+Major Gift - Mark of Loyalty
+Prerequisites: Minor Gift - Stoic Stature
+1 AP - Free Action
+Target: Your Pokémon
+Effect: Treat the Target as if it were one Loyalty higher
+for the rest of this turn.
+Major Gift - Clear Body
+Prerequisites: Major Gift ­ Mark of Loyalty
+Static
+Effect: You gain the Clear Body Ability
+Jirachi
+Minor Gift - Watchful Sleep
+Prerequisites: GM Permission
+Effect: You may make Perception Checks to detect
+imminent dangers while sleeping.
+Major Gift - Eye of Truth
+Prerequisites: Minor Gift - Watchful Sleep
+1 AP - Standard Action
+Target: Trainer of Pokémon
+Effect: You can determine whether or not a professed
+desire by the Target is being sought for altruistic reasons
+for not.
+Major Gift - Doom Desire
+Prerequisites: Major Gift - Eye of Truth
+Static
+Effect: You learn the Move Doom Desire.
+Eon Duo
+Minor Gift - Loyal Heart
+Prerequisites: GM Permission
+Effect: You are immune to Infatuation.
+Major Gift - Sight Sharing
+Prerequisites: Minor Gift - Loyal Heart, *Special
+Static
+Effect: You must take this Major Gift alongside another
+person also taking this Major Gift, one of you gaining it
+through Latias and the other through Latios. The two of
+you are considered Link Partners. Whenever you wish,
+you may share your senses with your Link Partner or
+attempt to use their senses as long as both you and your
+Link Partner give mental consent and are conscious.
+You and your Link Partner never hit each other with
+Area of Effect Moves unless you want to.
+Latias's Major Gift - Mist Ball
+Prerequisites: Major Gift - Sight Sharing
+Static
+Effect: You learn the Move Mist Ball.
+Latios's Major Gift - Luster Purge
+Prerequisites: Major Gift - Sight Sharing
+Static
+Effect: You learn the Move Luster Purge.
+Lake Guardians
+Azelf's Minor Gift - Force of Will
+Prerequisites: GM Permission
+Effect: Reroll all dice that result in a roll of 1 when
+making Focus and Command Checks.
+The Blessed and Damned
+­60­
+Azelf's Major Gift - Drain Will
+Prerequisites: Minor Gift - Force of Will
+3 AP - Standard Action
+Target: Pokémon or Trainer within 8 meters
+Effect: You and the Target make a Contested Focus
+Check. If you win the Check, the Target is unable to
+take Shift or Standard Actions for their next 1d2 turns.
+Regardless of whether or not you won the Check, the
+Target suffers a -3 penalty to all rolls for the rest of the
+encounter, or for fifteen minutes outside of combat.
+The target becomes immune to further uses of Drain
+Will for 24 hours.
+Uxie's Minor Gift - Fount of Knowledge
+Prerequisites: GM Permission
+Effect: Choose two Education Skills. Reroll all dice that
+result in a roll of 1 when making Checks with those
+Skills.
+Uxie's Major Gift - Shatter Memory
+Prerequisites: Minor Gift ­ Fount of Knowledge
+3 AP - Standard Action
+Target: Pokémon or Trainer within 8 meters
+Effect: Choose an effect: The Target has one Ability
+disabled at random or two Moves disabled at random
+for the remainder of the Encounter. Additionally, the
+Target must make a Focus Check with DC 10 to recall
+complex thoughts and memories for the next fifteen
+minutes. The target becomes immune to further uses of
+Shatter Memory for 24 hours.
+Mesprit's Minor Gift - Emotion's Heart
+Prerequisites: GM Permission
+Effect: Reroll all dice that result in a roll of 1 when
+making Charm and Intuition Checks.
+Mesprit's Major Gift - Negate Emotion
+Prerequisites: Minor Gift - Emotion's Heart
+3 AP - Standard Action
+Target: Pokémon or Trainer within 8 meters
+Effect: The Target becomes immune to Enraged,
+Confused, and Infatuation Status for the remainder of
+the encounter and are cured of the Status Afflictions
+if they currently have them. However, the Target is
+treated as if their Intimidate, Charm, Intuition and
+Guile Skills were at Pathetic Rank for the next fifteen
+minutes. The target becomes immune to further uses of
+Negate Emotion for 24 hours.
+The Sea Guardians
+Minor Gift - Sailors' Guardian
+Prerequisites: GM Permission
+Effect: Wild Pokémon up to a level of twice your Trainer
+Level will not attack or disrupt a water-borne vessel you
+are traveling on.
+Major Gift - Hydration
+Prerequisites: Minor Gift - Sailors' Guardian
+Static
+Effect: You gain the Hydration Ability.
+Manaphy's Major Gift - Heart Swap
+Prerequisites: Minor Gift - Sailors' Guardian
+Static
+Effect: You learn the Move Heart Swap.
+Shaymin
+Minor Gift - Plant Intuition
+Prerequisites: GM Permission
+Effect: You reroll all dice that result in a roll of 1
+when making Survival Checks related to plants. You
+automatically identify all berries and apricorns on sight.
+Major Gift - Pure Breathing
+Prerequisites: Minor Gift - Plant Intuition
+Static
+Effect: You are immune to the Moves Rage Powder,
+Poison Gas, Poisonpowder, Sleep Powder, Smog,
+Smokescreen, Spore, Stun Spore, and Sweet Scent.
+Major Gift - Sprouter
+Prerequisites: Minor Gift - Plant Intuition
+Static
+Effect: You gain the Sprouter Capability.
+Major Gift - Seed Flare
+Prerequisites: Major Gift - Pure Breathing, Major Gift
+- Sprouter
+Static
+Effect: You learn the Move Seed Flare.
+The Blessed and Damned
+­61­
+The Swords of Justice
+Minor Gift - Spirit of Justice
+Prerequisites: GM Permission
+Effect: You may add your Spirit Modifier instead of your
+Body Modifier when making Combat Skill Checks. You
+get a +2 bonus to Disarming or resisting Disarming.
+Major Gift - Sacred Sword
+Prerequisites: Minor Gift - Spirit of Justice
+Static
+Effect: You learn the Move Sacred Sword
+Major Gift - Courage
+Prerequisites: Minor Gift - Spirit of Justice
+Static
+Effect: You gain the Courage Ability.
+The Kami Trio
+Minor Gift - Cloud Reading
+Prerequisites: GM Permission
+Effect: You get a +3 bonus to Survival Checks to discern
+upcoming weather from observing clouds in the sky.
+Major Gift - Levitate
+Prerequisites: Minor Gift - Cloud Reading
+Static
+Effect: You gain the Levitate Ability.
+Major Gift - Therian Form
+Prerequisites: Minor Gift - Cloud Reading
+Daily - Free Action
+Target: Self
+Effect: Create an extra stat block for yourself,
+redistributing any Stat Points you gained from level ups
+or [+Any Stat] tags as you wish. You may activate this
+Major Gift during an encounter to swap your stats to
+the extra stat block for the rest of the encounter. Therian
+Form may be ended early at any time as a Standard
+Action. Therian Form automatically deactivates if you
+Faint. While Therian Form is active, you take on slight
+Avian, Bestial, or Draconic characteristics depending
+on your patron Legendary.
+Meloetta
+Minor Gift - Dazzling the Stage
+Prerequisites: GM Permission
+Effect: Whenever you use song or dance for Intimidate,
+Guile, or Charm, you may add half of the highest Skill
+Rank you have among these Skills to your Skill Check.
+Major Gift - Soundproof
+Prerequisites: Minor Gift - Center Stage
+Static
+Effect: You gain the Soundproof Ability.
+Major Gift - Relic Song
+Prerequisites: Major Gift - Soundproof
+Static
+Effect: You learn the Move Relic Song.
+Diancie
+Minor Gift - Royal Privilege
+Prerequisites: GM Permission
+Effect: You may wear Shards as a Trainer Accessory,
+and gain a +2 bonus to Skill Checks for the Skill linked
+to the shard's color. Red is linked to Intimidate, Orange
+to Command, Yellow to Charm, Green to Intuition,
+Blue to Guile, and Violet to Focus.
+Major Gift - Magic Bounce
+Prerequisites: Minor Gift - Royal Privilege
+Static
+Effect: You gain the Magic Bounce Ability.
+Major Gift - Diamond Storm
+Prerequisites: Major Gift - Magic Bounce
+Static
+Effect: You learn the Move Diamond Storm.
+The Blessed and Damned
+­62­
+Upper Pantheon Gifts
+Mew
+Minor Gift - Motherly Compassion
+Prerequisites: GM Permission
+Effect: You get a +3 Bonus to all Intuition and Charm
+checks for the purpose of discerning emotions and
+comforting someone.
+Major Gift - Barrier
+Prerequisites: Minor Gift - Motherly Compassion
+Static
+Effect: You learn the Move Barrier.
+Major Gift - Gentle Vibe
+Prerequisites: Minor Gift - Motherly Compassion
+Static
+Effect: You gain the Gentle Vibe Ability.
+Major Gift - Mirage
+Prerequisites: Minor Gift - Motherly Compassion
+Daily/25 - Standard Action
+Target: Area
+Effect: You create a small Illusion, covering a cubic
+area two meters on each side. The Illusion can emulate
+visual and auditory senses only. Seeing through the
+Illusion is a DC 15 Perception Check, with a +5 bonus
+to the check if the Illusion is emulating something very
+familiar to the observer. The Illusion may be sustained
+for up to ten minutes as a Swift Action each round.
+Pact Gift - Origin Tutor
+Prerequisites: All Mew Major Gifts
+Activate Once/10 - Extended Action
+Target: Your Pokémon with at least 3 Tutor Points
+Effect: Your Pokémon loses 3 Tutor Points and may
+make use of any TM or Tutoring effect to learn a
+single Move regardless of what it is normally capable
+of learning. It must still pay any Tutor Point costs for
+this effect. You may only target a Pokémon once with
+Origin Tutor.
+The tower Duo
+Minor Gift - Tower's Rejuvenation
+Prerequisites: GM Permission
+Effect: Resting now allows you to recover 1/10th of
+your maximum HP per half hour instead of 1/16th.
+Major Gift - Tower's Blessing
+Prerequisites: Minor Gift - Tower's Rejuvenation
+1 AP - Free Action
+Trigger: You or your Pokémon use a Move with the
+Blessing Keyword
+Effect: The Move generates one additional use of the
+Blessing.
+Major Gift - Life Force
+Prerequisites: Two Major Gifts from the Tower Duo
+Static
+Effect: You gain the Life Force Ability.
+Ho-oh's Major Gift - Ashes of the Phoenix
+Prerequisites: Minor Gift - Tower's Rejuvenation
+Daily - Standard Action
+Target: Adjacent Pokémon or Trainer
+Effect: Treat the target as if you had used a Revive on it.
+The target regains 25% of its maximum HP.
+Ho-oh's Pact Gift - Sacred Fire
+Prerequisites: All Ho-oh and Shared Tower Duo Major
+Gifts
+Static
+Effect: You learn the Move Sacred Fire.
+Lugia's Major Gift - Storm of the Century
+Prerequisites: Minor Gift - Tower's Rejuvenation
+Daily - Standard Action
+Target: Self
+Effect: At the beginning of your next three turns, push
+all foes within 5 meters of you 1 meter away, and they
+lose 1/10th of their maximum HP.
+Lugia's Pact Gift - Aeroblast
+Prerequisites: All Lugia and Shared Tower Duo Major
+Gifts
+Static
+Effect: You learn the Move Aeroblast.
+The Blessed and Damned
+­63­
+The Weather Trio
+Groudon's Minor Gift - Landmaster
+Prerequisites: GM Permission
+Static
+Effect: You treat Rough Terrain that is rocky or sandy
+or that is created by Groundshaper as Regular Terrain.
+Groudon's Major Gift - Drought
+Prerequisites: Minor Gift - Landmaster
+Static
+Effect: You gain the Drought Ability.
+Groudon's Major Gift - Earthshaker
+Prerequisites: Minor Gift - Landmaster
+Static
+Effect: You gain the Groundshaper Capability.
+Groudon's Major Gift - Magma Spirit
+Prerequisites: Minor Gift - Landmaster
+Daily - Standard Action
+Target: Self
+Effect: For the next three rounds, foes within 6 meters
+of you do not gain the benefits of Sunny Day. Their
+Fire Type Moves do not deal extra damage, Solar Beam
+retains the default charge time, Abilities based on Sunny
+Weather do not activate, and Moves such as Synthesis
+do not gain added benefit. All detrimental effects of
+Sunny Day still apply.
+Groudon's Pact Gift - Eruption
+Prerequisites: All Groudon Major Gifts
+Static
+Effect: You learn the Move Eruption.
+Kyogre's Minor Gift - Seamaster
+Prerequisites: GM Permission
+Static
+Effect: You treat deep water that you aren't fully
+submerged in as Regular Terrain.
+Kyogre's Major Gift - Drizzle
+Prerequisites: Minor Gift - Seamaster
+Static
+Effect: You gain the Drizzle Ability.
+Kyogre's Major Gift - Wavecrasher
+Prerequisites: Minor Gift - Seamaster
+Static
+Effect: You gain the Fountain Capability.
+Kyogre's Major Gift - Aqua Spirit
+Prerequisites: Minor Gift - Seamaster
+Daily - Standard Action
+Target: Self
+Effect: For the next three rounds, foes within 6 meters of
+you do not gain the benefits of Rain Dance. Their Water
+Type Moves do not deal extra damage, Hurricane and
+Thunder retain their usual Accuracy Check, Abilities
+based on Rainy Weather do not activate, and Moves
+such as Weather Ball do not gain added benefit. All
+detrimental effects of Rain Dance still apply.
+Kyogre's Pact Gift - Water Spout
+Prerequisites: All Kyogre Major Gifts
+Static
+Effect: You learn the Move Water Spout.
+Rayquaza's Minor Gift - Clear Skies
+Prerequisites: GM Permission
+Static
+Effect: You learn the Move Defog.
+Rayquaza's Major Gift - Air Lock
+Prerequisites: Minor Gift - Clear Skies
+Static
+Effect: You gain the Air Lock Ability.
+Rayquaza's Major Gift - Air Adept
+Prerequisites: Minor Gift - Clear Skies
+Static
+Effect: You gain the Guster Capability.
+Rayquaza's Major Gift - Sky Spirit
+Prerequisites: Minor Gift - Clear Skies
+Daily - Standard Action
+Target: Self
+Effect: To use Sky Spirit, the current Weather must be
+Clear as a result of Defog or Air Lock. For the next five
+rounds, foes within 10 meters of you have their Sky and
+Levitate Capabilities halved. Allies within 10 meters of
+you add 10 to their Initiative.
+The Blessed and Damned
+­64­
+Rayquaza's Pact Gift - Hyper Beam
+Prerequisites: All Rayquaza Major Gifts
+Static
+Effect: You learn the Move Hyper Beam.
+The Creation Trio
+Major Gift - Realm Portal
+Prerequisites: One Creation Trio Major Gift
+Daily - Extended Action
+Target: Area
+Effect: You open a small portal through your patron's
+realm to any location you have visited within 20 miles.
+The portal lasts for two minutes, during which any
+living thing which voluntarily wishes to enter the portal
+may do so; any conscious trainers or Pokémon forced
+through the portal involuntarily will not be affected by
+the portal. After the two minutes are up or when you
+step through the portal, it collapses.
+Dialga's Minor Gift - Perfect Timing
+Prerequisites: GM Permission
+Static
+Effect: You always intuitively know what time it is and
+can accurately act as a human stopwatch.
+Dialga's Major Gift - Probability Control
+Prerequisites: Perfect Timing
+Static
+Effect: You gain the Probability Control Ability.
+Dialga's Major Gift - Time Stop
+Prerequisites: Major Gift - Realm Portal
+Daily - Swift Action, Interrupt
+Effect: Take an additional Shift Action and Standard
+Action.
+Dialga's Pact Gift - Roar of Time
+Prerequisites: All Dialga and Shared Creation Trio
+Major Gifts
+Static
+Effect: You learn the Move Roar of Time
+Palkia's Minor Gift - Spatial Awareness
+Prerequisites: GM Permission
+Static
+Effect: You intuitively know the size of an object or the
+distance between objects by sight down to the nearest
+centimeter for distances and lengths up to 10 meters.
+Palkia's Major Gift - Nomad
+Prerequisites: Minor Gift - Spatial Awareness
+Static
+Effect: You gain the Transporter Ability. Note that this
+automatically grants you the Move Teleport.
+Palkia's Major Gift - Space Distortion
+Prerequisites: Major Gift - Realm Portal
+Daily - Standard Action
+Target: Pokémon or Trainers
+Effect: Exchange the positions of up to three target
+Pokémon or Trainers within 10 meters.
+Palkia's Pact Gift - Spacial Rend
+Prerequisites: All Palkia and Shared Creation Trio
+Major Gifts
+Static
+Effect: You learn the Move Spacial Rend.
+Giratina's Minor Gift - Death Sense
+Prerequisites: GM Permission
+Static
+Effect: When encountering a corpse, you can always
+tell how many hours ago the Pokémon or Trainer has
+died, for up to a week after their death.
+Giratina's Major Gift - Pressure
+Prerequisites: Minor Gift - Death Sense
+Static
+Effect: You gain the Pressure Ability.
+Giratina's Major Gift - Banish
+Prerequisites: Major Gift - Realm Portal
+Daily - Standard Action
+Target: Pokémon or Trainers
+Effect: Remove a single Target within 8 meters from the
+encounter for 1d2+1 rounds. The Target experiences no
+loss of time. They reappear in the same spot that they
+disappeared from, or in the nearest unoccupied space.
+Giratina's Pact Gift - Shadow Force
+Prerequisites: All Giratina and Shared Creation Trio
+Major Gifts
+Static
+Effect: You learn the Move Shadow Force.
+The Blessed and Damned
+­65­
+The Lunar Duo
+Minor Gift - Dream Mastery
+Prerequisites: GM Permission
+Static
+Effect: You are immune to Hypnosis, Nightmare, and
+Dream Eater.
+Major Gift - Oneiromancy
+Prerequisites: Minor Gift - Dream Mastery
+Static
+Effect: You gain the Dream Reader Capability;
+Major Gift - Dream Augury
+Prerequisites: Minor Gift - Dream Mastery
+2 AP - Extended Action
+Target: Self
+Effect: You fall into a deep sleep and dream a dream
+that portends of things to come. If this Major Gift is
+gained through Cresselia, you learn hints of a favorable
+situation that will arise soon. If this Major Gift is gained
+through Darkrai, you learn hints of a dangerous or
+mournful situation that will arise soon.
+Cresselia's Major Gift - Dreamspinner
+Prerequisites: Major Gift - Oneiromancy, Major Gift -
+Dream Augury
+Static
+Effect: You gain the Dreamspinner Ability.
+Cresselia's Pact Gift - Lunar Dance
+Prerequisites: Major Gift - Dreamspinner
+Static
+Effect: You learn the Move Lunar Dance.
+Darkrai's Major Gift - Bad Dreams
+Prerequisites: Major Gift - Oneiromancy, Major Gift -
+Dream Augury
+Static
+Effect: You gain the Bad Dreams Ability.
+Darkrai's Pact Gift - Dark Void
+Prerequisites: Major Gift - Bad Dreams
+Static
+Effect: You learn the Move Dark Void.
+Heatran
+Minor Gift - Vulcan's Intuition
+Prerequisites: GM Permission
+Static
+Effect: You get a +3 bonus to Perception and Survival
+Checks made in mountainous and volcanic areas.
+Major Gift - Tremorsense
+Prerequisites: Minor Gift - Vulcan's Intuition
+Static
+Effect: You gain the Tremorsense Capability.
+Major Gift - Lava-blooded
+Prerequisites: Minor Gift - Vulcan's Intuition
+Static | Scene - Free Action, Interrupt
+Static Effect: You are immune to the ambient heat of
+volcanic areas. Unless you come into direct contact
+with molten rock, you will not be harmed. You resist
+Fire Type Moves by one step.
+Scene Effect: You may trigger Lava-blooded as an
+interrupt when you are hit by a Fire Type Move. You
+take no damage or other effects from the Move, and you
+make a 1 meter burst. All targets caught in the burst
+lose 1/16th of their maximum HP.
+Major Gift - Magma Armor
+Prerequisites: Minor Gift - Vulcan's Intuition
+Static
+Effect: You gain the Magma Armor Ability.
+Pact Gift - Magma Storm
+Prerequisites: All Heatran Major Gifts
+Static
+Effect: You learn the Move Magma Storm
+Regigigas
+Minor Gift - Hands of the Creator
+Prerequisites: GM Permission
+Static
+Effect: You get a +3 bonus to all Knowledge: Occult or
+Knowledge: Petrology rolls to identify materials that
+would be used in crafting or the purpose of a crafted
+object.
+The Blessed and Damned
+­66­
+Major Gift - March of the Colossus
+Prerequisites: Minor Gift - Hands of the Creator
+2 AP - Standard Action
+Target: Trainer or Pokémon
+Effect: For the next three rounds, the target has their
+Attack and Speed halved. At the end of the third round,
+increase the target's Attack and Speed by two Combat
+Stages each.
+Major Gift - Primal Craftsmanship
+Prerequisites: Minor Gift - Hands of the Creator
+Static
+Effect: You pay 20% less when crafting items.
+Major Gift - Animate
+Prerequisites: Major Gift - Primal Craftsmanship
+Daily - Extended Action
+Target: Materials
+Effect: Create a small golem out of the inanimate
+material of your choice. The material used will
+determine the Type of the golem. Scrap metal may
+create a steel type, lava a fire type, and granite a rock
+type for example. Distribute a number of Stat Points
+to the golem equal to your Trainer Level. The golem
+is small size, weight class 1, and has Overland 4, Jump
+0/0, Power 2, and Sinker. It can make Struggle Attacks
+of its Type. The golem must be verbally commanded by
+you to act. It cannot regain HP and is destroyed upon
+Fainting. At the end of the day or if you Faint, the golem
+crumbles and is destroyed.
+Pact Gift - Crush Grip
+Prerequisites: All Regigigas Major Gifts
+Static
+Effect: You learn the Move Crush Grip
+Victini
+Minor Gift - Chosen of Victory
+Prerequisites: GM Permission
+Static
+Effect: Whenever you spend AP to raise your roll on an
+Accuracy Check, you get +3 bonus instead of +1.
+Major Gift - Searing Blade
+Prerequisites: Minor Gift - Chosen of Victory
+2 AP - Free Action
+Effect: Your next Struggle Attack with an equipped
+weapon deals +2 Damage Steps and deals Fire Type
+damage.
+Major Gift - Blaze Armor
+Prerequisites: Minor Gift - Chosen of Victory
+2 AP - Free Action, Interrupt
+Effect: You take damage from the next Attack that
+hits you as if you were Fire Type. If the Attack was
+made in melee range, your attacker loses 1/8th of their
+maximum HP as a Fire Type effect. Apply weakness
+and resistance. Do not apply stats.
+Major Gift - Victory Star
+Prerequisites: Minor Gift - Chosen of Victory
+Static
+Effect: You gain the Victory Star Ability.
+Pact Gift - V-Create
+Prerequisites: All Victini Major Gifts
+Static
+Effect: You learn the Move V-Create
+The Tao Trio
+Major Gift - Invert Balance
+Prerequisites: One Tao Trio Major Gift
+Daily - Standard Action
+Target: Area
+Effect: The area becomes Inverted for the next 5
+rounds. While Inverted, all Pokémon and Trainers have
+their weaknesses and resistances exchanged. Double
+resistance and steps of resistance or immunity beyond
+that become double weaknesses, normal resistances
+become normal weaknesses, normal weaknesses
+become normal resistances, and double weaknesses
+become double resistance.
+Reshiram's Minor Gift - Hero of Truth
+Prerequisites: GM Permission
+Static
+Effect: You get a +3 bonus on Intuition Checks to
+discern when someone is lying.
+The Blessed and Damned
+­67­
+Reshiram's Major Gift - White Yang
+Prerequisites: Minor Gift - Hero of Truth
+Daily - Standard Action
+Target: Self
+Effect: All allies within 5 meters may choose to increase
+all movement speeds by 2, raise their Attack and Special
+Attack Stats by 1 Combat Stage, and decrease their
+Accuracy by 2 for the next three rounds.
+Reshiram's Major Gift - Turboblaze
+Prerequisites: Major Gift - White Yang
+Static
+Effect: You gain the Turboblaze Ability.
+Reshiram's Pact Gift - Blue Flare
+Prerequisites: All Reshiram and Shared Tao Trio Major
+Gifts
+Static
+Effect: You learn the Move Blue Flare.
+Zekrom's Minor Gift - Hero of Ideals
+Prerequisites: GM Permission
+Static
+Effect: You get a +3 bonus on Intuition Checks to
+discern someone's beliefs and ideals.
+Zekrom's Major Gift - Black Yin
+Prerequisites: Minor Gift - Hero of Ideals
+Daily - Standard Action
+Target: Self
+Effect: All allies within 5 meters may choose to decrease
+their movement speeds by 1 and raise their evasion by 2
+for the next three rounds.
+Zekrom's Major Gift - Teravolt
+Prerequisites: Major Gift - Black Yin
+Static
+Effect: You gain the Teravolt Ability.
+Zekrom's Pact Gift - Bolt Strike
+Prerequisites: All Zekrom and Shared Tao Trio Major
+Gifts
+Static
+Effect: You learn the Move Bolt Strike.
+Kyurem's Minor Gift - Hero of Balance
+Prerequisites: GM Permission
+Static
+Effect: Others get a -3 penalty to Intuition Checks to
+detect your lies or discern your beliefs.
+Kyurem's Major Gift - The Empty Tao
+Prerequisites: Minor Gift - Hero of Balance
+Daily - Standard Action
+Target: Self
+Effect: For the next three rounds, all Pokémon and
+Trainers within 5 meters of you have all Combat Stages
+locked to zero.
+Kyurem's Major Gift - Winter's Kiss
+Prerequisites: Major Gift - The Empty Tao
+Static
+Effect: You gain the Winter's Kiss Ability.
+Kyurem's Pact Gift - Glaciate
+Prerequisites: All Kyurem and Shared Tao Trio Major
+Gifts
+Static
+Effect: You learn the Move Glaciate
+Kyurem's Pact Gift - Freeze Shock
+Prerequisites: All Kyurem and Shared Tao Trio Major
+Gifts, Minor Gift - Hero of Ideals
+Static
+Effect: You learn the Move Freeze Shock.
+Kyurem's Pact Gift - Ice Burn
+Prerequisites: All Kyurem and Shared Tao Trio Major
+Gifts, Minor Gift - Hero of Truth
+Static
+Effect: You learn the Move Ice Burn
+The Mortality Duo
+Major Gift ­ Shared Mortality
+Prerequisites: One Mortality Duo Major Gift
+Daily x3 ­ Standard Action
+Target: An Allied Pokémon or Trainer.
+Effect: Add your remaining Hit Points with those of
+your Target. You may split these Hit Points as you wish
+between you and your Target.
+The Blessed and Damned
+­68­
+Xerneas's Minor Gift ­ Rejuvenating Aura
+Prerequisites: GM Permission
+Static
+Effect: When taking an Extended Rest, you and all
+Trainers and Pokémon in the vicinity are treated as if
+you spent the night at Poke Center, regardless of where
+you are.
+Xerneas's Major Gift ­ Bounty of Life
+Prerequisites: Minor Gift ­ Rejuvenating Aura
+Daily ­ Standard Action
+Target: A Pokémon or Trainer.
+Effect: The Target is cured of all Injuries and Status
+Effects.
+Xerneas's Major Gift ­ Fairy Aura
+Prerequisites: Major Gift- Bounty of Life
+Static
+Effect: You gain the Fairy Aura Ability.
+Xerneas's Pact Gift ­ Geomancy
+Prerequisites: All Xerneas Major Gifts and Shared
+Mortality Duo Gifts
+Static
+Effect: You learn the Move Geomancy.
+Yveltal's Minor Gift ­ Death Dealer
+Prerequisites: GM Permission
+Static
+Effect: Injuries you inflict will not heal at the normal
+rate and require extensive medical treatment, such as
+staying at a Poke Center, to heal. Instead of recovering
+at the normal rate of three Injuries per day while at such
+a facility, they heal at a rate of one injury a day.
+Yveltal's Major Gift ­ Touch of the Flayed One
+Prerequisites: Minor Gift ­ Touch of Death
+Daily x3 ­ Free Action
+Trigger: You inflict Injuries on a Target.
+Effect: You inflict an additional Injury.
+Yveltal's Major Gift ­ Dark Aura
+Prerequisites: Major Gift ­ Touch of the Flayed One
+Static
+Effect: You gain the Dark Aura Ability.
+Yveltal's Pact Gift ­ Oblivion Wing
+Prerequisites: All Yveltal Major Gifts and Shared
+Mortality Duo Gifts
+Static
+Effect: You learn the Move Oblivion Wing.
+Zygarde
+Minor Gift ­ World Serpent's Embrace
+Prerequisites: GM Permission
+Scene ­ Extended Action
+Effect: You enter a trance and discern if any Legendary
+Pokémon are in the vicinity of the Scene, and gain a
+general idea of their location. For example, if one is in
+a cave way underneath you, you learn it is under you,
+but not exactly how to reach it.
+Major Gift ­ He Who Cannot Be Shackled
+Prerequisites: Minor Gift ­ World Serpent's Embrace
+Daily x3 ­ Free Action
+Trigger: You become Trapped, Slowed, Tripped or
+Grappled.
+Effect: You evade the Status Effect or Combat Maneuver.
+Major Gift ­ God Crusher
+Prerequisites: Minor Gift ­ World Serpent's Embrace
+Static
+Effect: You gain the Godslayer Feature. If you already
+possess the Godslayer Feature, you may instead take
+another Feature for which you qualify for instead.
+When using Godslayer, the AC is now 8, and you do
+not suffer from feedback.
+Major Gift ­ Aura Break
+Prerequisites: Minor Gift ­ World Serpent's Embrace
+Static
+Effect: You gain the Aura Break Ability.
+Pact Gift ­ Land's Wrath
+Prerequisites: All of Zygarde's Major Gifts
+Static
+Effect: You learn the Move Land's Wrath.
+The Blessed and Damned
+­69­
+The Outsider Gifts
+Mewtwo, Genesect, Deoxys
+...don't grant gifts. They're aliens and science
+experiments that are extremely powerful, but they are
+not part of the Pantheon, nor do they have any other
+way of granting divine gifts.
+That said, while Mewtwo does not grant divine gifts, a
+Mewtwo's symbiant does have access to the following
+gifts via Touched Edges and Features.
+Minor Gift ­ Twin Souls
+Prerequisites: GM Permission
+Static
+Effect: You and the Mewtwo you are bound to may
+communicate telepathically, no matter the distance
+between you. You are also gifted the Soulbound Edge.
+Major Gift ­ Expanded Horizons
+Prerequisites: Minor Gift ­ Twin Souls
+Static
+Effect: You gain either the Telepath or Telekinetic
+Capability. If you possess both of these from their
+respected Trainer Classes, you instead gain the
+Godslayer Feature.
+Major Gift ­ Mental Suggestion
+Prerequisites: Major Gift ­ Expanded Horizons
+Daily ­ Extended Action
+Effect: Mental Suggestion requires both you and the
+Mewtwo you are bound to be in the same vicinity.
+Make a Focus check as if you were using Telepath.
+On a success, you instill a thought or action into the
+Target's mind as if it were one of their own. They may
+not immediately act on it, and will question it if it is
+too alien from how they would normally act, but the
+thought will persist as long as they are unaware of its
+origin.
+Pact Gift ­ Psystrike
+Prerequisites: Twin Souls, Expanded Horizons, Mental
+Suggestion
+Static
+Effect: You learn the Move Psystrike.
+MissingNo
+MissingNo is a unique case in that there are multiple
+interpretations offered in this book, and one set of
+Gifts would not be able to cover all of them. Some
+interpretations may not offer any Gifts at all, much like
+the other Outsiders don't. For example, if MissingNo
+were simply a literal glitch in the system of reality and
+not even a sentient being, one could hardly expect to
+receive a blessing from it. Some interpretations, such as
+the fallen creator or the network god, would, however,
+and so what will be offered here is a mixture of Gift
+ideas fitting various interpretations of MissingNo that
+can be used as a springboard for your own creations.
+Cosmic Horror
+Minor Gift - Alien Countenance
+Prerequisites: GM Permission
+Static
+Effect: You may add your Mind Modifier instead of
+your Body Modifier to your Intimidate Checks. You get
+a +2 bonus to Intimidate Checks against Pokémon.
+Major Gift - Amorphous
+Prerequisites: Minor Gift - Alien Countenance
+Static
+Effect: You gain the Amorphous Capability.
+Major Gift - Phasing
+Prerequisites: Minor Gift - Alien Countenance
+Static
+Effect: You gain the Phasing Capability.
+Major Gift - Mind Lock
+Prerequisites: Minor Gift - Alien Countenance
+Static
+Effect: You gain the Mind Lock Capability.
+Pact Gift - Hypergeometry
+Prerequisites: All MissingNo Major Gifts
+Static | Scene - Standard Action, Interrupt
+Static Effect: You may always treat the distance between
+you and any other Trainer or Pokémon as one meter
+greater or one meter less as you choose for the purpose
+of calculating range or distance of travel. You may not
+use this to avoid melee attacks by switching between
+The Blessed and Damned
+­70­
+making their distance greater or less - a value is chosen
+when an action is announced and cannot be changed
+afterwards.
+Scene Effect: You may activate this Pact Gift once per
+Scene when hit by a single target attack. The attack
+instead hits a target of your choice in an adjacent square
+to you.
+Fallen Creator
+Minor Gift - Detect Heretic
+Prerequisites: GM Permission
+Static
+Effect: You intuitively sense the presence of those with
+non-MissingNo Gifts around you, though you have
+no way of telling who they might be. The more Gifts
+someone has, the further away you can sense them,
+though you generally cannot sense even the strongest
+of Gift holders at a distance of more than 15 meters
+away from you.
+Major Gift - Knight of the Fallen God
+Prerequisites: Minor Gift - Detect Heretic
+Static
+Effect: You gain the Giftsapper Feature regardless of
+prerequisites, and you are not bound by its requirements
+with respect to Gifts. Giftsapper when gained this way
+has no effect on Gifts granted by MissingNo.
+Major Gift - Corrupt Existence
+Prerequisites: Minor Gift - Detect Heretic
+X AP - Standard Action
+Target: Trainer or Pokémon within 6 meters
+Effect: For each AP spent on Corrupt Existence up to
+a maximum of 3, roll 1d20. The Target becomes one
+step weaker against a Type for each roll as follows: Bug
+on a result of 1; Dark on 2; Dragon on 3; Electric on 4;
+Fighting on 5; Fire on 6; Flying on 7; Ghost on 8; Grass
+on 9; Ground on 10; Ice on 11; Normal on 12; Poison
+on 13; Psychic on 14; Rock on 15; Steel on 16; Water on
+17; and on a result of 18-20, reroll the 1d20. This effect
+lasts until the end of the encounter, even if the target is
+recalled.
+Major Gift - Storm of the Fallen World
+Prerequisites: Minor Gift - Detect Heretic
+Scene - Standard Action
+Target: Area
+Effect: For 5 rounds, the area becomes Bugged. While
+Bugged, all combatants are treated as if they have had
+the Move Heal Block applied to them, all combatants
+become Typeless and all effects deal only Typeless
+damage. At the beginning of each round, all combatants
+lose 1/16th of their maximum Hit Points.
+Pact Gift - Slayer of the False Gods
+Prerequisites: All MissingNo Major Gifts
+Daily - Standard Action
+Target: Legendary Pokémon
+Effect: Dispel one of the target's Legendary Auras for
+the rest of the encounter.
+New God of network security
+Minor Gift - Intuitive Sabotage
+Prerequisites: GM Permission
+Static
+Effect: Whenever you make a Knowledge: Technology
+Check to destroy, sabotage, or otherwise disrupt
+modern electronics, you get a +3 bonus to your roll.
+Major Gift - Glitch Message
+Prerequisites: Minor Gift - Intuitive Sabotage
+2 AP - Standard Action
+Target: Electronic Communication
+Effect: You must use Glitch Message targeting
+one instance of electronic communication you are
+currently aware of in your vicinity, such as an email
+being typed at the computer next to you or a text
+message someone is sending. You may view and edit
+the contents of the message before it gets electronically
+transmitted without the sender being aware of an
+issue. On extended communications such as a phone
+call or video conference, Glitch Message works on one
+minute's worth of communication per activation.
+Major Gift - Dead Zone
+Prerequisites: Minor Gift - Intuitive Sabotage
+Daily/15 - Standard Action
+Target: Area
+Effect: For the next ten minutes, all wireless
+communication within ten meters of you fails to work.
+Radios stop receiving, WiFi shuts down, and cell signals
+fail to reach phones.
+The Blessed and Damned
+­71­
+Major Gift - See the Wired
+Prerequisites: Minor Gift - Intuitive Sabotage
+Daily - Standard Action
+Target: Self
+Effect: For the next 5 minutes you can see networks as a
+visual overlay when you look at people communicating
+electronically. You view this in the form of lines of
+light arcing from devices to the other devices they are
+communicating with.
+Pact Gift - Ghost in the Machine
+Prerequisites: All MissingNo Major Gifts
+Static
+Effect: You gain the Wired capability. Electronics
+you are occupying gradually degrade and begin to
+malfunction over time.
+

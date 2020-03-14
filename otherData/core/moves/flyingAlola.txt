@@ -1,0 +1,15 @@
+Flying Moves:
+Move: Beak Blast
+Type: Flying
+Frequency: Scene x2
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: 6, 1 Target, Priority
+Effect: Beak Blast must be declared at the start of the
+round. If the user is hit by a Melee attack this round,
+their attacker is Burned. At the end of the round, the
+user may shift and attack with Beak Blast.
+Contest Type: Cool
+Contest Effect: Special Attention
+

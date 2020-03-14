@@ -1,0 +1,11 @@
+Feb 2016 Playtest
+14
+Capabilities
+Forme Change: The user is capable of changing formes through a Move, Ability, or other effect. Keep a set of
+Base Stats for each of the user's forme. All Formes must have the same total HP Stat value. If anything (such as an
+Ability, Nature, Vitamin, etc.) alters the user's base stats, all forms are affected in the same way.
+Leaf Crafter:  The user knows how to make useful accessories from mere common leaves, seeds, and other
+mundane plant materials. Once per day as an extended action, the user may craft a Grass or Bug Type Booster or
+Brace. These Held Items last the rest of the day and then degrade.
+Gardener:  Up to three times per day as an Extended Action, the user may apply Mulch to a yielding plant.
+

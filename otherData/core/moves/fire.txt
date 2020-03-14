@@ -1,0 +1,346 @@
+Indices and Reference
+369
+Fire Moves
+Move: Blast Burn
+Type: Fire
+Frequency: Daily x2
+AC: 4
+Damage Base 15: 4d10+20 / 45
+Class: Special
+Range: Close Blast 3, Smite, Exhaust
+Effect: None
+Contest Type: Beauty
+Contest Effect: Seen Nothing Yet
+Move: Blaze Kick
+Type: Fire
+Frequency: EOT
+AC: 4
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, 1 Target
+Effect: Blaze Kick Burns the target on 19+, and is a
+Critical Hit on 18+.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Move: Blue Flare
+Type: Fire
+Frequency: Scene x2
+AC: 5
+Damage Base 13: 4d10+10 / 35
+Class: Special
+Range: 10, 1 Target, Smite
+Effect: Blue Flare Burns the target on 17+.
+Contest Type: Beauty
+Contest Effect: Steady Performance
+Move: Ember
+Type: Fire
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Special
+Range: 4, 1 Target
+Effect: Ember Burns the target on 18+.
+Contest Type: Beauty
+Contest Effect: Steady Performance
+Special: Grants Firestarter
+
+Move: Eruption
+Type: Fire
+Frequency: Daily
+AC: 4
+Damage Base 15: 4d10+20 / 45
+Class: Special
+Range: Burst 1*
+Effect: For each 10% of Hit Points the user is missing,
+Eruption's Damage Base is reduced by 1. Eruption
+creates a 1 meter burst, but also affects an area 10 meters
+tall straight up.
+Contest Type: Beauty
+Contest Effect: Desperation
+Move: Fiery Dance
+Type: Fire
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: 4, 1 Target
+Effect: If Fiery Dance successfully hits a foe, it raises
+the user's Special Attack by 1 Combat Stage on Even-
+Numbered Rolls.
+Contest Type: Cool
+Contest Effect: Desperation
+Move: Fire Blast
+Type: Fire
+Frequency: Scene x2
+AC: 4
+Damage Base 11: 3d10+10 / 27
+Class: Special
+Range: 6, 1 Target, Smite
+Effect: Fire Blast burns the target on 19+.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Indices and Reference
+370
+Move: Fire Fang
+Type: Fire
+Frequency: At-Will
+AC: 3
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target
+Effect: Fire Fang Burns or Flinches on 18-19 during
+Accuracy Check; flip a coin to determine whether the
+foe gets Burned or Flinches. On 20 during Accuracy
+Check, the foe is Burned and Flinches.
+Contest Type: Beauty
+Contest Effect: Steady Performance
+Move: Fire Pledge
+Type: Fire
+Frequency: Scene
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: 6, 1 Target, Pledge
+Effect: If an ally uses Grass Pledge or Water Pledge,
+you may use Fire Pledge as Priority (Advanced)
+immediately after their turn to target the same foe. If
+used in conjunction with Grass Pledge, Fire Hazards
+are created in a Burst 1 around the target. If used in
+conjunction with Water Pledge, a Rainbow is created
+that lasts for 5 rounds. Consult the Pledge keyword for
+additional details.
+Contest Type: Beauty
+Contest Effect: Safe Option
+Move: Fire Punch
+Type: Fire
+Frequency: At-Will
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: Fire Punch Burns the target on 19+ during
+Accuracy Check.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Move: Fire Spin
+Type: Fire
+Frequency: Scene x2
+AC: 4
+Damage Base 4: 1d8+6 / 11
+Class: Special
+Range: 3, 1 Target
+Effect: The target is put in a Vortex.
+Contest Type: Beauty
+Contest Effect: Safe Option
+Special: Grants Firestarter
+Move: Flame Burst
+Type: Fire
+Frequency: At-Will
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: 6, 1 Target
+Effect: Any Trainers or Pokémon cardinally adjacent to
+the target lose 5 Hit Points.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Move: Flame Charge
+Type: Fire
+Frequency: At-Will
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: Raise the user's Speed 1 Combat Stage.
+Contest Type: Tough
+Contest Effect: Excitement
+Move: Flame Wheel
+Type: Fire
+Frequency: At-Will
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: Flame Wheel Burns the target on 19+.
+Contest Type: Beauty
+Contest Effect: Reliable
+Indices and Reference
+371
+Move: Flamethrower
+Type: Fire
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Special
+Range: 4, 1 Target
+Effect: Flamethrower Burns the target on 19+.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Move: Flare Blitz
+Type: Fire
+Frequency: Scene x2
+AC: 2
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: Melee, 1 Target, Dash, Recoil 1/3
+Effect: Flare Blitz Burns the target on 19+.
+Contest Type: Smart
+Contest Effect: Seen Nothing Yet
+Move: Fusion Flare
+Type: Fire
+Frequency: Scene x2
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Special
+Range: 8, 1 Target, Smite
+Effect: If Fusion Bolt was used this round or last round
+by any participant of the encounter, Fusion Flare has its
+Damage Base increased by +3.
+Contest Type: Beauty
+Contest Effect: Seen Nothing Yet
+Move: Heat Crash
+Type: Fire
+Frequency: EOT
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: For each weight class the user is above the target,
+increase Heat Crash's Damage Base by +2.
+Contest Type: Tough
+Contest Effect: Incentives
+Move: Heat Wave
+Type: Fire
+Frequency: Scene x2
+AC: 4
+Damage Base 10: 3d8+10 / 24
+Class: Special
+Range: Close Blast 3, Smite
+Effect: Heat Wave Burns all Legal Targets on 18+.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Move: Incinerate
+Type: Fire
+Frequency: At-Will
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Special
+Range: Line 3
+Effect: If a target is holding a Held Item or Main or Off-
+Hand item, they must either drop it immediately or lose
+a Tick of Hit Points. This may only cause a target to lose
+at most one Tick of Hit Points, no matter how many
+items they were holding.
+Contest Type: Beauty
+Contest Effect: Steady Performance
+Move: Inferno
+Type: Fire
+Frequency: At-Will
+AC: 9
+Damage Base 10: 3d8+10 / 24
+Class: Special
+Range: 6, 1 Target
+Effect: Inferno Burns the target. Inferno ignores the
+target's Evasion if there are no other combatants or
+Rough or Blocking Terrain within 2 meters of the target.
+Contest Type: Beauty
+Contest Effect: Steady Performance
+Move: Lava Plume
+Type: Fire
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: Burst 1
+Effect: Lava Plume burns all targets on 16+.
+Contest Type: Tough
+Contest Effect: Exhausting Act
+Indices and Reference
+372
+Move: Magma Storm
+Type: Fire
+Frequency: Scene
+AC: 6
+Damage Base 10: 3d8+10 / 24
+Class: Special
+Range: 6, 1 Target
+Effect: The target is put in a Vortex; this effect occurs
+even if Magma Storm misses its target.
+Contest Type: Tough
+Contest Effect: Reliable
+Move: Mystical Fire
+Type: Fire
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: 6, 1 Target
+Effect: Mystical Fire lowers the target's Special Attack
+by 1 Combat Stage.
+Contest Type: Beauty
+Contest Effect: Special Attention
+Move: Overheat
+Type: Fire
+Frequency: Scene
+AC: 4
+Damage Base 13: 4d10+10 / 35
+Class: Special
+Range: 8, Ranged Blast 3, Smite
+Effect: Lower the user's Special Attack 2 Combat Stages
+after damage.
+Contest Type: Beauty
+Contest Effect: Seen Nothing Yet
+Move: Sacred Fire
+Type: Fire
+Frequency: EOT
+AC: 3
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: 6, 1 Target
+Effect: Sacred Fire Burns the target on Even-Numbered
+Rolls.
+Contest Type: Beauty
+Contest Effect: Seen Nothing Yet
+Move: Searing Shot
+Type: Fire
+Frequency: EOT
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Special
+Range: Burst 1
+Effect: Searing Shot Burns all targets on 15+.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Move: Sunny Day
+Type: Fire
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Field, Weather
+Effect: The weather becomes Sunny for 5 rounds. While
+Sunny, Fire-Type Attacks gain a +5 bonus to Damage
+Rolls, and Water-Type Attacks suffer a -5 Damage
+penalty.
+Contest Type: Beauty
+Contest Effect: Sabotage
+Move: V-Create
+Type: Fire
+Frequency: Daily
+AC: 5
+Damage Base 18: 6d12+25 / 65
+Class: Physical
+Range: Melee, 1 Target, Smite
+Effect: Lower the user's Defense, Special Defense, and
+Speed by 1 CS each.
+Contest Type: Beauty
+Contest Effect: Seen Nothing Yet
+Move: Will-O-Wisp
+Type: Fire
+Frequency: EOT
+AC: 5
+Class: Status
+Range: 6, 1 Target
+Effect: The target is Burned.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+

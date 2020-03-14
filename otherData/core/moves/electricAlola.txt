@@ -1,0 +1,57 @@
+Electric Moves:
+Move: Magnetic Flux
+Type: Electric
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: Burst 4
+Effect: All targets with the Plus or Minus Abilities
+receive +1 Defense and Special Defense Combat
+Stages.
+Contest Type: Smart
+Contest Effect: Incentives
+Move: Parabolic Charge
+Type: Electric
+Frequency: Scene
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: Cone 2
+Effect: After the targets take damage, the user gains
+Hit Points equal to half of the total damage they dealt
+to all targets.
+Contest Type: Cool
+Contest Effect: Desperation
+Move: Plasma Fists
+Type: Electric
+Frequency: Scene
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Melee, 1 Target, Smite
+Effect: The target's next damaging Normal Type Move
+instead becomes Electric Type.
+Contest Type: Cool
+Contest Effect: Special Attention
+Move: Thunder Wave
+Type: Electric
+Frequency: Scene x2
+AC: 4
+Class: Status
+Range: 6, 1 Target
+Effect: Thunder Wave Paralyzes the target. Targets
+immune to Electric Attacks are immune to Thunder
+Wave's effects.
+Contest Type: Cool
+Contest Effect: Excitement
+Move: Zing Zap
+Type: Electric
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: Zing Zap Flinches the target on 15+.
+Contest Type: Cool
+Contest Effect: Tease
+

@@ -1,0 +1,469 @@
+Trainer Classes
+140
+Researcher
+[Class][Branch]
+Prerequisites: An Education Skill at Novice Rank
+Static
+Effect: Choose two Researcher Fields of Study. You may take Features from those Fields with this instance of
+Researcher. Gain one Feature from a chosen Researcher Field for which you qualify.
+Note: Researcher is broken up into multiple Fields of Study. You may not take Features from a Field of Study
+you haven't chosen with the base Researcher Feature. You may take Researcher any number of times, each time
+choosing two different Fields of Study.
+Researcher Fields of Study
+General Research Field
+Breadth of Knowledge
+Prerequisites: Novice General Education
+Static
+Effect: You gain three Skill Edges for which you qualify.
+These Edges must be used to gain a Skill Edge with an
+Education Skill, or to gain an Edge that has an Education
+Skill as a Prerequisite that you meet.
+Live and Learn
+Prerequisites: Adept General Education
+Daily x3 ­ Free Action
+Trigger: You or your Pokémon miss with an attack, fail
+a Skill Check, or fail a Save Check
+Effect: Add half of your General Education Rank to the
+next roll of the same type that the triggering user makes.
+Instant Analysis
+Prerequisites: Expert General Education
+At-Will ­ Extended Action
+Target: Your Pokémon with at least 2 Tutor Points
+remaining
+Effect: Your Pokémon loses 2 Tutor Points and gains the
+Forewarn Ability.
+Echoes of the Future
+Prerequisite: Master General Education
+Daily x2 ­ Free Action
+Trigger: You or your Pokémon make a roll
+Effect: You may roll twice and keep the best result.
+Trainer Classes
+141
+Apothecary Recipes
+Restorative Science
+Prerequisites: Apothecary
+Cost: $100
+Effect: You create an Antidote, Paralyze Heal,
+Awakening, Burn Heal, Ice Heal, or Potion.
+Super Cures
+Prerequisites: Patch Cure
+Cost: $200
+Effect: You can create Revives and Super Potions.
+Hyper Cures
+Prerequisites: Medical Techniques
+Effect: You can create Full Heals for $300, Hyper
+Potions for $400, and Full Restores for $700.
+Performance Enhancers
+Prerequisites: Medicinal Blend
+Cost: $4900
+Effect: You create a PP Up or Heart Booster. If you have
+a Heart Scale, you may destroy the Heart Scale to create
+a Heart Booster without paying the monetary cost.
+Apothecary Research Field
+Apothecary
+Prerequisites: Novice Medicine Education
+At-Will ­ Extended Action
+Effects: You gain use any Apothecary Recipe for which
+you qualify.
+Patch Cure
+Prerequisites: Apothecary, Adept Medicine Education
+At-Will ­ Extended Action
+Target: A Restorative Item
+Effect: You distill the target, gaining 3 Restorative
+Patches. Restorative Patches have the same effect as the
+items from which they were created, but can only be
+applied as an Extended Action.
+Medical Techniques
+Prerequisites: Patch Cure, Expert Medicine Education
+1 AP ­ Swift Action
+Trigger: You apply a Restorative Item
+Effect: The target gains a Tick of Hit Points, plus an
+additional amount of Hit Points equal to your Medicine
+Education Rank.
+Medicinal Blend
+Prerequisites: Apothecary, Master Medicine Education
+At-Will ­ Extended Action
+Ingredients: Two Restoratives, or a Restorative and an
+X-Item
+Effect: You fuse the two Ingredients, creating an Item
+that has the properties of both. If you choose two
+Restoratives, they cannot be Restoratives with the
+same effect (you could not for example, mix a Potion
+and a Super Potion). If a Restorative Patch is used as
+an Ingredient, the resulting item can only be used as an
+Extended Action.
+Trainer Classes
+142
+Artificer Research Field
+Crystal Artificer
+Prerequisites: Gem Lore
+At-Will ­ Extended Action
+Effects: You may use any Crystal Artificer Recipe for
+which you qualify.
+Crystal Resonance
+Prerequisites: Crystal Artificer, Skill Stunt (Dowsing)
+Static
+Effect: You roll an additional 3d6 when determining
+how many Shards you find when Dowsing.
+Rainbow Light
+Prerequisites: Crystal Artificer, Expert Occult
+Education
+2 AP ­ Standard Action
+Condition: You are wearing a Rainbow Gem
+Effects: You create a Rainbow lasting one full round.
+While this Rainbow persists, the Effect Range of all
+Allies is increased by +3.
+Fistful of Force
+Prerequisites: Crystal Artificer, Master Occult
+Education
+Scene ­ Standard Action
+Condition: You must have a Shard in your Main Hand
+or Off-Hand to use Fistful of Force.
+Effect: You may destroy the Shard to use the Move
+Judgment. Judgment's Type must be one of the Types
+associated with the used Shard. Instead of adding your
+Special Attack when using this attack, you may choose
+to add your Occult Education Rank tripled.
+Artificer Recipes
+Type Booster
+Prerequisites: Crystal Artificer
+Ingredients: x4 Shards of the same Color
+Effects: You create a Type Booster. The Type chosen
+must be one of the Types associated with the color of
+the shards used.
+Type Brace
+Prerequisites: Crystal Artificer
+Ingredients: x4 Shards of the same Color
+Effects: You create a Type Brace. The Type chosen must
+be one of the Types associated with the color of the
+shards used.
+Focus Gem
+Prerequisites: Crystal Resonance
+Ingredients: Any Six Shards.
+Effect: You create a Focus that may crafted to be worn
+as your choice of an Accessory Item, Head Slot Item, or
+Hand or Off-Hand Item.
+Chakra Crystal
+Prerequisites: Crystal Resonance
+Ingredients: Any Six Shards
+Effect: You create a Stat Booster.
+Rainbow Gem
+Prerequisites: Rainbow Light, Expert Occult Education
+Ingredients: Two Shards of each Color.
+Effect: You create a Rainbow Gem that may crafted to
+be worn as your choice of an Accessory Item, Head Slot
+Item, or Hand or Off-Hand Item. This item has the same
+effect as a Focus, except that as an Extended Action, any
+Trainer with Expert Occult Education Rank or higher
+may change which Stat the Rainbow Amulet is attuned
+to.
+Plate Crafter
+Prerequisites: Rainbow Light, Expert Occult Education
+Ingredients: A Type Booster and a Type Brace of the
+same Type.
+Effects: You create a Type Plate matching the Type
+Booster and Brace used.
+Trainer Classes
+143
+Botany Research Field
+Seed Bag
+[Ranked 2]
+Rank 1 Prerequisites: Green Thumb, Adept General
+Education or Adept Survival
+Rank 2 Prerequisites: Master General Education or
+Master Survival
+X Daily ­ Extended Action
+Target: A Willing Pokémon
+Rank 1 Effect: You become adept at harvesting Seeds
+and Spores from Pokémon. You may target a willing
+Grass-Type Pokémon that knows Sleep Powder, Stun
+Spore, or Poison Powder. Add this move to your Move
+list for the remainder of the day. You may not use Seed
+Bag to have multiple instances of the same move in your
+Move list. Seed Bag may be used twice per day per Rank.
+Rank 2 Effect: You may also harvest Cotton Spore,
+Leech Seed, Spore, or Worry Seed.
+Top Tier Berries
+Prerequisites: Green Thumb
+Static
+Effect: You may grow additional Berries and Herbs,
+depending on the higher of your General Education or
+Survival Rank.
+»
+» Novice: You may grow Tier 2 Berries
+»
+» Adept: You may grow Mental Herbs, Power Herbs,
+White Herbs, and Tiny Mushrooms.
+»
+» Expert: You may grow Revival Herbs, Energy Roots,
+Big Mushrooms, and Tier 3 Berries
+»
+» Master: Increase the Soil Quality of all your plants
+by +1.
+Herb Lore
+Prerequisites: Seed Bag Rank 1
+Static
+Effect: You may create Energy Powder, Heal Powder, or
+Poultices from ingredients, as listed below.
+Energy Powder: A Sitrus Berry or Tiny Mushroom
+creates x2 Energy Powders. An Energy Root creates x3
+Energy Powders.
+Heal Powder: A Lum Berry or Big Mushroom creates x2
+Heal Powders. A Revival Herb creates x3 Heal Powders
+Poultice: x1 Energy Powder and x1 Heal Powder create
+x3 Poultices.
+Trainer Classes
+144
+Chemistry Research Field
+Chemist
+Prerequisites: Repel Crafter
+At-Will ­ Extended Action
+Effect: You may craft any Chemistry Recipe for which
+you qualify using your Chemistry Set.
+Chemical Warfare
+Prerequisites: Chemist, Adept Technology Education
+Scene x2 ­ Free Action
+Trigger: You throw a Pester Ball
+Effect: The Pester Ball creates a Blast 2, affecting all
+targets in the area.
+Caustic Chemistry
+Prerequisites: Chemist, Expert Technology Education
+1 AP ­ Swift Action
+Trigger: You hit with a Pester Ball or apply a Repel to a
+Pokémon
+Effect: Make a Technology Education Roll. All targets
+affected by this Feature's trigger lose Hit Points equal to
+your roll. This may only affect a target once per Scene.
+Playing God
+Prerequisites: Chemist, Expert Technology Education
+At-Will ­ Extended Action
+Cost: $3500
+Effect: Choose Castform, Grimer, Koffing, Magnemite,
+Porygon, Solosis, Trubbish, or Voltorb. Using your
+chemistry set, you create an artificial Egg of the Chosen
+Pokémon, that hatches within a day. The resulting
+Pokemon is born at level 5, with the Nature and Ability
+of your choice (Abilities chosen from its species' Basic
+Abilities). Additionally, you may enhance the Pokemon
+in several ways. Choose a number of upgrades below
+equal to your Technology Education Rank.
+»
+» The Pokémon is of an unusual coloration, gaining a
++2d6 Bonus to the Introduction Stage of a Contest
+toward a single Contest Stat.
+»
+» The Pokémon adds a Move from its Egg Move or
+Move Tutor List to its Inheritance List. This may be
+performed up to 3 times.
+»
+» Increase one of the Pokémon's Base Stats by +1. This
+counts as use of a Vitamin. This may be performed
+up to 5 times.
+Chemistry Recipes
+Enhancers
+Prerequisites: Chemist
+Cost: $100
+Effect: You can create any X-Item, Dire Hit, or Guard
+Spec.
+Pester Balls: Disorient
+Prerequisites: Chemist
+Cost: $50
+Effect: You create Pester Balls that can inflict Rage or
+Confusion.
+Pester Balls: Pain
+Prerequisites: Chemical Warfare
+Cost: $50
+Effect: You create Pester Balls that can inflict Burn or
+Poison.
+Pester Balls: Shut Down
+Prerequisites: Caustic Chemistry
+Cost: $50
+Effect: You create Pester Balls that can inflict Paralysis
+or Sleep.
+Trainer Classes
+145
+Climatology Research Field
+Climatology
+Prerequisites: Novice Survival
+Static
+Effect: You gain the Overcoat Ability.
+Climate Control
+Prerequisites: Climatology
+1 AP ­ Free Action
+Trigger: A Move or Ability creates a Weather Effect
+while non-standard Weather is already in effect
+Effect: The triggering Weather Effect does not replace
+the already extant Weather in effect; both exist
+simultaneously on the field. If a new Weather effect is
+placed on the field after the two that are out, both are
+replaced by the third, unless you activate this Feature
+again to replace only one.
+Weather Systems
+Prerequisites: Climatology, Expert Survival
+At-Will ­ Extended Action
+Target: Your Pokemon with at least 2 Tutor Point
+Effect: Your Pokemon loses 2 Tutor Points, and learns
+your choice of Hail, Rain Dance, Sandstorm, or Sunny
+Day. The target must be able to learn the chosen Move
+through Level-Up, TM, or Tutor Moves. If the target
+has the chosen Move in their Level-Up List, Weather
+Systems costs no Tutor Points.
+Extreme Weather
+Prerequisites: Climate Control, Master Survival
+Daily x3 ­ Free Action
+Trigger: You or your Pokémon create a Weather
+Condition
+Effect: The Weather is particularly intense and has
+additional effects.
+»
+» Hail: All Trainers and Pokémon that take Hail
+Damage take a -5 Penalty to all Damage Rolls.
+»
+» Rain: All Trainers and Pokémon that are not Water
+or Grass typed are Slowed.
+»
+» Sandstorm: All Trainers and Pokémon that take
+Sandstorm damage take a -2 Penalty to Accuracy
+Rolls.
+»
+» Sun: Trainers and Pokémon that are not Fire or
+Grass Typed are Suppressed.
+Occultism Research Field
+Witch Hunter
+Prerequisites: Novice Occult Education
+Static
+Effect: You gain the "Psionic Sight" Feature, even if you
+do not meet the prerequisites. If you already had the
+Psionic Sight Feature, you instead gain another Feature
+for which you qualify.
+Psionic Analysis
+Prerequisites: Witch Hunter, Master Occult Education
+Scene ­ Extended Action
+Effect: You are able to analyze Psychic Residue and can
+determine the following information about the Trainer
+or Pokémon that left the residue:
+»
+» Whether they are a Human or a Pokémon
+»
+» Which Psychic-Type Moves they know
+»
+» If they're Human, which of the following Class
+Features they have: Telepath, Telekinetic, Warper
+Mental Resistance
+Prerequisites: Witch Hunter
+Static
+Effect: You gain the Mindlock Capability and 10
+Damage Reduction against Special Psychic, Ghost, and
+Dark-Type damage.
+Immutable Mind
+Prerequisites: Mental Resistance, Expert Occult
+Education
+Scene ­ Free Action
+Trigger: You're hit by a Psychic, Ghost, or Dark-Type
+Move
+Effect: If the triggering Move was a Status-Class Move,
+the Move fails. If the Triggering Move was a Damaging
+Move with a Secondary Effect that triggers on a certain
+roll, you are immune to the secondary effect.
+Trainer Classes
+146
+Paleontology Research Field
+Fossil Restoration
+Prerequisites: Paleontologist, Novice Pokémon
+Education
+At-Will ­ Extended Action
+Target: A Fossil you are reviving
+Effect: The resulting Pokémon is born with 2 fewer
+Tutor Points, and gains its second Basic Ability. If it has
+only has one Basic Ability, it gains one of its Advanced
+Abilities, chosen by the GM. This Feature does not affect
+how the Pokémon continues to gain Abilities.
+Ancient Heritage
+Prerequisites: Fossil Restoration
+At-Will ­ Extended Action
+Target: Your Fossil Pokémon with at least 2 Tutor Points
+remaining
+Effect: The target loses 2 Tutor Points and learns Ancient
+Power. If the target has Ancient Power in its Level-Up
+List, Ancient Heritage costs no Tutor Points. As a static
+effect, whenever your Pokémon use Ancient Power,
+its activated effect occurs on 18+ and you may always
+choose whether it deals Physical or Special Damage,
+using the appropriate attack Stat.
+Genetic Memory
+Prerequisites: Ancient Heritage, Expert Pokémon
+Education
+Daily x2 ­ Extended Action
+Target: Your Fossil Pokémon with at least 2 Tutor Points
+remaining
+Effect: The target loses 2 Tutor Points and learns any
+Move from its Egg Move or Tutor Move List. Genetic
+Memory may target a Pokémon only twice: once with
+a Tutor Move and once with an Egg Move. Egg Moves
+tutored this way do not count against the limit of 3 for
+TM and Tutor Moves.
+Prehistoric Bond
+Prerequisites: Fossil Restoration, Expert Pokémon
+Education
+At-Will ­ Extended Action
+Target: The remains of a Fossil you revived
+Effect: You also produce a Held Item from the remnants
+of the Fossil. The effect of this Held Item is based on
+the highest Base Stat of the individual Pokémon being
+Revived, counting the effects of Nature but no other
+effects that alter Base Stats. If there is a tie, the GM
+decides which Base Stat is used. This Held Item may
+only be used by Pokémon revived from Fossils.
+HP ­ Relic Crown: The holder gains a +2 Bonus to all
+Save Checks.
+Attack ­ Primal Frame: The holder's damaging attacks
+have their Critical Hit Range extended by +1.
+Defense ­ Prehistoric Razors: When a foe hits the
+holder with a damaging Melee Attack, the holder may
+cause them to lose a Tick of Hit Points as a Reaction.
+Special Attack ­ Primal Cloak: The holder's damaging
+attacks have their Effect Range extended by +1.
+Special Defense ­ Prehistoric Aegis: The holder gains
+5 Damage Reduction against Ranged Attacks.
+Speed ­ Relic Sash: The holder gains +2 Evasion against
+Status Moves.
+Trainer Classes
+147
+Pokémon Caretaking Research Field
+Pusher
+Prerequisites: Novice Pokémon Education
+Static
+Effect: Your Pokémon gain the Basic Ranged Attacks,
+Aura Pulse, Enticing Bait, Extended Invisibility, Far
+Reading, Precise Threadings, Seismometer, TK Mastery,
+and Trail Sniffer Poke Edges automatically if they qualify
+for them, without having to invest any Tutor Points.
+This One's Special, I Know It
+Prerequisites: Pusher
+Special ­ Free Action
+Target: A hatching egg.
+Effect: The Pokémon is born with special qualities,
+determined by the GM. This Feature may be activated
+one time per Pokémon Education Rank above
+Untrained.
+Skill Trainer
+Prerequisites: Pusher
+At-Will ­ Free Action
+Trigger: You Train your Pokémon
+Effect: For each of your Pokémon that has been Trained
+during this time, choose a Skill; that Skill becomes
+Pushed until an Extended Rest is taken. Pokémon rolls
++1d6 with Pushed Skills, unless that would cause you to
+roll more than 6d6; if so, that Pokémon rolls with a +3
+Bonus instead. A Pokémon may have only one Pushed
+Skill at a time.
+Re-Balancing
+Prerequisites: Pusher, Master Pokémon Education
+At-Will ­ Extended Action
+Target: A Pokémon with 2 Tutor Points
+Effect: The target loses 2 Tutor Points, and gains one of
+the following: +1 to all Base Stats, +2 to two different
+Base Stats, or +3 to a single Base Stat. The target then
+redistributes their Stat Points. A Pokémon may be
+targeted by Re-Balancing only once.
+

@@ -1,0 +1,230 @@
+Indices and Reference
+385
+Ground Moves
+Move: Bone Club
+Type: Ground
+Frequency: At-Will
+AC: 5
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target
+Effect: Bone Club Flinches the target on 18+.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Bone Rush
+Type: Ground
+Frequency: EOT
+AC: 4
+Damage Base 3: 1d6+5 / 9
+Class: Physical
+Range: Melee, 1 Target, Five Strike
+Effect: None
+Contest Type: Tough
+Contest Effect: Reliable
+Move: Bonemerang
+Type: Ground
+Frequency: EOT
+AC: 3
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: 6, Double Strike
+Effect: None
+Contest Type: Tough
+Contest Effect: Reliable
+Move: Bulldoze
+Type: Ground
+Frequency: EOT
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Burst 1
+Effect: All Legal Targets are lowered 1 Speed Combat
+Stage.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Dig
+Type: Ground
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Burst 1, Set-Up, Full Action, Groundsource
+Set-Up Effect: The user shifts 25 meters underground
+and their turn ends.
+Resolution Effect: The user may shift horizontally
+using their burrow or overland speed, and then shifts
+25 meters straight up. Upon reaching the surface, the
+user attacks with Dig, creating a Burst 1.
+Contest Type: Smart
+Contest Effect: Special Attention
+Special: Grants Burrow +3
+Move: Drill Run
+Type: Ground
+Frequency: At-Will
+AC: 3
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: Drill Run is a Critical Hit on 18+.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Earth Power
+Type: Ground
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Special
+Range: 6, 1 Target, Groundsource
+Effect: Earth Power lowers the Special Defense of all
+Legal Targets 1 Combat Stage on 16+.
+Contest Type: Smart
+Contest Effect: Desperation
+Indices and Reference
+386
+Move: Earthquake
+Type: Ground
+Frequency: Scene
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Burst 3, Groundsource
+Effect: Earthquake can hit targets that are underground,
+including those using the Move Dig.
+Contest Type: Tough
+Contest Effect: Desperation
+Special: Grants Groundshaper
+Move: Fissure
+Type: Ground
+Frequency: Daily
+AC: None
+Class: Status
+Range: 5, 1 Target, Execute, Groundsource
+Effect: Roll 1d100. This roll may not be modified in any
+way. If you roll X or lower, the target Faints. X is equal
+to 30 + The User's Level - The Target's Level.
+Contest Type: Tough
+Contest Effect: Big Show
+Special: Grants Groundshaper
+Move: Land's Wrath
+Type: Ground
+Frequency: Scene x2
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Burst 5, Friendly, Groundsource
+Effect: None.
+Contest Type: Tough
+Contest Effect: Big Show
+Special: Grants Groundshaper
+Move: Magnitude
+Type: Ground
+Frequency: EOT
+Damage Base: See Effect
+Class: Physical
+Range: Burst 2, Groundsource
+Effect: When you use Magnitude, roll 1d6. Magnitude's
+Damage Base is equal to 5+X, where X is the value of
+the d6. Magnitude can hit targets that are underground,
+including those using the Move Dig.
+Contest Type: Tough
+Contest Effect: Desperation
+Special: Grants Groundshaper
+Move: Mud Bomb
+Type: Ground
+Frequency: At-Will
+AC: 4
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: 6, 1 Target
+Effect: The target's Accuracy is lowered by -1 on 16+.
+Contest Type: Smart
+Contest Effect: Desperation
+Move: Mud Shot
+Type: Ground
+Frequency: At-Will
+AC: 3
+Damage Base 6: 2d6+8 / 15
+Class: Special
+Range: 3, 1 Target
+Effect: The target's Speed is lowed by -1 Combat Stage.
+Contest Type: Tough
+Contest Effect: Desperation
+Move: Mud Sport
+Type: Ground
+Frequency: EOT
+AC: None
+Class: Status
+Range: Burst 2
+Effect: All targets in the burst, including the user, gain a
+Coat which grants them 1 Step of Resistance to Electric
+Type Moves. After a target has been hit by a damaging
+Electric Type Move, the coat is removed.
+Contest Type: Cute
+Contest Effect: Sabotage
+Move: Mud-Slap
+Type: Ground
+Frequency: At-Will
+AC: 2
+Damage Base 2: 1d6+3 / 7
+Class: Special
+Range: 3, 1 Target
+Effect: The target's Accuracy is lowered by -1.
+Contest Type: Cute
+Contest Effect: Steady Performance
+Indices and Reference
+387
+Move: Precipice Blades
+Type: Ground
+Frequency: Scene x2
+AC: 5
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: Burst 1, Smite
+Effect: None.
+Contest Type: Cool
+Contest Effect: Desperation
+Move: Rototiller
+Type: Ground
+Frequency: Scene
+AC: None
+Class: Status
+Range: Burst 2
+Effect: All Grass-type Pokémon in the area raise their
+Attack and Special Attack 1 Combat Stage.
+Contest Type: Tough
+Contest Effect: Special Attention
+Move: Sand Tomb
+Type: Ground
+Frequency: Scene x2
+AC: 4
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: 5, 1 Target
+Effect: The target is put in a Vortex.
+Contest Type: Smart
+Contest Effect: Safe Option
+Move: Sand Attack
+Type: Ground
+Frequency: EOT
+AC: 2
+Class: Status
+Range: 2, 1 Target
+Effect: The target is Blinded until the end of their next
+turn.
+Contest Type: Cute
+Contest Effect: Excitement
+Move: Spikes
+Type: Ground
+Frequency: At-Will
+AC: None
+Class: Status
+Range: 6, Hazard
+Effect: Set 8 square meters of Spikes within your range,
+all 8 meters must be adjacent with at least one other
+space of Spikes. Spikes cause terrain to count as Slow
+Terrain, and a grounded foe that runs into the hazards
+will lose a Tick of Hit Points and become Slowed until
+the end of their next turn.
+Contest Type: Smart
+Contest Effect: Sabotage
+

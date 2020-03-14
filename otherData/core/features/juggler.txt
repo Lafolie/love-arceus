@@ -1,0 +1,56 @@
+Trainer Classes
+101
+Juggler
+[Class] [+Speed]
+Prerequisites: Quick Switch, Novice Acrobatics, Novice Guile
+Static
+Effect: Using Quick Switch costs only 1 AP. Whenever you send a Pokémon into an encounter from a Poké Ball,
+they receive a +10 bonus to their Initiative during that round.
+Bounce Shot
+[+Speed]
+Prerequisites: Juggler
+At-Will ­ Free Action
+Trigger: You throw a Poké Ball
+Effect: After hitting its mark or landing, your Poké Ball
+bounces 3 meters in any direction. You may have your
+Poké Ball trigger captures or releases before or after the
+bounce.
+Juggling Show
+[+Speed]
+Prerequisites: Juggler
+Static
+Effect: You may roll an additional Xd6 during the In-
+troduction Stage of a Contest, where X is half of your
+Acrobatics Rank. You may choose any Contest Stat to
+attempt to gain Dice for with this roll.
+Round Trip
+[+Speed]
+Prerequisites: Juggler, Adept Acrobatics or Guile
+1 AP ­ Free Action
+Trigger: Your Pokémon uses a Move.
+Effect: You may immediately switch your Pokémon that
+just performed a Move for another of your Pokémon.
+This effect lets Pokémon with the Trapped condition
+switch out.
+Tag In
+[+Speed]
+Prerequisites: Round Trip, Expert Acrobatics or Guile
+1 AP - Free Action
+Trigger: You recall a Pokémon
+Effect: The next Pokémon you send out is treated as if
+the recalled Pokémon had used Baton Pass on it.
+Emergency Release
+[+Speed]
+Prerequisites: Juggler, Expert Acrobatics or Guile
+2 AP ­ Shift Action, Interrupt
+Effect: You may Release a Pokémon as an Interrupt.
+First Blood
+[+Speed]
+Prerequisites: Tag In, Master Acrobatics or Guile
+Scene ­ Free Action
+Trigger: You release a Pokémon from its Poké Ball
+Effect: If you have a Pokémon turn available this round
+or next, your Pokémon may use a Move as an Interrupt
+as soon as it is sent out. This consumes your Pokémon
+turn for the round (or the following round) as normal.
+

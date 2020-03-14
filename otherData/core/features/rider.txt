@@ -1,0 +1,64 @@
+Trainer Classes
+103
+Rider
+[Class] [+Speed]
+Prerequisites: Mounted Prowess, Agility Training, Novice Acrobatics or Athletics
+Static
+Effect: While you are Mounted on a Pokemon under the effects of Agility Training, the bonuses from Agility
+Training are doubled.
+Ramming Speed
+[+Speed]
+Prerequisites: Rider
+At-Will ­ Extended Action
+Target: Your Pokémon with at least 2 Tutor Points
+Effect: The target loses 2 Tutor Points and gains the Run
+Up Ability.
+Conqueror's March
+[Orders][+Speed]
+Prerequisites: Ramming Speed, Adept Acrobatics or
+Athletics
+At-Will ­ Standard Action
+Target: Your Pokémon with Run Up
+Effect: This round, if being used as a Mount, the target
+may use Dash, Burst, Blast, Cone, or Line range Moves
+with a range of Pass instead of their usual range.
+Ride as One
+[+Speed]
+Prerequisites: Rider
+Static
+Effect: While you are Mounted, you and your Mount
+each use the highest of each other's Speed Evasion. If
+both you and your Mount have the same Speed Evasion,
+you instead each receive a +1 bonus to Speed Evasion.
+Whenever one of you receives Initiative, either of you
+may take your turn. When the next person would
+receive initiative, the person that did not take their turn
+then takes it.
+Lean In
+[+Speed]
+Prerequisites: Ride as One
+Scene x2 ­ Free Action
+Trigger: You and your Mount both take Damage from a
+Burst, Blast, Cone, or Line
+Effect: Both you and your Mount Resist the attack one
+step further.
+Cavalier's Reprisal
+[+Speed]
+Prerequisites: Ride as One, Expert Acrobatics or
+Athletics
+1 AP ­ Free Action
+Trigger: An adjacent foe hits your Mount with an attack
+Effect: You may make a Struggle Attack against the
+triggering foe.
+Overrun
+[+Speed]
+Prerequisites: Conqueror's March, Expert Acrobatics
+or Athletics
+Scene x2 ­ Free Action
+Trigger: Your Mount with Run Up makes a Damage
+Roll for a Dash or Pass Move
+Effect: Your Pokémon adds their Speed Stat in addition
+to their normal attacking Stat to their Damage Roll. The
+target gains Damage Reduction against this attack equal
+to their own Speed Stat.
+

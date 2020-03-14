@@ -1,0 +1,196 @@
+Indices and Reference
+360
+Fairy Moves
+Move: Aromatic Mist
+Type: Fairy
+Frequency: EOT
+AC: None
+Class: Status
+Range: Burst 1
+Effect: All allies in Aromatic Mist's area of effect have
+their Special Defense raised 1 Combat Stage.
+Contest Type: Cute
+Contest Effect: Get Ready!
+Move: Baby-Doll Eyes
+Type: Fairy
+Frequency: EOT
+AC: 2
+Class: Status
+Range: 4, 1 Target, Priority, Social
+Effect: The target's Attack is lowered 1 Combat Stage.
+Contest Type: Cute
+Contest Effect: Excitement
+Move: Charm
+Type: Fairy
+Frequency: EOT
+AC: 2
+Class: Status
+Range: 6, 1 Target, Social
+Effect: Charm lowers the target's Attack 2 Combat
+Stages.
+Contest Type: Cute
+Contest Effect: Excitement
+Move: Crafty Shield
+Type: Fairy
+Frequency: Scene
+AC: None
+Class: Status
+Range: Burst 2, Interrupt, Shield, Trigger
+Effect: If the user or an Ally within 2 meters of Crafty
+Shield's user is hit by a Status Move, you may use Crafty
+Shield as an Interrupt. All targets in Crafty Shield's area-
+of-effect including the user, are instead not hit by the
+triggering Move and do not suffer any of its effects.
+Contest Type: Smart
+Contest Effect: Inversed Appeal
+Move: Dazzling Gleam
+Type: Fairy
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: Cone 2
+Effect: None
+Contest Type: Cute
+Contest Effect: Exhausting Act
+Move: Disarming Voice
+Type: Fairy
+Frequency: At-Will
+AC: None
+Damage Base 4: 1d8+6 / 11
+Class: Special
+Range: Burst 1
+Effect: Disarming Voice cannot miss.
+Contest Type: Cute
+Contest Effect: Exhausting Act
+Move: Draining Kiss
+Type: Fairy
+Frequency: EOT
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Special
+Range: Melee, 1 Target
+Effect: After the target takes damage, the user gains
+Hit Points equal to half of the damage they dealt to the
+target.
+Contest Type: Cute
+Contest Effect: Good Show!
+Move: Fairy Lock
+Type: Fairy
+Frequency: Scene
+AC: None
+Class: Status
+Range: Burst 3, Friendly
+Effect: All legal targets become Trapped and Slowed
+while the user remains in the encounter. This effect ends
+if the user switches or is Fainted.
+Contest Type: Cute
+Contest Effect: Unsettling
+Indices and Reference
+361
+Move: Fairy Wind
+Type: Fairy
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Special
+Range: 6, 1 Target
+Effect: None
+Contest Type: Cute
+Contest Effect: Steady Performance
+Move: Flower Shield
+Type: Fairy
+Frequency: Scene
+AC: None
+Class: Status
+Range: Burst 2
+Effect: All Grass Type Pokémon in Flower Shield's area
+of effect have their Defense raised by +2 Combat Stages.
+Contest Type: Cute
+Contest Effect: Get Ready!
+Move: Geomancy
+Type: Fairy
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self, Set-Up
+Set-Up Effect: The user may not shift this round. The
+user may create as many squares of Rough Terrain as
+it wants within a Burst 3 as plants burst through the
+ground, regardless of the surface material.
+Resolution Effect: The user raises its Special Attack,
+Special Defense, and Speed by 2 Combat Stages each.
+Contest Type: Beauty
+Contest Effect: Catching Up
+Move: Light of Ruin
+Type: Fairy
+Frequency: Scene
+AC: 4
+Damage Base 14: 4d10+15 / 40
+Class: Special
+Range: 8, Ranged Blast 3, Smite, Recoil 1/2
+Effect: None
+Contest Type: Beauty
+Contest Effect: Seen Nothing Yet
+Move: Misty Terrain
+Type: Fairy
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Field
+Effect: The area becomes Misty for 5 turns. While
+Misty, all Pokémon and Trainers standing on the
+ground ignore the first turn of all Status Afflictions,
+and Dragon-type attacks targeting or originating from
+a grounded Pokémon or Trainer take a -10 Penalty to
+Damage Rolls.
+Contest Type: Beauty
+Contest Effect: Get Ready
+Move: Moonblast
+Type: Fairy
+Frequency: EOT
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Special
+Range: 6, 1 Target
+Effect: Moonblast lowers the target's Special Attack by 1
+Combat Stage on 15+.
+Contest Type: Beauty
+Contest Effect: Reflective Appeal
+Move: Moonlight
+Type: Fairy
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Self
+Effect: The user regains Hit Points equal to half of its
+full Hit Point value. If it is Sunny, the user gains 2/3 of
+its full Hit Point value. If it is Rainy, Sand Storming or
+Hailing the user gains 1/4 of their full Hit Point value.
+Contest Type: Beauty
+Contest Effect: Reflective Appeal
+Move: Play Rough
+Type: Fairy
+Frequency: EOT
+AC: 4
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, 1 Target
+Effect: Play Rough lowers the target's Attack 1 Combat
+Stage on 17-20 during Accuracy Check.
+Contest Type: Cute
+Contest Effect: Excitement
+Indices and Reference
+362
+Move: Sweet Kiss
+Type: Fairy
+Frequency: Scene x2
+AC: 6
+Class: Status
+Range: 6, 1 Target, Social
+Effect: The target becomes Confused. On miss, the
+target suffers a -2 penalty to Accuracy Rolls for one full
+round.
+Contest Type: Cute
+Contest Effect: Excitement
+

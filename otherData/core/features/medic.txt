@@ -1,0 +1,99 @@
+Moves........................................................................ 337
+Move Keywords.................................................. 339
+Range Keywords................................................. 343
+Range and Blocking Terrain.............................. 345
+Bug Moves........................................................... 346
+Dark Moves......................................................... 350
+Dragon Moves..................................................... 354
+Electric Moves..................................................... 356
+Fairy Moves......................................................... 360
+Fighting Moves.................................................... 363
+Fire Moves........................................................... 369
+Flying Moves....................................................... 373
+Ghost Moves........................................................ 377
+Grass Moves........................................................ 380
+Ground Moves.................................................... 385
+Ice Moves............................................................. 388
+Normal Moves..................................................... 391
+Poison Moves...................................................... 414
+Psychic Moves..................................................... 418
+Rock Moves......................................................... 426
+Steel Moves.......................................................... 429
+Water Moves........................................................ 432
+Glossary of Terms................................................... 436
+Chapter 11: Running the Game
+Getting Started........................................................ 437
+Campaign Type?................................................. 437
+Constructing a Pokémon League.......................... 438
+Running League Matches.................................. 440
+League Legality................................................... 440
+Alternatives to a Pokémon League....................... 441
+Common Region Locales....................................... 442
+Populating Your World With Pokémon............... 443
+Fun Game Progression....................................... 443
+Sensible Ecosystems........................................... 444
+Pokémon Behavior and Intelligence................ 446
+Pokémon Habitat List............................................. 448
+Handling Player Pokémon Knowledge................ 453
+Campaign Structure................................................ 454
+Creating Compelling Sessions............................... 455
+Pre-Campaign Preparations.............................. 455
+Break In Case of PC Choices............................. 455
+Campaign Prep Examples.................................. 456
+Basic GMing Tasks.................................................. 458
+Character Creation And You............................. 458
+Starter Pokémon ................................................ 458
+Sample Starter Pokémon List............................ 459
+Rewards and Experience.................................... 460
+Calculating Pokémon Experience................ 460
+Significance Multiplier................................... 460
+Regulating Experience................................... 460
+Trainer Levels and Milestones...................... 461
+Calculating Trainer Experience.................... 461
+Money Matters................................................ 462
+Creating Shops.................................................... 463
+Tutors and Other Services............................. 464
+Setting Skill Check Difficulties.............................. 465
+Circumstantial Difficulties................................ 466
+Shiny Pokémon ....................................................... 467
+Examples of Shiny Pokémon............................. 467
+Type Changes........................................................... 468
+Changing Move Type......................................... 468
+Pokémon Type Change...................................... 468
+Fluffing Type Changes........................................ 469
+Example Type Change........................................ 469
+Mega Evolution and End-Game Pokémon.......... 470
+Quickly Building NPCs.......................................... 471
+Encounter Creation Guide..................................... 472
+Setting Up the Encounter.................................. 472
+Basic Encounter Creation Guidelines.............. 473
+Quick-Statting Pokémon................................... 474
+Running Faster Combat..................................... 474
+The Types and Roles of Combat Encounters.. 475
+Spicing Up Encounters....................................... 476
+Use the Environment..................................... 476
+Set Unconventional Victory Conditions..... 477
+Defy Player Expectations.............................. 477
+Building Recurring Rivals and Villains........... 479
+Encounter Creation for Unbalanced Parties... 479
+Teamwork in Battles........................................... 480
+Creating Gym Challenges.................................. 481
+Rewards for Gym Challenges....................... 482
+Sample Gym Challenge...................................... 483
+Nicolette, The Mountain's Maiden............... 483
+Boss Encounters...................................................... 487
+Standard Boss Template................................ 487
+Multi-Part Enemies........................................ 490
+Truly Colossal Foes........................................ 491
+Special Boss Powers ..................................... 491
+Other Assorted Boss Tips.............................. 492
+Common GM Pitfalls............................................. 493
+Optional Rules ........................................................ 496
+Baby Template..................................................... 496
+Ground Attacks + Flying Types........................ 496
+Narrative Frequency........................................... 496
+Limited Combat Stage Moves........................... 496
+Useful Charts
+Character Sheet
+What's Coming Next?
+

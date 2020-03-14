@@ -1,0 +1,331 @@
+Indices and Reference
+432
+Water Moves
+Move: Aqua Jet
+Type: Water
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, 1 Target, Priority
+Effect: None
+Contest Type: Beauty
+Contest Effect: Saving Grace
+Move: Aqua Ring
+Type: Water
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self, Coat
+Effect: Aqua Ring covers the user in a Coat that heals the
+user at the beginning of their turn. The user is healed a
+Tick of Hit Points each turn.
+Contest Type: Beauty
+Contest Effect: Safe Option
+Move: Aqua Tail
+Type: Water
+Frequency: EOT
+AC: 4
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, Pass
+Effect: None
+Contest Type: Cute
+Contest Effect: Steady Performance
+Move: Brine
+Type: Water
+Frequency: Scene x2
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: 6, 1 Target
+Effect: If the target's Hit Points are under 50%, Brine's
+Damage Base is increased to Damage Base 13 (4d10+10
+/ 35).
+Contest Type: Smart
+Contest Effect: Incentives
+Move: Bubble
+Type: Water
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Special
+Range: Burst 1
+Effect: Bubble lowers the target's Speed on 16+.
+Contest Type: Cute
+Contest Effect: Desperation
+Move: Bubble Beam
+Type: Water
+Frequency: At-Will
+AC: 2
+Damage Base 8: 3d6+10 / 21
+Class: Special
+Range: 4, 1 Target
+Effect: Bubble Beam lowers the target's Speed on 18+.
+Contest Type: Beauty
+Contest Effect: Desperation
+Move: Clamp
+Type: Water
+Frequency: Static
+Class: Static
+Effect: The user gains a +1 Bonus to Accuracy Rolls
+made to initiate Grapple Maneuvers, and +2 to Skill
+Checks made to initiate Grapple Maneuvers or gain
+Dominance. Whenever the user gains Dominance in a
+Grapple, the target of the Grapple loses a Tick of Hit
+Points.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Crabhammer
+Type: Water
+Frequency: EOT
+AC: 4
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Melee, 1 Target
+Effect: Crabhammer is a Critical Hit on 18+.
+Contest Type: Tough
+Contest Effect: Exhausting Act
+Indices and Reference
+433
+Move: Dive
+Type: Water
+Frequency: Scene x2
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Burst 1, Set-Up, Full Action
+Set-Up Effect: The user moves underwater and their
+turn ends. The user must be in water at least 10 meters
+deep to use Dive. While underwater, the user may not
+be targeted by Moves.
+Resolution Effect: The user may shift horizontally using
+their underwater speed, and then may shift straight up
+until reaching a target. The user then attacks with Dive,
+creating a Burst 1.
+Contest Type: Beauty
+Contest Effect: Special Attention
+Special: Swim +3
+Move: Hydro Cannon
+Type: Water
+Frequency: Daily x2
+AC: 4
+Damage Base 15: 4d10+20 / 45
+Class: Special
+Range: Line 9, Smite, Exhaust
+Effect: None
+Contest Type: Beauty
+Contest Effect: Seen Nothing Yet
+Move: Hydro Pump
+Type: Water
+Frequency: Scene x2
+AC: 4
+Damage Base 11: 3d10+10 / 27
+Class: Special
+Range: 6, 1 Target, Push
+Effect: The target is pushed away from the user 3 meters.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Move: Muddy Water
+Type: Water
+Frequency: EOT
+AC: 5
+Damage Base 9: 2d10+10 / 21
+Class: Special
+Range: Close Blast 2
+Effect: As a Shift Action, the user may Move to any
+open square in Muddy Water's area of effect without
+provoking any Attacks of Opportunity. On 16+, the
+Accuracy of all targets is lowered by 1.
+Contest Type: Tough
+Contest Effect: Desperation
+Move: Octazooka
+Type: Water
+Frequency: At-Will
+AC: 3
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: 6, 1 Target
+Effect: On an Even-Numbered Roll, the target's
+Accuracy is Lowered by 1.
+Contest Type: Tough
+Contest Effect: Incentives
+Move: Origin Pulse
+Type: Water
+Frequency: Scene x2
+AC: 5
+Damage Base 12: 3d12+10 / 30
+Class: Special
+Range: Close Blast 3, Smite
+Effect: None
+Contest Type: Beauty
+Contest Effect: Desperation
+Move: Rain Dance
+Type: Water
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Field, Weather
+Effect: The weather becomes Rainy for 5 rounds. While
+Rainy, Water-Type Attacks gain a +5 bonus to Damage
+Rolls, and Fire-Type Attacks suffer a -5 Damage penalty.
+Contest Type: Tough
+Contest Effect: Sabotage
+Indices and Reference
+434
+Move: Razor Shell
+Type: Water
+Frequency: EOT
+AC: 3
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: Razor Shell lowers the Target's Defense 1 Combat
+Stage on an Even-Numbered Roll.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Scald
+Type: Water
+Frequency: Scene x2
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: 5, 1 Target
+Effect: Scald Burns the target on 15+.
+Contest Type: Smart
+Contest Effect: Steady Performance
+Move: Soak
+Type: Water
+Frequency: Daily
+AC: 2
+Class: Status
+Range: 5, 1 Target
+Effect: The target gains the Water Type in addition to its
+other Types for 5 turns.
+Contest Type: Beauty
+Contest Effect: Safe Option
+Move: Surf
+Type: Water
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Special
+Range: Line 6
+Effect: As a Shift Action, the user may Move to any
+open square in Surf's area of effect without provoking
+any Attacks of Opportunity.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Move: Water Gun
+Type: Water
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Special
+Range: 4, 1 Target
+Effect: None
+Contest Type: Cute
+Contest Effect: Steady Performance
+Special: Grants Fountain
+Move: Water Pledge
+Type: Water
+Frequency: Scene x2
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: 6, 1 Target, Pledge
+Effect: If an ally uses Fire Pledge or Grass Pledge,
+you may use Water Pledge as Priority (Advanced)
+immediately after their turn to target the same foe. If
+used in conjunction with Fire Pledge, a Rainbow is
+created that lasts for 5 rounds. If used in conjunction
+with Grass Pledge, the target and all foes adjacent to
+the target are slowed and have their Speed reduced
+by 2 Combat Stages. Consult the Pledge keyword for
+additional details.
+Contest Type: Beauty
+Contest Effect: Safe Option
+Move: Water Pulse
+Type: Water
+Frequency: At-Will
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Special
+Range: 8, 1 Target, Aura
+Effect: Water Pulse Confuses the target on 17+.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Indices and Reference
+435
+Move: Water Shuriken
+Type: Water
+Frequency: EOT
+AC: 2
+Damage Base 2: 1d6+3 / 7
+Class: Physical
+Range: 6, 1 Target, Five Strike, Priority
+Effect: None
+Contest Type: Cool
+Contest Effect: Reliable
+Move: Water Sport
+Type: Water
+Frequency: EOT
+AC: None
+Class: Status
+Range: Burst 2, Coat
+Effect: All targets in the burst, including the user, gain
+a Coat which grants them 1 Step of Resistance to Fire
+Type Moves. After a target has been hit by a damaging
+Fire Type Move, the coat is removed.
+Contest Type: Cute
+Contest Effect: Sabotage
+Special: Grants Fountain
+Move: Water Spout
+Type: Water
+Frequency: Daily
+AC: 4
+Damage Base 15: 4d10+20 / 45
+Class: Special
+Range: Burst 1*
+Effect: For each 10% of HP the user is missing, Water
+Spout's Damage Base is reduced by 1. Water Spout
+creates a 1 meter burst, but also affects an area 10 meters
+tall straight up.
+Contest Type: Beauty
+Contest Effect: Seen Nothing Yet
+Move: Waterfall
+Type: Water
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: Waterfall Flinches the target on 17+.
+Contest Type: Tough
+Contest Effect: Steady Performance
+`
+Move: Whirlpool
+Type: Water
+Frequency: Scene x2
+AC: 4
+Damage Base 4: 1d8+6 / 11
+Class: Special
+Range: 3, 1 Target
+Effect: The target is put in a Vortex.
+Contest Type: Beauty
+Contest Effect: Safe Option
+Move: Withdraw
+Type: Water
+Frequency: At-Will
+AC: None
+Class: Status
+Range: Self
+Effect: The user becomes Withdrawn. While Withdrawn,
+the user becomes immune to Critical Hits and gain
+15 Damage Reduction. However, while Withdrawn,
+the user cannot Shift, and may only use self-targeting
+Moves. The user may stop being Withdrawn as a Shift
+Action.
+Contest Type: Cute
+Contest Effect: Sabotage
+

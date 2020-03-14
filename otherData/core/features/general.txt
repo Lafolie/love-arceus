@@ -1,0 +1,63 @@
+Skills, Edges, Feats
+59
+General Features
+These Features are available to all Trainers as long they meet the prerequisites and are not contained as part of a
+Trainer Class. They are separated into several categories, just like Edges are.
+Command Versatility
+Prerequisites: Adept Command, Guile, or Pokémon
+Education
+1 AP ­ Free Action
+Trigger: Your Pokémon takes its turn.
+Effect: Your Pokémon may give up use of a Scene or
+Daily Move to regain use of a Scene or Daily Move
+which it has already used. Your Pokémon may give up
+use of a Daily Move to regain use of a Scene Move, but
+not vice-versa. You may use Command Versatility only
+once per Scene per Pokémon.
+Press
+Prerequisites: Adept Intimidate
+At-Will ­ Standard Action
+Target: Your own Pokémon.
+Effect: You hit your Pokémon, and they lose 1/6th of
+their Max Hit Points and are cured of Sleep. Raise any
+two of their Stats by +1 CS each, and you may add half
+of your Intimidate Rank to any Skill Checks made this
+round to make this Pokémon obey orders. Using Press
+on a Pokémon may make them dislike you.
+Quick Switch
+Prerequisites: Novice Acrobatics or Novice Guile
+2 AP ­ Free Action
+Trigger: Your Pokémon Faints; or an opponent sends
+out a Pokémon
+Effect: You may return and send out a Pokémon as a
+Free Action. You may perform this Feature on your turn
+without a Trigger. Pokémon sent out by Quick Switch
+cannot trigger another trainer's Quick Switch. When
+you swap Pokémon using Quick Switch, you do not lose
+a Pokémon turn.
+Species Savant
+Prerequisites: 3 different individual Pokémon of the
+same evolutionary line.
+Static
+Effect: When you take Species Savant, choose a single
+Evolutionary Family. Your Pokémon of your Chosen
+Evolutionary Family have each of their Base Stats
+increased by +1.
+Tutoring
+Prerequisites: Novice General Education, Special (See
+Effect)
+One Time Use x 3 ­ Extended Action
+Effect: When activating this Feature, select a Move
+known either by yourself or by 3 Pokémon you own.
+This Move is Mastered. As an Extended Action, you
+may have Pokémon spend 2 Tutor Points to learn a
+Move you have Mastered. Pokémon targeted this way
+can only learn Moves that they could learn by Level Up,
+TM, Egg Move, or Move Tutor. You may take Tutoring
+multiple times, each time gaining 3 uses of the Feature.
+Note: To be clear, this Feature lets you choose a total of
+three different Moves you can Tutor. The use limitation
+isn't on how often you can Tutor them; once you have
+Mastered a Move, you can Tutor it At-Will.
+Pokémon Raising and Battling Features
+

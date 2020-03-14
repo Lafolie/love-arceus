@@ -1,0 +1,111 @@
+Trainer Classes
+166
+Provocateur
+[Class] [+Speed]
+Prerequisites: One of Confidence Artist, Intimidating Presence, or Charmer
+Static
+Effect: You learn the Moves Sweet Kiss and Taunt.
+Note: The Provocateur Skills are Charm, Guile, and Intimidation.
+Push Buttons
+[+Speed]
+Prerequisites: Provocateur
+Static
+Effect: Your Social Moves' Frequency is not Expended if
+they miss. You gain the Demoralize Edge, even if you do
+not meet the prerequisites. Its effects for Status Moves
+now trigger on 18+, and Social Moves that activate this
+"Crit" Range cause their targets to lose a tick of Hit
+Points. If you already have Demoralize, you may gain
+another Edge for which you meet the prerequisites.
+Quick Wit
+[+Speed]
+Prerequisites: Provocateur, a Provocateur Skill at Adept
+Rank.
+Scene x3 ­ Swift Action
+Effect: You may make a Manipulate Maneuver or use a
+Social Move you know, Frequency allowing.
+Mixed Messages
+[+Speed]
+Prerequisites: Provocateur, two Provocateur Skills at
+Adept Rank
+Static
+Effect: You learn the Moves Lovely Kiss and Torment.
+Powerful Motivator
+[+Speed]
+Prerequisites: Provocateur, two Provocateur Skills at
+Adept Rank
+Static
+Effect: Baby-Doll Eyes, Confide, Leer, and your
+Provocateur Moves gain additional effects. These effects
+occur whether the Move hits or misses.
+»
+» Baby-Doll Eyes: The target cannot Critically Strike
+for 1 full round.
+»
+» Confide: The target cannot trigger Effect Ranges for
+1 full round.
+»
+» Leer: The target is Slowed for 1 Full Round.
+»
+» Sweet Kiss: The target gains a -3 penalty to Evasion
+for 1 full round.
+»
+» Taunt: The target gains a -3 penalty to Accuracy
+Rolls 1 full round.
+»
+» Torment: The target gains a -10 penalty to Damage
+Rolls against your allies for 1 full round.
+»
+» Lovely Kiss: The target gains a -3 penalty to Save
+Checks for 1 full round.
+Trainer Classes
+167
+Play Them Like a Fiddle
+[+Speed]
+Prerequisites: Powerful Motivator, a Provocateur Skill
+at Expert Rank.
+Scene x3 ­ Swift Action
+Trigger: You hit with Leer, Confide, Baby-Doll Eyes, or
+a Provocateur Move
+Effect: The Move gains additional effects as listed below.
+You may use the effects of each Move only once per
+Scene.
+»
+» Baby-Doll Eyes: The target becomes Infatuated
+with you for the rest of the Scene, and cannot be
+cured of this condition by any means, including
+Taking a Breather. This does not bypass immunity
+to Infatuation.
+»
+» Confide: You choose a Move the target has used this
+Scene. That Move becomes Disabled for the target.
+»
+» Leer: The target's Defense is lowered an additional
+Combat Stage, and their Special Defense is lowered
+by 2 Combat Stages.
+»
+» Sweet Kiss: While the target is Confused, they may
+not perform Disengage Maneuvers, and whenever
+they hit themselves in Confusion, they provoke an
+Attack of Opportunity from all of their adjacent
+foes.
+»
+» Taunt: For 1 full round, the next damaging attack to
+hit the target of Taunt deals +3d8+10 Damage.
+»
+» Torment: The target's Ability is disabled until the
+end of the encounter. If the target has more than one
+Ability, you choose one of them to disable.
+»
+» Lovely Kiss: The target's Evasion is lowered by 2 for
+the rest of the Scene.
+Enchanting Gaze
+[+Speed]
+Prerequisites: Quick Wit, two Provocateur Skills at
+Expert Rank.
+2 AP ­ Standard Action
+Effect: Choose a Manipulate Maneuver effect; apply that
+Effect to all foes in a Cone 2. This ignores Frequency
+Limitations with that Maneuver and automatically
+succeeds against all targets without an opposed roll.
+

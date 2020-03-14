@@ -1,0 +1,502 @@
+Indices and Reference
+363
+Fighting Moves
+Move: Arm Thrust
+Type: Fighting
+Frequency: EOT
+AC: 4
+Damage Base 2: 1d6+3 / 7
+Class: Physical
+Range: Melee, 1 Target, Five Strike
+Effect: None
+Contest Type: Tough
+Contest Effect: Reliable
+Move: Aura Sphere
+Type: Fighting
+Frequency: EOT
+AC: None
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: 8, 1 Target, Aura
+Effect: Aura Sphere cannot miss.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Move: Brick Break
+Type: Fighting
+Frequency: At-Will
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: Light Screen and Reflect may not be activated in
+response to Brick Break.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Bulk Up
+Type: Fighting
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Attack 1 Combat Stage and raise
+the user's Defense 1 Combat Stage.
+Contest Type: Beauty
+Contest Effect: Get Ready!
+Move: Circle Throw
+Type: Fighting
+Frequency: At-Will
+AC: 4
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target, Push
+Effect: The target is Pushed 6 meters minus their Weight
+Class. On 15+, the target is also Tripped.
+Contest Type: Tough
+Contest Effect: Big Show
+Move: Close Combat
+Type: Fighting
+Frequency: Scene x2
+AC: 2
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: The user's Defense and Special Defense are each
+lowered by -1 Combat Stage.
+Contest Type: Smart
+Contest Effect: Seen Nothing Yet
+Move: Counter
+Type: Fighting
+Frequency: Scene x2
+AC: None
+Class: Physical
+Range: Melee, 1 Target, Reaction, Trigger
+Effect: Counter may be used as a Reaction when the
+user is hit by a damaging Physical Attack. Resolve the
+Triggering Attack, with Counter's user resisting the
+attack one step further. After the attack is resolved, if
+Counter's user was not Fainted, the triggering foe then
+loses Hit Points equal to twice the amount of Hit Points
+lost by the user from the triggering attack. Note that
+Counter is Physical, and while it cannot miss, it cannot
+hit targets immune to Fighting-Type Moves.
+Contest Type: Tough
+Contest Effect: Double Time
+Indices and Reference
+364
+Move: Cross Chop
+Type: Fighting
+Frequency: Scene x2
+AC: 4
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Melee, 1 Target
+Effect: Cross Chop is a Critical Hit on 16+.
+Contest Type: Cool
+Contest Effect: Desperation
+Move: Detect
+Type: Fighting
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self, Interrupt, Shield, Trigger
+Effect: If the user is hit by a Move, the user may use
+Detect. The user is instead not hit by the Move. You do
+not take any damage nor are you affected by any of the
+Move's effects.
+Contest Type: Cool
+Contest Effect: Inversed Appeal
+Move: Double Kick
+Type: Fighting
+Frequency: At-Will
+AC: 3
+Damage Base 3: 1d6+5 / 9
+Class: Physical
+Range: Melee, 1 Target, Double Strike
+Effect: None
+Contest Type: Cool
+Contest Effect: Reliable
+Move: Drain Punch
+Type: Fighting
+Frequency: Scene x2
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target, Aura
+Effect: After the target takes damage, the user gains HP
+equal to half of the damage they dealt to the target.
+Contest Type: Beauty
+Contest Effect: Good Show!
+Move: Dynamic Punch
+Type: Fighting
+Frequency: At-Will
+AC: 9
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Melee, 1 Target
+Effect: Dynamic Punch Confuses the target. Dynamic
+Punch ignores the target's Evasion if they are Flanked.
+Contest Type: Cool
+Contest Effect: Desperation
+Move: Final Gambit
+Type: Fighting
+Frequency: Scene
+AC: 2
+Class: Special
+Range: Melee, 1 Target
+Effect: Final Gambit lowers the user to 0 Hit Points and
+causes them to Faint. Final Gambit then deals 1 point of
+damage to the target for every Hit Point lost by the user.
+Final Gambit does not cause items to activate.
+Contest Type: Tough
+Contest Effect: Big Show
+Move: Flying Press
+Type: Fighting
+Frequency: EOT
+AC: 3
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, Dash, 1 Target
+Effect: Flying Press may deal Flying Type damage if the
+user wishes.
+Contest Type: Tough
+Contest Effect: Big Show
+Note: If Flying Press is Move Sync'd, it only changes the
+Fighting Type portion of the Move. You can still only
+choose between that Type and Flying Type; you cannot
+shift Flying Press to change the Flying part to another
+Type.
+Indices and Reference
+365
+Move: Focus Blast
+Type: Fighting
+Frequency: Scene x2
+AC: 7
+Damage Base 12: 3d12+10 / 30
+Class: Special
+Range: 6, 1 Target, Smite, Aura
+Effect: Focus Blast lowers the target's Special Defense 1
+Combat Stage on 18+.
+Contest Type: Cool
+Contest Effect: Exhausting Act
+Move: Focus Punch
+Type: Fighting
+Frequency: Scene x2
+AC: 2
+Damage Base 15: 4d10+20 / 45
+Class: Physical
+Range: Melee, 1 Target, Priority (Limited), Aura
+Effect: Use of Focus Punch must be declared as a
+Priority (Limited) action at the beginning of the round.
+Nothing happens at this time. At the end of the round,
+if the target hasn't been hit by an attack dealing damage
+equal to at least 25% of the user's Maximum Hit Points,
+the user may Shift and use Focus Punch. Focus Punch's
+Frequency is not expended if it is negated by an attack.
+Contest Type: Tough
+Contest Effect: Special Attention
+Move: Force Palm
+Type: Fighting
+Frequency: At-Will
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target, Aura
+Effect: Force Palm Paralyzes the target on 18+.
+Contest Type: Cool
+Contest Effect: Desperation
+Move: Hammer Arm
+Type: Fighting
+Frequency: EOT
+AC: 3
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Melee, 1 Target
+Effect: The user lowers their Speed 1 Combat Stage.
+Contest Type: Cool
+Contest Effect: Desperation
+Move: High Jump Kick
+Type: Fighting
+Frequency: EOT
+AC: 3
+Damage Base 13: 4d10+10 / 35
+Class: Physical
+Range: Melee, Dash, 1 Target
+Effect: If High Jump Kick misses, the user loses Hit
+Points equal to 1/4th of their Max Hit Points. A failure
+to hit due to a Move with the Shield keyword does not
+count as a miss. This Move cannot be used if Gravity is
+in effect.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Jump Kick
+Type: Fighting
+Frequency: At-Will
+AC: 3
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Melee, Dash, 1 Target
+Effect: If Jump Kick misses, the user loses Hit Points
+equal to 1/4th of their Max Hit Points. A failure to hit
+due to a Move with the Shield keyword does not count
+as a miss. This Move cannot be used if Gravity is in
+effect.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Karate Chop
+Type: Fighting
+Frequency: At-Will
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: Melee, 1 Target
+Effect: Karate Chop is a Critical Hit on 17+.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Indices and Reference
+366
+Move: Low Kick
+Type: Fighting
+Frequency: EOT
+AC: 2
+Damage Base: See Effect
+Class: Physical
+Range: Melee, 1 Target, Weight Class
+Effect: Low Kick's Damage Base is equal to twice the
+target's Weight Class.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Low Sweep
+Type: Fighting
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target
+Effect: Lowers the target's Speed 1 Combat Stage.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Mach Punch
+Type: Fighting
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, 1 Target, Priority
+Effect: None
+Contest Type: Cool
+Contest Effect: Saving Grace
+Move: Mat Block
+Type: Fighting
+Frequency: Scene
+AC: None
+Range: Self, Interrupt, Shield, Trigger
+Effect: If the user or an adjacent ally is hit by a damaging
+attack, the user may use Mat Block. The attack instead
+does not hit any targets, and it deals no damage and no
+has effects. You may only use Mat Block during the first
+round of an encounter.
+Contest Type: Tough
+Contest Effect: Reflective Appeal
+Move: Power-Up Punch
+Type: Fighting
+Frequency: EOT
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, 1 Target
+Effect: If Power-Up Punch successfully hits a target, the
+user's Attack is raised by +1 Combat Stage
+Contest Type: Tough
+Contest Effect: Catching Up
+Move: Quick Guard
+Type: Fighting
+Frequency: Scene
+AC: None
+Class: Status
+Range: Melee, Interrupt, Shield, Trigger
+Effect: If the user or an adjacent ally is targeted by a
+Priority or Interrupt Attack, Quick Guard may be
+declared as an Interrupt, causing the triggering attack
+to have no effect.
+Contest Type: Cool
+Contest Effect: Inversed Appeal
+Move: Revenge
+Type: Fighting
+Frequency: EOT
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target, Priority (Limited)
+Effect: When declaring Revenge, the user does nothing
+and may not Shift. At the end of the round, the user
+may shift and use Revenge. If the target has damaged
+the user this round, Revenge has a Damage Base of 12
+(3d12+10 / 30).
+Contest Type: Tough
+Contest Effect: Double Time
+Move: Reversal
+Type: Fighting
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target
+Effect: For each Injury the user has, Reversal's Damage
+Base is increased by +1.
+Contest Type: Cool
+Contest Effect: Double Time
+Indices and Reference
+367
+Move: Rock Smash
+Type: Fighting
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, 1 Target
+Effect: Rock Smash lowers the target's Defense 1 Combat
+Stage on 17+.
+Contest Type: Tough
+Contest Effect: Desperation
+Move: Rolling Kick
+Type: Fighting
+Frequency: At-Will
+AC: 4
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target
+Effect: Rolling Kick Flinches the target on 15+.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Sacred Sword
+Type: Fighting
+Frequency: EOT
+AC: None
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: Sacred Sword cannot miss.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Secret Sword
+Type: Fighting
+Frequency: At-Will
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: Melee, 1 Target
+Effect: When calculating damage, the target subtracts
+their Defense from Secret Sword's damage instead of
+their Special Defense. Secret Sword is still otherwise
+Special ( Special Evasion is used to avoid it, Mirror Coat
+can reflect it, etc. ).
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Seismic Toss
+Type: Fighting
+Frequency: Scene x2
+AC: 2
+Class: Physical
+Range: Melee, 1 Target
+Effect: The target loses Hit Points equal to the level of
+Seismic Toss' user.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Sky Uppercut
+Type: Fighting
+Frequency: At-Will
+AC: 4
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, 1 Target
+Effect: Sky Uppercut may be used as an Interrupt when
+against a target initiating Bounce, Fly, or Sky Drop to
+allow the user to Shift and use Sky Uppercut. If Sky
+Uppercut successfully hits its target, the triggering
+Move fails (though the target may take their next turn
+normally).
+Contest Type: Cool
+Contest Effect: Exhausting Act
+Move: Storm Throw
+Type: Fighting
+Frequency: EOT
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target
+Effect: If Storm Throw hits, it is a Critical Hit.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Submission
+Type: Fighting
+Frequency: At-Will
+AC: 6
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target, Recoil 1/3
+Effect: On an accuracy roll of 15+, the target is Tripped.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Indices and Reference
+368
+Move: Superpower
+Type: Fighting
+Frequency: Scene x2
+AC: 2
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: Superpower lowers the user's Attack and Defense
+by 1 Combat Stage each.
+Contest Type: Tough
+Contest Effect: Desperation
+Move: Triple Kick
+Type: Fighting
+Frequency: At-Will
+AC: 3
+Damage Base X: See Effect
+Class: Physical
+Range: Melee, 1 Target
+Effect: Make three attacks with Triple Kick. If you hit
+once, Triple Kick has a DB of 1. If you hit two times,
+Triple Kick has a DB of 3. If you hit three times, Triple
+Kick has a DB of 6.
+Contest Type: Cool
+Contest Effect: Reliable
+Move: Vacuum Wave
+Type: Fighting
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Special
+Range: 4, 1 Target, Priority, Aura
+Effect: None
+Contest Type: Smart
+Contest Effect: Saving Grace
+Move: Vital Throw
+Type: Fighting
+Frequency: EOT
+AC: None
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target, Push, Reaction
+Effect: If the user is targeted by a Melee attack and has
+not yet taken a turn this round, the user may declare
+Vital Throw. After the triggering attack is resolved, the
+user may use Vital Throw against the triggering foe as a
+Reaction. Vital Throw cannot miss.
+Contest Type: Cool
+Contest Effect: Desperation
+Move: Wake-Up Slap
+Type: Fighting
+Frequency: At-Will
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: Melee, 1 Target
+Effect: If the target is Asleep, Wake-Up Slap has a
+Damage Base of 10 (3d8+10 / 24) instead, and cures the
+target of Sleep.
+Contest Type: Smart
+Contest Effect: Inversed Appeal
+

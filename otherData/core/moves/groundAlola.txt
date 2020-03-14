@@ -1,0 +1,66 @@
+Ground Moves:
+Move: High Horsepower
+Type: Ground
+Frequency: Scene x2
+AC: 3
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Melee, 1 Target
+Effect: High Horsepower may be used as a Free Action
+at the end of a Sprint Maneuver taken as a Standard
+Action, as long as the user Shifted at least 3 meters in
+a straight line towards the target. When used this
+way, High Horsepower gains Smite.
+Contest Type: Tough
+Contest Effect: Big Show
+Move: Shore Up
+Type: Ground
+Frequency: Daily x2
+Class: Status
+Range: Self
+Effect: The user regains Hit Points equal to half of its
+full Hit Point value. If it is Sand Storming, the user
+gains 2/3 of its full Hit Point value instead. If it is
+Sunny, Rainy or Hailing the user gains 1/4 of their full
+Hit Point value instead.
+Contest Type: Tough
+Contest Effect: Reflective Appeal
+Move: Stomping Tantrum
+Type: Ground
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: If the user's last attack failed or missed,
+Stomping Tantrum is DB 15 (4d10+10 / 45) instead.
+Contest Type: Tough
+Contest Effect: Unsettling
+Move: Thousand Arrows
+Type: Ground
+Frequency: Scene
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: 6, 1 Target
+Effect: When calculating Weakness and Resistance for
+Thousand Arrows, Flying-Typed targets calculate
+damage as if Flying was neutral to Ground. Thousand
+Arrows ignores the Levitate ability. The target is
+knocked down to ground level, and loses all Sky or
+Levitate Speeds for 3 turns. During this time, they may
+be hit by Ground-Type Moves even if normally
+immune.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Thousand Waves
+Type: Ground
+Frequency: Scene
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Burst 1, Groundsource
+Effect: Legal Targets are Trapped for 2 rounds.
+Contest Type: Tough
+Contest Effect: Tease
+

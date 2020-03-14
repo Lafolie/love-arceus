@@ -1,0 +1,2012 @@
+Indices and Reference
+391
+Normal Moves
+Move: Acupressure
+Type: Normal
+Frequency: EOT
+AC: 2
+Class: Status
+Range: Melee, 1 Target or Self
+Effect: Roll 1d6. On a result of 1, raise the target's Attack
+2 Combat Stages. On a result of 2, raise the target's
+Defense 2 Combat Stages. On a result of 3, raise the
+target's Special Attack 2 Combat Stages. On a result of 4,
+raise the target's Special Defense 2 Combat Stages. On a
+result of 5, raise the target's Speed 2 Combat Stages. On
+a result of 6, raise the target's Accuracy by +2.
+Contest Type: Cool
+Contest Effect: Get Ready!
+Move: After You
+Type: Normal
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: 6, 1 Target
+Effect: After You is a Swift Action. The target takes their
+turn for the round immediately after the user finishes
+their turn, ignoring Initiative. After You may only affect
+a target that has not yet acted that round and can only
+affect willing targets.
+Contest Type: Smart
+Contest Effect: Desperation
+Move: Assist
+Type: Normal
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: Self
+Effect: Randomly select another Pokémon on the user's
+roster and then randomly select a Move that Pokémon
+knows. Assist's user uses that Move immediately.
+Contest Type: Cute
+Contest Effect: Tease
+Move: Attract
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Class: Status
+Range: 3, 1 Target, Social
+Effect: Attract Infatuates the target if its gender is the
+opposite of the user's. Attract fails when used by or
+against Genderless targets.
+Contest Type: Cute
+Contest Effect: Excitement
+Move: Barrage
+Type: Normal
+Frequency: At-Will
+AC: 4
+Damage Base 2: 1d6+3 / 7
+Class: Physical
+Range: 6, 1 Target, Five Strike
+Effect: None
+Contest Type: Tough
+Contest Effect: Reliable
+Move: Baton Pass
+Type: Normal
+Frequency: At-Will
+AC: None
+Class: Status
+Range: Self
+Effect: The user is replaced with another Pokémon
+from their trainer's roster. All Combat Stage, Coats, and
+[Stratagems] on Baton Pass' user are transferred to the
+replacement. Baton Pass may be used to switch even if
+the user is Trapped.
+Contest Type: Cute
+Contest Effect: Inversed Appeal
+Move: Belly Drum
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self
+Effect: The user gains +6 Attack Combat Stages, and
+loses Hit Points equal to ½ of their Max Hit Points.
+Contest Type: Cute
+Contest Effect: Get Ready!
+Indices and Reference
+392
+Move: Bestow
+Type: Normal
+Frequency: At-Will
+AC: --
+Class: Status
+Range: Melee, 1 Target
+Effect: The user gives its held item to the target, unless
+the target is already holding an item. Using Bestow is a
+Swift Action.
+Contest Type: Cute
+Contest Effect: Attention Grabber
+Move: Bide
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Physical
+Range: Burst 1, Friendly
+Effect: The user may use Bide as a Reaction Move
+upon being Hit by a Damaging Move. During their
+next available turn, the user may Shift and then use
+Bide, causing all Adjacent foes to lose X HP, where X
+is the amount of Damage taken since declaring use of
+Bide (Loss of life through effects such as Poison is not
+`Damage').
+Contest Type: Tough
+Contest Effect: Double Time
+Move: Bind
+Type: Normal
+Frequency: Static
+Class: Static
+Effect: The user gains a +1 Bonus to Accuracy Rolls
+made to initiate Grapple Maneuvers, and +2 to Skill
+Checks made to initiate Grapple Maneuvers or gain
+Dominance. Whenever the user gains Dominance in a
+Grapple, the target of the Grapple loses a Tick of Hit
+Points.
+Contest Type: Tough
+Contest Effect: Safe Option
+Move: Block
+Type: Normal
+Frequency: At-Will
+AC: 2
+Class: Status
+Range: Melee, 1 Target
+Effect: The target is Stuck and Trapped until the
+beginning of your next turn.
+Contest Type: Cute
+Contest Effect: Sabotage
+Move: Body Slam
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, 1 Target
+Effect: Body Slam Paralyzes the target on 15+.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Boomburst
+Type: Normal
+Frequency: Scene
+AC: 2
+Damage Base 14: 4d10+15 / 40
+Class: Special
+Range: Burst 1, Sonic
+Effect: None
+Contest Type: Cool
+Contest Effect: Seen Nothing Yet
+Move: Camouflage
+Type: Normal
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: The user changes their Type to match the field.
+Forests and grassy areas change the user into Grass-
+Type. Watery areas change the user into Water-Type.
+Caves and Mountains could change the user into Rock-
+Type or Ground-Type. An icy terrain would turn the
+user into Ice-Type. A building may change the user into
+Steel-Type or Normal-Type. Weather affects what Type
+the user becomes. Use common sense, if you are having
+difficult determining what type the user should become,
+consult the GM.
+Contest Type: Smart
+Contest Effect: Sabotage
+Special: Grants Blender
+Indices and Reference
+393
+Move: Captivate
+Type: Normal
+Frequency: Scene
+AC: 2
+Class: Status
+Range: Cone 2, Friendly, Social
+Effect: Captivate lowers the target's Special Attack 2
+Combat Stages. Captivate may not affect something
+that is the same gender as the user or something that is
+genderless.
+Contest Type: Beauty
+Contest Effect: Excitement
+Move: Chip Away
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target
+Effect: Ignore any Armor, Damage Reduction, or
+changes in the target's Defense or Special Defense (such
+as from Combat Stages) when calculating damage.
+Contest Type: Tough
+Contest Effect: Reliable
+Move: Comet Punch
+Type: Normal
+Frequency: At-Will
+AC: 4
+Damage Base 2: 1d6+3 / 7
+Class: Physical
+Range: Melee, 1 Target, Five Strike
+Effect: None
+Contest Type: Tough
+Contest Effect: Reliable
+Move: Confide
+Type: Normal
+Frequency: At-Will
+AC: 2
+Class: Status
+Range: 4, 1 Target, Social
+Effect: The target's Special Attack is lowered 1 Combat
+Stage.
+Contest Type: Cute
+Contest Effect: Excitement
+Move: Constrict
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base 1: 1d6+1 / 4
+Class: Physical
+Range: Melee, 1 Target
+Effect: Constrict lowers the target's Speed 1 Combat
+Stage. Constrict may be used as a Swift Action against
+targets the user is Grappling, and automatically hits
+when performed this way.
+Contest Type: Tough
+Contest Effect: Safe Option
+Move: Conversion
+Type: Normal
+Frequency: At-Will
+AC: None
+Class: Status
+Range: Self
+Effect: The user becomes the elemental Type of their
+choice as long as they have a Move that is the same
+elemental Type until the end of the encounter. Replace
+all other Types.
+Contest Type: Beauty
+Contest Effect: Catching Up
+Move: Conversion2
+Type: Normal
+Frequency: At-Will
+AC: None
+Class: Status
+Range: Self
+Effect: The user becomes the elemental Type of their
+choice as long as the Type resists the elemental Type of
+the Move it last took damage from until the end of the
+encounter. Replace all other Types.
+Contest Type: Beauty
+Contest Effect: Catching Up
+Move: Copycat
+Type: Normal
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: 4, 1 Target
+Effect: Use the Move the target has used on their last
+turn. You may choose new targets for the Move. Copycat
+cannot miss.
+Contest Type: Cool
+Contest Effect: Attention Grabber
+Indices and Reference
+394
+Move: Covet
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target
+Effect: Covet takes the target's Held Item or Accessory
+Slot Item and attaches it to Covet's user, if the user is not
+holding anything.
+Contest Type: Cute
+Contest Effect: Attention Grabber
+Move: Crush Claw
+Type: Normal
+Frequency: EOT
+AC: 3
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: Crush Claw lowers the target's Defense 1 Combat
+Stage on Even-Numbered Rolls.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Crush Grip
+Type: Normal
+Frequency: Scene
+AC: 2
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: Melee, 1 Target
+Effect: For every 10% the target is below their full Hit
+Points, Crush Grip's Damage Base is reduced by 1.
+Contest Type: Tough
+Contest Effect: Double Time
+Move: Cut
+Type: Normal
+Frequency: At-Will
+AC: 3
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: Melee, Pass
+Effect: Cut ignores up to 5 Damage Reduction (Defenses
+are not Damage Reduction).
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Defense Curl
+Type: Normal
+Frequency: At-Will
+AC: None
+Class: Status
+Range: Self
+Effect: The user becomes Curled Up. While Curled Up,
+the user becomes immune to Critical Hits and gains 10
+Damage Reduction. However, while Curled Up, the user
+is Slowed and their Accuracy is lowered by -4. The user
+may stop being Curled Up as a Swift Action. If the user
+has Rollout or Ice Ball in their Move List, they do not
+become Slowed while Curled Up. Furthermore, when
+using the Moves Rollout or Ice Ball while Curled Up,
+the user gains a +10 bonus to the damage rolls of those
+Moves and does not suffer Accuracy Penalties from
+being Curled Up.
+Contest Type: Cute
+Contest Effect: Sabotage
+Move: Disable
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: 1 Target, Trigger
+Effect: Disable may be used as a Free Action that does
+not take up a Command whenever the user is hit by a
+Move. That Move becomes Disabled for the attacker.
+Contest Type: Smart
+Contest Effect: Excitement
+Move: Dizzy Punch
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target
+Effect: Dizzy Punch Confuses the target on 17+
+Contest Type: Cool
+Contest Effect: Inversed Appeal
+Indices and Reference
+395
+Move: Double Hit
+Type: Normal
+Frequency: EOT
+AC: 3
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, 1 Target, Double Strike
+Effect: None
+Contest Type: Smart
+Contest Effect: Reliable
+Move: Double Team
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self, Illusion, Coat
+Effect: The user gains 3 activations of Double Team.
+The user may either activate Double Team when being
+targeted by an attack to increase their Evasion by +2
+against that attack; or when making an attack to increase
+their Accuracy by +2 for that attack.
+Contest Type: Cool
+Contest Effect: Reliable
+Move: Double-Edge
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: Melee, 1 Target, Dash, Recoil 1/3
+Effect: None
+Contest Type: Tough
+Contest Effect: Big Show
+Move: Double Slap
+Type: Normal
+Frequency: At-Will
+AC: 4
+Damage Base 2: 1d6+3 / 7
+Class: Physical
+Range: Melee, 1 Target, Five Strike
+Effect: None
+Contest Type: Tough
+Contest Effect: Reliable
+Move: Echoed Voice
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Special
+Range: 3, 1 Target, Sonic
+Effect: If Echoed Voice was used by any Pokémon or
+Trainer in the Encounter on the previous round, increase
+its Damage Base by +4. If Echoed Voice was used by
+any Pokémon or Trainers during both the previous two
+rounds, increase its Damage Base by +8.
+Contest Type: Smart
+Contest Effect: Reliable
+Move: Egg Bomb
+Type: Normal
+Frequency: Scene x2
+AC: 6
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: 5, Blast 2
+Effect: None.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Encore
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Class: Status
+Range: 4, 1 Target, Social
+Effect: Roll 1d6. On a result of 1 or 2, the target becomes
+Confused; on a result of 3 or 4 the target becomes
+Suppressed; on a result of 5 or 6 the target becomes
+Enraged.
+Contest Type: Cute
+Contest Effect: Good Show!
+Move: Endeavor
+Type: Normal
+Frequency: Scene
+AC: 2
+Damage Base: See Effect
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: The target loses a Tick of Hit Points for each
+Injury the user has.
+Contest Type: Tough
+Contest Effect: Double Time
+Indices and Reference
+396
+Move: Endure
+Type: Normal
+Frequency: Daily
+AC: None
+Class: Status
+Range: Self, Reaction, Trigger
+Effect: If the user is hit by a damaging Move, you may
+use Endure as a Free Action. If the Move would bring
+Endure's user down to 0 Hit Points or less, Endure's user
+instead is set to 1 Hit Point.
+Contest Type: Tough
+Contest Effect: Sabotage
+Move: Entrainment
+Type: Normal
+Frequency: Scene
+AC: 2
+Class: Status
+Range: 4, 1 Target
+Effect: The target gains one of the user's Abilities for 3
+turns.
+Contest Type: Cute
+Contest Effect: Catching Up
+Move: Explosion
+Type: Normal
+Frequency: Daily
+AC: 2
+Damage Base 25: 6d12+60 / 100
+Class: Physical
+Range: Burst 2
+Effect: The user's Hit Points are set to -50% of their full
+Hit Point value. This Hit Point loss cannot be prevented
+or reduced in any way. The user's loyalty toward its
+trainer may be lowered.
+Contest Type: Beauty
+Contest Effect: Big Show
+Move: Extreme Speed
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target, Dash, Priority
+Effect: None
+Contest Type: Cool
+Contest Effect: Saving Grace
+Move: Façade
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target
+Effect: If the user is afflicted with a Persistent Status
+Affliction, Façade's Damage Base is doubled to DB 14
+(4d10+15 / 40).
+Contest Type: Cute
+Contest Effect: Double Time
+Move: Fake Out
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, 1 Target, Priority
+Effect: You may only use Fake Out with Priority upon
+joining an encounter; if you do, Fake Out Flinches the
+target. Switching out resets the requirement of joining
+an encounter.
+Contest Type: Cute
+Contest Effect: Exhausting Act
+Move: False Swipe
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, Pass
+Effect: False Swipe's damage cannot bring a target lower
+than 1 Hit Point.
+Contest Type: Cool
+Contest Effect: Inversed Appeal
+Move: Feint
+Type: Normal
+Frequency: Scene
+Class: Status
+Range: Trigger
+Effect: If a foe uses a Move with the Shield Keyword in
+response to one of your actions, you may activate Feint
+to cause the triggering Move to Fail. Feint is activated as
+a Free Action.
+Contest Type: Beauty
+Contest Effect: Inversed Appeal
+Indices and Reference
+397
+Move: Flail
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target
+Effect: For each Injury the user has, Flail's Damage Base
+is increased by +1.
+Contest Type: Cute
+Contest Effect: Double Time
+Move: Flash
+Type: Normal
+Frequency: EOT
+AC: 2
+Class: Status
+Range: Cone 2
+Effect: The Accuracy of all Legal Targets is lowered by
+-1.
+Contest Type: Beauty
+Contest Effect: Unsettling
+Special: Grants Glow
+Move: Focus Energy
+Type: Normal
+Frequency: At-Will
+AC: None
+Class: Status
+Range: Self
+Effect: The user becomes Pumped. While Pumped,
+the user's Critical Range is extended by 2, or 18+ if
+the Critical Range is not otherwise extended. Being
+switched will cause this effect to end.
+Contest Type: Cool
+Contest Effect: Get Ready!
+Move: Follow Me
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: Burst 5, Social
+Effect: Until the end of the user's next turn, all Foes
+must target the user when using a Move that targets
+their opponents. This effect ends if the user is Fainted
+or Switched out.
+Contest Type: Cute
+Contest Effect: Tease
+Move: Foresight
+Type: Normal
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: Self, Swift Action
+Effect: Foresight may be activated as a Swift Action
+on the user's turn. For the rest of the turn, the user's
+Normal-Type and Fighting-Type Moves can hit and
+affect Ghost-Type targets, and the user can see through
+the Illusion Ability, Moves with the Illusion keyword,
+and effects created by the Illusionist Capability, ignoring
+all effects from those.
+Contest Type: Smart
+Contest Effect: Good Show!
+Move: Frustration
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base X: See Effect
+Class: Physical
+Range: Melee, 1 Target
+Effect: Frustration's Damage Base is equal to 9 minus
+the user's Loyalty Value. Using Frustration may make
+your Pokémon dislike you.
+Contest Type: Cute
+Contest Effect: Desperation
+Move: Fury Attack
+Type: Normal
+Frequency: At-Will
+AC: 4
+Damage Base 2: 1d6+3 / 7
+Class: Physical
+Range: Melee, 1 Target, Five Strike
+Effect: None
+Contest Type: Cool
+Contest Effect: Reliable
+Move: Fury Swipes
+Type: Normal
+Frequency: EOT
+AC: 5
+Damage Base 3: 1d6+5 / 9
+Class: Physical
+Range: Melee, 1 Target, Five Strike
+Effect: None
+Contest Type: Tough
+Contest Effect: Reliable
+Indices and Reference
+398
+Move: Giga Impact
+Type: Normal
+Frequency: Daily x2
+AC: 4
+Damage Base 15: 4d10+20 / 45
+Class: Physical
+Range: Melee, 1 Target, Dash, Exhaust, Smite
+Effect: None
+Contest Type: Beauty
+Contest Effect: Seen Nothing Yet
+Move: Glare
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Class: Status
+Range: 4, 1 Target, Social
+Effect: Glare Paralyzes the target.
+Contest Type: Tough
+Contest Effect: Excitement
+Move: Growl
+Type: Normal
+Frequency: At-Will
+AC: 2
+Class: Status
+Range: Burst 1, Friendly, Sonic, Social
+Effect: Growl lowers all Legal Targets Attack 1 Combat
+Stage.
+Contest Type: Cute
+Contest Effect: Excitement
+Move: Growth
+Type: Normal
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Attack 1 Combat Stage and raise
+the user's Special Attack 1 Combat Stage. If it is Sunny,
+double the amount of Combat Stages gained.
+Contest Type: Beauty
+Contest Effect: Get Ready!
+Special: Grants Inflatable
+Move: Guillotine
+Type: Normal
+Frequency: Daily
+AC: None
+Class: Status
+Range: Melee, 1 Target, Execute
+Effect: Roll 1d100. This roll may not be modified in any
+way. If you roll X or lower, the target Faints. X is equal
+to 30 + The User's Level - The Target's Level.
+Contest Type: Cool
+Contest Effect: Big Show
+Move: Harden
+Type: Normal
+Frequency: At-Will
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Defense 1 Combat Stage.
+Contest Type: Tough
+Contest Effect: Sabotage
+Move: Headbutt
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target
+Effect: Headbutt Flinches the target on 15+.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Head Charge
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: Melee, 1 Target, Push, Recoil 1/3
+Effect: The target is Pushed back 2 meters.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Indices and Reference
+399
+Move: Heal Bell
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: Burst 3, Sonic
+Effect: All targets are cured of any Persistent Status
+ailments.
+Contest Type: Beauty
+Contest Effect: Reflective Appeal
+Move: Helping Hand
+Type: Normal
+Frequency: EOT
+AC: None
+Class: Status
+Range: 4, 1 Target, Priority
+Effect: Helping Hand grants the target +2 on their next
+Accuracy Roll this round, and +10 to the next Damage
+Roll this round.
+Contest Type: Smart
+Contest Effect: Good Show!
+Move: Hidden Power
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Special
+Range: Burst 1
+Effect: When a Pokémon first obtains the Move Hidden
+Power, roll 1d20. Hidden Power's Elemental Type will
+be changed from Normal to Bug on a result of 1; Dark
+on 2; Dragon on 3; Electric on 4; Fairy on 5; Fighting
+on 6; Fire on 7; Flying on 8; Ghost on 9; Grass on 10;
+Ground on 11; Ice on 12; Normal on 13; Poison on 14;
+Psychic on 15; Rock on 16; Steel on 17; Water on 18; and
+on 19 or 20, reroll until you roll another number. This
+effect is permanent ­if Hidden Power is forgotten and
+relearned, the chosen Type remains the same.
+Contest Type: Smart
+Contest Effect: Catching Up
+Move: Hold Hands
+Type: Normal
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: Melee, 1 Target
+Effect: Both the user and the target become Cheered.
+They may give up the Cheered condition when making
+a Save Check to roll twice and take the best result.
+Contest Type:
+Contest Effect:
+Move: Horn Attack
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: None
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Horn Drill
+Type: Normal
+Frequency: Daily
+AC: None
+Class: Status
+Range: Melee, 1 Target, Execute
+Effect: Roll 1d100. This roll may not be modified in any
+way. If you roll X or lower, the target Faints. X is equal
+to 30 + The User's Level - The Target's Level.
+Contest Type: Cool
+Contest Effect: Big Show
+Move: Howl
+Type: Normal
+Frequency: At-Will
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Attack 1 Combat stage.
+Contest Type: Cool
+Contest Effect: Get Ready!
+Indices and Reference
+400
+Move: Hyper Beam
+Type: Normal
+Frequency: Daily x2
+AC: 4
+Damage Base 15: 4d10+20 / 45
+Class: Special
+Range: 10, 1 Target, Exhaust, Smite
+Effect: None
+Contest Type: Cool
+Contest Effect: Seen Nothing Yet
+Move: Hyper Fang
+Type: Normal
+Frequency: At-Will
+AC: 4
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: Hyper Fang Flinches the target on 19+
+Contest Type: Cool
+Contest Effect: Desperation
+Move: Hyper Voice
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Special
+Range: Close Blast 3, Sonic, Smite
+Effect: All Legal Targets are pushed back to the squares
+immediately outside the blast, away from the user.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Judgment
+Type: Normal
+Frequency: Daily
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Special
+Range: 6, Ranged Blast 3, Smite
+Effect: Judgment's Type can be whatever Elemental
+Type the user wants it to be.
+Contest Type: Smart
+Contest Effect: Tease
+Move: Last Resort
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base 14: 4d10+15 / 40
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: Last Resort can only be used after the user has
+performed 5 other different Moves in its Move List
+during a single fight, without being switched out.
+Contest Type: Cute
+Contest Effect: Safe Option
+Move: Leer
+Type: Normal
+Frequency: At-Will
+AC: 2
+Class: Status
+Range: Cone 2, Friendly, Social
+Effect: All legal targets have their Defense lowered by 1
+Combat Stage.
+Contest Type: Cool
+Contest Effect: Excitement
+Move: Lock-On
+Type: Normal
+Frequency: At-Will
+AC: None
+Class: Status
+Range: 10, 1 Target
+Effect: The target is Locked-On. The next Move that the
+user uses against the Target that requires an Accuracy
+Check cannot miss. Lock-On's effect, on both the User
+and Target, is passed on by Baton Pass.
+Contest Type: Smart
+Contest Effect: Good Show!
+Move: Lovely Kiss
+Type: Normal
+Frequency: Scene x2
+AC: 6
+Class: Status
+Range: 6, 1 Target, Social
+Effect: The target falls Asleep.
+Contest Type: Beauty
+Contest Effect: Excitement
+Indices and Reference
+401
+Move: Lucky Chant
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: Blessing
+Effect: Blessing ­ Any user affected by Lucky Chant
+may activate it when receiving a Critical Hit to cause the
+attack to instead deal damage as if it was not a Critical
+Hit. Lucky Chant may be activated 3 times, and then
+disappears.
+Contest Type: Cute
+Contest Effect: Sabotage
+Move: Me First
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self, Trigger, Interrupt
+Effect: If an opponent declares a Damaging Attack
+against the user, and Me First's user has a higher Speed
+stat then the target, the user may use Me First as an
+Interrupt. The User will then use the same Move the
+triggering foe was about to use on that foe.
+Contest Type: Cute
+Contest Effect: Saving Grace
+Move: Mean Look
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: 6, 1 Target, Social
+Effect: The user casts a foul spell on the target, causing
+it to become Trapped and Slowed for the remainder of
+the encounter.
+Contest Type: Beauty
+Contest Effect: Unsettling
+Move: Mega Kick
+Type: Normal
+Frequency: Scene x2
+AC: 6
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: Melee, 1 Target, Dash, Push, Smite
+Effect: The target is Pushed 2 meters.
+Contest Type: Cool
+Contest Effect: Desperation
+Move: Mega Punch
+Type: Normal
+Frequency: At-Will
+AC: 4
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: None
+Contest Type: Tough
+Contest Effect: Desperation
+Move: Metronome
+Type: Normal
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: Self
+Effect: Metronome randomly uses any other Move
+except for After You, Assist, Bestow, Copycat, Counter,
+Covet, Crafty Shield, Destiny Bond, Detect, Endure,
+Feint, Focus Punch, Follow Me, Helping Hand, King's
+Shield, Metronome, Me First, Mimic, Mirror Coat,
+Mirror Move, Protect, Quash, Quick Guard, Rage
+Powder, Sketch, Sleep Talk, Snatch, Snore, Spiky Shield,
+Switcheroo, Thief, Transform, Trick, and Wide Guard.
+The GM helps to pick the random Move.
+Contest Type: Cute
+Contest Effect: Tease
+Move: Milk Drink
+Type: Normal
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Melee, 1 Target
+Effect: The target regains Hit Points equal to half of its
+full Hit Point value. The user may target themselves
+with Milk Drink.
+Contest Type: Cute
+Contest Effect: Reflective Appeal
+Indices and Reference
+402
+Move: Mimic
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: 6, 1 Target
+Effect: Choose a Move that the target has used during
+the encounter. For the remainder of the encounter, that
+Move replaces Mimic on the user's Move List. Mimic
+cannot miss.
+Contest Type: Cute
+Contest Effect: Attention Grabber
+Move: Mind Reader
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: 6, 1 Target
+Effect: The target becomes Read to the user until the
+end of the user's next turn. The user may end this
+effect when making an Attack on the user, causing that
+attack to automatically hit; OR when the Read target
+uses an Attack against the user, causing that attack
+to automatically miss. If the user has the Telepathy
+Capability, the user automatically succeeds on a mind-
+reading attempt against the target, and may listen to the
+target's surface thoughts as long as they remain Read.
+Mind Reader automatically misses against targets with
+the Mindlock Capability.
+Contest Type: Smart
+Contest Effect: Good Show!
+Move: Minimize
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self
+Effect: The user gains +4 Evasion, and user's size is
+lowered to Small for the remainder of the encounter.
+Contest Type: Cute
+Contest Effect: Sabotage
+Special: Grants Shrinkable
+Move: Morning Sun
+Type: Normal
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Self
+Effect: The user regains Hit Points equal to half of its
+full Hit Point value. If it is Sunny, the user gains 2/3 of
+its full Hit Point value. If it is Rainy, Sand Storming or
+Hailing the user gains 1/4 of their full Hit Point value.
+Contest Type: Beauty
+Contest Effect: Reflective Appeal
+Move: Natural Gift
+Type: Normal
+Frequency: Scene
+AC: 2
+Damage Base: See Effect
+Class: Physical
+Range: 6, 1 Target, Berry
+Effect: Refer to the Move Keywords Berry list. Natural
+Gift deals damage according to the Berry list and Natural
+Gift's Type is also defined there. The Berry's Digestion
+Buff is nullified and is not used.
+Contest Type: Cool
+Contest Effect: Desperation
+Move: Nature Power
+Type: Normal
+Frequency: EOT
+AC: See Effect
+Class: Status
+Damage Base: See Effect
+Range: See Effect
+Effect: Nature Power uses a Move defined by the
+Environ keyword.
+Contest Type: Beauty
+Contest Effect: Tease
+Move: Noble Roar
+Type: Normal
+Frequency: EOT
+AC: 2
+Class: Status
+Range: Burst 1, Sonic, Friendly, Social
+Effect: Noble Roar lowers all targets' Attack and Special
+Attack by 1 Combat Stage.
+Contest Type: Cool
+Contest Effect: Excitement
+Indices and Reference
+403
+Move: Odor Sleuth
+Type: Normal
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: Self, Swift Action
+Effect: Odor Sleuth may be activated as a Swift Action
+on the user's turn. For the rest of the turn, the user's
+Normal-Type and Fighting-Type Moves can hit and
+affect Ghost-Type targets, and the user can see through
+the Illusion Ability, Moves with the Illusion keyword,
+and effects created by the Illusionist Capability, ignoring
+all effects from those.
+Contest Type: Smart
+Contest Effect: Good Show!
+Special: Grants Tracker
+Move: Pain Split
+Type: Normal
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: 4, 1 Target
+Effect: The user and the target both lose ½ of their
+current Hit Points. Add the amount of Hit Points the
+user and the target lost together, and divide the value
+by 2. Both the target and the user gain Hit Points equal
+to this value. Do not add Injuries from Pain Split from
+Hit Point Markers until the full effect of the Move has
+been resolved. Pain Split never causes Massive Damage.
+Hit Point loss from Pain Split cannot be prevented in
+any way
+Contest Type: Smart
+Contest Effect: Unsettling
+Move: Pay Day
+Type: Normal
+Frequency: Daily
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Cone 2
+Effect: Pay Day scatters metal coins equal in value to
+1d8 times the user's level. If it is a trainer battle, the
+winner of the battle gets to pick up the coins.
+Contest Type: Smart
+Contest Effect: Catching Up
+Move: Perish Song
+Type: Normal
+Frequency: Daily
+AC: None
+Class: Status
+Range: Burst 15, Sonic
+Effect: Perish Song cannot miss. All targets, including
+the user, receive a Perish Count of 3. At the beginning of
+each of the target's turns, their Perish count is lowered by
+1. Once a Perish Count reaches 0, set the Pokémon's Hit
+Points to 0. A Perish Count disappears if a target returns
+to their Poké Ball, Takes a Breather, or is knocked out.
+Perish Song never causes Massive Damage.
+Contest Type: Beauty
+Contest Effect: Unsettling
+Move: Play Nice
+Type: Normal
+Frequency: At-Will
+AC: 2
+Class: Status
+Range: 6, 1 Target, Social
+Effect: Play Nice lowers the target's Attack by 1 Combat
+Stage.
+Contest Type: Cute
+Contest Effect: Excitement
+Move: Pound
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, 1 Target
+Effect: None
+Contest Type: Tough
+Contest Effect: Steady Performance
+Indices and Reference
+404
+Move: Present
+Type: Normal
+Frequency: EOT
+AC: 3
+Damage Base: See Effect
+Class: Physical
+Range: 4, 1 Target
+Effect: Roll 1d6; Present has a Damage Base equal
+to twice the result. On a result of 1, instead of taking
+damage, the target gains 20 Hit Points.
+Contest Type: Cute
+Contest Effect: Inversed Appeal
+Move: Protect
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self, Interrupt, Shield, Trigger
+Effect: If the user is hit by a Move, the user may use
+Protect. The user is instead not hit by the Move. You do
+not take any damage nor are you affected by any of the
+Move's effects.
+Contest Type: Cute
+Contest Effect: Inversed Appeal
+Move: Psych Up
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: 6, 1 Target
+Effect: The user's Combat Stages are changed to match
+the target's Combat Stages. Psych Up cannot miss.
+Contest Type: Smart
+Contest Effect: Get Ready!
+Move: Quick Attack
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, 1 Target, Priority
+Effect: None.
+Contest Type: Cool
+Contest Effect: Saving Grace
+Move: Rage
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base 2: 1d6+3 / 7
+Class: Physical
+Range: Melee, 1 Target, Spirit Surge
+Effect: The user becomes Enraged. Until the end of the
+user's next turn, if the user is Enraged, the user gains +1
+Attack Combat Stage whenever they are damaged by an
+Damaging Move or Attack.
+Contest Type: Cool
+Contest Effect: Get Ready!
+Move: Rapid Spin
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base 2: 1d6+3 / 7
+Class: Physical
+Range: Melee, 1 Target, Spirit Surge
+Effect: Rapid Spin destroys all Hazards within 5 meters,
+removes Leech Seeds, and removes the user's Trapped
+or Stuck status.
+Contest Type: Cool
+Contest Effect: Exhausting Act
+Move: Razor Wind
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: 10, 3 Targets, Set-Up
+Set-Up Effect: The user may not shift this round.
+The user whips up a whirlwind around themselves,
+granting +2 Evasion until the end of their next turn, and
+destroying any Smokescreen or Hazards on any squares
+they are standing on and in all squares adjacent to them.
+Resolution Effect: The user attacks with Razor Wind.
+Razor Wind is a Critical Hit on 18+.
+Contest Type: Cool
+Contest Effect: Special Attention
+Indices and Reference
+405
+Move: Recover
+Type: Normal
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Self
+Effect: The user regains Hit Points equal to half of its
+full Hit Point value.
+Contest Type: Smart
+Contest Effect: Reflective Appeal
+Move: Recycle
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self
+Effect: The effect of a consumable item used earlier
+in the encounter is used again as if it had not been
+destroyed. The item is still gone.
+Contest Type: Smart
+Contest Effect: Attention Grabber
+Move: Reflect Type
+Type: Normal
+Frequency: Scene
+AC: 2
+Class: Status
+Range: Melee, 1 Target
+Effect: Reflect Type changes one of the user's Types into
+one Type of your choice that the target has for the rest
+of the scene.
+Contest Type: Beauty
+Contest Effect: Attention Grabber
+Move: Refresh
+Type: Normal
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: Self
+Effect: The user is cured of all Poison, Burns, and
+Paralysis.
+Contest Type: Cute
+Contest Effect: Reflective Appeal
+Move: Relic Song
+Type: Normal
+Frequency: Scene
+AC: 2
+Damage Base 8: 3d6+10 / 21
+Class: Special
+Range: Burst 3, Friendly, Sonic
+Effect: All Legal Targets fall Asleep on 16+. As long as
+Meloetta knows Relic Song, it may change between Aria
+Form and Step Form as a Swift Action when using Relic
+Song, or as a Standard Action otherwise. Both Aria and
+Step Form must be statted with the same HP Stat.
+Contest Type: Beauty
+Contest Effect: Excitement
+Move: Retaliate
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target
+Effect: Retaliate's Damage Base is doubled to DB 14
+(4d10+15 / 40) if an ally has been Fainted by a Damaging
+Move used by the Target in the last 2 rounds of Combat.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Return
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base X: See Effect
+Class: Physical
+Range: Melee, 1 Target
+Effect: Return's Damage Base is equal to 3 plus the user's
+Loyalty Value.
+Contest Type: Cute
+Contest Effect: Exhausting Act
+Indices and Reference
+406
+Move: Roar
+Type: Normal
+Frequency: Scene
+AC: 2
+Class: Status
+Range: Burst 1, Sonic, Social
+Effect: When declaring Roar, the user does nothing and
+may not Shift. At the end of the round, the user Shifts and
+uses Roar. Targets hit by Roar immediately Shift away
+from the target using their highest usable movement
+capability, and towards their Trainer if possible. If the
+target is an owned Pokémon and ends this shift within
+6 meters of their Poké Ball, they are immediately
+recalled to their Poké Ball. If that Trainer sends out a
+replacement, they do not lose their Pokémon turn.
+Contest Type: Cool
+Contest Effect: Excitement
+Move: Rock Climb
+Type: Normal
+Frequency: At-Will
+AC: 5
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: Rock Climb Confuses the target on 17+.
+Contest Type: Cool
+Contest Effect: Desperation
+Move: Round
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base X: See Effect
+Class: Special
+Range: Burst 1, Sonic
+Effect: Round's Damage Base is equal to 6, plus +2
+more for each previous use of Round by any Trainer or
+Pokémon this round, up to a maximum of DB12.
+Contest Type: Tough
+Contest Effect: Reliable
+Move: Safeguard
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: Blessing
+Effect: Blessing ­ Any user affected by Safeguard may
+activate it when receiving a Status Affliction to ignore
+the effects of that Status Affliction on their next turn.
+Safeguard may be activated 3 times, and then disappears.
+Contest Type: Beauty
+Contest Effect: Sabotage
+Move: Scary Face
+Type: Normal
+Frequency: EOT
+AC: 2
+Class: Status
+Range: 4, 1 Target, Social
+Effect: The target's Speed is lowered 2 Combat Stages.
+Contest Type: Tough
+Contest Effect: Desperation
+Move: Scratch
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, Pass
+Effect: None
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Screech
+Type: Normal
+Frequency: EOT
+AC: 4
+Class: Status
+Range: Burst 2, Friendly, Sonic
+Effect: All Legal Targets have their Defense lowered 2
+Combat Stages.
+Contest Type: Smart
+Contest Effect: Unsettling
+Indices and Reference
+407
+Move: Secret Power
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: 4, 1 Target, Environ
+Effect: Secret Power's effect depends on Environ. Secret
+Power's effect activates on 17+.
+Contest Type: Smart
+Contest Effect: Tease
+Move: Self-Destruct
+Type: Normal
+Frequency: Daily
+AC: 2
+Damage Base 20: 6d12+35 / 75
+Class: Physical
+Range: Burst 3
+Effect: The user's Hit Points are set to -50% of their full
+Hit Point value. This Hit Point loss may not be prevented
+or reduced in any way. The user's loyalty toward its
+trainer may be lowered.
+Contest Type: Beauty
+Contest Effect: Big Show
+Move: Sharpen
+Type: Normal
+Frequency: At-Will
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Attack 1 Combat Stage.
+Contest Type: Cute
+Contest Effect: Get Ready!
+Move: Shell Smash
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Attack 2 Combat Stages, raise
+the user's Special Attack 2 Combat Stages and raise the
+user's Speed 2 Combat Stages. Lower the user's Defense
+1 Combat Stage and lower the user's Special Defense 1
+Combat Stage.
+Contest Type: Tough
+Contest Effect: Get Ready!
+Move: Simple Beam
+Type: Normal
+Frequency: Scene
+AC: 2
+Class: Status
+Range: 6, 1 Target
+Effect: You choose one of the target's Abilities. Simple
+Beam changes that Ability to Simple for the remainder
+of the encounter.
+Contest Type: Beauty
+Contest Effect: Steady Performance
+Move: Sing
+Type: Normal
+Frequency: Scene
+AC: 10
+Class: Status
+Range: Burst 2, Friendly, Sonic
+Effect: All legal Targets fall Asleep. On a miss, Sing
+instead causes targets to become Slowed and suffer a -2
+penalty to their Evasion until the end of the user's next
+turn.
+Contest Type: Cute
+Contest Effect: Excitement
+Move: Sketch
+Type: Normal
+Frequency: Daily
+AC: None
+Class: Status
+Range: 15, 1 Target
+Effect: Sketch cannot miss. Once Sketch has been
+used, remove Sketch from the user's Move list. The last
+Move that the target used is added to the user's Move
+list permanently. Sketch may not be Interrupted or
+Intercepted.
+Contest Type: Smart
+Contest Effect: Catching Up
+Move: Skull Bash
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 13: 4d10+10 / 35
+Class: Physical
+Range: Melee, 1 Target, Dash, Push, Set-Up
+Set-Up Effect: The use gains +1 Defense CS.
+Resolution Effect: The user may attack with Skull Bash.
+The target is pushed 3 meters.
+Contest Type: Tough
+Contest Effect: Special Attention
+Indices and Reference
+408
+Move: Slack Off
+Type: Normal
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Self
+Effect: The user regains Hit Points equal to half of its
+full Hit Points.
+Contest Type: Cute
+Contest Effect: Reflective Appeal
+Move: Slam
+Type: Normal
+Frequency: At-Will
+AC: 6
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: Slam may be used as a Free Action at the end of
+a Sprint Maneuver taken as a Standard Action, as long
+as the user Shifted at least 3 meters in a straight line
+towards the target. When used this way, Slam gains the
+Smite keyword.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Slash
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, Pass
+Effect: Slash is a Critical Hit on 18+.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Sleep Talk
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self
+Effect: Select another of the user's Moves at random;
+this turn, the user may Shift and use that Move despite
+being Asleep. Sleep Talk can be only be used by Sleeping
+targets.
+Contest Type: Cute
+Contest Effect: Steady Performance
+Move: Smelling Salts
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target
+Effect: If the target is Paralyzed, Smelling Salt's Damage
+Base is doubled to 14 (4d10+15 / 40), and cures the
+target of Paralysis.
+Contest Type: Smart
+Contest Effect: Unsettling
+Move: Smokescreen
+Type: Normal
+Frequency: EOT
+AC: None
+Class: Status
+Range: 5, Ranged Blast 3
+Effect: Smokescreen creates a blast of Smoke that covers
+the target area; the Smoke persists until the end of the
+encounter, or until Defog or Whirlwind are used. All
+targets attacking from or into the Smoke receive a -3
+penalty to Accuracy.
+Contest Type: Smart
+Contest Effect: Unsettling
+Move: Snore
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Special
+Range: Burst 1, Sonic
+Effect: Snore Flinches all legal targets on 15+. Snore
+may only be used by Sleeping users.
+Contest Type: Cute
+Contest Effect: Steady Performance
+Move: Soft-Boiled
+Type: Normal
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Melee, 1 Target
+Effect: The target regains Hit Points equal to half of its
+full Hit Points. The user may target themselves with
+Soft-Boiled.
+Contest Type: Beauty
+Contest Effect: Reflective Appeal
+Indices and Reference
+409
+Move: Sonic Boom
+Type: Normal
+Frequency: EOT
+AC: 6
+Class: Special
+Damage Base: Special
+Range: 8, 1 Target
+Effect: Sonic Boom causes the target to lose 15 Hit
+Points. Sonic Boom is Special and interacts with other
+moves and effects as such ( Special Evasion may be
+applied to avoid it, Mirror Coat can reflect it, etc. )
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Spike Cannon
+Type: Normal
+Frequency: EOT
+AC: 4
+Damage Base 3: 1d6+5 / 9
+Class: Physical
+Range: 6, 1 Target, Five Strike
+Effect: None
+Contest Type: Cool
+Contest Effect: Reliable
+Move: Spit Up
+Type: Normal
+Frequency: Scene
+AC: 2
+Damage Base X: See Effect
+Class: Special
+Range: 4, 1 Target
+Effect: For each Stockpiled Count the user has, Spit
+Up's Damage Base is increased by +8. If the user has no
+Stockpiled count, Spit Up cannot be used.
+Contest Type: Tough
+Contest Effect: Desperation
+Move: Splash
+Type: Normal
+Frequency: At-Will
+AC: None
+Class: Status
+Range: Self
+Effect: Shift Action - The user may make a single Jump,
+adding +1 to their Long Jump and High Jump values,
+and gains +2 Evasion until the end of their next turn.
+Contest Type: Cute
+Contest Effect: Inversed Appeal
+Special: Grants Long Jump +1
+Move: Stockpile
+Type: Normal
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: The user adds 1 to their Stockpiled count to a
+maximum of 3. For each number a Stockpiled count is
+above 0, raise the user's Defense 1 Combat Stage and
+raise the user's Special Defense 1 Combat Stage. If a
+Stockpiled count is set to 0, the Combat Stages gained
+from the Stockpiled count are removed.
+Contest Type: Tough
+Contest Effect: Get Ready!
+Move: Stomp
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target
+Effect: Stomp Flinches the target on 15+. If the target is
+at least one size category smaller than the user, Stomp
+deals an additional 10 damage.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Strength
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target, Push
+Effect: You may immediately initiate a Push Maneuver
+as a Free Action. The Maneuver automatically hits, but
+you must still make the Opposed Roll.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Special: Grants +1 Power
+Indices and Reference
+410
+Move: Substitute
+Type: Normal
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self, Illusion, Coat
+Effect: The user loses 1/4 of their maximum Hit Points.
+This Hit Point loss cannot be prevented in any way. The
+user creates an Illusory Substitute Coat, which has Hit
+Points equal to 1/4th of the user's full Hit Points +1. If
+the user would be hit by a Move or attack, instead the
+Substitute gets hit. Apply weakness, resistance and stats
+to the Substitute. The Substitute is immune to Status
+Afflictions and Status Moves. Moves with the Social
+or Sonic keywords completely ignore and bypass the
+Substitute. Once the Substitute has been destroyed, the
+user may be hit as normal. Substitute cannot be used if
+the user has less than 1/4 of their full Hit Points.
+Contest Type: Smart
+Contest Effect: Catching Up
+Move: Super Fang
+Type: Normal
+Frequency: Scene
+AC: 4
+Class: Physical
+Range: Melee, 1 Target
+Effect: The target loses 1/2 of their current Hit Points.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Supersonic
+Type: Normal
+Frequency: Scene x2
+AC: 6
+Class: Status
+Range: 4, 1 Target, Sonic
+Effect: The target becomes Confused. On miss, the
+target suffers a -2 penalty to Accuracy Rolls for one full
+round.
+Contest Type: Smart
+Contest Effect: Excitement
+Move: Swagger
+Type: Normal
+Frequency: EOT
+AC: 4
+Class: Status
+Range: 6, 1 Target, Social
+Effect: The target's Attack is raised 2 Combat Stages.
+Swagger Confuses the target.
+Contest Type: Cute
+Contest Effect: Excitement
+Move: Swallow
+Type: Normal
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Self
+Effect: If the user's Stockpiled count is 1, they are healed
+25% of their full Hit Point value; if their Stockpiled
+count is 2, they are healed half of their full Hit Point
+value; if their Stockpiled count is 3, they are healed
+back to full Hit Points. After using Swallow, the user's
+Stockpiled count is set to 0. If the user has no Stockpiled
+count, Swallow does nothing.
+Contest Type: Tough
+Contest Effect: Reflective Appeal
+Move: Sweet Scent
+Type: Normal
+Frequency: Scene
+AC: 2
+Class: Status
+Range: Burst 2, Friendly
+Effect: Targets hit by Sweet Scent gain a -2 Penalty to
+Evasion. (Total Evasion may not be lowered to a negative
+value. )
+Contest Type: Cute
+Contest Effect: Excitement
+Special: Grants Alluring
+Move: Swift
+Type: Normal
+Frequency: EOT
+AC: None
+Damage Base 6: 2d6+8 / 15
+Class: Special
+Range: 8, Ranged Blast 2, Friendly
+Effect: Swift cannot Miss.
+Contest Type: Cool
+Contest Effect: Exhausting Act
+Indices and Reference
+411
+Move: Swords Dance
+Type: Normal
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: The user's Attack is raised 2 Combat Stages.
+Contest Type: Beauty
+Contest Effect: Get Ready!
+Move: Tackle
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: Melee, 1 Target, Dash, Push
+Effect: The target is pushed 2 Meters.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Tail Slap
+Type: Normal
+Frequency: EOT
+AC: 4
+Damage Base 3: 1d6+5 / 9
+Class: Physical
+Range: Melee, 1 Target, Five Strike
+Effect: None
+Contest Type: Cute
+Contest Effect: Reliable
+Move: Tail Whip
+Type: Normal
+Frequency: At-Will
+AC: 2
+Class: Status
+Range: Burst 1, Friendly
+Effect: All legal targets have their Defense lowered by 1
+Combat Stage.
+Contest Type: Cute
+Contest Effect: Excitement
+Move: Take Down
+Type: Normal
+Frequency: EOT
+AC: 5
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, 1 Target, Dash, Recoil 1/3
+Effect: You may perform a Trip Maneuver against the
+target as a Free Action.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Techno Blast
+Type: Normal
+Frequency: Scene
+AC: 2
+Damage Base 12: 3d12+10 / 30
+Class: Special
+Range: 6, Ranged Blast 2
+Effect: Techno Blast's Type can be any Type while
+holding the appropriate Drive item or Plate item.
+Contest Type: Smart
+Contest Effect: Seen Nothing Yet
+Move: Teeter Dance
+Type: Normal
+Frequency: Scene
+AC: 2
+Class: Status
+Range: Burst 1
+Effect: Teeter Dance Confuses all Legal Targets.
+Contest Type: Cute
+Contest Effect: Tease
+Move: Thrash
+Type: Normal
+Frequency: Scene x2
+AC: 3
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: Melee, all adjacent foes, Smite
+Effect: After damage is dealt, the user becomes Enraged
+and Confused.
+Contest Type: Tough
+Contest Effect: Reliable
+Indices and Reference
+412
+Move: Tickle
+Type: Normal
+Frequency: EOT
+AC: 2
+Class: Status
+Range: Melee, 1 Target
+Effect: Lower the target's Attack 1 Combat Stage and
+lower the target's Defense 1 Combat Stage.
+Contest Type: Cute
+Contest Effect: Excitement
+Move: Transform
+Type: Normal
+Frequency: At-Will
+AC: None
+Class: Status
+Range: 10, 1 Target
+Effect: The user targets a Pokémon within 10 meters,
+and assumes the form of the target. It gains all of the
+user's Moves, gains its Abilities, copies its weight and
+height and Capabilities. Transform lasts until the user
+is switched out, KO'd or until the end of the encounter.
+The user may choose to end the Transformation on its
+turn as a free action, regaining its previous Move List.
+The user's Stats do not change from using Transform.
+Transform cannot miss.
+Contest Type: Smart
+Contest Effect: Catching Up
+Move: Tri Attack
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: 6, 1 target
+Effect: Tri Attack gives the target a Status ailment on
+17+ during Accuracy Check. If this effect is triggered,
+roll 1d3; on 1 the target is Paralyzed; on 2 the target is
+Burned; on 3 the target is Frozen.
+Contest Type: Beauty
+Contest Effect: Steady Performance
+Move: Trump Card
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Special
+Range: 6, 1 Target
+Effect: Whenever Trump Card is used, the user gains a
+Trump Count after the attack is resolved. Trump Card's
+Damage Base is increased by +2 for each Trump Count.
+Contest Type: Cool
+Contest Effect: Exhausting Act
+Move: Uproar
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Special
+Range: Burst 1, Spirit Surge, Sonic
+Effect: All Pokémon and Trainers within 5 meters of the
+user are cured of sleep.
+Contest Type: Cute
+Contest Effect: Unsettling
+Move: Vice Grip
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target
+Effect: None
+Contest Type: Tough
+Contest Effect: Steady Performance
+Indices and Reference
+413
+Move: Weather Ball
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Special
+Range: 8, 1 Target
+Effect: If it is Sunny, Weather Ball is Fire-Type. If it
+is Rainy, Weather Ball is Water-Type. If it is Hailing,
+Weather Ball is Ice-Type. If it is Sandstorming, Weather
+Ball is Rock-Type. When a weather effect is on the field,
+Weather Ball has a Damage Base of 10 (3d8+10 / 24). If
+there are multiple Weather Effects on the field, choose
+one type for Weather Ball to be that corresponds with
+an existing Weather Effect.
+Contest Type: Smart
+Contest Effect: Incentives
+Move: Whirlwind
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Class: Status
+Range: Line 6
+Effect: All targets are pushed X meters, where X is 8
+minus their weight class. If the Line targets into a
+Smokescreen, the smoke is dispersed. All hazards in the
+Whirlwind are destroyed.
+Contest Type: Smart
+Contest Effect: Big Show
+Move: Wish
+Type: Normal
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: 15, 1 Target
+Effect: At the end of the user's next turn, the target
+regains Hit Points equal to half of its full Hit Point value.
+If the user targets themselves and are replaced in battle,
+the replacement is healed.
+Contest Type: Cute
+Contest Effect: Reflective Appeal
+Move: Work Up
+Type: Normal
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Attack 1 Combat Stage and raise
+the user's Special Attack 1 Combat Stage.
+Contest Type: Tough
+Contest Effect: Get Ready!
+Move: Wrap
+Type: Normal
+Frequency: Static
+Class: Static
+Effect: The user gains a +1 Bonus to Accuracy Rolls
+made to initiate Grapple Maneuvers, and +2 to Skill
+Checks made to initiate Grapple Maneuvers or gain
+Dominance. Whenever the user gains Dominance in a
+Grapple, the target of the Grapple loses a Tick of Hit
+Points.
+Contest Type: Tough
+Contest Effect: Safe Option
+Move: Wring Out
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 12: 3d12+10 / 30
+Class: Special
+Range: Melee, 1 Target
+Effect: For every 10% the target is below their full Hit
+Points, Wring Out's Damage Base is reduced by 1.
+Contest Type: Smart
+Contest Effect: Seen Nothing Yet
+Move: Yawn
+Type: Normal
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: 2, 1 Target, Social
+Effect: The target falls Asleep at the end of their next
+turn. Yawn cannot miss.
+Contest Type: Cute
+Contest Effect: Excitement
+

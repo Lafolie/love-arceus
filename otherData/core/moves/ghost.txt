@@ -1,0 +1,225 @@
+Indices and Reference
+377
+Ghost Moves
+Move: Astonish
+Type: Ghost
+Frequency: At-Will
+AC: 2
+Damage Base 3: 1d6+5 / 9
+Class: Physical
+Range: Melee, 1 Target
+Effect: Astonish Flinches the target on 15+. Once per
+scene, if the target is unaware of the user's presence,
+Astonish automatically Flinches the target.
+Contest Type: Smart
+Contest Effect: Steady Performance
+Move: Confuse Ray
+Type: Ghost
+Frequency: Scene x2
+AC: 2
+Class: Status
+Range: 6, 1 Target
+Effect: The target is Confused.
+Contest Type: Smart
+Contest Effect: Unsettling
+Move: Curse
+Type: Ghost
+Frequency: See Text
+AC: None
+Class: Status
+Range: Self
+Effect: If the user is not a Ghost Type, Curse has a
+Frequency of EOT, and when used the user lowers its
+Speed by -1 Combat Stage, but raises Attack and Defense
+by +1 Combat Stage each. If the user is a Ghost Type,
+Curse has a Frequency of Scene, and when used the user
+loses 1/3rd of their Max Hit Points and a target Pokémon
+or Trainer within 8 meters of the user becomes Cursed.
+This Hit Point loss cannot be prevented in any way.
+Contest Type: Tough
+Contest Effect: Safe Option
+Move: Destiny Bond
+Type: Ghost
+Frequency: EOT
+AC: None
+Class: Status
+Range: Burst 10, Friendly
+Effect: All enemy targets in the burst become Bound to
+the user until the end of the user's next turn. If a Bound
+target causes the user to Faint through a Damaging
+Attack, the Bound target immediately faints after their
+attack is resolved.
+Contest Type: Smart
+Contest Effect: Big Show
+Move: Grudge
+Type: Ghost
+Frequency: Daily
+AC: None
+Class: Status
+Range: 6, 1 Target, Interrupt
+Effect: You may use Grudge as an Interrupt when a
+Damaging Attack causes the user to faint. Grudge
+is activated as a Free Action (does not take up a
+Command). The attack is resolved as usual, and
+the user Faints. The attacker that caused the user to
+Faint becomes Suppressed for the remainder of the
+encounter; switching and Taking a Breather does not
+end Suppression when used this way.
+Contest Type: Tough
+Contest Effect: Unsettling
+Move: Hex
+Type: Ghost
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: 6, 1 Target
+Effect: Once a Scene, if Hex's target has a Status
+Affliction, you may have Hex's Damage Base be 13
+instead (4d10+10 / 35).
+Contest Type: Smart
+Contest Effect: Incentives
+Indices and Reference
+378
+Move: Lick
+Type: Ghost
+Frequency: At-Will
+AC: 2
+Damage Base 3: 1d6+5 / 9
+Class: Physical
+Range: Melee, 1 Target
+Effect: Lick Paralyzes the target on 15+ during Accuracy
+Check.
+Contest Type: Tough
+Contest Effect: Inversed Appeal
+Move: Night Shade
+Type: Ghost
+Frequency: Scene x2
+AC: 2
+Class: Special
+Range: 8, 1 Target
+Effect: The target loses Hit Points equal to the level of
+Night Shade's user. Do not apply weakness or resistance.
+Do not apply stats.
+Contest Type: Smart
+Contest Effect: Steady Performance
+Move: Nightmare
+Type: Ghost
+Frequency: Scene x2
+AC: 2
+Class: Status
+Range: Melee, 1 Target
+Effect: Nightmare can only hit Legal Targets that are
+Asleep. The target gains Bad Sleep.
+Contest Type: Smart
+Contest Effect: Excitement
+Move: Ominous Wind
+Type: Ghost
+Frequency: EOT
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Special
+Range: 6, 1 Target, Spirit Surge
+Effect: On 19+, the user has each of its stats raised by +1
+Combat Stage.
+Contest Type: Smart
+Contest Effect: Get Ready!
+Move: Phantom Force
+Type: Ghost
+Frequency: Scene x2
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, 1 Target, Set-Up
+Set-Up Effect: The user is removed from the field, and
+their turn ends.
+Resolution Effect: Phantom Force's user appears
+adjacent to any legal target on the field, ignoring
+Movement Capabilities, and then uses Phantom Force's
+attack. Phantom Force cannot be avoided by Moves
+with the Shield Keyword, the Dodge Ability, or similar
+effects, and Intercepts may not be attempted in response.
+Contest Type: Smart
+Contest Effect: Seen Nothing Yet
+Move: Shadow Ball
+Type: Ghost
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: 8, 1 Target
+Effect: Shadow Ball lowers the foe's Special Defense 1
+Combat Stage on 17+.
+Contest Type: Smart
+Contest Effect: Exhausting Act
+Move: Shadow Claw
+Type: Ghost
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, Pass
+Effect: Shadow Claw is a Critical Hit on 18+.
+Contest Type: Cute
+Contest Effect: Exhausting Act
+Indices and Reference
+379
+Move: Shadow Force
+Type: Ghost
+Frequency: Daily x3
+AC: 2
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: Melee, 1 Target, Set-Up
+Set-Up Effect: The user is removed from the field, and
+their turn ends.
+Resolution Effect: Shadow Force's user appears adjacent
+to any legal Target, ignoring Movement Capabilities,
+and then uses Shadow Force's attack. Shadow Force
+cannot be avoided by Moves with the Shield Keyword,
+the Dodge Ability, or similar effects, and Intercepts may
+not be attempted in response.
+Contest Type: Smart
+Contest Effect: Seen Nothing Yet
+Move: Shadow Punch
+Type: Ghost
+Frequency: EOT
+AC: None
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: 6, 1 Target
+Effect: Shadow Punch cannot miss.
+Contest Type: Smart
+Contest Effect: Exhausting Act
+Move: Shadow Sneak
+Type: Ghost
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, 1 Target, Priority
+Effect: None.
+Contest Type: Smart
+Contest Effect: Saving Grace
+Move: Spite
+Type: Ghost
+Frequency: Scene
+AC: None
+Class: Status
+Range: 1 Target, Trigger
+Effect: Spite may be used as a Free Action that does not
+take up a Command whenever the user is hit by a Move.
+That Move becomes Disabled for the attacker.
+Contest Type: Tough
+Contest Effect: Excitement
+Move: Trick-or-Treat
+Type: Ghost
+Frequency: Daily
+AC: 2
+Class: Status
+Range: 6, 1 Target
+Effect: The target gains the Ghost Type in addition to its
+other Types for 5 turns.
+Contest Type: Cute
+Contest Effect: Good Show
+

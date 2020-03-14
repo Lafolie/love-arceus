@@ -1,0 +1,116 @@
+Indices and Reference
+337
+Moves are the main forms of Pokémon Attacks in
+Pokémon Tabletop United. Pokémon may know a
+maximum of 6 Moves; Trainers may know as many
+Moves as their Features allow. Moves are, unless stated
+otherwise, performed as a Standard Action. Moves in
+this documented are presented like this:
+Move: Attack Order
+Type: Bug
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: 6, 1 Target
+Effect: Attack Order is a Critical Hit on 18+.
+Contest Type: Smart
+Contest Effect: Incentives
+Move: The first line contains the Name of the Move. This
+is of course, what you use to keep track of the Move, and
+write down in your Pokémon's Move List.
+Type: Next is the Elemental Type of the Move. There
+are Bug, Dark, Dragon, Electric, Fairy, Fighting, Fire,
+Flying, Ghost, Grass, Ground, Ice, Normal, Poison,
+Psychic, Rock, Steel and Water Moves! This will
+determine Type Effectiveness since Moves are broken
+up by their respective Type.
+Frequency : The Frequency is the rate of use. There are
+five levels of Frequency for Moves.
+»
+» At-Will means your Pokémon can perform the
+attack as often as it'd like, with no rest needed to
+perform the attack again.
+»
+» EOT is an abbreviation for Every Other Turn, and
+it means your Pokémon can perform the move once
+every other turn. If your Pokémon uses an EOT
+frequency Move outside of battle, it would need ten
+seconds of rest before performing the move again.
+»
+» Scene X: This Frequency means this Move can be
+performed X times per Scene. Moves that simply
+have the Scene Frequency without a number can be
+performed once a Scene. Moves that can be used
+multiple times a Scene can still only be used Every
+Other Turn within a Scene and not on consecutive
+turns.
+»
+» Daily is the lowest Frequency. This Move's Frequency
+is only refreshed by an Extended Rest, or by a visit
+to the Pokémon Center. Moves that can be used
+multiple times Daily can still only be used once
+a Scene and not multiple times within the same
+Scene.
+»
+» Static, like with Features, means this Move has some
+effect that is always granted to the user, as long as
+they know this Move.
+Accuracy Check: The Accuracy Check is used when
+a Pokémon uses a Move as an Attack. The Accuracy
+Check is the number you need to match or exceed on
+your Accuracy Roll in order for the Attack to connect to
+your target. See the Combat chapter for details.
+Damage Base: This indicates the base amount of
+damage dealt. See the `Damage' section in the Combat
+Chapter for more details (page 236). Many Abilities and
+other effects can modify Damage Bases.
+Moves
+The following two pages
+are important, and you
+should read them.
+Of particular note, look at how the Scene and Daily
+frequencies work for Moves. They aren't quite the
+same as how they might work for Features or other
+effects that have a Frequency.
+Indices and Reference
+338
+Class: Class will denote whether the attack is Physical,
+Special or Status. Physical Attacks are resisted by
+Defense; Special Attacks are resisted by Special Defense.
+Some attacks may be Physical or Special but not have
+Damage Dice Rolls; that means the damage these attacks
+do still interact with other effects such as Counter or
+Mirror Coat that specify a damage class. Status Moves
+are simply moves that are neither Physical nor Special.
+Range: Range specifies the distance in meters from
+which the Move can hit. Keywords are also inserted
+in this line; see the following section for a detail of
+keywords. Besides the standard numerical distances,
+other common distances include Melee, Self, and Field.
+Self moves simply target the user; Melee Moves have a
+range of 1, and thus must target an adjacent target. The
+Field Range drops an effect on the entire area where the
+battle is taking place. When using area-of-effect Moves,
+such as ones with the Burst or Cone keywords, make a
+single Accuracy Roll for the entire attack.
+Effect: The Effect lists what the attack does in addition
+to the Move's damage. Certain effects will only occur
+if, during Accuracy Roll, a certain number or higher
+is rolled. Effects do not activate unless the Move hits.
+Effect Ranges can be extended by other effects. For
+example, an effect that triggers on 18+ that has its Effect
+Range extended by +2 now triggers on 16+.
+Effects such as Features and Abilities that extend the
+Critical Hit or Effect Ranges of a Move cannot extend
+them by more than a total of +6 from their natural
+ranges.
+Contest Type/Effect: These two Contest Fields indicate
+what Contest Type the Move is tied to. There are only 5
+different Contest Types: Beauty, Cool, Cute, Smart, and
+Tough. The Contest Effect determines what effect the
+move has in Contests. See the Contest chapter for more.
+Special: Some Moves grant Capabilities to Pokémon and
+Trainers learning the Move. When a Move is forgotten,
+all Capabilities granted by the Move are also lost.
+

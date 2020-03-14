@@ -1,0 +1,48 @@
+Fighting Moves:
+Move: Body Press
+Type: Fighting
+Frequency: Scene x2
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: The user's Defense Stat is added to the
+damage roll instead of the Attack Stat.
+Contest Type: Tough
+Contest Effect: Gamble
+Move: Meteor Assault
+Type: Fighting
+Frequency: Daily x2
+AC: 2
+Damage Base 15: 4d10+20 / 45
+Class: Physical
+Range: Burst 1, Smite, Exhaust
+Contest Type: Tough
+Contest Effect: Exhausting Act
+Move: No Retreat
+Type: Fighting
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self
+Effect: The user gains +1 CS in each stat. In addition,
+the user may not be recalled or switched out until the
+end of the Scene, and counts as Slowed for the
+purposes of any movement that would end further
+away from the nearest enemy than the user started.
+Contest Type: Tough
+Contest Effect: Get Ready
+Move: Octolock
+Type: Fighting
+Frequency: Scene
+AC: 2
+Class: Status
+Range: Melee, 1 Target
+Effect: The user initiates a Grapple Maneuver with the
+target, which automatically hits. If successful, until
+the user no longer has Dominance in the grapple, the
+target is Trapped and loses 1 CS in Defense and
+Special Defense at the end of each of their turns.
+Contest Type: Tough
+Contest Effect: Sabotage
+

@@ -1,0 +1,47 @@
+WORMADAM Plant Cloak Form
+WORMADAM Sandy Cloak Form
+WORMADAM Trash Cloak Form
+ROTOM Normal Form
+ROTOM Appliance Forms
+TORNADUS Incarnate Forme
+TORNADUS Therian Forme
+THUNDURUS Incarnate Forme
+THUNDURUS Therian Forme
+LANDORUS Incarnate Forme
+LANDORUS Therian Forme
+SHAYMIN Land Forme
+SHAYMIN Sky Forme
+MELOETTA Aria Form
+MELOETTA Step Form
+DEOXYS Normal Forme
+DEOXYS Attack Forme
+DEOXYS Defense Forme
+DEOXYS Speed Forme
+KYUREM Zekrom Fusion Forme
+KYUREM Reshiram Fusion Forme
+GIRATINA Origin Forme
+GIRATINA Altered Forme
+HOOPA Confined
+HOOPA Unbound
+LYCANROC Midday
+LYCANROC Midnight
+LYCANROC Dusk
+WISHIWASHI Solo
+WISHIWASHI Schooling
+MINIOR Meteor
+MINIOR Core
+NECROZMA Dusk Mane
+NECROZMA Dawn Wings
+ZYGARDE 10% Forme
+ZYGARDE 50% Forme
+ZYGARDE Complete Forme
+EISCUE Ice Face
+EISCUE Noice Face
+INDEEDEE Male
+INDEEDEE Female
+DARMANITAN Galar, Standard Mode
+DARMANITAN Galar, Zen Mode
+ZACIAN Hero of Many Battles Forme
+ZACIAN Crowned Sword Forme
+ZAMAZENTA Hero of Many Battles Forme
+ZAMAZENTA Crowned Shield Forme

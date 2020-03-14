@@ -1,0 +1,54 @@
+Skills, Edges, Feats
+64
+Other Features
+First Aid Expertise
+Prerequisites: Medic Training, Expert Medicine
+Education
+Daily x3 ­ Extended Action
+Target: Pokemon or Trainers
+Effect: The target may remove one Injury, has all Hit
+Points restored, and is cured of all Status Afflictions.
+You may use First Aid Expertise only once per day per
+target. First Aid Expertise requires access to a First Aid
+Kit.
+Let Me Help You With That
+Prerequisites: None
+Daily x3 ­ Full Action, Interrupt
+Trigger: An allied Trainer fails a Skill Check in a Skill
+you have Ranked at Novice or higher.
+Effect: The ally may re-roll the Skill Check with a Bonus
+equal to your Skill Rank.
+Poké Ball Crafter
+Prerequisites: Basic Balls, Poké Ball Repair, Expert
+Technology
+Static
+Effect: You may craft Dusk, Dive, Heal, Luxury, Net,
+Nest, Quick, Repeat, or Timer Balls for $700. Requires
+access to a Poké Ball Tool Box.
+PokéManiac
+Prerequisites: Adept Pokémon Education
+At-Will ­ Standard Action
+Target: A Pokémon
+Effect: Make a Pokemon Education Check with a DC
+of 10. If you succeed, you determine the target's Level,
+Types, Nature, and Abilities.
+Psionic Sight
+[+Special Defense]
+Prerequisites: Elemental Connection (Psychic)
+Static
+Effect: You are able to visibly see any Psychic Residue
+left on Humans or Pokémon due to the effects of Psionic
+abilities. Each Human or Pokémon leaves distinct
+Psychic Residue on their targets; you are easily able
+to distinguish which targets have been affected by the
+same Psionic, though to identify that Psionic you need
+to have a way of knowing their signature (such as simply
+seeing them do it, and seeing the resulting signature).
+Skill Monkey
+Prerequisites: Three Skills at Adept Rank or higher
+Daily x3 ­ Free Action
+Trigger: You make a Skill Check
+Effect: You may re-roll the triggering Skill Check with
+a +2 Bonus, taking the new result. This Feature may be
+used to re-roll a specific roll only once.
+

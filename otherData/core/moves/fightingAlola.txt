@@ -1,0 +1,18 @@
+Fighting Moves:
+Move: Flying Press
+Type: Fighting
+Frequency: EOT
+AC: 3
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: Flying Press may deal Flying Type damage if
+the user wishes.
+Contest Type: Tough
+Contest Effect: Big Show
+Note: If Flying Press is Move Sync'd, it only changes
+the Fighting Type portion of the Move. You can still
+only choose between that Type and Flying Type; you
+cannot shift Flying Press to change the Flying part to
+another Type.
+

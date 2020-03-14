@@ -1,0 +1,74 @@
+New Capabilities:
+Weapon Bond: As an Extended Action, Zacian and
+Zamazenta may use an Ancestral Sword (Zacian) or
+Ancestral Shield (Zamazenta) to become Crowned
+Sword or Crowned Shield Forme respectively.
+While in Crowned Forme, the Pokemon may use a
+Move as though it were on its Movelist; for Zacian
+this is Behemoth Blade, and for Zamazenta this is
+Behemoth Bash.
+This form lasts until the Pokémon is Fainted or
+voluntarily relinquishes it as an Extended Action.
+New Abilities:
+Ability: Ball Fetch
+Scene ­ Free Action, Reaction
+Trigger: A Pokémon is Released onto the battlefield
+Effect: The user may move up to their speed as a
+Free Action. They must end this movement closer to
+the triggering Pokémon.
+Ability: Cotton Down
+Scene ­ Free Action, Reaction
+Trigger: The user is hit by an attack
+Effect: All Pokémon in a Burst 1 around the user
+have their speed lowered by 1 CS, and are Slowed
+for one full round.
+Ability: Dauntless Shield
+Static
+Effect: The user's default Defense Combat Stages are
+increased by +1.
+Ability: Flavorful Aroma
+At-Will ­ Free Action
+Trigger: The user uses Aromatic Mist
+Effect: Connection ­ Aromatic Mist. All allies
+affected by Aromatic Mist gain +1 to Accuracy Rolls
+and +5 to Damage Rolls for one full round.
+Ability: Gorilla Tactics
+Scene ­ Swift Action
+Trigger: The user uses a Move
+Effect: The user gains a +10 bonus to damage rolls
+until the end of the Scene, including on the
+triggering Move. However, until the end of the
+Scene, they may only use Moves that they have
+already used in this Scene before triggering this
+Ability (the triggering Move is included in those
+usable).
+Ability: Gulp Missile
+Scene x2 ­ Free Action
+Trigger: The user uses Stockpile, Surf, or Dive
+Effect: Connection ­ Stockpile. The next time the
+user is damaged, it rolls an AC 4 Physical Attack
+against the attacker, even if the user Faints. On a hit,
+the target loses 2 ticks of HP. In addition, if the hit
+roll was successful, on an even roll the target is
+Paralyzed; on an odd roll, the target instead loses 1
+Defense CS.
+Ability: Hunger Switch
+Static
+Effect: At the beginning of each of the user's turns,
+the user must choose whether it's in Full Belly Mode
+or Hangry Mode until the beginning of its next turn.
+In Full Belly Mode, it gains a +2 bonus to Accuracy. In
+Hangry Mode, it gains a +5 Bonus to Damage Rolls.
+Ability: Ice Face
+Static
+Effect: The user begins the battle with two ticks of
+temporary hit points. As a Standard Action in Hail,
+they may gain two ticks of temporary hit points. The
+user is immune to damage from Hail. While the user
+has Temporary Hit Points from this Feature, it is in
+Ice Face form, otherwise it is in Noice Face form.
+Ability: Ice Scales
+Static
+Effect: The user resists Special Moves one step
+further. Defensive.
+

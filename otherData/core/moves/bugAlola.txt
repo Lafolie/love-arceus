@@ -1,0 +1,67 @@
+New / Altered Moves:
+Bug Moves:
+Move: Fell Stinger
+Type: Bug
+Frequency: At-Will
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: Melee, 1 Target
+Effect: If the user successfully knocks out a target with
+Fell Stinger, raise their Attack by 2 Combat Stages.
+Contest Type: Smart
+Contest Effect: Desperation
+Move: First Impression
+Type: Bug
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, 1 Target, Priority
+Effect: You may only use First Impression with Priority
+upon joining an encounter; if you do, First Impression
+Flinches the target. Switching out resets the
+requirement of joining an encounter.
+Contest Type: Smart
+Contest Effect: Exhausting Act
+Move: Leech Life
+Type: Bug
+Frequency: Scene x2
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: After the target takes damage, the user gains
+HP equal to half of the damage they dealt to the
+target.
+Contest Type: Smart
+Contest Effect: Good Show
+Move: Lunge
+Type: Bug
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: Lunge may be used as a Free Action at the end
+of a Sprint Maneuver taken as a Standard Action, as
+long as the user Shifted at least 3 meters in a straight
+line towards the target. When used this way, Lunge's
+target receives a -5 penalty to damage rolls for 1
+round.
+Contest Type: Smart
+Contest Effect: Sabotage
+Move: Pollen Puff
+Type: Bug
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Special
+Range: 6, 1 Target
+Effect: Once per Scene, Pollen Puff may instead be
+used on an ally; when used this way, the target
+recovers 50% of their maximum Hit Points and the
+Move has the Healing keyword.
+Contest Type: Beauty
+Contest Effect: Reflective Appeal
+

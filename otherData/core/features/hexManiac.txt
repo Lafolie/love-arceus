@@ -1,0 +1,56 @@
+Trainer Classes
+182
+Hex Maniac
+[Class] [+HP]
+Prerequisites: Novice Occult Education
+Static
+Effect: Choose Cursed Body or Omen. You gain the Chosen Ability.
+Hex Maniac Studies
+[+HP] [Ranked 3]
+Rank 1 Prerequisites: Hex Maniac
+Rank 2 Prerequisites: Hex Maniac
+Rank 3 Prerequisites: Hex Maniac, Expert Occult
+Education
+Static
+Effect: Learn two Hex Maniac Moves. You may choose
+any Move marked with the Hex Maniac Studies Rank
+you are taking or lower.
+Hex Maniac Moves
+Confuse Ray Rank 1
+Curse* Rank 1
+Hypnosis Rank 1
+Spite Rank 1
+Will-O-Wisp Rank 1
+Hex Rank 3
+*Note: When using Curse, you must use Curse as if you
+were a Ghost-Type Pokémon
+Diffuse Pain
+[+HP]
+Prerequisites: Hex Maniac Studies Rank 1
+2 AP ­ Swift Action
+Trigger: You use a Status-Class Move gained from Hex
+Maniac Studies
+Effect: Choose an additional target for the Move.
+Malediction
+[+HP]
+Prerequisites: Hex Maniac Studies Rank 1, Expert
+Occult Education
+Scene x2 ­ Free Action
+Trigger: A foe within 5 meters misses all targets with
+an attack
+Effect: Use a Status-Class Move gained from Hex
+Maniac Studies targeting the triggering foe as a Free
+Action, Frequency-permitting.
+Grand Hex
+[+HP]
+Prerequisites: Hex Maniac Studies Rank 3, Master
+Occult Education
+1 AP ­ Swift Action
+Trigger: You hit a foe with Hex
+Effect: Regain one use of a Move gained from Hex
+Maniac Studies that can inflict a Status Affliction
+that the triggering target has. If you activated the
+conditional damage boost for Hex, its Frequency is not
+expended. You may only activate Grand Hex once per
+target per Scene.
+

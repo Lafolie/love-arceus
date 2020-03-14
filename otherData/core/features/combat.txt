@@ -1,0 +1,71 @@
+Skills, Edges, Feats
+63
+Combat Features
+Blur
+[+Speed]
+Prerequisites: Expert Acrobatics, Expert Stealth
+Static
+Effect: Attacks and Moves targeting you that don't
+require an Accuracy Check now require one, as though
+they had Accuracy Check of 2. You may only apply half
+of your Evasion to these Attacks and Moves.
+Defender
+[+HP]
+Prerequisites: Adept Athletics
+Static
+Effect: Using the Intercept Maneuvers requires only a
+Shift Action Interrupt.
+Dive
+[+Speed]
+Prerequisites: Adept Acrobatics
+Scene x2 ­ Shift Action, Interrupt
+Trigger: You are targeted by a Ranged 1-Target Attack,
+or are in a Cone, Burst, Blast, or Line.
+Effect: You may immediately Shift 1 Meter, and then
+become Tripped. This Feature cannot be used if you are
+Stuck, Grappled, or otherwise impaired from Shifting.
+This Feature causes you to dodge Ranged attacks aimed
+at you, and may let you avoid Cones, Bursts, Blasts, or
+Lines if the shift removes you from the area of effect.
+Fighter's Versatility
+[+Any Stat]
+Prerequisites: Learned two Scene or Daily Moves.
+Scene ­ Free Action
+Trigger: You gain Initiative.
+Effect: You may give up use of a Scene or Daily Move
+to regain use of a Scene or Daily Move which you have
+already used. You may give up use of a Daily Move to
+regain use of a Scene Move, but not vice-versa.
+Multi-Tasking
+[+Speed]
+Prerequisites: 20 Speed Stat, Master Acrobatics
+Scene x2 ­ Swift Action
+Effect: You may take two Standard Actions instead of
+one this turn, but both actions must have an At-Will
+Frequency.
+Signature Move
+[+Any Stat]
+Prerequisites: Learned four Moves.
+Static
+Effect: Choose a Move you know. Increase the Move's
+Frequency one step, as if you had used a PP Up. This
+choice cannot be changed once made. This Feature may
+not select Moves known through temporary means, nor
+can these Moves be used to qualify for this Feature.
+Type Expertise
+[Ranked 2] [+Any Stat]
+All Ranks Prerequisites: Level 9, 3 Moves of the Chosen
+Type in your Move List
+Static
+Effect: Each Rank, choose a Type of which you know
+at least 3 Moves. You gain STAB for the chosen Type.
+STAB is never applied to Struggle Attacks.
+Walk It Off
+[+HP]
+Prerequisites: Adept Athletics, Novice Focus
+Daily ­ Extended Action
+Effect: Remove one Injury from yourself and regain
+1/4th of your maximum Hit Points. This Injury removal
+doesn't count against the natural healing limit on
+Injuries each day.
+

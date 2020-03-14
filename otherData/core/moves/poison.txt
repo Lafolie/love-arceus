@@ -1,0 +1,352 @@
+Indices and Reference
+413
+Move: Weather Ball
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Special
+Range: 8, 1 Target
+Effect: If it is Sunny, Weather Ball is Fire-Type. If it
+is Rainy, Weather Ball is Water-Type. If it is Hailing,
+Weather Ball is Ice-Type. If it is Sandstorming, Weather
+Ball is Rock-Type. When a weather effect is on the field,
+Weather Ball has a Damage Base of 10 (3d8+10 / 24). If
+there are multiple Weather Effects on the field, choose
+one type for Weather Ball to be that corresponds with
+an existing Weather Effect.
+Contest Type: Smart
+Contest Effect: Incentives
+Move: Whirlwind
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Class: Status
+Range: Line 6
+Effect: All targets are pushed X meters, where X is 8
+minus their weight class. If the Line targets into a
+Smokescreen, the smoke is dispersed. All hazards in the
+Whirlwind are destroyed.
+Contest Type: Smart
+Contest Effect: Big Show
+Move: Wish
+Type: Normal
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: 15, 1 Target
+Effect: At the end of the user's next turn, the target
+regains Hit Points equal to half of its full Hit Point value.
+If the user targets themselves and are replaced in battle,
+the replacement is healed.
+Contest Type: Cute
+Contest Effect: Reflective Appeal
+Move: Work Up
+Type: Normal
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Attack 1 Combat Stage and raise
+the user's Special Attack 1 Combat Stage.
+Contest Type: Tough
+Contest Effect: Get Ready!
+Move: Wrap
+Type: Normal
+Frequency: Static
+Class: Static
+Effect: The user gains a +1 Bonus to Accuracy Rolls
+made to initiate Grapple Maneuvers, and +2 to Skill
+Checks made to initiate Grapple Maneuvers or gain
+Dominance. Whenever the user gains Dominance in a
+Grapple, the target of the Grapple loses a Tick of Hit
+Points.
+Contest Type: Tough
+Contest Effect: Safe Option
+Move: Wring Out
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 12: 3d12+10 / 30
+Class: Special
+Range: Melee, 1 Target
+Effect: For every 10% the target is below their full Hit
+Points, Wring Out's Damage Base is reduced by 1.
+Contest Type: Smart
+Contest Effect: Seen Nothing Yet
+Move: Yawn
+Type: Normal
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: 2, 1 Target, Social
+Effect: The target falls Asleep at the end of their next
+turn. Yawn cannot miss.
+Contest Type: Cute
+Contest Effect: Excitement
+Indices and Reference
+414
+Poison Moves
+Move: Acid
+Type: Poison
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Special
+Range: Cone 2
+Effect: Acid lowers the target's Special Defense 1
+Combat Stage on 18+.
+Contest Type: Smart
+Contest Effect: Steady Performance
+Move: Acid Armor
+Type: Poison
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self, Set-Up
+Set-Up Effect: The user becomes Liquefied. While
+Liquefied, the user is Slowed and cannot take Standard
+Actions except to Resolve the effect of Acid Armor,
+and the user's Movement is never obstructed by rough
+or slow terrain, and they can shift even through the
+smallest openings. Furthermore, while liquefied, the
+user is completely immune to all Physical damage, and
+becomes completely invisible if fully submerged in any
+liquid.
+Resolution Effect: The user gains +1 Defense Combat
+Stage, and then stops being liquified.
+Contest Type: Tough
+Contest Effect: Get Ready!
+Move: Acid Spray
+Type: Poison
+Frequency: EOT
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Special
+Range: 4, 1 Target
+Effect: Acid Spray lowers the target's Special Defense 2
+Combat Stages.
+Contest Type: Smart
+Contest Effect: Unsettling
+Move: Belch
+Type: Poison
+Frequency: Scene x2
+AC: 4
+Damage Base 12: 3d12+10 / 30
+Class: Special
+Range: Cone 2
+Effect: Belch cannot be used if the user has not traded
+in a Digestion Buff during this Scene.
+Contest Type: Tough
+Contest Effect: Desperation
+Move: Clear Smog
+Type: Poison
+Frequency: Scene x2
+AC: None
+Damage Base 5: 1d8+8 / 13
+Class: Special
+Range: 6, 1 Target
+Effect: The target's Combat Stages are reset to their
+default, and all Coats on the target are destroyed. Clear
+Smog cannot miss.
+Contest Type: Smart
+Contest Effect: Sabotage
+Move: Coil
+Type: Poison
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Attack 1 Combat Stage, raise the
+user's Defense 1 Combat Stage, and the user gains +1
+Accuracy.
+Contest Type: Cute
+Contest Effect: Get Ready!
+Move: Cross Poison
+Type: Poison
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, Pass
+Effect: Cross Poison is a Critical Hit on 18+, and Poisons
+the target on 19+.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Indices and Reference
+415
+Move: Gastro Acid
+Type: Poison
+Frequency: Scene
+AC: 2
+Class: Status
+Range: 4, 1 Target
+Effect: The target's Ability is disabled until the end of
+the encounter. If the target has more than one Ability,
+you choose one of them to disable.
+Contest Type: Beauty
+Contest Effect: Sabotage
+Move: Gunk Shot
+Type: Poison
+Frequency: Daily x2
+AC: 5
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: 6, 1 Target, Smite
+Effect: Gunk Shot Poisons the Target on 15+.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Poison Fang
+Type: Poison
+Frequency: EOT
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: Melee, 1 Target
+Effect: Poison Fang Badly Poisons the target on 17+.
+Contest Type: Smart
+Contest Effect: Incentives
+Move: Poison Gas
+Type: Poison
+Frequency: Scene
+AC: 6
+Class: Status
+Range: Burst 1 or Cone 2
+Effect: Poison Gas Poisons all Legal Targets.
+Contest Type: Smart
+Contest Effect: Steady Performance
+Move: Poison Jab
+Type: Poison
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: Poison Jab Poisons the target on 15+.
+Contest Type: Smart
+Contest Effect: Incentives
+Move: Poison Powder
+Type: Poison
+Frequency: EOT
+AC: 6
+Class: Status
+Range: 4, 1 Target, Powder
+Effect: The target is Poisoned.
+Contest Type: Smart
+Contest Effect: Excitement
+Move: Poison Sting
+Type: Poison
+Frequency: At-Will
+AC: 2
+Damage Base 2: 1d6+3 / 7
+Class: Physical
+Range: 6, 1 Target
+Effect: Poison Sting Poisons the target on 17+.
+Contest Type: Smart
+Contest Effect: Excitement
+Move: Poison Tail
+Type: Poison
+Frequency: At-Will
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: Melee, 1 Target
+Effect: Poison Tail is a Critical Hit on 18+, and Poisons
+the target on 19+.
+Contest Type: Smart
+Contest Effect: Incentives
+Indices and Reference
+416
+Move: Sludge
+Type: Poison
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: 6, 1 Target
+Effect: Sludge Poisons the target on 15+.
+Contest Type: Tough
+Contest Effect: Desperation
+Move: Sludge Bomb
+Type: Poison
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Special
+Range: 8, 1 Target
+Effect: Sludge Bomb Poisons the target on 15+.
+Contest Type: Tough
+Contest Effect: Desperation
+Move: Sludge Wave
+Type: Poison
+Frequency: Scene x2
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Special
+Range: Burst 1 or Close Blast 2
+Effect: Sludge Wave Poisons targets on 19+.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Smog
+Type: Poison
+Frequency: At-Will
+AC: 7
+Damage Base 3: 1d6+5 / 9
+Class: Special
+Range: Line 2
+Effect: Smog Poisons the target on an Even-Numbered
+Roll.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Toxic
+Type: Poison
+Frequency: Scene x2
+AC: 4
+Class: Status
+Range: 4, 1 Target
+Effect: The target is Badly Poisoned. If the user is Poison
+Type, Toxic cannot miss.
+Contest Type: Smart
+Contest Effect: Excitement
+Move: Toxic Spikes
+Type: Poison
+Frequency: EOT
+AC: None
+Class: Status
+Range: 6, Hazard
+Effect: Set 8 square meters of Toxic Spikes, all 8 meters
+must be adjacent with at least one other space of Toxic
+Spikes next to each other. Toxic Spikes cause Terrain to
+become Slow Terrain, and a grounded foe that runs into
+the hazard becomes Poisoned, and Slowed until the end
+of their next turn. If there are 2 Layers of Toxic Spikes
+on the same space, it Deadly Poisons the foes instead.
+Poison-Type Pokémon may move over Toxic Spikes
+harmlessly, destroying the Hazards as they do so.
+Contest Type: Smart
+Contest Effect: Sabotage
+Move: Venom Drench
+Type: Poison
+Frequency: EOT
+AC: None
+Class: Status
+Range: Cone 2
+Effect: All Poisoned targets have their Attack, Special
+Attack, and Speed lowered by 1 Combat Stage. Venom
+Drench cannot miss.
+Contest Type: Smart
+Contest Effect: Sabotage
+Indices and Reference
+417
+Move: Venoshock
+Type: Poison
+Frequency: Scene x2
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: 6, 1 Target
+Effect: If the target is Poisoned, Venoshock has a
+Damage Base of 13 (4d10+10 / 35) instead.
+Contest Type: Smart
+Contest Effect: Incentives
+

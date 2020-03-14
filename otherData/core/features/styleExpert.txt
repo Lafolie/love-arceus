@@ -1,0 +1,249 @@
+Trainer Classes
+115
+Style Flourish
+[Branch]
+Prerequisites: 3 Style Expert Features
+1 AP ­ Free Action
+Trigger: Your Pokémon uses a Move of your Chosen
+Type
+Contest Effect: Re-Roll all dice that result in 1s. This
+effect may only be used once per Contest.
+Battle Effect: The target gains +1 CS in the Stat
+corresponding to your chosen Contest Type, after the
+Move and all effects have been resolved. This may only
+affect a target once per Scene.
+Note: As a reminder, Beauty corresponds to Special
+Attack, Cool corresponds to Attack, Cute corresponds
+to Speed, Smart corresponds to Special Defense, and
+Tough corresponds to Defense.
+Style Entrainment
+[Branch]
+Prerequisites: 4 Style Expert Features
+1 AP ­ Swift Action, Priority (Limited)
+Target: Your Pokémon
+Effect: Your Pokémon gains one of the following
+Abilities corresponding to your chosen Contest Stat
+for the rest of the Scene, even if it is switched out. Style
+Entrainment may only grant one Ability to a Pokémon
+at a time. If it is used a second time on the same target,
+it replaces the first granted Ability.
+»
+» Beauty gives Gentle Vibe or Serene Grace
+»
+» Cool gives Defiant or Sniper
+»
+» Cute gives Cute Charm or Cute Tears
+»
+» Smart gives Analytic or Anticipation
+»
+» Tough gives Sturdy or Intimidate
+Cast: When reading the following Features,
+keep in mind that Beautiful Ballet and the
+equivalents for the other Contest Stats are intended to
+be usable not only in battle but in Contests as well!
+Beauty Expert Features
+Beautiful Ballet
+[Ranked 2]
+Rank 1 Prerequisites: Style Expert, Beauty as Chosen
+Stat, Novice Intuition
+Rank 2 Prerequisites: Expert Intuition
+1 AP ­ Special
+Effect: Your Pokémon with at least 3d6 in their Beauty
+Stat from Poffins may activate Beautiful Ballet as a
+Standard Action to perform one of the following Moves.
+They must still follow frequency limits as usual for these
+Moves.
+Rank 1: Captivate, Mist
+Rank 2: Lovely Kiss, Mean Look
+Fabulous Max
+Prerequisites: Beautiful Ballet Rank 1
+At-Will ­ Free Action
+Trigger: Your Pokémon uses a Beauty-Type Move
+Contest Effect: Treat the Move as if it were one step
+more aligned with the Contest Type. If the Move would
+be opposing the Contest Type, it is instead neutral. If it
+is neutral, it is instead matching. You may activate this
+effect only once per Contest.
+Battle Effect: The move gains the keyword Burst 1 if
+Melee, or Blast 2 if ranged. If the move is already a Burst,
+Blast, or Cone, increase the size of the Move's Range by
+1. This does not cause a target to be hit multiple times.
+You may activate Fabulous Max only once per Pokémon
+per Scene.
+Enticing Beauty
+Prerequisites: Beautiful Ballet Rank 1
+Scene ­ Free Action
+Target: Your Pokémon
+Effect: The target acts as a Bait item as if it had the
+Alluring Capability. Add its number of Beauty Dice
+from Poffins as a Bonus to all d20 lure rolls.
+Style Expert
+[Class] [Branch]
+Prerequisites: 3 Pokémon with 3d6 in a specific certain Contest Stat from Poffins
+Prerequisites: Coordinator, 1 Pokémon with 3d6 in a specific certain Contest Stat from Poffins
+Static
+Effect: Your Pokémon gain +2d6 to your chosen Contest Stat. These dice are counted as if coming from Poffins.
+Note: When you take Style Expert, choose from Beauty, Cool, Cute, Smart, or Tough. This becomes your Chosen
+Contest Stat. You may take Style Expert multiple times, each time choosing a different Contest Stat.
+Trainer Classes
+116
+Cool Expert Features
+Cool Conduct
+[Ranked 2]
+Rank 1 Prerequisites: Style Expert, Cool as Chosen
+Stat, Novice Command
+Rank 2 Prerequisites: Expert Command
+1 AP ­ Special
+Effect: Your Pokémon with at least 3d6 in their Cool Stat
+from Poffins may activate Cool Conduct as a Standard
+Action to perform one of the following Moves. They
+must still follow frequency limits as usual for these
+Moves.
+Rank 1: Focus Energy, Noble Roar
+Rank 2: Roar, Double Team
+Rule of Cool
+Prerequisites: Cool Conduct Rank 1
+At-Will ­ Free Action
+Trigger: Your Pokémon uses a Cool-Type Move
+Contest Effect: Treat the Move as if it were one step
+more aligned with the Contest Type. If the Move would
+be opposing the Contest Type, it is instead neutral. If it
+is neutral, it is instead matching. You may activate this
+effect only once per Contest.
+Battle Effect: The triggering Move's Crit Range is
+increased by 3, and the Moves with the Interrupt
+Keyword may not be activated in reaction to this Move.
+You may activate Rule of Cool only once per Pokémon
+per Scene.
+Action Hero Stunt
+Prerequisites: Cool Conduct Rank 1
+Daily x2 ­ Free Action
+Trigger: Your Pokémon makes a Skill Check for a
+dramatic, high risk action
+Effect: Instead of using a Skill for this Check, your
+Pokémon rolls their Cool Dice from Poffins and adds
+their number of Cool Dice from Stats as a modifier. For
+example, a Pokémon with 5d6 Cool from Poffins and
+2d6 from Attack rolls 5d6+2. Skill Checks invoked by
+Intercepting attacks, Combat Maneuvers, Moves, and
+Abilities don't trigger this Feature.
+Example Trigger: Charging into a burning building for
+a heroic rescue.
+Cast: To decide whether an action triggers Action Hero
+Stunt, ask yourself if there are dramatic consequences
+for the outcome and if the player chose a risky
+and cool option over safer alternatives.
+Cute Expert Features
+Cute Cuddle
+[Ranked 2]
+Rank 1 Prerequisites: Style Expert, Cute as Chosen
+Stat, Novice Charm
+Rank 2 Prerequisites: Expert Charm
+1 AP ­ Special
+Effect: Your Pokémon with at least 3d6 in their Cute Stat
+from Poffins may activate Cute Cuddle as a Standard
+Action to perform one of the following Moves. They
+must still follow frequency limits as usual for these
+Moves.
+Rank 1: Charm, Block
+Rank 2: Teeter Dance, Attract
+Gleeful Steps
+Prerequisites: Cute Cuddle Rank 1
+At-Will ­ Free Action
+Trigger: Your Pokémon uses a Cute-Type Move
+Contest Effect: Treat the Move as if it were one step
+more aligned with the Contest Type. If the Move would
+be opposing the Contest Type, it is instead neutral. If it
+is neutral, it is instead matching. You may activate this
+effect only once per Contest.
+Battle Effect: The triggering Pokémon may immediately
+shift up to half their Movement speed in meters in any
+direction after their attack is resolved. You may activate
+Gleeful Steps only once per Pokémon per Scene.
+Let's Be Friends!
+Prerequisites: Cute Cuddle Rank 1
+Scene ­ Free Action
+Target: Your Pokémon
+Effect: The target may attempt to improve the disposition
+of a Wild Pokémon as if making a Charm Check. They
+roll their Cute Dice from Poffins and add their number
+of Cute Dice from Stats as a modifier. For example, a
+Pokémon with 4d6 Cute from Poffins and 3d6 Cute
+from Speed rolls 4d6+3 in place of a Charm Check.
+Trainer Classes
+117
+Smart Expert Features
+Smart Scheme
+[Ranked 2]
+Rank 1 Prerequisites: Style Expert, Smart as Chosen
+Stat, Novice Guile
+Rank 2 Prerequisites: Expert Guile
+1 AP ­ Special
+Effect: Your Pokémon with at least 3d6 in their Smart
+Stat from Poffins may activate Smart Scheme as a
+Standard Action to perform one of the following Moves.
+They must still follow frequency limits as usual for these
+Moves.
+Rank 1: Fake Tears, Calm Mind
+Rank 2: Taunt, Flatter
+Calculated Assault
+Prerequisites: Smart Scheme Rank 1
+At-Will ­ Free Action
+Trigger: Your Pokémon uses a Smart-Type Move
+Contest Effect: Treat the Move as if it were one step
+more aligned with the Contest Type. If the Move would
+be opposing the Contest Type, it is instead neutral. If it
+is neutral, it is instead matching. You may activate this
+effect only once per Contest.
+Battle Effect: Choose one: The triggering Pokémon gains
+a +1 bonus on its Accuracy Roll for each ally that hit a
+target of its Move this round, or all allies get a +1 bonus
+to their Accuracy Rolls against targets of the triggering
+Pokémon's Move until the end of your Pokémon's next
+turn. You may activate Calculated Assault only once per
+Pokémon per Scene.
+Learn From Your Mistakes
+Prerequisites: Smart Scheme Rank 1
+Daily x3 ­ Free Action
+Trigger: Your Pokémon fails a Skill Check.
+Effect: Your Pokémon may re-roll the Skill Check with
+a Bonus equal to its number of Smart Dice from Poffins.
+Tough Expert Features
+Tough Tumble
+[Ranked 2]
+Rank 1 Prerequisites: Style Expert, Tough as Chosen
+Stat, Novice Intimidate
+Rank 2 Prerequisites: Expert Intimidate
+1 AP ­ Special
+Effect: Your Pokémon with at least 3d6 in their Tough
+Stat from Poffins may activate Tough Tumble as a
+Standard Action to perform one of the following Moves.
+They must still follow frequency limits as usual for these
+Moves.
+Rank 1: Scary Face, Spite
+Rank 2: Glare, Bide
+Macho Charge
+Prerequisites: Tough Tumble Rank 1
+At-Will ­ Free Action
+Trigger: Your Pokémon uses a Tough-Type Move
+Contest Effect: Treat the Move as if it were one step
+more aligned with the Contest Type. If the Move would
+be opposing the Contest Type, it is instead neutral. If it
+is neutral, it is instead matching. You may activate this
+effect only once per Contest.
+Battle Effect: All targets hit by the Move are pushed
+away from the triggering Pokémon by 3 meters. You
+may activate Macho Charge only once per Pokémon
+per Scene.
+Endurance
+Prerequisites: Tough Tumble Rank 1
+Scene ­ Free Action
+Trigger: Your Pokémon takes falling damage, begins to
+suffocate, or is Heavily Injured.
+Effect: Your Pokémon can ignore up to X meters of falling
+when calculating falling damage, act without beginning
+to suffocate for X additional rounds, or ignore the Hit
+Point loss effects from acting while Heavily Injured for
+X rounds. X is equal to half its number of Tough Dice
+from Poffins.
+

@@ -1,0 +1,214 @@
+Skills, Edges, Feats
+60
+Pokémon Training and Order Features
+These Features are also used in the raising and battling of Pokémon but have special rules associated with them ­
+all of them have the [Orders] tag or are Features that manipulate other Features with this tag.
+Commander's Voice
+Prerequisites: Two Features with the [Orders] tag
+Static
+Effect: You may give two different [Orders] as a single
+Standard Action, or you may give one set of [Orders] as
+a Swift Action.
+Special: If this is used to use Focused Command and
+another [Order] that has targets, the second Order
+applies to both Pokémon you are commanding that
+turn. Commander's Voice doesn't allow you to use
+Focused Command as a Swift Action.
+Focused Command
+[Orders]
+Prerequisites: Master Command, one of Focus, Guile,
+Intimidate, or Pokémon Education at Expert
+At-Will ­ Standard Action + Swift Action
+Effect: You may have a second Pokémon take a turn this
+round, but both Pokémon can only take At-Will actions
+that round. Additionally, both Pokémon receive a -5
+Penalty on all Damage Rolls. You may pay 1 AP at the
+beginning of the round to lift the Frequency Restriction
+OR the Damage Penalty for the remainder of the round,
+or pay 2 AP to lift both.
+Note: Focused Command has no targets, which may be
+relevant to certain Features which refer to [Orders]
+Training Features: The following four Features are special types of Orders which can also be used to train your
+Pokémon outside of battle. They have special rules noted on the Feature Tags page that will be repeated here.
+You may choose to use Training Features as either a [Training] or an [Orders] Feature; it never has both tags at
+once when used.
+You may use it as a [Training] Feature as an Extended Action after you spend at least an hour training your
+Pokémon. If you do, the effect applies to any of the Pokémon Trained, and lasts until the end of your next Extended
+Rest. A Pokémon can be under the effect of only one Training Regime at a time this way.
+However, these Features may also be used as [Orders] as a Standard Action. When used as [Orders], this applies
+only to one of your Pokémon, and lasts only until the beginning of your next turn. When used as [Orders], they
+may stack with the effects of any active [Training] (whether the [Orders] be for Training of the same Feature, or a
+different Feature).
+Agility Training
+[Training] [Orders]
+Prerequisites: Novice Athletics, Untrained Command
+At-Will ­ Special
+Effect: The target becomes Agile until the end of the
+effect duration. Agile Pokémon gain a +1 bonus to
+Movement Capabilities and +4 to Initiative.
+Brutal Training
+[Training] [Orders]
+Prerequisites: Novice Intimidate, Untrained Command
+At-Will ­ Special
+Effect: The target becomes Brutal until the end of the
+effect duration. Brutal Pokémon increase the Critical-
+Hit and Effect Range of all attacks by +1.
+Focused Training
+[Training] [Orders]
+Prerequisites: Novice Command
+At-Will ­ Special
+Effect: The target becomes Focused until the end of the
+effect duration. Focused Pokémon gain a +1 bonus to
+Accuracy Rolls and +2 to Skill Checks.
+Inspired Training
+[Training] [Orders]
+Prerequisites: Novice Charm, Untrained Command
+At-Will ­ Special
+Effect: The target becomes Inspired until the end of the
+effect duration. Inspired Pokémon gain a +1 bonus to
+Evasion and +2 to Save Checks.
+Skills, Edges, Feats
+61
+[Stratagem] Features are special Orders which are activated once and then have a persistent effect while AP is
+Bound. [Stratagem] Features may only be Bound during combat and automatically Unbind when combat ends.
+Only one [Stratagem] may be Bound by a Pokémon at a given time.
+When using a [Stratagem] on multiple targets, each AP Bind is paid separately and may be released separately as
+well.
+Ravager Orders
+Prerequisites: Expert Command or Intimidate
+Static
+Effect: You gain the Reckless Advance and Strike Again!
+Orders.
+Reckless Advance
+[Orders] [Stratagem]
+Bind 2 AP ­ Standard Action
+Target: Your Pokémon
+Effect: While this Feature is Bound, increase the
+damage rolls of the target's damaging melee attacks by
++8, and these attacks Trip targets on Accuracy Rolls of
+18+. When the target of Reckless Advance hits with a
+damaging melee attack, they become Vulnerable for one
+full round.
+Strike Again!
+[Orders]
+Scene ­ Standard Action
+Target: Your Pokémon
+Effect: The target may immediately take an additional
+Standard Action to use an At-Will attack.
+Marksman Orders
+Prerequisites: Expert Perception or Guile
+Static
+Effect: You gain the Trick Shot and Long Shot Orders.
+Trick Shot
+[Orders] [Stratagem]
+Bind 2 AP ­ Standard Action
+Target: Your Pokémon
+Effect: While this Feature is Bound, decrease the Accu-
+racy Roll of the target's damaging ranged attacks by -2.
+The Critical Hit range of those attacks is increased by
++3. This Feature does not affect Moves without an AC
+value.
+Long Shot
+[Orders]
+Scene x2 ­ Standard Action
+Target: Your Pokémon
+Effect: The target's damaging ranged attacks have their
+range doubled until the end of their next turn, and deal
+X additional damage. X is equal to the distance in meters
+that the attack traveled. Long Shot does not increase the
+size of area of effect attacks. If attacks altered by Long
+Shot are Critical Hits, add the value of the Damage Dice
+Roll an additional time to the total damage.
+Orders, Training Features, and Trainer Classes
+A number of Trainer Classes have their own Orders, or Features which are reliant on Orders and Training Features
+to function. Because the effectiveness of using some of these Classes is often reliant on choosing other Order-
+related Features for them to use, we're putting a list of all such Classes and their Features which are either Orders
+or somehow synergize with Orders and Training Features in one place for you to easily browse.
+Ace Trainer: Elite Trainer, Critical Moment
+Channeler: Battle Synchronization, Spirit Boost
+Cheerleader: Cheerleader; Moment of Action; Go,
+Fight, Win!
+Commander: The entire Class
+Coordinator: Decisive Director
+Duelist: Expend Momentum, Directed Focus, Duelist's
+Manual
+Chronicler: Targeted Profiling
+Fashionista: Dress to Impress
+Rider: Rider, Conqueror's March
+Stat Ace: Stat Stratagem
+Survivalist: Wilderness Guide
+Taskmaster: Taskmaster, Strike of the Whip
+Type Ace: Type Refresh, Type-Specific Stratagems
+Skills, Edges, Feats
+62
+Trickster Orders
+Prerequisites: Expert Charm or Guile
+Static
+Effect: You gain the Capricious Whirl and Dazzling
+Dervish Orders.
+Capricious Whirl
+[Orders] [Stratagem]
+Bind 2 AP ­ Standard Action
+Target: Your Pokémon
+Effect: While this Feature is Bound, the target has a +3
+bonus to its Evasion but deals 5 less damage with all
+damaging attacks.
+Dazzling Dervish
+[Orders]
+Scene x2 ­ Standard Action
+Target: Your Pokémon
+Effect: Until the end of their next turn, the target adds
+their non-stat Evasion to their Movement Capabilities
+and whenever they attack a foe or Shift through a square
+occupied by a foe, that foe suffers a -3 penalty to all rolls
+until the end of their next turn. This effect may only
+affect a foe once per round.
+Guardian Orders
+Prerequisites: Expert Charm or Intimidate
+Static
+Effect: You gain the Brace for Impact and Sentinel
+Stance Orders.
+Brace for Impact
+[Orders] [Stratagem]
+Bind 2 AP ­ Standard Action
+Target: Your Pokémon
+Effect: While this Feature is Bound, once a round, when
+the target uses a self-targeting Status Move, they may
+gain 5 Damage Reduction until the end of their next
+turn. They may also activate this effect as a Standard
+Action.
+Sentinel Stance
+[Orders]
+Scene x2 ­ Standard Action
+Target: Your Pokémon
+Effect: Until the end of your next turn, the target may
+attempt to Intercept attacks for allies as a Shift Action. If
+they do so, they gain 10 Damage Reduction against the
+attack. If the target is also under the effect of Brace for
+Impact, they may gain 5 Damage Reduction from it as if
+they had used a self-targeting Status Move.
+Precision Orders
+Prerequisites: Expert Command or Perception
+Static
+Effect: You gain the Pinpoint Strike and Perfect Aim
+Orders.
+Pinpoint Strike
+[Orders] [Stratagem]
+Bind 2 AP ­ Standard Action
+Target: Your Pokémon
+Effect: Increase the Accuracy and Effect Range of the
+target's damaging attacks by +2. These attacks deal 5 less
+damage, before applying weakness and resistance.
+Perfect Aim
+[Orders]
+Scene x2 ­ Standard Action
+Target: Your Pokémon
+Effect: The next damaging attack the target performs
+before the end of your next turn automatically hits and
+ignores Defensive Abilities but deals damage as if it were
+resisted one step further than normal. You may still roll
+to trigger any Effect Ranges or Critical Hits. All targets
+of the attack may not activate any Blessings in response,
+and the attack may not be Intercepted or avoided in any
+way (ex: with Dodge, Shield Moves, etc).
+

@@ -1,0 +1,53 @@
+Grass Moves:
+Move: Apple Acid
+Type: Grass
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: Cone 2
+Effect: The target's Special Defense is lowered by 1
+CS.
+Contest Type: Smart
+Contest Effect: Unsettling
+Move: Branch Poke
+Type: Grass
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: 2, 1 Target
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Drum Beating
+Type: Grass
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: 4, 1 Target
+Effect: The target's Speed is lowered by 1 CS.
+Contest Type: Smart
+Contest Effect: Big Show
+Move: Grav Apple
+Type: Grass
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: 6, 1 Target
+Effect: The target's Defense is lowered by 1 CS.
+Contest Type: Smart
+Contest Effect: Excitement
+Move: Snap Trap
+Type: Grass
+Frequency: Scene x2
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, 1 Target
+Effect: The target is trapped in a Vortex. The DC to
+escape the Vortex is increased by 3.
+Contest Type: Smart
+Contest Effect: Sabotage
+

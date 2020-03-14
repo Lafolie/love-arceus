@@ -1,0 +1,37 @@
+Water Moves:
+Move: Fishious Rend
+Type: Water
+Frequency: Scene x2
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, 1 Target
+Effect: Against targets with a lower initiative that
+have not yet acted this round, Fishious Rend deals +10
+damage.
+Contest Type: Cool
+Contest Effect: Catching Up
+Move: Life Dew
+Type: Water
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Burst 1, Healing
+Effect: The user and all allies in the burst regain Hit
+Points equal to 1/4 of their Maximum Hit Points.
+Contest Type: Beauty
+Contest Effect: Saving Grace
+Move: Snipe Shot
+Type: Water
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: 8, 1 Target
+Effect: Snipe Shot is a Critical Hit on 18+. This Move
+may not be Intercepted, nor may any Abilities, Moves,
+or Features be activated to change this Move's target.
+Any of those existing effects (such as Follow Me) fail.
+Contest Type: Beauty
+Contest Effect: Reliable
+

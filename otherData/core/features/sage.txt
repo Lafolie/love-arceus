@@ -1,0 +1,69 @@
+Trainer Classes
+189
+Sage
+[Class] [+HP]
+Prerequisites: Novice Occult Education
+At-Will ­ Standard Action
+Target: An ally within 5 meters
+Effect: The target gains Damage Reduction equal to your Occult Education Rank doubled or their Tick Value,
+whichever is higher, for one full round.
+Note: Multiple uses of Sage from different Trainers do not stack on one target.
+Sacred Shield
+[+HP]
+Prerequisites: Sage
+Static
+Effect: You learn the Moves Reflect and Lucky Chant.
+Mystic Defense
+[+HP]
+Prerequisites: Sage
+Static
+Effect: You learn the Moves Light Screen and Safeguard.
+Sage's Benediction
+[+HP]
+Prerequisites: Sacred Shield or Mystic Defense, Adept
+Occult Education
+1 AP ­ Free Action
+Trigger: An ally activates one of your Moves with the
+Blessing Keyword.
+Effect: The triggering ally gains an additional benefit as
+follows, depending on the Move used. The benefit takes
+effect after the Blessing and the attack that triggered it
+are resolved.
+»
+» Reflect: +1 Defense Combat Stage
+»
+» Light Screen: +1 Sp. Defense Combat Stage
+»
+» Safeguard: +1 Evasion
+»
+» Lucky Chant: +1 Accuracy
+Lay on Hands
+[+HP]
+Prerequisites: Sage, Expert Occult Education
+Static
+Effect: Choose Blessed Touch or Healer. You gain the
+Chosen Ability.
+Highly Responsive to Prayers
+[+HP]
+Prerequisites: Lay on Hands
+Scene x3 ­ Free Action
+Trigger: You use the Blessed Touch or Healer Ability on
+an ally, or an ally receives an Injury
+Effect: You may use the Sage Feature as a Free Action
+targeting the triggering ally. Multiple instances of Sage's
+effect that you use may stack when used this way.
+Divine Wind
+[+HP]
+Prerequisites: Sage's Benediction, Master Occult
+Education
+2 AP ­ Free Action, Interrupt
+Target: Blessings you generated with a Sage Move
+Effect: Choose a type of Blessing you can generate with
+a Sage Move. All Blessings you generated of another
+type become Blessings of the chosen type. This may not
+be used to generate more uses of a Blessing than the
+original Move creates. For example, three Lucky Chant
+Blessings would become two Reflect or Light Screen
+Blessings, not three. You may only choose a Blessing
+type once per Scene.
+

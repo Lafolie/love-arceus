@@ -1,0 +1,403 @@
+New Keywords:
+Healing. Add this keyword to Aromatherapy, Heal
+Bell, Heal Pulse, Healing Wish, Moonlight, Recover,
+Slack Off, Rest, Synthesis, and Wish.
+New Capabilities:
+Viral Fusion: Necrozma can assimilate other
+creatures, and bonding into a single Pokémon.
+As an Extended Action, Necrozma may bond with a
+willing or helpless Pokémon, removing them from
+play until they are released as another Extended
+Action. Necrozma's Movement and Jumping
+capabilities become the bonded Pokémon's, as does
+Power if the bond's is higher. Necrozma's Athletics,
+Acrobatics, Combat, Stealth, and Perception become
+the bonded Pokémon's, though they are increased
+by one rank, to a maximum of 6d6. Necrozma takes
+the bond's Primary Type (or Secondary Type if its
+Primary Type is Psychic) as its Secondary Type.
+While bonded, the GM will designate one move as
+the bonded species' Level-Up Movelist as its
+`signature move'. Necrozma may add this move to its
+learned movelist as long as it is bonded, following
+normal movelist restrictions, as long as it is of a level
+to learn it normally.
+For Solgaleo, this move is always Sunsteel Strike; for
+Lunala, this move is always Moongeist Beam. These
+Pokémon have specific forms used while bonded.
+Zygarde Cells: Zygarde is composed of many cells,
+its strength determined by how many are gathered.
+Using a Zygarde Cube, as an Extended Action, 10
+Cells may be formed into a 10% Zygarde, and 50
+Cells may be formed into a 50% Zygarde. These may
+be disassembled into the number of Cells that they
+were created from as an Extended Action. 100 Cells
+may form either a 10% or 50% Zygarde with the
+Power Construct Ability instead of Aura Break. The
+resulting Zygarde may not be disassembled, but may
+be changed between 10% and 50% Formes as an
+Extended Action using the Cube. The GM determines
+the Nature and Level of any Zygarde formed. As an
+Extended Action, a Cube may Tutor Zygarde
+available Cube moves for 1 TP each.
+New Abilities:
+Ability: Anchored
+Static
+Effect: Dhelmise has an Anchor token on the field,
+which occupies one square as if it is Medium sized
+but is otherwise ignored for cover and targeting.
+Dhelmise cannot move or be moved more than 3
+meters away from its Anchor, willingly or otherwise.
+The Anchor token itself cannot be pushed, pulled, or
+moved against Dhelmise's will in any way. Dhelmise
+may shift their Anchor Token as a Swift Action,
+moving it to any open space within 3 meters of itself.
+Bonus: When the user Shifts the Anchor, it may
+immediately afterwards originate an attack from its
+Anchor if it has the appropriate action available,
+giving that attack the following properties: the
+attack's range changes to "Melee, 1 Target", the
+attack deals +2d6 damage, and the attack's Class
+changes to Physical if it wasn't already.
+Ability: Battery
+Scene x2 ­ Swift Action
+Target: An Adjacent Ally
+Effect: The target's next Special Attack deals +2d6+4
+damage. If that attack is Electric-Typed, it deals
++3d6+6 more damage instead.
+Ability: Beast Boost
+At-Will ­ Free Action
+Trigger: The user's Damaging Attack causes an
+opponent to Faint
+Effect: The user receives +1 Combat Stage in their
+highest non-HP stat.
+Ability: Berserk
+At-Will ­ Free Action
+Trigger: The user's drops to half HP or below for the
+first time in an encounter, or becomes Enraged
+Effect: The user receives +1 Special Attack Combat
+Stage.
+Ability: Chemical Romance
+Static
+Effect: Connection ­ Sweet Scent. Whenever the
+user hits a male target with Poison Gas, Smog, Sweet
+Scent, Toxic, or Venom Drench, that target becomes
+Infatuated with the user.
+Ability: Comatose
+At-Will ­ Move Action
+Effect: The user falls Asleep, and regains a Tick of Hit
+Points.
+Bonus: The user may act normally while Asleep and
+ignores all other penalties from being Asleep. While
+Asleep, the user does not make Save Checks to wake
+up, and wakes up from being hit only if they want to.
+Ability: Corrosion
+Static
+Effect: The user's Poison-Type attacks are resisted
+one step less, and deal damage to Immune targets as
+if they were doubly resisted. The user may Poison
+and Badly Poison Steel and Poison-Type Pokémon.
+Ability: Dancer
+Scene x2 ­ Free Action
+Trigger: Someone within 10 meters uses a Status-
+Class Dance Move
+Effect: The user may immediately use the triggering
+Move as a Free Action.
+Ability: Dazzling
+Scene x2 ­ Swift Action
+Target: An Adjacent Foe
+Effect: For the rest of the Scene, the target's
+Initiative is lowered by 10 and cannot use Priority
+Moves.
+Bonus: Interrupt Moves may not be declared in
+response to the user's actions.
+Ability: Disguise
+Daily ­ Free Action
+Trigger: The user is hit by a Damaging Move.
+Effect: The triggering attack instead misses and has
+no effect. The user then gains +1 CS in a Stat of their
+choice. Defensive.
+Ability: Electric Surge
+Scene x3 ­ Swift Action
+Effect: The Field becomes Electrified, as if affected
+by the Move Electric Terrain, for one full round.
+Ability: Emergency Exit
+Scene ­ Free Action
+Effect: When the user's Hit Points drop below half
+their maximum, their trainer may immediately recall
+the user and send out another Pokémon as a Free
+Action. If the user hasn't taken their turn yet, their
+replacement may act this round. Defensive.
+Bonus: The user is immune to being Trapped.
+Ability: Fluffy
+Static
+Effect: The user resists damaging Melee attacks one
+step further, but resists Fire-Type attacks one step
+less. Defensive.
+Ability: Full Metal Body
+Static
+Effect: The user's Combat Stages may not be
+lowered by the effect of foes' Features, Abilities, or
+Moves. Status Afflictions may still alter their Combat
+Stages. Defensive.
+Ability: Galvanize
+At-Will ­ Free Action
+Trigger: The user uses a Normal-Type damaging
+Move
+Effect: The Move is changed to be Electric-Type.
+Ability: Glisten
+Static
+Effect: The user is immune to Fairy-Type attacks.
+Defensive.
+Bonus: If the user is hit by a damaging Fairy-Type
+attack, they receive +1 Defense or Special Defense
+Combat Stages.
+Ability: Grassy Surge
+Scene x3 ­ Swift Action
+Effect: The Field becomes Grassy, as if affected by
+the Move Grassy Terrain, for one full round.
+Ability: Handyman
+Static
+Effect: The user may hold two Held Items at once.
+Whenever an Ability or Move affects the user's Held
+Items, you may choose which one is affected.
+Ability: Horde Break
+At-Will ­ Free Action
+Trigger: The user changes from School Form to Solo
+Form
+Effect: The user is cured of all Status Conditions.
+Ability: Innards Out
+Scene x2 ­ Free Action
+Trigger: The user is hit by a Damaging Attack
+Effect: The user resists the triggering attack one step
+further. After the attack is resolved, a foe within 2
+meters loses Hit Points equal to twice the amount of
+Hit Points lost by the user from the triggering attack,
+even if the triggering attack caused the user to Faint.
+Ability: Liquid Voice
+At-Will ­ Free Action
+Trigger: The user uses a Move with the Sonic
+keyword
+Effect: The triggering move loses the Sonic keyword,
+but gains the Friendly keyword and becomes Water
+Typed. If the Move was a Status Class Move, you
+may treat it as a Special Move with DB1.
+Ability: Long Reach
+Static
+Effect: The user may use damaging attacks as if they
+had a range of "8, 1 Target" instead of their usual
+range.
+Ability: Merciless
+Static
+Effect: If the user hits a poisoned target with a
+damaging attack, it automatically becomes a Critical
+Hit.
+Ability: Misty Surge
+Scene x3 ­ Swift Action
+Effect: The Field becomes Misty, as if affected by the
+Move Misty Terrain, for one full round.
+Ability: Mud Shield
+Scene ­ Swift Action
+Effect: The user gains two ticks worth of Temporary
+Hit Points.
+Bonus: When standing on any muddy or dirty terrain
+that is either Slow or Rough Terrain, the user gains
++5 Damage Reduction. Defensive.
+Ability: Neuroforce
+Static
+Effect: Whenever you deal Super-Effective Damage
+to a target, that target treats your Damage Roll as it
+were increased by +10.
+Ability: Power Construct
+Daily ­ Swift Action
+Special: The user can only use Power Construct while
+below 50% HP
+Effect: The user changes to Complete Forme until
+the end of the Scene, and gains Temporary Hit Points
+equal to half of the maximum hit points that
+Complete Forme would have. The user cannot gain
+Temporary Hit Points from other sources while in
+Complete Forme.
+Special: The user still uses the HP total and HP
+Maximum of the Forme that it was in (10% or 50%
+Forme) before entering Complete Forme. Both
+Formes must still follow BSR.
+Ability: Power of Alchemy
+Scene ­ Free Action
+Target: A Trainer or Pokémon within 10 meters
+Effect: The Pokémon gains an Ability known by the
+Target for the remainder of the encounter, or until it
+is Fainted.
+Ability: Prism Armor
+Static
+Effect: The user gains +5 Damage Reduction against
+Super Effective-Damage. Defensive.
+Ability: Psychic Surge
+Scene x3 ­ Swift Action
+Effect: The Field becomes Weird, as if affected by
+the Move Psychic Terrain, for one full round.
+Ability: Queenly Majesty
+Scene x2 ­ Free Action
+Target: An Adjacent Foe
+Trigger: An adjacent foe uses a Priority Move or an
+Interrupt action
+Effect: Connection ­ Stomp. The user may attack the
+triggering foe with Stomp as a Free Action Interrupt.
+Bonus: The user cannot be targeted by Interrupt
+Moves and Interrupts may not be declared in
+response to the user's actions.
+Ability: Radiant Beam
+Static
+Effect: The user may use damaging Grass-Type
+attacks as if they had a range of "Line 4" instead of
+their usual range.
+Ability: Receiver
+Special ­ Free Action
+Effect: Each effect below may be used once per
+scene when triggered:
+· When an ally faints, the user selects one of
+their Abilities. The user gains that Ability
+until the end of the encounter.
+· When the user faints, they may grant use of
+one of their Basic Abilities to an ally on the
+field for the rest of the encounter.
+Ability: Revelation
+Scene x2 ­ Free Action
+Trigger: Someone within 10 meters uses a Damaging
+Dance Move
+Effect: The user may immediately use the triggering
+Move as a Standard Action interrupt.
+Bonus: Whenever the user uses a Dance Move, they
+gain +2 to Accuracy Rolls until the end of their next
+turn.
+Ability: RKS System
+Scene ­ Free Action
+Effect: If the user is hit by a damaging attack, they
+may calculate damage as if they were Normal-Type
+instead. If they were already Normal-Type, they
+instead resist the damage one step further.
+Bonus: The user's Type changes to match the Type
+of their held Memory Disc.
+Ability: Schooling
+Daily ­ Free Action
+Effect: The user changes to Schooling Forme, and
+gains Temporary Hit Points equal to half of its own
+maximum Hit Points. The user cannot gain
+Temporary Hit Points from other sources while in
+Schooling Forme. When the user is below half
+Maximum HP and has no Temporary Hit Points left,
+they change back into Solo Forme.
+Bonus: The user has two sets of base stats; Solo and
+Schooling. The HP of both forms must be the same.
+Ability: Shadow Shield
+Static
+Effect: While at full Hit Points, the user resists all
+damage one step further. Defensive.
+Ability: Shields Down
+Static
+Effect: The user has two sets of base stats; Meteor
+and Core. The HP of both forms must be the same.
+When the user is in Meteor Forme and are reduced
+to half Maximum HP or lower, they change to Core
+Forme. The user returns to Meteor Forme while
+outside of combat if above half Maximum HP.
+Ability: Slush Rush
+Static
+Effect: While in Hailing Weather or under half
+maximum Hit Points, the user's Initiative is doubled.
+Ability: Soul Heart
+Scene x2 ­ Free Action
+Trigger: A combatant in the encounter Faints
+Effect: The user receives +2 Special Attack Combat
+Stages and gains a tick of Temporary Hit Points.
+Ability: Stakeout
+Static
+Effect: The user gains a +2d6+4 bonus on damage
+rolls against foes that were released from a Pokéball
+or entered the encounter since the user's last turn.
+Ability: Stamina
+At-Will ­ Free Action
+Trigger: The user is hit by a Damaging Attack
+Effect: The user receives +1 Defense Combat Stage.
+Defensive.
+Ability: Steelworker
+Scene ­ Free Action
+Trigger: The user takes damage while adjacent to its
+Anchor
+Effect: The user calculates damage as if it was only
+Steel-Typed.
+Bonus: The user gains STAB on Steel-Type Moves
+that originate from its Anchor.
+Ability: Surge Surfer
+Static
+Effect: On Electric Terrain or while under half
+maximum Hit Points, the user's Initiative is doubled.
+Ability: Tangling Hair
+At-Will ­ Free Action
+Trigger: The user is hit by a Melee Attack
+Effect: The attacker receives -1 Speed Combat Stage
+and is Slowed until the end of its next turn.
+Ability: Triage
+Static
+Effect: The user's moves with the Healing keyword
+may be used as Priority moves.
+Ability: Water Bubble
+Static
+Effect: The user resists Fire-Type attacks one step
+further, is immune to being Burned, and may always
+act as though in Rainy Weather. Defensive.
+Bonus: The user may attack with Water-Type Moves
+as if they had a range of "Melee, 1 target". If they
+do, that Move's Class is changed to Physical and it
+deals +1d6+2 damage.
+Ability: Water Compaction
+At-Will ­ Free Action
+Trigger: The user is hit by a Water Type Move
+Effect: The user receives +2 Defense Combat Stages.
+Defensive.
+Ability: Wily
+Static
+Effect: The user's X-target Status Class Moves may
+target an additional target within range.
+Adjusted Abilities:
+Ability: Accelerate
+Scene x2 ­ Free Action
+Effect: The user may use a damaging Move to which
+they add STAB as a Priority Move. If the Move hits,
+the user adds half their Speed Stat to the Damage
+Roll. If the Move already had Priority, the attack
+gains a +4 Bonus to Accuracy.
+Replaces: Maelstrom Pulse, Leaf Rush, & Gale Wings
+Ability: Frisk
+Static
+Effect: The user gains a +2 Bonus to all Accuracy
+Rolls against adjacent targets.
+Ability: Gale Wings
+Static
+Effect: Connection ­ Quick Attack. The user may use
+Quick Attack as a Flying-Type Move.
+Ability: Unaware
+Static
+Effect: Whenever the user attacks, they ignore all
+positive Combat Stages to the target's Defense,
+Special Defense, and Speed.
+Fletching Line Ability Updates:
+Fletchling:
+Basic Ability 1: Keen Eye
+Basic Ability 2: Gale Wings
+Advanced Ability 1: Big Pecks
+Advanced Ability 2: Accelerate
+High Ability: Rocket
+Fletchinder:
+Basic Ability 1: Keen Eye
+Basic Ability 2: Gale Wings
+Advanced Ability 1: Flame Body
+Advanced Ability 2: Accelerate
+High Ability: Rocket
+Talonflame:
+Basic Ability 1: Keen Eye
+Basic Ability 2: Gale Wings
+Advanced Ability 1: Flame Body
+Advanced Ability 2: Accelerate
+High Ability: Rocket
+

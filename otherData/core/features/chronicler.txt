@@ -1,0 +1,80 @@
+Trainer Classes
+134
+Chronicler
+[Class]
+Prerequisites: Novice Perception
+1 AP ­ Swift Action, Interrupt
+Target: A Pokémon, Trainer, Move, or Location.
+Effect: You make Record of the target. Records can be placed in an Archive as an Extended Action. When you take
+Chronicler, you gain one Archive.
+Archives:
+Profile Archive: You may place Records of Pokémon and Trainers in your Profile Archive. You gain a +2 bonus
+to Charm, Guile, Command, Intimidate, and Intuition Checks targeting Pokémon and Trainers in your Profile
+Archive.
+Technique Archive: You may place Records of Moves in your Technique Archive. You and your Pokémon gain +2
+Evasion against Moves in your Technique Archives.
+Travel Archive: You may place Records of Locations in your Travel Archive. When you gain Travel Archive,
+choose Keen Eye or Perception. While you are in a Location in your Travel Archive, you have the Chosen Ability
+and gain a +2 bonus to Perception Checks to notice the environment.
+Archival Training
+[Ranked 2]
+All Rank Prerequisites: Chronicler
+Static
+Effect: Each Rank, you gain an Archive.
+Archive Tutor
+Prerequisites: Technique Archive, Expert Perception
+Daily ­ Extended Action
+Target: A Pokémon with 2 Tutor Points.
+Effect: Select a Record in your Technique Archive that
+is of a Move that the target can learn by Level Up, TM
+or by Move Tutor. The target learns the Move and loses
+2 Tutor Points. You can target someone else's Pokémon
+only once with Archive Tutor; you may target your own
+Pokémon any number of times with Archive Tutor, but
+they must still abide by any Move Pool Limitations (ie:
+no more than 3 of the user's Move Pool can come from
+TMs or Tutor Moves).
+Targeted Profiling
+[Orders]
+Prerequisites: Profile Archive, Expert Perception
+2 AP ­ Standard Action
+Target: Your Pokémon
+Effect: On the target's next turn, they act as if they
+had the Mold Breaker Ability against all Pokémon and
+Trainers in your Profile Archive and gains a +2 bonus to
+Accuracy Rolls against these targets.
+Observation Party
+Prerequisites: Travel Archive, Adept Perception
+Static
+Effect: While they are in a Location in your Travel
+Archive, your Pokémon have the Ability you chose
+when gaining Travel Archive and gain a +2 bonus to
+Perception Checks to notice the environment.
+Trainer Classes
+135
+Cinematic Analysis
+Prerequisites: 4 Chronicler Features, Master Perception
+Daily x3 ­ Free Action
+Effect: You analyze a Record in one of your Archives.
+Cinematic Analysis's effect depends on the Archive the
+Record is in. Each of these effects may only be used
+once per Scene.
+Character Study ­ Profile Archive: You may trigger
+Character Study when you or an ally makes a Charm,
+Command, Guile, Intimidate, or Intuition Check
+targeting the subject of your Record. Make a Perception
+Check and substitute the triggering Skill Check with the
+result.
+Recreation ­ Technique Archive: Recreation may be
+triggered as your Pokémon gains Initiative. Select a
+Record of a Move in your Technique Archive that your
+Pokémon can learn by Level Up, TM, or Move Tutor.
+Your Pokémon may perform that Move as if it was on
+its Move List. You may select a specific Move only once
+per day.
+Situational Awareness ­ Travel Archive: You may only
+use Situational Awareness if you analyze a Record of
+your current Location. When used this way, you may
+activate it as an Interrupt. Choose an ally; that ally may
+take their next action as Priority (Advanced).
+

@@ -1,0 +1,70 @@
+Indices and Reference
+310
+Abilities are a special type of trait that Pokémon and
+some Trainers can have. Pokémon are all born with one
+Ability and may naturally grow to learn others or can
+be taught them by a dedicated Trainer. Most Abilities
+are passive effects, or Static in game terms, that are
+constantly on whether for good or ill. Other activate
+when certain conditions are met, such as the presence
+of a particular Weather or being hit by a specific Type
+of attack. A few Abilities require more active focus to
+execute and take up a Pokémon or Trainer's Standard
+Action just as a Move would.
+Abilities are read much like Moves or Features are.
+Name: The Name is what the Ability is called. This is
+useful for keeping track of what Ability your Pokémon
+has.
+Frequency ­ Action Type: The Frequency is how often
+the Ability can be used. These generally are Static, At-
+Will, Scene, or Daily. These Frequencies are the same
+as Feature or Move Frequencies of the same name.
+The Action Type listed determines the sort of action
+required to activate the ability ­ usually a free action.
+Effect: The Effect is of course what the Ability does.
+Ability Keywords
+Some abilities may have a Keyword descriptor. See
+below for the Ability keywords.
+Connection: This keyword is followed by a Move, with
+which the user has an innate connection. Upon gaining
+the Ability, the user learns the Move, forgetting another
+Move if necessary. This Move cannot be forgotten
+through any means. If the user has 1 Tutor Point,
+they may immediately spend it to gain the "Advanced
+Connection" Edge and avoid forgetting any Moves.
+Defensive:
+Immune: Abilities with the keyword Immune cannot be
+affected by a certain Status Affliction. This is described
+per Ability.
+Last Chance: Last Chance Abilities are always associated
+with an Elemental Type. The user gains a +5 bonus to
+Damage Rolls when using attacks of that Type. This
+bonus increases to +10 when the user is under 1/3rd of
+their Maximum Hit Points.
+Pickup: The Ability Pickup lets Pokémon or Trainers
+find items using their natural senses and natural
+curiosity, or using psychic abilities. Whenever the ability
+is activated, roll 1d20 and consult the chart below. The
+chart determines the category of Item, but the GM
+decides what the specific Item is.
+Roll Item Type Other
+1-5 None You find nothing
+6-7 X-Item One X Attack, or X
+Defend, Etc.
+8-10 Berries Any Random Berry
+11-13 Poké Ball Any Random Poké Ball
+14-16 Status/Healing Any Random Status
+healing item or HP
+healing item
+17 Evolutionary
+Stones
+Any Random
+Evolutionary Stone
+18 Performance
+Enhancers
+Any Random Vitamin
+19 Hold Item Any Random Hold Item
+20 TM Any Random TM
+
+Abilities
+

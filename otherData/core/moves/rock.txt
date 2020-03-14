@@ -1,0 +1,194 @@
+Indices and Reference
+426
+Rock Moves
+Move: Ancient Power
+Type: Rock
+Frequency: EOT
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Special
+Range: 6, 1 Target, Spirit Surge
+Effect: On 19+, the user has each of its stats raised by +1
+Combat Stage.
+Contest Type: Tough
+Contest Effect: Desperation
+Move: Diamond Storm
+Type: Rock
+Frequency: Scene
+AC: 3
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Close Blast 3, Friendly, Smite
+Effect: On Even-Numbered Rolls, Diamond Storm
+raises the User's Defense by 1 Combat Stage.
+Contest Type: Beauty
+Contest Effect: Seen Nothing Yet
+Move: Head Smash
+Type: Rock
+Frequency: Scene
+AC: 5
+Damage Base 15: 4d10+20 / 45
+Class: Physical
+Range: Melee, 1 Target, Dash, Push, Recoil 1/3
+Effect: The target is pushed 2 meters.
+Contest Type: Tough
+Contest Effect: Seen Nothing Yet
+Move: Power Gem
+Type: Rock
+Frequency: At-Will
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: 6, 1 Target
+Effect: None
+Contest Type: Beauty
+Contest Effect: Steady Performance
+Move: Rock Blast
+Type: Rock
+Frequency: EOT
+AC: 5
+Damage Base 3: 1d6+5 / 9
+Class: Physical
+Range: 6, 1 Target, Five Strike
+Effect: None
+Contest Type: Tough
+Contest Effect: Reliable
+Special: Grants Materializer
+Move: Rock Polish
+Type: Rock
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Speed 2 Combat Stages.
+Contest Type: Tough
+Contest Effect: Exhausting Act
+Move: Rock Slide
+Type: Rock
+Frequency: Scene x2
+AC: 4
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: 6, Ranged Blast 3
+Effect: Rock Slide Flinches all Legal Targets on 17+.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Rock Throw
+Type: Rock
+Frequency: At-Will
+AC: 4
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: 6, 1 Target
+Effect: None
+Contest Type: Tough
+Contest Effect: Steady Performance
+Indices and Reference
+427
+Move: Rock Tomb
+Type: Rock
+Frequency: At-Will
+AC: 5
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: 6, 1 Target
+Effect: Rock Tomb lowers the target's Speed by -1
+Combat Stage.
+Contest Type: Smart
+Contest Effect: Desperation
+Special: Grants Materializer
+Move: Rock Wrecker
+Type: Rock
+Frequency: Daily x2
+AC: 4
+Damage Base 15: 4d10+20 / 45
+Class: Physical
+Range: Melee, 1 Target, Dash, Exhaust, Smite
+Effect: None
+Contest Type: Tough
+Contest Effect: Seen Nothing Yet
+Special: Grants Materializer
+Move: Rollout
+Type: Rock
+Frequency: At-Will
+AC: 4
+Damage Base 3: 1d6+5 / 9
+Class: Physical
+Range: Melee, 1 Target, Pass
+Effect: The user continues to use Rollout on each of
+its turns until they miss any target with Rollout, or
+are not able to hit any target with Rollout during their
+turn. Each successive use of Rollout increases Rollout's
+Damage Base by +4 to a maximum of DB 15.
+Contest Type: Tough
+Contest Effect: Reliable
+Move: Sandstorm
+Type: Rock
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Field, Weather
+Effect: The weather changes to a Sandstorm for 5
+rounds. While it is Sandstorming, all non-Ground,
+Rock, or Steel Type Pokémon lose a Tick of Hit Points
+at the beginning of their turn.
+Contest Type: Tough
+Contest Effect: Sabotage
+Move: Smack Down
+Type: Rock
+Frequency: Scene x2
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: 8, 1 Target
+Effect: The target is knocked down to ground level, and
+loses all Sky or Levitate Speeds for 3 turns. During this
+time, they may be hit by Ground-Type Moves even if
+normally immune.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Stealth Rock
+Type: Rock
+Frequency: Scene
+AC: None
+Class: Status
+Range: Field, Hazard
+Effect: Set 4 square meters of Stealth Rock hazards
+within 6 meters. If a foe moves within 2 meters of a
+space occupied by Rocks, move at most one Rock to the
+offender, then destroy the Rock. When that happens,
+the Stealth Rock causes a foe to lose a Tick of Hit Points.
+Stealth Rock is considered to be dealing damage;
+Apply Weakness and Resistance. Do not apply stats. A
+Pokémon who has been hit by a Stealth Rock Hazard
+cannot get hit by another in the same encounter until it
+is returned to a Poké Ball and then sent back out.
+Contest Type: Cool
+Contest Effect: Sabotage
+Special: Grants Materializer
+Indices and Reference
+428
+Move: Stone Edge
+Type: Rock
+Frequency: EOT
+AC: 5
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: 8, 1 Target
+Effect: Stone Edge is a Critical Hit on 17+.
+Contest Type: Tough
+Contest Effect: Incentives
+Move: Wide Guard
+Type: Rock
+Frequency: Scene
+AC: None
+Class: Status
+Range: Burst 1, Interrupt, Shield, Trigger
+Effect: If an Ally adjacent to Wide Guard's user is hit
+by a Move, you may use Wide Guard as an Interrupt.
+All targets adjacent to Wide Guard's user, including the
+user, are instead not hit by the triggering Move and do
+not suffer any of its effects.
+Contest Type: Tough
+Contest Effect: Inversed Appeal
+

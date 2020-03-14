@@ -1,0 +1,44 @@
+Water Moves:
+Move: Liquidation
+Type: Water
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, 1 Target
+Effect: The target's Defense is lowered by 1 Combat
+Stage on a 17+.
+Contest Type: Beauty
+Contest Effect: Steady Performance
+Move: Sparkling Aria
+Type: Water
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Special
+Range: Melee, 2 Targets
+Effect: When you hit a target with Sparkling Aria, the
+user may choose to deal no damage and instead cure
+that target of Burn, Confusion, Infatuation, or Rage.
+Contest Type: Beauty
+Contest Effect: Attention Grabber
+Move: Steam Eruption
+Type: Water
+Frequency: Scene
+AC: 3
+Damage Base 11: 3d10+10 / 27
+Class: Special
+Range: Close Blast 3, Smite
+Effect: Steam Eruption burns all legal targets on a 15+.
+Contest Type: Cool
+Contest Effect: Seen Nothing Yet
+Move: Water Shuriken
+Type: Water
+Frequency: EOT
+AC: 2
+Damage Base 2: 1d6+3 / 7
+Class: Special
+Range: 6, 1 Target, Five Strike, Priority
+Contest Type: Cool
+Contest Effect: Reliable
+

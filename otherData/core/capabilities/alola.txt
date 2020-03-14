@@ -1,0 +1,80 @@
+New Keywords:
+Healing. Add this keyword to Aromatherapy, Heal
+Bell, Heal Pulse, Healing Wish, Moonlight, Recover,
+Slack Off, Rest, Synthesis, and Wish.
+New Capabilities:
+Viral Fusion: Necrozma can assimilate other
+creatures, and bonding into a single Pokémon.
+As an Extended Action, Necrozma may bond with a
+willing or helpless Pokémon, removing them from
+play until they are released as another Extended
+Action. Necrozma's Movement and Jumping
+capabilities become the bonded Pokémon's, as does
+Power if the bond's is higher. Necrozma's Athletics,
+Acrobatics, Combat, Stealth, and Perception become
+the bonded Pokémon's, though they are increased
+by one rank, to a maximum of 6d6. Necrozma takes
+the bond's Primary Type (or Secondary Type if its
+Primary Type is Psychic) as its Secondary Type.
+While bonded, the GM will designate one move as
+the bonded species' Level-Up Movelist as its
+`signature move'. Necrozma may add this move to its
+learned movelist as long as it is bonded, following
+normal movelist restrictions, as long as it is of a level
+to learn it normally.
+For Solgaleo, this move is always Sunsteel Strike; for
+Lunala, this move is always Moongeist Beam. These
+Pokémon have specific forms used while bonded.
+Zygarde Cells: Zygarde is composed of many cells,
+its strength determined by how many are gathered.
+Using a Zygarde Cube, as an Extended Action, 10
+Cells may be formed into a 10% Zygarde, and 50
+Cells may be formed into a 50% Zygarde. These may
+be disassembled into the number of Cells that they
+were created from as an Extended Action. 100 Cells
+may form either a 10% or 50% Zygarde with the
+Power Construct Ability instead of Aura Break. The
+resulting Zygarde may not be disassembled, but may
+be changed between 10% and 50% Formes as an
+Extended Action using the Cube. The GM determines
+the Nature and Level of any Zygarde formed. As an
+Extended Action, a Cube may Tutor Zygarde
+available Cube moves for 1 TP each.
+New Abilities:
+Ability: Anchored
+Static
+Effect: Dhelmise has an Anchor token on the field,
+which occupies one square as if it is Medium sized
+but is otherwise ignored for cover and targeting.
+Dhelmise cannot move or be moved more than 3
+meters away from its Anchor, willingly or otherwise.
+The Anchor token itself cannot be pushed, pulled, or
+moved against Dhelmise's will in any way. Dhelmise
+may shift their Anchor Token as a Swift Action,
+moving it to any open space within 3 meters of itself.
+Bonus: When the user Shifts the Anchor, it may
+immediately afterwards originate an attack from its
+Anchor if it has the appropriate action available,
+giving that attack the following properties: the
+attack's range changes to "Melee, 1 Target", the
+attack deals +2d6 damage, and the attack's Class
+changes to Physical if it wasn't already.
+Ability: Battery
+Scene x2 ­ Swift Action
+Target: An Adjacent Ally
+Effect: The target's next Special Attack deals +2d6+4
+damage. If that attack is Electric-Typed, it deals
++3d6+6 more damage instead.
+Ability: Beast Boost
+At-Will ­ Free Action
+Trigger: The user's Damaging Attack causes an
+opponent to Faint
+Effect: The user receives +1 Combat Stage in their
+highest non-HP stat.
+Ability: Berserk
+At-Will ­ Free Action
+Trigger: The user's drops to half HP or below for the
+first time in an encounter, or becomes Enraged
+Effect: The user receives +1 Special Attack Combat
+Stage.
+

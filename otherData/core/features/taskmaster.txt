@@ -1,0 +1,111 @@
+Trainer Classes
+105
+Taskmaster
+[Class]
+Prerequisites: Brutal Training, Novice Intimidate
+At-Will ­ Free Action
+Trigger: You apply Brutal Training as a Training action
+Effect: You may grant your Pokémon up to three injuries. If your Pokémon has at least one Injury, it becomes
+Hardened.
+Mechanic ­ Hardened
+Hardened Pokemon receive the following benefits:
+»
+» They do not lose Hit Points from acting while Heavily Injured
+»
+» Injuries beyond the 5th do not lower their Maximum Hit Points
+»
+» If they have 1 or more injuries, they gain +1 to Critical Hit and Effect Range.
+»
+» If they have 3 or more injuries, they gain +1 Evasion and +5 to Initiative.
+»
+» If they have 5 or more injuries, they gain +5 Damage Reduction.
+»
+» If they have 7 or more injuries, they are immune to Loss of Hit Points (but not damage) from all effects.
+»
+» If they have 9 or more injuries, they resist all damage one step further.
+Quick Healing
+Prerequisites: Taskmaster
+At-Will ­ Extended Action
+Effect: Your Hardened Pokémon may use Quick Healing
+to remove up to three injuries, and gains two Ticks of
+Hit Points for each Injury removed this way.
+Note: The Injury Removal from this Feature counts
+as Natural Healing, and thus counts against the total
+number of Injuries that can be removed in a day.
+Savage Strike
+Prerequisites: Taskmaster
+At-Will ­ Extended Action
+Target: Your Pokémon with at least 2 Tutor Points
+Effect: The target loses 2 Tutor Points, and gains the
+Cruelty Ability.
+Strike of the Whip
+Prerequisites: Taskmaster, Press
+At-Will ­ Swift Action
+Trigger: You use Press
+Effect: You may apply 1 or more of the following effects
+to the Pokémon hit by Press:
+»
+» Give the target 1 Injury and a Tick of Temporary
+Hit Points.
+»
+» Spend 1 AP and cure the target of Confusion,
+Infatuation, Rage, and Suppression.
+»
+» Use an [Order] you know with targets on the target
+as a Free Action.
+Pain Resistance
+Prerequisites: Taskmaster, Adept Intimidate
+1 AP ­ Free Action
+Trigger: Your Pokémon with 1 or more injuries takes
+Damage
+Effect: Your Pokémon gains X Damage Reduction
+against the triggering attack, where X is its Tick Value
+multiplied by the number of Injuries it has. This may be
+triggered once per Scene per Pokémon.
+Press On!
+Prerequisites: Taskmaster, Expert Intimidate
+Static
+Effect: Your Hardened Pokemon gain the following
+benefits, based on your Intimidate Rank
+»
+» Expert: When your Pokemon Faints, you may pay
+1 AP. If you do, your Pokemon Faints at -30% Hit
+Points instead.
+»
+» Master: While acting at 0 Hit Points or less, your
+Pokemon's Critical Hit, Effect Range, Evasion,
+Initiative, Damage Reduction, and Resistance
+Bonuses from being Hardened are doubled.
+Note: Pokémon cannot use the Moves Explosion,
+Endure, Pain Split, or Self-Destruct while they have 0
+Hit Points or less. Pokémon with the Soulless capability
+cannot benefit from Press On!
+Trainer Classes
+106
+Desperate Strike
+Prerequisites: Savage Strike, Expert Intimidate
+Scene x2 ­ Free Action
+Trigger: Your Pokémon triggers Cruelty, or scores a
+Critical Hit with damaging attack.
+Effect: Your Pokemon may apply the effects of Cruelty
+to the attack without expending Cruelty's Frequency.
+Cruelty's effects may be purchased as if the foe had
+additional injuries equal to the number of injuries on
+the user. Desperate Strike may be used once per Scene
+per Pokémon.
+Deadly Gambit
+Prerequisites: 5 Taskmaster Features, Master Intimidate
+Scene ­ Free Action
+Trigger: Your Pokémon is the target of a foe's damaging
+melee attack
+Effect: The triggering attack automatically hits as if
+it was a Critical Hit. Before damage resolves, your
+Pokémon may use a 1-Target damaging attack on the foe
+making the triggering attack as an Interrupt, Frequency
+allowing, and also automatically hits as a Critical Hit.
+Damage for both attacks then resolve at the same time.
+Note: This effect bypasses immunity to Critical Hits on
+your own Pokémon, but not on the target. Though both
+attacks hit automatically and are Critical Hits, you may
+still roll to activate effects.
+

@@ -1,0 +1,67 @@
+Trainer Classes
+193
+Telepath
+[Class] [+Special Defense]
+Prerequisites: Elemental Connection (Psychic), Iron Mind, Novice Intuition
+2 AP ­ Swift Action
+Effect: You gain the Telepathy Capability for the rest of the scene.
+Honed Mind
+[+Special Defense]
+Prerequisites: Telepath
+Static
+Effect: You learn the Moves Mind Reader and Calm
+Mind.
+Telepathic Awareness
+[+Special Defense]
+Prerequisites: Telepath
+Static
+Effect: Choose Gentle Vibe or Telepathy. You gain the
+chosen Ability.
+Thought Detection
+[+Special Defense]
+Prerequisites: Telepathic Awareness
+Scene ­ Standard Action
+Effect: You become aware of the number of living
+Humans or Pokémon within X meters of yourself; X is
+equal to your Focus Rank tripled. Pokémon or Trainers
+with the Mindlock Capability are not detected by this
+Ability. You may only use Thought Detection as long as
+you have the Telepathy Capability.
+Telepathic Warning
+[+Special Defense]
+Prerequisites: Telepathic Awareness, Expert Focus or
+Intuition
+1 AP ­ Free Action
+Trigger: You or an Ally use an Attack
+Effect: You're able to give your allies heed of attacks.
+All allies that would be hit by the attack may take a
+Shift Action as an Interrupt to move out of the area
+of effect of the attack. Using this leaves discoverable
+Psychic Residue on each affected ally. You may only use
+Telepathic Warning as long as you have the Telepath
+Capability.
+Mental Assault
+[+Special Defense]
+Prerequisites: Telepath, Expert Focus or Intuition
+Static
+Effect: You learn the Moves Extrasensory and Psyshock.
+Suggestion
+[+Special Defense]
+Prerequisites: Honed Mind, Master Focus or Intuition
+Bind 1 AP ­ Standard Action
+Target: Pokémon or Trainers
+Effect: You smoothly plant a thought into the subject's
+head that lasts as long as this Feature is Bound. They
+won't know exactly why or how they thought of it; they
+will naturally assume they thought of it themselves, and
+their brain will attempt to get there as logically as it can.
+The target may not necessarily act on the Suggestion,
+especially if it is against their nature. Using Suggestion
+to plant a specific thought may cause the target to
+think about a specific subject, dredging up surface
+thoughts related to the matter. Using this on a target
+leaves discoverable psychic residue. You may only use
+Suggestion as long as you have the Telepathy Capability,
+though you may keep it Bound without having Telepathy
+active.
+

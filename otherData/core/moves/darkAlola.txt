@@ -1,0 +1,81 @@
+Dark Moves:
+Move: Brutal Swing
+Type: Dark
+Frequency: EOT
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Burst 1
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Dark Void
+Type: Dark
+Frequency: EOT
+AC: 10
+Class: Status
+Range: Melee 1
+Effect: The target falls Asleep. Once per Scene, Dark
+Void may be used as if its range were "Burst 5,
+Friendly" instead.
+Contest Type: Smart
+Contest Effect: Excitement
+Move: Darkest Lariat
+Type: Dark
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, 1 Target
+Effect: This Move ignores the target's positive
+Defense Combat Stages and all Damage Reduction.
+Contest Type: Tough
+Contest Effect: Inversed Appeal
+Move: Hyperspace Fury
+Type: Dark
+Frequency: Daily
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Burst 2
+Effect: Interrupts may not be triggered against
+Hyperspace Fury. The user's Defense is lowered by -1
+Combat Stage.
+Contest Type: Tough
+Contest Effect: Double Time
+Move: Power Trip
+Type: Dark
+Frequency: EOT
+AC: 2
+Damage Base 2: 1d6+3 / 7
+Class: Physical
+Range: Melee, 1 Target
+Effect: This Move gains +2 to its Damage Base for
+every positive Combat Stage held by the user, to a
+maximum of DB 20.
+Contest Type: Tough
+Contest Effect: Incentives
+Move: Sucker Punch
+Type: Dark
+Frequency: At-Will
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target, Interrupt, Trigger
+Effect: If an adjacent foe targets the user with a
+Damaging Attack, Sucker Punch may be used as an
+Interrupt Move against the triggering foe.
+Contest Type: Smart
+Contest Effect: Saving Grace
+Move: Throat Chop
+Type: Dark
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: The target cannot use Moves with the Sonic
+keyword for the next two turns.
+Contest Type: Tough
+Contest Effect: Unsettling
+.
+

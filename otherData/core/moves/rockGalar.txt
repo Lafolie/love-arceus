@@ -1,0 +1,15 @@
+Rock Moves:
+Move: Tar Shot
+Type: Rock
+Frequency: Scene
+AC: 2
+Class: Status
+Range: Cone 2
+Effect: The target gains a Coat that is automatically
+expended upon being hit with a Fire Type attack in
+order to make them one step more vulnerable to that
+attack. In addition, the target's Speed is lowered by 1
+CS.
+Contest Type: Tough
+Contest Effect: Sabotage
+

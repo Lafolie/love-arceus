@@ -1,0 +1,111 @@
+The Blessed and Damned
+­55­
+Legendary Blessings
+Rank 1 Blessings
+Ancient Wisdom
+Messiah: Static
+Signer: Free Action
+Messiah Effect: You gain an extra Dice on Education:
+Occult checks, as well as any Check dealing with Occult
+topics or situations.
+Signer Effect: You may use Ancient Wisdom while
+making an Education: Occult check to add an additional
+Two Dice.
+Blessed Strike
+Messiah: Scene x3 ­ Free Action
+Signer: Free Action
+Trigger: You hit an enemy with a Struggle Attack
+Messiah Effect: Your Struggle Attack's Type matches
+that of your Patron. If your Patron has two Types,
+choose one.
+Signer Effect: Your Struggle Attack deals Typeless
+Damage.
+Paragon
+Messiah: Static
+Signer: Swift Action
+Messiah Effect: When you take Paragon, choose either
+Body, Mind or Spirit. You gain +2 to all Skill Checks
+made with Skills under that group.
+Signer Effect: You instead choose one of these Skill
+Groups, and gain a +1 bonus to this all Skill Checks
+under this category. This lasts until the end of the
+Scene. You may choose a different Skill Group each
+time you activate Paragon.
+Spirit Mending
+Messiah: Daily x3 ­ Standard Action
+Signer: Standard Action
+Target: A Pokémon or Trainer
+Messiah Effect: When using Spirit Mending, choose
+one of the following: The Target is Heals 30 HP, or the
+Target recovers two Injuries.
+Signer Effect: The target recovers 50 HP and one Injury.
+Rank 2 Blessings
+Blessed Power
+Prerequisites: Blessed Strike
+Messiah: Static
+Signer: Swift Action
+Messiah Effect: Choose a Damaging Move on your
+Patron's Level Up List that has a Damage Base of 8 or
+lower and matches one of their Types. You learn this
+Move.
+Signer Effect: You instead gain this chosen Move until
+of combat. You may choose a different Move each time
+you activate this Sign.
+Luck of the Gods
+Prerequisites: Paragon
+Messiah: Daily ­ Free Action
+Signer: Free Action
+Messiah Trigger ­ You fail a Skill Check or Accuracy
+Roll.
+Signer Trigger ­ You roll a Skill Check or Accuracy
+Roll.
+Messiah Effect: You may reroll this Skill Check or
+Accuracy Roll.
+Signer Effect: You may add +4 to this Skill Check or +2
+to this Accuracy Roll.
+Soul Mending
+Prerequisites: Spirit Mending
+Messiah: One Time Use/10 - Extended Action
+Signer: Interrupt
+Messiah Trigger: A Trainer or Pokémon dies.
+Signer Trigger: A Trainer or Pokémon is reduced
+below 0 HP.
+Messiah Effect: Your divine powers allow you to
+intervene, saving the Target's life. They are set to 5
+Injuries that will heal at half the normal rate, and 1 HP.
+Signer Effect: The Target receives no further injuries
+after being reduced below 0 HP. If being Knocked Out
+alone would set them to 10 injuries, they instead are set
+to 9 Injuries.
+The Blessed and Damned
+­56­
+Rank 3 Blessings
+Blessed Resilience
+Prerequisites: Blessed Power
+Messiah: Static
+Signer: Standard Action
+Messiah Effect: Choose two Types your Patron has
+Resistance or Immunity to. You gain Resistance to
+these types.
+Signer Effect: Choose a single Type your Patron has
+Resistance or Immunity to. You gain this Resistance to
+this Type until the end of the Scene. You may choose
+a different Type each time you use Blessed Resilience.
+Insight of the Great Ones
+Prerequisites: Ancient Wisdom
+Messiah: Scene - Swift Action
+Signer: Swift Action
+Signer Target: A Pokémon or Trainer.
+Messiah Effect: You become aware of any Pacts, Patrons,
+or Allegiances the Target may have to a Legendary being
+or any organizations. If this Target has a particular
+weakness (Both Narrative and mechanical), you
+become aware of it. You also become aware of any goals
+or motives the Target might possess at the moment.
+Signer Effect: You learn one of the Target's weaknesses
+(Narrative or mechanical). If this target aligned to a
+Legendary or an organization, you become of aware of
+this fact, but not of who or what in particular. You also
+learn if this Targets motives or goals would harm your
+Patron or their followers.
+

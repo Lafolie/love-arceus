@@ -1,0 +1,266 @@
+Gear and Items
+288
+Weapon Moves
+How do you determine what Moves a Simple or Fine
+Weapon grants? Weapons actually have a whole list of
+Moves all to themselves, which are designed for you to
+mix and match to best fit a given weapon's fluff. Simply
+look through the list and pick Moves that make sense.
+For example, Pierce! would go well on a spear, but Bash!
+would not.
+Weapon Moves are read in the same format as regular
+Moves, though there is a bit of extra notation for them.
+»
+» "WR" is short for "Weapon Range" refers to the
+Weapon's innate range. That is, Melee for Large and
+Small Melee Weapons, 4 meters for Short Range
+Weapons, and 12 meters for Long Range Weapons
+with a restriction that they can't target anyone closer
+than 4 meters.
+»
+» Limitations refer to the kinds of weapons that can
+be granted the Move. For example, Backswing can
+only be found on Large Melee Weapons.
+»
+» Weapon Suggestions are simply our suggestions for
+what kinds of weapons the Move makes sense for, in
+case it was confusing or you need a bit of guidance.
+Some Features also allow you to use Moves you learn as
+a Trainer "as a Weapon Attack". What this means is you
+apply the Damage, AC, etc. modifiers from your Weapon
+to the Move, and your Move gains the Weapon's Range
+instead if it is 1-Target. Line and Ranged Blast Moves
+retain their area-of-effect keyword but use the Weapon's
+Range. Burst, Cone, and Close Blast Moves remain their
+normal range.
+Adept Weapon Moves
+Move: Backswing
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 2 Targets
+Effect: None
+Limitation: Large Melee Weapons Only
+Weapon Suggestions: All Two-Handed Weapons
+Move: Bash!
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: WR, 1 Target
+Effect: Bash! lowers the target's Initiative to 0 for 1 full
+round on 15+.
+Limitation: None
+Weapon Suggestions: Axes, Blunt Weapons, Throwing
+Hammers
+Move: Bullseye
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: WR, 1 Target
+Effect: Bullseye is a Critical Hit on 16+.
+Limitation: Ranged Weapons Only
+Weapon Suggestions: All Ranged
+Move: Cheap Shot
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: WR, 1 Target
+Effect: Cheap Shot cannot miss.
+Limitation: Small Melee and Short Ranged Weapons
+Only
+Weapon Suggestions: Daggers, Short Swords, Hatch-
+ets, Throwing Weapons
+Move: Double Swipe
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: WR, 2 Targets; or WR, 1 Target, Double Strike
+Effect: None
+Limitations: None
+Weapon Suggestions: Swords, Dual-Wielded Weap-
+ons, Throwing Knives
+Gear and Items
+289
+Move: Pierce!
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: WR, 1 Target
+Effect: Pierce deals an additional +10 damage against
+targets with Damage Reduction.
+Limitations: None
+Weapon Suggestions: Daggers, Swords, Bows, Spears
+Move: Salvo
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: WR, Blast 2
+Effect: None
+Limitation: Ranged Weapons Only
+Weapon Suggestions: All Ranged
+Move: Take Aim
+Type: Normal
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Accuracy by +1. If the user per-
+forms an Weapon Move on their next turn that deals
+damage, add its Damage Dice Roll an extra time to the
+damage.
+Limitations: None
+Weapon Suggestions: Daggers, Bows, Firearms
+Move: Wear Down
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: WR, 1 Target
+Effect: Wear Down lowers the target's Defense by 1
+Combat Stage on Even-Numbered Rolls.
+Limitation: None
+Weapon Suggestions: Blunt Weapons
+Move: Wounding Strike
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: WR, 1 Target
+Effect: The target loses a Tick of Hit Points.
+Limitation: None
+Weapon Suggestions: Axes, Swords, Bows, Spears
+Gear and Items
+290
+Master Weapon Moves
+Move: Bleed!
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: WR, 1 Target
+Effect: The target loses a Tick of Hit Points at the start of
+their next three turns.
+Limitation: None
+Weapon Suggestions: Axes, Swords, Bows, Spears
+Move: Deadly Strike
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: WR, 1 Target
+Effect: If Deadly Strike Hits, it is a Critical Hit.
+Limitation: Not usable by Large Melee Weapons.
+Weapon Suggestions: Daggers, Bows, Short Spears
+Move: Furious Strikes
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 3: 1d6+5 / 9
+Class: Physical
+Range: WR, 1 Target, Five Strike
+Effect: For each hit rolled on your Five Strike roll, the
+target of the attack has their Evasion reduced by 1 for
+one full round.
+Limitation: Melee or Short Ranged Weapons Only
+Weapon Suggestions: Claws, Nun-Chucks, Staves, Du-
+al-Wielded weapons
+Move: Gouge
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: WR, 1 Target, Double Strike
+Effect: If both hits of Gouge successfully hit the target,
+the target gains an Injury.
+Limitation: Small Melee and Short Ranged Weapons
+Only
+Weapon Suggestions: Claws, Daggers, Throwing
+Knives
+Move: Maul
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: 1 Target, Melee
+Effect: The target is Flinched.
+Limitation: Melee Weapons Only
+Weapon Suggestions: Blunt Weapons, Axes
+Move: Riposte
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: WR, 1 Target, Reaction, Trigger
+Trigger: Your Target misses you with a melee Attack.
+Effect: None
+Limitations: Melee or Short-Ranged Weapons Only
+Weapon Suggestions: Rapiers, Swords, Daggers
+Move: Slice
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Melee, Pass
+Effect: None.
+Limitation: Melee Weapons Only
+Weapon Suggestions: Axes, Swords
+Gear and Items
+291
+Move: Sweeping Strike
+Type: Normal
+Frequency: Scene x2
+AC: 3
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: WR, 1 Target
+Effect: You may attempt a Trip Maneuver against the
+target as a free action.
+Limitation: Short-Range Weapons or Weapons with
+the Reach Quality Only
+Weapon Suggestions: Whips, Chains, Staves
+Move: Titanic Slam
+Type: Normal
+Frequency: Scene x2
+AC: 3
+Damage Base 11: 3d10+10 / 27
+Class: Physical
+Range: 1 Target, Melee
+Effect: On Even-Numbered Rolls, the target is Slowed
+for one full round.
+Limitation: Melee Weapons Only
+Weapon Suggestions: Blunt Weapons
+Move: Triple Threat
+Type: Normal
+Frequency: Scene x2
+AC: 2
+Damage Base 7: 3d8+10 / 17
+Class: Physical
+Range: WR, 3 Targets
+Effect: None
+Limitation: Large Melee Weapons and Long-Range
+Weapons Only
+Weapon Suggestions: Two-Handed Swords,
+Two-Handed Axes, Bows
+

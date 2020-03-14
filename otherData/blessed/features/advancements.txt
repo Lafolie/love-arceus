@@ -1,0 +1,252 @@
+The Blessed and Damned
+­44­
+Touched
+The most common of those given gifts of the divine are The Touched. Often Touched individuals are devotees of
+their benefactor, cultists of a mysterious faith or heroes of great renown. In other instances they were simply in the
+right place at the right time. The Touched have been blessed by a greater being. This blessing is not just a measure
+of faith in the individual, but a force that changes them physically, mentally and spiritually.
+Mechanically, Touched is the main gate way for blessed individuals to aquire Gifts. It includes both Edges and Feats,
+and more specific archtypes of Blessed individuals (Like Signers and Messiahs) require Touched as a prerequisite.
+The Blessed and Damned
+­45­
+Edges
+Touched
+Prerequisites: GM Permission
+Static
+Effect: You have been blessed by a Legendary and gain
+their Minor Gift. This Legendary is considered one of
+your Patrons. You may take Touched multiple times,
+each time for a different Patron.
+Soulbound
+Prerequisites: Touched
+Static
+Effect: Whenever your Patron feels strong emotions
+(positive or negative) or pain, those sensations will be
+shared with you, no matter the distance between you.
+You may take Soulbound multiple times, each time for
+a different instance of Touched.
+Feats
+Major Gift
+[PATRON STAT]
+Prerequisites: Touched, GM Permission
+Static
+Effect: You gain one of your Patron's Major Gifts. This
+Major Gift may be of your GM's choosing. This feat is
+able to be taken multiple times based on your GM's dis-
+cretion.
+Pact Gift
+[PATRON STAT]
+Prerequisites: All of your Patron's Major Gifts, GM Per-
+mission
+Effect: You gain your Patron's Pact Gift. Lower Panthe-
+on Legendaries do not have Pact Gifts.
+The Blessed and Damned
+­46­
+Signer
+Where The Touched themselves are changed by their Patrons, Signers more act on the behalf of a deity. Powers
+they gain more are channeled through them than controlled themselves, and as such they are not always as readily
+available as those of others.
+Both Messiahs and Signers use Blessings for their features. These are different from Gifts, and are unique to these
+two classes. Messiahs and Signers utilize Blessings in different ways. They are discussed in greater detail in their
+own section.
+Signer
+[PATRON STAT]
+Prerequisites: Touched, GM Permission
+Static
+Effect: Choose a Rank 1 Blessing. You gain this Blessing in the form of a Sign. Signs store the energy of the Divine,
+and may be activated as a Swift Action. Signs can be used once per Scene, and cost 1 AP to activate.
+Sign Mastery
+[Ranked 4] [PATRON STAT]
+Rank 1 Prerequisites: Signer, GM Permission
+Rank 2 Prerequisites: A Major Gift, GM Permission
+Rank 3 Prerequisites: All your Patron's Major Gifts, GM Permission
+Rank 4 Prerequisites: A Pact Gift, GM Permission
+Static
+Effect: You acquire two Blessings in the form of Signs, marked with the Sign Mastery Rank you are gaining or
+lower. You must additionally meet any Prerequisites of the Blessing.
+If your Patron does not have a Pact Gift, you instead require all their Major Gifts to attain Rank 4.
+The Blessed and Damned
+­47­
+Messiah
+While all Touched individuals have been blessed on some level, Messiahs make up a very small number of the
+already limited Touched population. These beings have devoted large portions of their lives to assisting their
+Patron, and act as their right hand in matters they themselves cannot. While this may sound similar to Signers,
+Signers are less spiritually tied to their Patrons than Messiahs are ­ for while a Signer can channel Blessings
+through their Signs, the Messiahs require no such medium.
+Both Messiahs and Signers use Blessings for their features. These are different from Gifts, and are unique to these
+two classes. Messiahs and Signers utilize Blessings in different ways. They are discussed in greater detail in their
+own section.
+The Blessed and Damned
+­48­
+Messiah
+[PATRON STAT]
+Prerequisites: Touched, GM Permission
+One Time Use/5 - Extended Action
+Effect: Your Connection with one of your Patrons has reached such a point that even you are capable of perform-
+ing the miracles they are renowned and worshiped for. Expending a use of Messiah allows you to perform such
+a miracle. For example, in a Region where Shaymin is known to restore withered forests to their former glory, a
+Touched who is a Messiah of Shaymin might be able to cause a forest to start to rapidly recover from the aftermath
+of a wildfire. Such acts are usually, but not always, noticeably supernatural and divine.
+In My Name
+[Ranked 4] [PATRON STAT]
+Rank 1 Prerequisites: Messiah, GM Permission
+Rank 2 Prerequisites: Completed a task on behalf of your Patron, GM Permission
+Rank 3 Prerequisites: A Major Gift, GM Permission
+Rank 4 Prerequisites: A Pact Gift, GM Permission
+Static
+Effect: You acquire a Blessing marked with the In My Name Rank you are gaining or lower. You must additionally
+meet any Prerequisites of the Blessing.
+If your Patron does not have a Pact Gift, you instead require all their Major Gifts to attain Rank 4.
+The Blessed and Damned
+­49­
+Branded
+The Branded are individuals who have made a deal with a devil. They have become literally branded in some
+form as proof as the contract, and while they will receive what they wished for, the stakes are always high in such
+transactions, and the devil always gets what's due. They and their followers will constantly observe, follow, and
+hound you to accelerate the process, and may potentially trick or threaten into situations where you will fulfill the
+contract.
+This look vague? Cause it's supposed to be. The contracts come in many forms and
+types, and it's expected a storyteller whose introducin' one would be talkin' to the con-
+tractee in detail with it. The big intent here isn't small things, but big ones, like `I want
+the power to raise the dead,' and the cost being, `When you eventually depart from
+this world yourself, your soul is mine to keep.' It's big things, big nasty things from
+big nasty mother hubbers you wanna eat your babies but are polite enough to be all
+legal like about it. Though keep in mind, storytellers, this doesn't really always gotta
+be this way. This could be a rather interesting way to become Touched by Giratina, in
+a sense, by making the deal more an annoyance, a favor, or a drawback than a dire
+threat to one's existence. Also, feel free to make up your own Brands!
+The Blessed and Damned
+­50­
+Branded
+[PATRON STAT]
+Prerequisites: GM Permission
+Static
+Effect: You have made a contract with a deity or other supernatural being and have been Branded for it. This
+Brand may or may not be of your choosing. The other party will uphold their side of the deal and expects you to
+do the same. Other Legendaries may be wary to grant you Gifts in the future based on the contents of this contract.
+Your Patron Stats for this feature are those of the being you made your contract with. If this being was not a typical
+Legendary, its Patron Stats are its two highest base stats.
+Carrion Scent
+Effect: Your sense of smell is enhanced, giving you the
+ability to track living things, as well as deceased, with
+little effort. However, you will forever smell of a corpse
+yourself.
+Mark of the Damned
+Effect: You gain a literal Brand in the form of an unset-
+tling tattoo on a noticeable part of your body, such as
+your face, hands, legs, arms, or torso. It may also take
+the form of a deformation such as one of your eyes be-
+coming noticeably cursed or other such markings. This
+Brand allows the one who placed it upon you to com-
+municate with you and locate you at any time, any they
+may even have advice or offer to help you on occasion.
+Stigmata
+Effect: You have a permanent pain in your wrists and
+feet, and whenever you have more than 3 Injuries, you
+will bleed from these points of pain. This bleeding will
+not allow you to recover from these Injuries without ex-
+tensive medical care and rest. However, you no longer
+take max HP penalties from Injuries.
+Total Solitude
+Effect: You completely lose your Aura and gain the
+Mindlock Capability. This makes you untraceable to
+Aura Readers, but you also cannot receive Aura Pulse or
+Telepathic messages at all. If you have a Psychic related
+class other than Type Ace, Channeler or Aura Guard-
+ian, your Feats in these classes are refunded.
+Twisted Form
+Effect: Your very being becomes warped, taking on as-
+pects of the one who Branded you. You gain the El-
+emental Types they possess as well as a +4 to Intimi-
+dation checks, but receive a -4 penalty on Charm and
+Guile checks, as these deformations are unsettling to
+most people and Pokémon.
+The Fate of the Branded
+Branded might be a single feature, but its consequences
+are a large one. Trainers who venture down this path
+are faced with a lot of challenges, and often steep conse-
+quences. Their contractor is likely to harass them, pres-
+sure them, coerce them, threaten them and use guile to
+further ensnare them.
+That said, not all hope is lost. By trying to win over
+other Patrons and seeking out the weaknesses of their
+Contractor, a Branded individual might through their
+own due diligence win their way out of their contract
+via a challenge or a loop hole. How you approach this
+as a GM is up to you, and there are plenty of sources
+around you as inspiration for hooks of this nature in
+all sorts of flavors. Maybe they must find a way to ban-
+ish their contractor to another plane, or challenge their
+contractor to a rock off and emerge victorious, but the
+key point is not even the devil himself always gets his
+way.
+The Brands
+Yup, this one right here makes an
+excellent idea for an alternate way
+to make someone Touched. Lot less
+severe than the others. Well, some-
+what. I sure wouldn't want Giratina
+bein able to know when I'm in the
+restroom.
+The Blessed and Damned
+­51­
+Usurper
+Some don't just seek the powers of the divine, they seek to be divine. Long in history have been tales of mortals
+usurping the title of Godhood, and such a pattern persists till this day. It is hardly an easy thing to accomplish,
+and wins one many enemies along the way. Those who claim this title had best be prepared to defend it, for they
+won't last long otherwise...
+Usurper is one of the highest shenanigan advancement options in this book. It's a very morbid concept, and comes
+with a lot of power. This is the sort of concept you want to make sure folks are on the same page about including
+as a player option, but it makes a -great- tool for building villians.
+There's oft questions about how Usurpers handle taking damage between their forms. The way this works is quite
+simple - when an Usurper takes damage in one form, both forms lose HP equal to the final amount of damage
+dealt. If they are knocked out in one form, but not the other, they default to the still concious form. Also, the
+following Edge is available to Usurpers to utilize their Features.
+The Blessed and Damned
+­52­
+Shared Strengths
+[Ranked 3] [PATRON STAT]
+Rank 1 Prerequisites: Pokemon Form Level 20
+Rank 2 Prerequisites: Pokemon Form Level 35
+Rank 3 Prerequisites: True Power, Pokemon Form
+Level 50
+Rank 1 Effect: You gain access to your Legendary
+Form's Abilities while in your Avatar form.
+Rank 2 Effect: You gain your Legendary Form's Types
+while in your Avatar Form
+Rank 3 Effect: You gain access to your Legendary
+Form's Move List while in your Avatar Form.
+True Power
+[PATRON STAT]
+Prerequisites: Shared Strengths Rank 2, Pokemon
+Form Level 40
+Static
+Effect: You gain one of the Domains and its corre-
+sponding Legendary Aura associated with your Leg-
+endary Form. This Feature may be taken multiple
+times, but with the second time at Pokemon Form
+Level 60, and the third at Pokemon Form level 75.
+Gift of Power
+[PATRON STAT]
+Prerequisites: Pokemon Form Level 60
+One Time Use
+Target: A Trainer
+Effect: You gift your target with a Blessing of your own.
+Whether this makes them Touched, a Signer, or Brand-
+ed is at your digression. The actual Blessings may not
+need be the one listed here for your Legendary Form,
+but ones of your own creation at your GM's discretion.
+Usurper
+[PATRON STAT]
+Prerequisites: You have slain a God and through occult ritual or technology have absorbed its essence.
+Static
+Effect: Your human form is now considered your Avatar, and you gain a second set of stats for your Pokémon
+form. This form is that of the Legendary you usurped, starts at level 1 with the nature and abilities of your choice,
+and may gain experience as if it were a Pokémon you owned. Switching between your human form and this one
+takes a Standard Action. Usurpers cannot receive Gifts or Blessings from other Legendaries, as they are divinity
+themselves now. Any Touched, Branded, Messiah, and Signer Edges and Features you possessed up until this point
+are refunded. The Patron Stats for this Feature and all other Usurper Features matches the stats of the Legendary
+you Usurped.
+Your Legendary Form, by default, has access to all
+Capabilities, Abilities and Moves your Avatar does.
+

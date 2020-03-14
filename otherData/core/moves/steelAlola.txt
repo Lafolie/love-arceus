@@ -1,0 +1,45 @@
+Steel Moves:
+Move: Anchor Shot
+Type: Steel
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: The Target is Trapped for 2 rounds. Anchor
+Shot may only be used from the user's Anchor Token.
+Contest Type: Tough
+Contest Effect: Catching Up
+Move: Gear Up
+Type: Steel
+Frequency: Scene x2
+Class: Status
+Range: Burst 4
+Effect: All targets with the Plus or Minus Abilities
+receive +1 Attack and Special Attack Combat Stages
+Contest Type: Smart
+Contest Effect: Get Ready
+Move: Smart Strike
+Type: Steel
+Frequency: EOT
+AC: None
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target
+Effect: Smart Strike cannot miss.
+Contest Type: Smart
+Contest Effect: Safe Option
+Move: Sunsteel Strike
+Type: Steel
+Frequency: Scene x2
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Close Blast 2
+Effect: This Move ignores any Abilities that would
+cause it to fail or miss, such as Dodge or Wonder
+Guard; those Abilities cannot be activated in response
+to Sunsteel Strike.
+Contest Type: Cool
+Contest Effect: Big Show
+

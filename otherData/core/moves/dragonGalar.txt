@@ -1,0 +1,54 @@
+Dragon Moves:
+Move: Breaking Swipe
+Type: Dragon
+Frequency: EOT
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Close Blast 2
+Effect: The target's Attack is lowered 1 CS.
+Contest Type: Tough
+Contest Effect: Desperation
+Move: Clangorous Soul
+Type: Dragon
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self
+Effect: The user loses 1/3rd of their Max Hit Points
+and has each of its stats raised by +1 Combat Stage.
+Contest Type: Cool
+Contest Effect: Seen Nothing Yet
+Note: This Move is not in the `Dex. It is learned by
+Kommo-o at level 68.
+Move: Dragon Darts
+Type: Dragon
+Frequency: EOT
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: 6, 1 Target, Double Strike; or 6, 2 Targets
+Contest Type: Smart
+Contest Effect: Double Time
+Move: Dynamax Cannon
+Type: Dragon
+Frequency: Scene x2
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Special
+Range: 6, 1 Target
+Effect: The DB of Dynamax Cannon increases by +2 for
+each positive CS the target has, to a maximum of DB
+20.
+Contest Type: Cool
+Contest Effect: Unsettling
+Move: Eternabeam
+Type: Dragon
+Frequency: Scene
+AC: 4
+Damage Base 16: 5d10+20 / 50
+Class: Special
+Range: Line 6, Smite, Exhaust
+Contest Type: Cool
+Contest Effect: Seen Nothing Yet
+

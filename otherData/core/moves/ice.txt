@@ -1,0 +1,251 @@
+Indices and Reference
+388
+Ice Moves
+Move: Aurora Beam
+Type: Ice
+Frequency: At-Will
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: 6, 1 Target
+Effect: Aurora Beam lowers the target's Attack 1 Combat
+Stage on 18+.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Special: Grants Freezer
+Move: Avalanche
+Type: Ice
+Frequency: EOT
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target
+Effect: When declaring Avalanche, the user does
+nothing and may not Shift. At the end of the round, the
+user Shifts and uses Avalanche on any legal target. If the
+target damaged the user this round, Avalanche has a
+Damage Base of 12 (4d10+15 / 40) instead.
+Contest Type: Cool
+Contest Effect: Double Time
+Move: Blizzard
+Type: Ice
+Frequency: Scene x2
+AC: 7
+Damage Base 11: 3d10+10 / 27
+Class: Special
+Range: 4, Ranged Blast 2, Smite
+Effect: Blizzard Freezes all legal target on 15+. If the
+target is in Hailing Weather, Blizzard cannot miss.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Move: Freeze-Dry
+Type: Ice
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: 6, 1 Target.
+Effect: When calculating Weakness and Resistance for
+Freeze-Dry, Water-Typed targets calculate damage as if
+Water was weak to Ice.
+Contest Type: Tough
+Contest Effect: Saving Grace
+Move: Freeze Shock
+Type: Ice
+Frequency: Scene
+AC: 4
+Damage Base 14: 4d10+15 / 40
+Class: Physical
+Range: 10, Single Target, Set-Up, Full Action
+Set-Up Effect: The user may shift, then ends their turn.
+Resolution Effect: The user uses Freeze Shock. Freeze
+Shock paralyzes on 15+.
+Contest Type: Beauty
+Contest Effect: Seen Nothing Yet
+Move: Frost Breath
+Type: Ice
+Frequency: EOT
+AC: 3
+Damage Base 6: 2d6+8 / 15
+Class: Special
+Range: 4, 1 Target
+Effect: If Frost Breath hits, it is a Critical Hit.
+Contest Type: Beauty
+Contest Effect: Steady Performance
+Special: Grants Freezer
+Indices and Reference
+389
+Move: Glaciate
+Type: Ice
+Frequency: EOT
+AC: 3
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: Burst 2
+Effect: All Legal Targets have their Speed lowered 1
+Combat Stage. On an Even-Numbered Roll, all Legal
+Targets on the ground are Slowed.
+Contest Type: Beauty
+Contest Effect: Steady Performance
+Move: Hail
+Type: Ice
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Field, Weather
+Effect: The weather changes to Hail for 5 rounds. While
+it is Hailing, all non-Ice Type Pokémon lose a Tick of
+Hit Points at the beginning of their turn.
+Contest Type: Beauty
+Contest Effect: Sabotage
+Move: Haze
+Type: Ice
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: Field
+Effect: The Combat Stages of the user and all Pokémon
+and Trainers in the encounter are set to their default
+state (usually 0).
+Contest Type: Beauty
+Contest Effect: Sabotage
+Move: Ice Ball
+Type: Ice
+Frequency: At-Will
+AC: 4
+Damage Base 3: 1d6+5 / 9
+Class: Physical
+Range: Melee, 1 Target
+Effect: The user continues to use Ice Ball on each of
+its turns until they miss any target with Ice Ball, or
+are not able to hit any target with Ice Ball during their
+turn. Each successive use of Ice Ball increases Ice Ball's
+Damage Base by +3 to a maximum of DB 15.
+Contest Type: Beauty
+Contest Effect: Reliable
+Move: Ice Beam
+Type: Ice
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Special
+Range: 4, 1 Target
+Effect: Ice Beam Freezes on 19+ during Accuracy
+Check.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Move: Ice Burn
+Type: Ice
+Frequency: Scene
+AC: 4
+Damage Base 14: 4d10+15 / 40
+Class: Special
+Range: 10, Single Target, Set-Up, Full Action
+Set-Up Effect: The user may shift, then ends their turn.
+Resolution Effect: The user uses Ice Burn. Ice Burn
+Burns on 15+.
+Contest Type: Beauty
+Contest Effect: Seen Nothing Yet
+Move: Ice Fang
+Type: Ice
+Frequency: At-Will
+AC: 3
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target
+Effect: Ice Fang Freezes or Flinches on 18+ during
+Accuracy Check; flip a coin to determine whether the
+foe gets Frozen or Flinches. On 20 during Accuracy
+Check, the foe is Frozen and Flinches.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Ice Punch
+Type: Ice
+Frequency: At-Will
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: Ice Punch Freezes the target on 19+ during
+Accuracy Check.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Indices and Reference
+390
+Move: Ice Shard
+Type: Ice
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: 4, 1 Target, Priority
+Effect: None
+Contest Type: Beauty
+Contest Effect: Saving Grace
+Move: Icicle Crash
+Type: Ice
+Frequency: EOT
+AC: 4
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: 6, 1 Target
+Effect: Icicle Crash Flinches the target on 15+.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Icicle Spear
+Type: Ice
+Frequency: EOT
+AC: 4
+Damage Base 3: 1d6+5 / 9
+Class: Physical
+Range: 6, 1 Target, Five Strike
+Effect: None
+Contest Type: Beauty
+Contest Effect: Reliable
+Move: Icy Wind
+Type: Ice
+Frequency: EOT
+AC: 3
+Damage Base 6: 2d6+8 / 15
+Class: Special
+Range: Cone 2
+Effect: All Legal Targets have their Speed lowered 1
+Combat Stage.
+Contest Type: Beauty
+Contest Effect: Desperation
+Move: Mist
+Type: Ice
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: Blessing
+Effect: Blessing ­ Any user affected by Mist may activate
+it when having Combat Stages lowered by any effect; if
+they do, those Combat Stages are instead not lowered.
+Mist may be activated 3 times, and then disappears.
+Contest Type: Beauty
+Contest Effect: Sabotage
+Move: Powder Snow
+Type: Ice
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Special
+Range: Line 4
+Effect: Powder Snow Freezes all Legal Targets on 19+.
+Contest Type: Beauty
+Contest Effect: Steady Performance
+Special: Grants Freezer
+Move: Sheer Cold
+Type: Ice
+Frequency: Daily
+AC: None
+Class: Status
+Range: 4, 1 Target, Execute
+Effect: Roll 1d100. This roll may not be modified in any
+way. If you roll X or lower, the target Faints. X is equal
+to 30 + The User's Level - The Target's Level.
+Contest Type: Beauty
+Contest Effect: Big Show
+Special: Grants Freezer
+

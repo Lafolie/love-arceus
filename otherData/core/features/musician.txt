@@ -1,0 +1,73 @@
+Trainer Classes
+164
+Musician
+[Class] [+Special Attack]
+Prerequisites: Novice Charm, Novice Focus
+Static
+Effect: You may use Musician Songs.
+Mechanic: Songs ­ Musician Songs can be triggered one of four ways. Regardless of the Area of Effect, Songs
+always affect the user.
+»
+» When using a Move with the Sonic keyword, Songs may be triggered as a Swift Action, and the Song's Area of
+Effect is the same as the triggering Move's.
+»
+» When using a Dance Move, Songs may be triggered as a Shift Action with an Area of Effect of Burst 2.
+»
+» As a Standard Action, you may trigger one Song, with an Area of Effect of Burst 4.
+»
+» As a Full Action, you may trigger two Songs, each with an Area of Effect of Burst 4.
+Musical Ability
+[+Special Attack]
+Prerequisites: Musician
+Static
+Effect: Choose Drown Out or Soundproof. You gain the
+chosen Ability.
+Mt. Moon Blues
+[+Special Attack]
+Prerequisites: Musician
+Static
+Effect: You learn the Moves Sing and Supersonic
+Cacophony
+[+Special Attack]
+Prerequisites: Mt. Moon Blues, Adept Charm or Focus
+Static
+Effect: You learn the Moves Screech and Metal Sound.
+Noise Complaint
+[+Special Attack]
+Prerequisites: Cacophony, Expert Charm or Focus
+Static
+Effect: You learn the Moves Uproar and Hyper Voice.
+Voice Lessons
+[+Special Attack]
+Prerequisites: Noise Complaint
+Static
+Effect: You and your Pokémon's Moves with the Sonic
+keyword gain the Friendly keyword. Voice Lessons may
+not affect the Move Perish Song. Additionally, whenever
+your Pokémon use a Move with the Sonic Keyword in a
+Contest, they may roll +1d6.
+Power Chord
+Prerequisites: Noise Complaint, Master Charm or
+Focus
+Scene x2 ­ Free Action
+Trigger: You play a Song
+Effect: Make a Charm or Focus Check, and add your
+Special Attack. Foes in the area of effect take Special
+Normal-Type Damage equal to the result.
+Song of Courage
+1 AP ­ Special
+Trigger: Song
+Effect: All Allies in the Area of Effect gain a +2 Bonus
+to Skill Checks and Save Checks until the end of your
+next turn.
+Song of Might
+1 AP ­ Special
+Trigger: Song
+Effect: All Allies in the Area of Effect gain a +5 Bonus to
+Damage Rolls until the end of your next turn.
+Song of Life
+1 AP ­ Special
+Trigger: Song
+Effect: All Allies in the Area of Effect gain 5 Damage
+Reduction until the end of your next turn.
+

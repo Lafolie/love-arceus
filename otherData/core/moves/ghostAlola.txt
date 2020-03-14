@@ -1,0 +1,47 @@
+Ghost Moves:
+Move: Moongeist Beam
+Type: Ghost
+Frequency: Scene x2
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Special
+Range: Line 6
+Effect: This Move ignores any Abilities that would
+cause it to fail or miss, such as Dodge or Wonder
+Guard; those Abilities cannot be activated in response
+to Moongeist Beam.
+Contest Type: Smart
+Contest Effect: Good Show
+Move: Shadow Bone
+Type: Ghost
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, 1 Target
+Effect: The target's Defense is lowered by 1 Combat
+Stage on a 17+.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Spectral Thief
+Type: Ghost
+Frequency: Scene
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, 1 Target
+Effect: Before rolling damage, transfer all Combat
+Stages on the target to the user.
+Contest Type: Smart
+Contest Effect: Attention Grabber
+Move: Spirit Shackle
+Type: Ghost
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: 8, 1 Target
+Effect: The Target is Trapped for 2 rounds.
+Contest Type: Smart
+Contest Effect: Sabotage
+

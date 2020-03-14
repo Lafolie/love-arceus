@@ -1,0 +1,351 @@
+Indices and Reference
+350
+Dark Moves
+Move: Assurance
+Type: Dark
+Frequency: At-Will
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target
+Effect: When you hit with Assurance, if Assurance's
+target has already been damaged by a Move on the
+same round Assurance is being used, Assurance has a
+Damage Base of 12 (3d12+10 / 30) instead. This effect
+may trigger only once per Scene per Target.
+Contest Type: Beauty
+Contest Effect: Double Time
+Move: Beat Up
+Type: Dark
+Frequency: EOT
+Class: Physical
+Range: Melee, 1 Target
+Effect: The user and up to two allies adjacent to the
+target may each make a Struggle Attack against the
+target. These Struggle Attacks hit for Dark-Type Damage
+instead of their usual Type. Beat Up may trigger Pack
+Hunt only once, no matter the number of attacks.
+Contest Type: Smart
+Contest Effect: Reliable
+Move: Bite
+Type: Dark
+Frequency: At-Will
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target
+Effect: Bite Flinches the target on 15+.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Crunch
+Type: Dark
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: Crunch lowers the target's Defense 1 Combat
+Stage on 17+
+Contest Type: Tough
+Contest Effect: Exhausting Act
+Move: Dark Pulse
+Type: Dark
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: 8, 1 Target, Aura
+Effect: Dark Pulse Flinches the target on 17+
+Contest Type: Cool
+Contest Effect: Exhausting Act
+Move: Dark Void
+Type: Dark
+Frequency: EOT
+AC: 4
+Class: Status
+Range: Melee, 1 Target
+Effect: The target falls Asleep. Once per Scene, Dark
+Void may be used as if its range were "Burst 5, Friendly"
+instead.
+Contest Type: Smart
+Contest Effect: Excitement
+Move: Embargo
+Type: Dark
+Frequency: At-Will
+AC: 2
+Class: Status
+Range: 6, 1 Target
+Effect: The target cannot use or benefit from held items
+for the remainder of the encounter. Embargo may only
+affect one target at a time; if Embargo is used on a new
+target, the previous target is freed from the effect.
+Contest Type: Cute
+Contest Effect: Sabotage
+Indices and Reference
+351
+Move: Fake Tears
+Type: Dark
+Frequency: EOT
+AC: 2
+Class: Status
+Range: 8, 1 Target, Social
+Effect: Lower the target's Special Defense 2 Combat
+Stages.
+Contest Type: Smart
+Contest Effect: Excitement
+Move: Feint Attack
+Type: Dark
+Frequency: EOT
+AC: None
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target
+Effect: Feint Attack cannot miss.
+Contest Type: Smart
+Contest Effect: Desperation
+Move: Flatter
+Type: Dark
+Frequency: At-Will
+AC: 2
+Class: Status
+Range: 6, 1 Target, Social
+Effect: The target's Special Attack is raised by +1 Combat
+Stage. Flatter Confuses the target.
+Contest Type: Smart
+Contest Effect: Excitement
+Move: Fling
+Type: Dark
+Frequency: Scene x2
+AC: 2
+Damage Base X: See Effect
+Class: Physical
+Range: 6, 1 Target, Fling
+Effect: The user throws a held item, determining the
+effect of Fling.
+Contest Type: Tough
+Contest Effect: Catching Up
+Move: Foul Play
+Type: Dark
+Frequency: Scene x2
+AC: 2
+Damage Base 10: 3d8+10 / 24
+Class: Physical
+Range: Melee, 1 Target
+Effect: The target reveals its Attack stat. When
+calculating damage, add the target's Attack stat instead
+of the user's Attack stat.
+Contest Type: Smart
+Contest Effect: Steady Performance
+Move: Hone Claws
+Type: Dark
+Frequency: At-Will
+AC: None
+Class: Status
+Range: Self
+Effect: The user's Accuracy is raised by +1, and the user
+gains +1 Attack Combat Stage.
+Contest Type: Cool
+Contest Effect: Get Ready!
+Move: Knock Off
+Type: Dark
+Frequency: Scene
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target
+Effect: Choose one of the target's Held Items or
+Accessory Slot Items. It is knocked to the ground.
+Contest Type: Smart
+Contest Effect: Steady Performance
+Move: Memento
+Type: Dark
+Frequency: Scene
+AC: None
+Class: Status
+Range: 8, 1 Target, Trigger, Free Action
+Effect: Memento may be used as a Free Action when
+the user becomes Fainted. Memento's target has each of
+their stats lowered by -2 CS.
+Contest Type: Tough
+Contest Effect: Big Show
+Indices and Reference
+352
+Move: Nasty Plot
+Type: Dark
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Special Attack 2 Combat Stages.
+Contest Type: Cute
+Contest Effect: Get Ready!
+Move: Night Daze
+Type: Dark
+Frequency: EOT
+AC: 3
+Damage Base 9: 2d10+10 / 21
+Class: Special
+Range: 4, 1 Target
+Effect: Night Daze lowers the target's Accuracy by -1 on
+13+.
+Contest Type: Tough
+Contest Effect: Unsettling
+Move: Night Slash
+Type: Dark
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, Pass
+Effect: Night Slash is a Critical Hit on 18+
+Contest Type: Beauty
+Contest Effect: Steady Performance
+Move: Parting Shot
+Type: Dark
+Frequency: At-Will
+AC: 2
+Class: Status
+Range: 6, 1 Target, Social
+Effect: If Parting Shot successfully hits, the target's
+Attack and Special Attack stats are lowered by one
+Combat Stage and the user is immediately recalled
+in the same turn. A new Pokémon may immediately
+be sent out. Using Parting Shot lets a Trapped user be
+recalled.
+Contest Type: Smart
+Contest Effect: Catching Up
+Move: Payback
+Type: Dark
+Frequency: EOT
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Physical
+Range: Melee, 1 Target
+Effect: If the target hit the user with a Damaging Move
+on the previous turn, Payback has a Damage Base of 10
+(3d8+10 / 24) instead.
+Contest Type: Cool
+Contest Effect: Special Attention
+Move: Punishment
+Type: Dark
+Frequency: EOT
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target
+Effect: Punishment's Damage Base is raised by +1
+for each positive Combat Stage the target has, to a
+maximum of DB 12.
+Contest Type: Smart
+Contest Effect: Catching Up
+Move: Pursuit
+Type: Dark
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, 1 Target
+Effect: If the foe is fleeing or being switched out, Pursuit
+may be used as an Interrupt, targeting the triggering
+foe. When used as an Interrupt, Pursuit grants the user
+a +5 bonus to all Movement Speeds, and has a Damage
+Base of 8 (2d8+10 / 19).
+Contest Type: Smart
+Contest Effect: Good Show!
+Move: Quash
+Type: Dark
+Frequency: At-Will
+AC: 2
+Class: Status
+Range: 10, 1 Target, Social
+Effect: Quash changes the target's Initiative to 0 for the
+remainder of the round.
+Contest Type: Smart
+Contest Effect: Saving Grace
+Indices and Reference
+353
+Move: Snarl
+Type: Dark
+Frequency: EOT
+AC: 3
+Damage Base 6: 2d6+8 / 15
+Class: Special
+Range: Cone 2, Sonic
+Effect: All Legal Targets have their Special Attack
+lowered 1 Combat Stage.
+Contest Type: Cute
+Contest Effect: Excitement
+Move: Snatch
+Type: Dark
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: 6, 1 Target, Interrupt
+Effect: If the target uses a Self-Targeting Move, you may
+use Snatch. You gain the benefits of the Self-Targeting
+Move instead of the target.
+Contest Type: Smart
+Contest Effect: Attention Grabber
+Move: Sucker Punch
+Type: Dark
+Frequency: At-Will
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target, Interrupt, Trigger
+Effect: If an adjacent foe targets the user with a Damaging
+Attack, Sucker Punch may be used as an Interrupt Move
+against the triggering foe.
+Contest Type: Smart
+Contest Effect: Saving Grace
+Move: Switcheroo
+Type: Dark
+Frequency: At-Will
+AC: 2
+Class: Status
+Range: Melee, 1 Target
+Effect: The user and the target exchange Held Items or
+Accessory Slot Items.
+Contest Type: Cool
+Contest Effect: Attention Grabber
+Move: Taunt
+Type: Dark
+Frequency: EOT
+AC: 3
+Class: Status
+Range: 6, 1 Target, Social
+Effect: The target becomes Enraged.
+Contest Type: Smart
+Contest Effect: Inversed Appeal
+Move: Thief
+Type: Dark
+Frequency: At-Will
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target
+Effect: Thief takes the target's Held Item or Accessory
+Slot Item and attaches it to Thief's user, if the user is not
+holding anything.
+Contest Type: Tough
+Contest Effect: Attention Grabber
+Move: Topsy-Turvy
+Type: Dark
+Frequency: EOT
+AC: 4
+Class: Status
+Range: 6, 1 Target
+Effect: The target's Combat Stages are inverted; +1 Stage
+becomes -1 Stage, -3 Stages becomes +3 Stages, etc.
+Contest Type: Smart
+Contest Effect: Unsettling
+Move: Torment
+Type: Dark
+Frequency: Scene x2
+AC: 2
+Class: Status
+Range: 10, 1 Target, Social
+Effect: The target becomes Suppressed.
+Contest Type: Tough
+Contest Effect: Inversed Appeal
+

@@ -1,0 +1,39 @@
+Poison Moves:
+Move: Baneful Bunker
+Type: Poison
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self, Interrupt, Shield, Trigger
+Effect: If the user is hit by an attack, the user may use
+Baneful Bunker. The user is instead not hit by the
+Move. You do not take any damage nor are you
+affected by any of the Move's effects. In addition, if
+the triggering attack was Melee ranged, the attacker
+is Poisoned.
+Contest Type: Smart
+Contest Effect: Inversed Appeal
+Move: Purify
+Type: Poison
+Frequency: Scene
+AC: None
+Class: Status
+Range: Melee, 1 Target
+Effect: The target is cured of all Permanent and
+Volatile Statuses. For every status removed, the user
+recovers a Tick of Hit Points.
+Contest Type: Smart
+Contest Effect: Reflective Appeal
+Move: Toxic Thread
+Type: Poison
+Frequency: Scene x2
+AC: 2
+Class: Status
+Range: 6, 1 Target
+Effect: The target is Poisoned and has their Speed
+lowered by 1 Combat Stage. If the target is already
+Poisoned, they instead lose a Tick of Hit Points and
+has their Speed lowered by 2 Combat Stages.
+Contest Type: Smart
+Contest Effect: Excitement
+

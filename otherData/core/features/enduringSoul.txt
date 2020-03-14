@@ -1,0 +1,56 @@
+Trainer Classes
+99
+Enduring Soul
+[Class]
+Prerequisites: Novice Athletics and Focus
+Static
+Effect: You may add to your Pokémon's HP stat when they level up, ignoring Base Relation, and you do not need
+to "correct" Stats due to this inflated HP.
+Staying Power
+Prerequisites: Enduring Soul
+Scene ­ Free Action
+Trigger: Your Pokémon Takes a Breather
+Effect: Your Pokémon may "Take a Breather" even if
+it is Confused or Enraged, and it does not Trip or have
+to Shift away from enemies as part of the action. You
+may choose whether or not your Pokémon resets their
+Combat Stages to default.
+Shrug Off
+Prerequisites: Staying Power
+Static
+Effect: Once per day, each of your Pokémon may spend
+a Shift Action to remove 1 Injury from themselves; this
+may also be activated as a Free Action whenever your
+Pokémon Take a Breather.
+Awareness
+Prerequisites: Enduring Soul, 3 Pokémon with a
+Defensive Ability*
+Static
+Effect: Your Pokémon add +2 to all Save Checks.
+Resilience
+Prerequisites: Awareness, Expert Athletics or Focus
+2 AP ­ Free Action
+Trigger: Your Pokémon is hit by a Critical Hit or gains a
+Status Affliction (or both)
+Effect: Your Pokémon does not gain a Status Affliction,
+and the triggering attack does damage as if it was not a
+Critical Hit. Resilience may only be used once per target
+per Scene.
+Not Yet!
+Prerequisites: Enduring Soul, Expert Athletics or Focus
+Scene ­ Free Action
+Trigger: Your Pokémon is Fainted, but is not at less than
+-100% Hit Points.
+Effect: Before fainting, the targeted Pokémon gains an
+Injury, and may then use a Move as an Interrupt. When
+the Move is resolved, the Pokémon then immediately
+faints. This consumes a Pokémon turn as normal. This
+cannot be used with the Moves Explosion, Pain Split, or
+Self-Destruct.
+Vim and Vigor
+Prerequisites: Shrug Off, Master Athletics or Focus
+At-Will ­ Extended Action
+Target: Your Pokémon with at least 2 Tutor Points
+Effect: The target loses 2 Tutor Points, and gains the
+Vigor Ability.
+

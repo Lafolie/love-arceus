@@ -1,0 +1,89 @@
+Trainer Classes
+86
+Hobbyist
+[Class]
+Prerequisites: Novice General Education, Novice Perception
+Static
+Effect: You gain three Skill Edges for which you qualify.
+Special: You may count Hobbyist Features as "General Features" for the purposes of any effect that would grant
+you a General Feature.
+Dilettante
+[Ranked 4]
+All Ranks Prerequisites: Hobbyist
+Static
+Effect: Each Rank of Dilettante, you gain both an Edge
+and a General Feature from the lists below. You may
+gain the chosen Edge and Feature even if you do not
+meet the Skill prerequisites. You must meet any other
+Prerequisites.
+»
+» Edges: Acrobat, Apricorn Balls, Basic Balls,
+Basic Cooking, Basic Martial Arts, Beast Master,
+Breeder, Dynamism, Gem Lore, Grace, Green
+Thumb, Groomer, Instinctive Aptitude, Instruction,
+Intimidating Presence, Iron Mind, Medic Training,
+Mounted Prowess, Repel Crafter, Slippery, Swimmer,
+Train the Reserves.
+»
+» Features: Command Versatility, Commander's
+Voice, Defender, Dive, First Aid Expertise, Let Me
+Help You With That, Poké Ball Crafter, PokéManiac,
+Press, Quick Switch, Skill Monkey, Species Savant,
+any [Training] Feature, Tutoring, Walk It Off.
+Whenever you gain a Feature or Edge this way, change
+any Skill Rank applications or Skill Checks mandated
+directly by the Edge or Feature into your choice of
+General Education or Perception Skill Checks or Rank
+applications instead.
+Dabbler
+Prerequisites: Hobbyist, Expert General Education or
+Perception
+Static
+Effect: At the Level 5, 10, 20, 30, and 40 Character
+Advancement Level Milestones, if you choose to gain
+Bonus Stats, you also gain an Edge for which you qualify.
+If you choose Bonus Edges or Features, you also gain +2
+to your choice of Attack or Special Attack. This applies
+retroactively.
+Note: It takes a long time for this Feature to bear fruit.
+Talk to your GM about how long the campaign will last
+and whether you will reach higher Levels.
+Look and Learn
+Prerequisites: Hobbyist, Expert General Education or
+Perception
+x2 Uses ­ Extended Action
+Effect: When you activate Look and Learn, you may
+gain any of the Features below even though they are
+Features from other Classes. You do not need to meet
+their normal prerequisites, but you must meet their
+Prerequisites listed here. Look and Learn can be used
+two times; once to learn a Feature from the "Scene
+Features" List, and once to learn a Feature from the
+"Action Point Features List".
+Scene Features List Action Point Features List
+Trainer Class Feature Prerequisite Trainer Class Feature Prerequisite
+Ace Trainer Critical Moment Commander's
+Voice
+Coordinator Nuanced
+Performance
+Grace
+Capture Spe-
+cialist
+Capture Techniques
+(False Strike and
+Catch Combo only)
+Poké Ball
+Crafter
+Juggler Round Trip Quick Switch
+Enduring
+Soul
+Staying Power Medic
+Training
+Chef Hits the Spot Basic
+Cooking
+Trickster Sleight Command
+Versatility
+Fashionista Style is Eternal Groomer
+Researcher Chemical Warfare Repel Crafter Athlete Coaching Swimmer
+Roughneck Mettle Defender Tumbler Quick Gymnastics Acrobat
+

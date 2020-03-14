@@ -1,0 +1,39 @@
+New / Altered Moves:
+Dark Moves:
+Move: False Surrender
+Type: Dark
+Frequency: EOT
+AC: None
+Damage Base 8: 2d6+8 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: False Surrender cannot miss.
+Contest Type: Smart
+Contest Effect: Reliable
+Move: Jaw Lock
+Type: Dark
+Frequency: Scene x2
+AC: 2
+Damage Base 8: 2d6+8 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: You may perform a Grapple Maneuver against
+the target as a Free Action.
+Contest Type: Tough
+Contest Effect: Sabotage
+Move: Obstruct
+Type: Dark
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self, Interrupt, Shield, Trigger
+Effect: If the user is hit by a Move, the user may use
+Obstruct. The user is instead not hit by the Move. You
+do not take any damage nor are you affected by any
+of the Move's effects. In addition, if the triggering
+attack was Melee ranged, the attacker's Defense is
+lowered by 2 Combat Stages.
+Contest Type: Smart
+Contest Effect: Inversed Appeal
+.
+

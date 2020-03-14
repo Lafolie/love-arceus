@@ -1,0 +1,174 @@
+Feb 2016 Playtest
+12
+New Abilities!
+Ability: Aqua Bullet
+Static
+Effect: Connection - Aqua Jet. The user may use Water-
+Type Moves as a Full Action to gain Sky 10 and shift in a
+straight line before attempting to use their Move. When
+shifting this way, the user does not provoke attacks of
+opportunity.
+Ability: Designer
+At-Will ­ Extended Action
+Effect: The user is adept at crafting clothes for itself out of
+common leaves. When activating this ability to create a leaf
+suit, the user may choose two Types; the user resists the
+chosen types one step further while wearing that suit. The
+user may only have one leaf suit at a time, and creating a
+new suit destroys the old one.
+Ability: Combo Striker
+At-Will - Free Action
+Trigger: The user rolls a natural 1, 10, or 11 on an attack roll
+with a damaging move
+Effect: After the triggering attack is resolved, the user may
+use a Struggle Attack as a Free Action.
+Note: Yes, Struggle Attacks made due to Combo Striker may
+trigger Combo Striker.
+Ability: Dream Smoke
+Scene ­ Free Action
+Trigger: The user is hit by a Melee Attack
+Effect: The attacking foe falls Asleep.
+Ability: Eggscellence
+Static
+Effect: Connection ­ Barrage. The user receives STAB
+when using Barrage and Egg Bomb. If Normal Typed, these
+Moves deal Damage as if one step more effective on 16+.
+Ability: Empower
+Scene - Swift Action
+Effect: The user may use a self-targeting Status-Class Move
+as a Free Action.
+Ability: Flower Power
+Static
+Effect: The user may perform damaging Grass Type Moves
+as if they were their choice of either Physical or Special.
+Ability: Full Guard
+Scene - Swift Action
+Trigger: You take Damage while having Temporary Hit
+Points
+Effect: You resist the triggering Damage one step further.
+Bonus: Whenever you take Super-Effective Damage and
+you have no Temporary Hit Points, you gain a tick of
+Temporary Hit Points. Defensive.
+Ability: Giver
+Scene x2 - Swift Action
+Effect: Connection - Present. After rolling to determine
+Present's Damage Base, you may choose to ignore the roll
+and act as if you had rolled a 1 or a 5.
+Bonus: The user may know any number of TM and Tutor
+Moves, instead of a maximum of three.
+Ability: Heliovolt
+At-Will - Swift Action
+Trigger: The user uses an Electric-Type Move
+Effect: For 1 full round, the user gains +1 Evasion and is
+considered to be in Sunny Weather.
+Ability: Juicy Energy
+Daily ­ Free Action
+Trigger: The user trades in a Berry Juice Food Buff
+Effect: Instead of gaining 30 Hit Points, the user gains Hit
+Points equal to their Level
+Ability: Lancer
+Static
+Effect: During their turn, if the user Shifts at least 3
+meters, they gain a +3 Bonus to Critical Hit Range until
+the beginning of their next turn. If they do not Shift or
+Disengage at all, they gain +5 Damage Reduction until the
+beginning of their next turn.
+Ability: Leaf Rush
+Scene x2 - Free Action, Priority
+Effect: The user may activate Leaf Rush to use a Grass-Type
+Move with Priority. If the Move is a Damaging Move, the
+user adds half their Speed Stat to the Damage Roll.
+Ability: Leafy Cloak
+Static
+Effect: Whenever the user activates Designer, theychoose
+two of Chlorophyll, Leaf Guard, or Overcoat. Until the user
+activates Designer again, they gain the chosen Abilities.
+Ability: Line Charge
+Static
+Effect: The user can only shift in cardinal directions on the
+grid. However, they do not provoke attacks of opportunity
+from Shifting.
+Feb 2016 Playtest
+13
+Ability: Maelstrom Pulse
+Scene x2 - Free Action, Priority
+Effect: The user may activate Maelstrom Pulse to use a
+Water-Type Move with Priority. If the Move is a Damaging
+Move, the user adds half their Speed Stat to the Damage Roll.
+Ability: Needles
+Static
+Effect: Connection ­ Needle Arm. Whenever the user hits a
+target with a Physical Melee attack, that target loses a Tick of
+Hit Points.
+Ability: Nimble Strikes
+Static
+Effect: The user adds half their Speed Stat to the Damage
+Rolls of their physical Normal-Type Moves.
+Ability: Ragelope
+Static
+Effect: The user's Physical Attacks gain the following Effect
+Range: On 18+, the user becomes Enraged and gains +1
+Speed CS. If the user is already Enraged, they gain +1 Attack
+CS instead.
+Ability: Sacred Bell
+Static
+Effect: The user resists Dark and Ghost-Type Damage one
+step further.
+Ability: Seasonal
+Static
+Effect: The user gains an Ability based on the season.
+- Spring: Run Away - Summer: Grass Pelt
+- Autumn: Rivalry - Winter: Thick Fat
+Ability: Snuggle
+Scene - Standard Action
+Target: An adjacent target
+Effect: The user and the target each gain two ticks of
+Temporary Hit Points.
+Ability: Sol Veil
+Static
+Effect: The user gains +1 Evasion. This is increased to +2
+Evasion while in Sunny Weather or on grassy terrain. While
+in Sunny Weather, the user gains +5 Damage Reduction.
+Ability: Sorcery
+Static
+Effect: The user's Base Special Attack Stat is increased by +5,
+and by +1 more for every 10 Levels the user has. This Ability
+cannot be disabled in any way.
+Ability: Spike Shot
+Static
+Effect: The user may use Moves with a Range of "Melee,
+1-Target" as if they had a Range of "8, 1-Target" instead.
+Ability: Tingle
+At-Will - Free Action
+Trigger: The user hits an adjacent target foe with a 1-Target
+attack
+Effect: The target loses a Tick of Hit Points and takes a -5
+penalty to Damage Rolls for 1 full round.
+Ability: Tonguelash
+Scene x2 ­ Free Action
+Trigger: The user hits a target with Lick
+Effect: Connection ­ Lick. Lick automatically Paralyzes and
+Flinches its target.
+Bonus: The user may use Lick as if it was Normal-Typed.
+Ability: Trinity
+Static
+Effect: Connection - Tri Attack. You may use Tri Attack as if
+it had a range of "Melee, 3 Targets". Make a different attack
+roll for each target. If Tri-Attack's effect range is activated,
+do not roll for the effect; the first target can only be Frozen,
+the second can only be Burned, and the third can only be
+Paralyzed. Additionally, you may use Tri-Attack as a Physical
+Attack if you wish.
+Ability: Type Aura
+Static
+Effect: The user and all allies within 3 meters gain a +5
+Bonus to Damage Rolls with Moves matching the user's
+Primary Type.
+Ability: Weird power
+Static
+Effect: If the user's Attack is higher than its Special Attack,
+the user may add its Attack Stat to its Special Damage Rolls.
+If their Special Attack is higher, they user may add its Special
+Attack Stat to its Physical Damage Rolls. This does not stack
+with Mixed Power.
+

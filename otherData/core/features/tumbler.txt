@@ -1,0 +1,64 @@
+Trainer Classes
+173
+Tumbler
+[Class] [+Speed]
+Prerequisites: Acrobat
+Static
+Effect: You gain the Run Away Ability.
+Aerialist
+[+Speed]
+Prerequisites: Tumbler
+Static
+Effect: You learn the Moves Aerial Ace and Splash.
+Quick Gymnastics
+[+Speed]
+Prerequisites: Tumbler
+1 AP ­ Free Action
+Trigger: You hit with an Attack; you make a Jump; or
+you stand up from being Tripped
+Effect: You may may Shift 2 Meters. You don't count
+as Flanked or trigger Attacks of Opportunity until the
+end of your next turn. Additionally, if you activate this
+Feature, the triggering action does not provoke Attacks
+of Opportunity.
+Flip Out
+[+Speed]
+Prerequisites: Aerialist, Adept Acrobatics
+Static
+Effect: Your Tumbler Moves gain additional effects.
+»
+» Aerial Ace: If you choose not to test for a Critical
+Hit, Aerial Ace gains the Pass Keyword.
+»
+» Splash: Once a Scene, you may use Splash as if it
+had the Interrupt keyword upon getting hit with
+an attack. If you do, you gain Damage Reduction
+against that attack equal to twice your Acrobatics
+Rank.
+»
+» Acrobatics: You may activate Acrobatics's extra
+damage even while holding an Item.
+»
+» Bounce: When you use Bounce, you don't trigger
+Hazards that turn and may choose to destroy
+all Hazards in your landing square and adjacent
+squares.
+Death From Above
+[+Speed]
+Prerequisites: Aerialist, Expert Acrobatics
+Static
+Effect: You learn the Moves Acrobatics and Bounce.
+Quick Reflexes
+[+Speed]
+Prerequisites: Tumbler, Expert Acrobatics
+Static
+Effect: You gain the Dodge Ability.
+Burst of Speed
+[+Speed]
+Prerequisites: 5 Tumbler Features, Master Acrobatics
+Scene ­ Free Action
+Trigger: You end your turn
+Effect: Select an Initiative Count equal to half of your
+own Initiative or less; you may take an extra turn at that
+point in the round.
+

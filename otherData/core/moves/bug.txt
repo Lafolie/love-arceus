@@ -1,0 +1,304 @@
+Indices and Reference
+346
+Bug Moves
+Move: Attack Order
+Type: Bug
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: 6, 1 Target
+Effect: Attack Order is a Critical Hit on 18+.
+Contest Type: Smart
+Contest Effect: Incentives
+Move: Bug Bite
+Type: Bug
+Frequency: At-Will
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target
+Effect: If the target has a stored Digestion Buff or has
+traded in a Digestion Buff this Scene, the user may gain
+the effects of the Digestion Buff. This does not count
+towards the usual limit on the user's Digestion Buffs.
+Contest Type: Tough
+Contest Effect: Attention Grabber
+Move: Bug Buzz
+Type: Bug
+Frequency: Scene x2
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Special
+Range: Cone 2 or Close Blast 2, Sonic, Smite
+Effect: Bug Buzz lowers the Special Defense of all targets
+on 19+.
+Contest Type: Cute
+Contest Effect: Incentives
+Move: Defend Order
+Type: Bug
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Defense and Special Defense 1
+Combat Stage each.
+Contest Type: Smart
+Contest Effect: Get Ready!
+Move: Fell Stinger
+Type: Bug
+Frequency: At-Will
+AC: 2
+Damage Base 3: 1d6+5 / 9
+Class: Physical
+Range: Melee, 1 Target
+Effect: If the user successfully knocks out a target with
+Fell Stinger, raise their Attack by 2 Combat Stages.
+Contest Type: Smart
+Contest Effect: Desperation
+Move: Fury Cutter
+Type: Bug
+Frequency: At-Will
+AC: 3
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, 1 Target
+Effect: If Fury Cutter is used successfully and
+consecutively on the same target, the Damage Base is
+increased by +4 to a maximum of 16. For example, the
+first hit would have a DB of 4; the second hit a DB of 8;
+the third hit a DB of 12; the fourth and further hits a DB
+of 16. If Fury Cuter misses or fails to damage its target,
+its Damage Base resets.
+Contest Type: Cool
+Contest Effect: Reliable
+Move: Heal Order
+Type: Bug
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Self
+Effect: The user regains Hit Points equal to half of its
+full Hit Point value.
+Contest Type: Smart
+Contest Effect: Reflective Appeal
+Indices and Reference
+347
+Move: Infestation
+Type: Bug
+Frequency: Scene x2
+AC: 4
+Damage Base 4: 1d8+6 / 11
+Class: Special
+Range: 3, 1 Target
+Effect: The target is put in a Vortex.
+Contest Type: Smart
+Contest Effect: Gamble
+Move: Leech Life
+Type: Bug
+Frequency: At-Will
+AC: 2
+Damage Base 2: 1d6+3 / 7
+Class: Physical
+Range: Melee, 1 Target
+Effect: After the target takes damage, the user gains
+Hit Points equal to half of the damage they dealt to the
+target.
+Contest Type: Smart
+Contest Effect: Good Show!
+Move: Megahorn
+Type: Bug
+Frequency: Scene x2
+AC: 5
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: Melee, 1 Target, Push
+Effect: The target is pushed 1 Meter.
+Contest Type: Cool
+Contest Effect: Desperation
+Move: Pin Missile
+Type: Bug
+Frequency: EOT
+AC: 4
+Damage Base 3: 1d6+5 / 9
+Class: Physical
+Range: 6, 1 Target, Five Strike
+Effect: None
+Contest Type: Cool
+Contest Effect: Reliable
+Move: Powder
+Type: Bug
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: 6, 1 Target, Interrupt, Powder
+Effect: The target is dusted with a Coat of flammable
+powder. If it uses a damaging Fire-Type attack, the
+attack is negated and instad creates a Blast 3 centered on
+itself as the powder explodes, and the Coat is removed.
+All targets within the Blast take damage equal to what
+the user of the Fire-Type attack would roll for the
+damage of their attack. This damage is Typeless or Fire-
+Type, whichever would be more effective.
+Contest Type: Beauty
+Contest Effect: Sabotage
+Move: Quiver Dance
+Type: Bug
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Special Attack, Special Defense,
+and Speed by +1 Combat Stage each.
+Contest Type: Cool
+Contest Effect: Get Ready!
+Move: Rage Powder
+Type: Bug
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: Burst 1 or Line 6, Powder
+Effect: All targets hit by Rage Powder are Enraged.
+While enraged, they must shift to target the user when
+using a Move or Attack if the user is within reach. If the
+user is Fainted or Switched out, all targets hit by Rage
+Powder are cured of rage.
+Contest Type: Smart
+Contest Effect: Tease
+Indices and Reference
+348
+Move: Signal Beam
+Type: Bug
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: 6, 1 Target
+Effect: Signal Beam confuses the target on 19+.
+Contest Type: Beauty
+Contest Effect: Incentives
+Move: Silver Wind
+Type: Bug
+Frequency: At-Will
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Special
+Range: 6, 1 Target, Spirit Surge
+Effect: On 19+, the user has each of its stats raised by +1
+Combat Stage.
+Contest Type: Beauty
+Contest Effect: Incentives
+Move: Spider Web
+Type: Bug
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: 5
+Effect: Spider Web cannot miss. The target is Stuck and
+Trapped. If the user is freed of the Stuck condition, they
+are freed of Trapped as well.
+Contest Type: Smart
+Contest Effect: Sabotage
+Special: Grants Threaded
+Move: Steamroller
+Type: Bug
+Frequency: EOT
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, Pass
+Effect: Steamroller Flinches the target on 15+. If the
+target is Small, Steamroller deals an additional +5
+Damage.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Sticky Web
+Type: Bug
+Frequency: EOT
+AC: None
+Class: Status
+Range: 6, Hazard
+Effect: Set 8 square meters of Sticky Web hazards
+within your range, all 8 meters must be adjacent with at
+least one other space of Sticky Web. Sticky Web causes
+Terrain to become Slow Terrain, and a foe that runs into
+the hazard has its Speed lowered by one stage, and they
+become Slowed until the end of their next turn. Flying-
+type Pokémon and Pokémon and Trainers with Levitate
+are not affected by Sticky Web. Bug-type Pokémon
+may move over Sticky Web harmlessly, destroying the
+Hazards as they do so.
+Contest Type: Smart
+Contest Effect: Sabotage
+Special: Grants Threaded
+Move: String Shot
+Type: Bug
+Frequency: At-Will
+AC: 3
+Class: Status
+Range: Cone 2
+Effect: Targets have their Speed CS lowered by -1. If this
+lowers their Speed CS to -6, or if their Speed CS was
+already at -6, the target is instead Stuck.
+Contest Type: Smart
+Contest Effect: Excitement
+Special: Grants Threaded
+Move: Struggle Bug
+Type: Bug
+Frequency: At-Will
+AC: 2
+Damage Base 5: 1d8+8 / 13
+Class: Special
+Range: Cone 2
+Effect: On hit, lowers the target's Special Attack by -1
+CS.
+Contest Type: Smart
+Contest Effect: Excitement
+Indices and Reference
+349
+Move: Tail Glow
+Type: Bug
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Special Attack 3 Combat Stages.
+Contest Type: Beauty
+Contest Effect: Get Ready!
+Special: Grants Glow
+Move: Twineedle
+Type: Bug
+Frequency: At-Will
+AC: 3
+Damage Base 3: 1d6+5 / 9
+Class: Physical
+Range: Melee, 1 Target, Double Strike
+Effect: Twineedle Poisons the target on an Accuracy
+Check of 18+
+Contest Type: Cool
+Contest Effect: Reliable
+Move: U-Turn
+Type: Bug
+Frequency: At-Will
+AC: 2
+Damage Base 7: 2d6+10 / 17
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: If U-Turn successfully hits its target, the user
+deals damage and then immediately is returned to
+its Poké Ball in the same turn. A New Pokémon may
+immediately be sent out. Using U-Turn lets a Trapped
+user be recalled.
+Contest Type: Cute
+Contest Effect: Inversed Appeal
+Move: X-Scissor
+Type: Bug
+Frequency: At-Will
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: None
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+

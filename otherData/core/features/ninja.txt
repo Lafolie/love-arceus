@@ -1,0 +1,57 @@
+Trainer Classes
+184
+Ninja
+[Class] [+Speed]
+Prerequisites: Novice Stealth, Novice Combat
+Static
+Effect: You learn the Moves Double Team and Poison Powder.
+Ninja's Arsenal
+Prerequisites: Ninja
+At-Will ­ Extended Action
+Effect: You may craft an Antidote, Smoke Ball, Caltrops,
+or Toxic Caltrops for $100.
+Poison Weapons
+[+Speed] [Weapon]
+Prerequisites: Ninja, Adept Stealth
+1 AP ­ Free Action
+Trigger: You make a Weapon Attack.
+Effect: The attack or Move Poisons its targets on 16+,
+and you may have it deal Poison-Type Damage if you
+wish.
+Genjutsu
+[+Speed]
+Prerequisites: Ninja, Adept Stealth
+At-Will ­ Standard Action
+Effect: You form an Illusion around yourself. This
+Illusion may be used to hide yourself in a shroud of
+darkness if in darkness, or to make yourself look like
+a mundane object (such as a crate, potted plant, or
+similar). The Illusion can even fool Aura, concealing
+you from Aura Sight for its duration. However, the
+Illusion requires complete concentration, and is broken
+if you take any actions at all. Anyone that interacts with
+the Illusion directly may make an Occult Education or
+Intuition Check with a DC equal to 10 plus your Stealth
+Rank; if they succeed, the Illusion is broken.
+Utility Drop
+[+Speed]
+Prerequisites: Ninja's Arsenal, Expert Stealth
+At-Will ­ Swift Action
+Trigger: You Shift
+Effect: You may use a Smoke Ball, Caltrops, or Toxic
+Caltrops as a Free action during your Shift. Instead of
+the Move's usual area of effect, you leave one square of
+Smokescreen, Spikes, or Toxic Spikes on each square you
+leave as you Shift. Once you place 8 meters of Smoke,
+Spikes, or Toxic Spikes you may not place any more.
+Weightless Step
+[+Speed]
+Prerequisites: Ninja, Expert Stealth
+Static
+Effect: You gain the Infiltrator Ability.
+Kinjutsu
+[+Speed]
+Prerequisites: Poison Weapons, Master Stealth
+Static
+Effect: You learn the Moves Substitute and Toxic.
+

@@ -1,0 +1,425 @@
+Indices and Reference
+380
+Grass Moves
+Move: Absorb
+Type: Grass
+Frequency: At-Will
+AC: 2
+Damage Base 2: 1d6+3 / 7
+Class: Special
+Range: 4, 1 Target
+Effect: After the target takes damage, the user gains
+Hit Points equal to half of the damage they dealt to the
+target.
+Contest Type: Smart
+Contest Effect: Good Show!
+Move: Aromatherapy
+Type: Grass
+Frequency: Scene
+AC: None
+Class: Status
+Range: Burst 1
+Effect: All allies in the burst are cured of one status
+condition of their choice.
+Contest Type: Smart
+Contest Effect: Reflective Appeal
+Move: Bullet Seed
+Type: Grass
+Frequency: EOT
+AC: 4
+Damage Base 3: 1d6+5 / 9
+Class: Physical
+Range: 6, 1 Target, Five Strike
+Effect: None
+Contest Type: Cool
+Contest Effect: Reliable
+Move: Cotton Guard
+Type: Grass
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self
+Effect: Raise the user's Defense 3 Combat Stages.
+Contest Type: Cute
+Contest Effect: Get Ready!
+Move: Cotton Spore
+Type: Grass
+Frequency: EOT
+AC: 2
+Class: Status
+Range: Burst 1, Powder
+Effect: All Legal Targets have their Speed lowered 2
+Combat Stages.
+Contest Type: Beauty
+Contest Effect: Saving Grace
+Move: Energy Ball
+Type: Grass
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Special
+Range: 8, 1 Target
+Effect: Energy Ball lowers the foe's Special Defense 1
+Combat Stage on 17+.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Move: Forest's Curse
+Type: Grass
+Frequency: Daily
+AC: 2
+Class: Status
+Range: 6, 1 Target
+Effect: The target gains the Grass Type in addition to its
+other Types for 5 turns.
+Contest Type: Smart
+Contest Effect: Good Show
+Move: Frenzy Plant
+Type: Grass
+Frequency: Daily x2
+AC: 4
+Damage Base 15: 4d10+20 / 45
+Class: Special
+Range: 3, 5 Targets, Smite, Exhaust
+Effect: None
+Contest Type: Cool
+Contest Effect: Seen Nothing Yet
+Indices and Reference
+381
+Move: Giga Drain
+Type: Grass
+Frequency: Scene x2
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: 6, 1 Target
+Effect: After the target takes damage, the user gains
+Hit Points equal to half of the damage they dealt to the
+target.
+Contest Type: Smart
+Contest Effect: Good Show!
+Move: Grass Knot
+Type: Grass
+Frequency: EOT
+AC: 2
+Damage Base: See Effect
+Class: Special
+Range: 5, 1 Target, Weight Class
+Effect: Grass Knot's Damage Base is equal to twice the
+target's Weight Class.
+Contest Type: Smart
+Contest Effect: Incentives
+Move: Grass Pledge
+Type: Grass
+Frequency: Scene
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Special
+Range: 6, 1 Target, Pledge
+Effect: If an ally uses Fire Pledge or Water Pledge,
+you may use Grass Pledge as Priority (Advanced)
+immediately after their turn to target the same foe. If
+used in conjunction with Fire Pledge, Fire Hazards
+are created in a Burst 1 around the target. If used in
+conjunction with Water Pledge, the target and all foes
+adjacent to the target are slowed and have their Speed
+reduced by 2 Combat Stages. Consult the Pledge
+keyword for additional details.
+Contest Type: Beauty
+Contest Effect: Safe Option
+Move: Grass Whistle
+Type: Grass
+Frequency: Scene x2
+AC: 6
+Class: Status
+Range: 6, 1 Target, Sonic
+Effect: The target falls Asleep.
+Contest Type: Smart
+Contest Effect: Excitement
+Move: Grassy Terrain
+Type: Grass
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Field
+Effect: The area becomes Grassy for 5 rounds. While
+Grassy, all Pokémon and Trainers standing on the
+ground recover a Tick of Hit Points at the start of every
+turn, and Grass-Type attacks performed by grounded
+Pokémon and Trainers gain a +10 bonus to Damage
+Rolls.
+Contest Type: Beauty
+Contest Effect: Get Ready
+Move: Horn Leech
+Type: Grass
+Frequency: Scene x2
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target, Dash
+Effect: After the target takes damage, the user gains
+Hit Points equal to half of the damage they dealt to the
+target.
+Contest Type: Smart
+Contest Effect: Good Show!
+Move: Ingrain
+Type: Grass
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self, Coat
+Effect: Ingrain applies a Coat to the user, which has the
+following effect; the user cannot be pushed or pulled,
+and cannot be switched out. At the beginning of each of
+the user's turn, the user gains a Tick of Hit Points.
+Contest Type: Smart
+Contest Effect: Safe Option
+Indices and Reference
+382
+Move: Leaf Blade
+Type: Grass
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, Pass
+Effect: Leaf Blade is a Critical Hit on 18+.
+Contest Type: Cool
+Contest Effect: Exhausting Act
+Move: Leaf Storm
+Type: Grass
+Frequency: Scene
+AC: 4
+Damage Base 13: 4d10+10 / 35
+Class: Special
+Range: 8, Ranged Blast 3, Smite
+Effect: Lower the user's Special Attack 2 Combat Stages
+after damage.
+Contest Type: Cute
+Contest Effect: Seen Nothing Yet
+Move: Leaf Tornado
+Type: Grass
+Frequency: EOT
+AC: 4
+Damage Base 7: 2d6+10 / 17
+Class: Special
+Range: 6, Ranged Blast 3
+Effect: Small or Medium targets in the central square of
+the blast are not hit. On 15+, all legal targets have their
+Accuracy lowered by -1.
+Contest Type: Beauty
+Contest Effect: Good Show!
+Move: Leech Seed
+Type: Grass
+Frequency: Daily x2
+AC: 4
+Class: Status
+Range: 6, 1 Target
+Effect: At the beginning of each of the target's turns,
+Leech Seed's target loses a Tick of Hit Points. Leech
+Seed's user then gains Hit Points equal to the amount
+the target lost. Leech Seed lasts until the target faints
+or is returned to a Poké Ball. Grass Types and targets
+immune to Grass Attacks are immune to Leech Seed.
+Contest Type: Smart
+Contest Effect: Safe Option
+Move: Magical Leaf
+Type: Grass
+Frequency: EOT
+AC: None
+Damage Base 6: 2d6+8 / 15
+Class: Special
+Range: 8, 1 Target
+Effect: Magical Leaf cannot miss.
+Contest Type: Beauty
+Contest Effect: Exhausting Act
+Move: Mega Drain
+Type: Grass
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Special
+Range: 6, 1 Target
+Effect: After the target takes damage, the user gains
+Hit Points equal to half of the damage they dealt to the
+target.
+Contest Type: Smart
+Contest Effect: Good Show!
+Move: Needle Arm
+Type: Grass
+Frequency: At-Will
+AC: 2
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Melee, 1 Target
+Effect: Needle Arm Flinches the target on 15+.
+Contest Type: Smart
+Contest Effect: Steady Performance
+Move: Petal Blizzard
+Type: Grass
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Burst 1
+Effect: None.
+Contest Type: Beauty
+Contest Effect: Big Show
+Indices and Reference
+383
+Move: Petal Dance
+Type: Grass
+Frequency: Scene x2
+AC: 3
+Damage Base 12: 3d12+10 / 30
+Class: Special
+Range: Melee, all adjacent foes, Smite
+Effect: After damage is dealt, the user becomes Enraged
+and Confused.
+Contest Type: Beauty
+Contest Effect: Safe Option
+Move: Power Whip
+Type: Grass
+Frequency: Scene x2
+AC: 5
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: 8, 1 Target, Smite
+Effect: None
+Contest Type: Beauty
+Contest Effect: Steady Performance
+Special: Grants Threaded
+Move: Razor Leaf
+Type: Grass
+Frequency: At-Will
+AC: 4
+Damage Base 6: 2d6+8 / 15
+Class: Physical
+Range: Cone 2
+Effect: Razor Leaf is a Critical Hit on 18+.
+Contest Type: Cool
+Contest Effect: Steady Performance
+Move: Seed Bomb
+Type: Grass
+Frequency: At-Will
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: 8, 1 Target
+Effect: None
+Contest Type: Smart
+Contest Effect: Steady Performance
+Move: Seed Flare
+Type: Grass
+Frequency: Scene
+AC: 5
+Damage Base 12: 3d12+10 / 30
+Class: Special
+Range: 6, Ranged Blast 3
+Effect: All Legal Targets have their Special Defense
+lowered 1 Combat Stage.
+Contest Type: Cool
+Contest Effect: Seen Nothing Yet
+Move: Sleep Powder
+Type: Grass
+Frequency: Scene x2
+AC: 6
+Class: Status
+Range: 4, 1 Target, Powder
+Effect: The target falls asleep.
+Contest Type: Smart
+Contest Effect: Inversed Appeal
+Move: Solar Beam
+Type: Grass
+Frequency: Scene x2
+AC: 2
+Damage Base 12: 3d12+10 / 30
+Class: Special
+Range: Line 6, 1 Target, Set-Up
+Set-Up Effect: If the weather is not Sunny, the user's
+turn ends. If the weather is Sunny, immediately proceed
+to the Resolution Effect instead and this Move loses the
+Set-Up keyword.
+Resolution Effect: The user attacks with Solar Beam. If
+the weather is Rainy, Sandstorming, or Hailing, Solar
+Beam's Damage Base is lowered to 6 (2d6+8 / 15).
+Contest Type: Cool
+Contest Effect: Special Attention
+Indices and Reference
+384
+Move: Spiky Shield
+Type: Grass
+Frequency: Scene
+AC: None
+Class: Status
+Range: Self, Interrupt, Shield, Trigger
+Effect: If the user is hit by an attack, the user may use
+Spiky Shield. The user is instead not hit by the Move.
+You do not take any damage nor are you affected by any
+of the Move's effects. In addition, if the triggering attack
+was Melee ranged, the attacker loses a Tick of Hit Points.
+Contest Type: Tough
+Contest Effect: Inversed Appeal
+Move: Spore
+Type: Grass
+Frequency: Scene
+AC: None
+Class: Status
+Range: 4, 1 Target, Powder
+Effect: The target falls Asleep.
+Contest Type: Beauty
+Contest Effect: Get Ready!
+Move: Stun Spore
+Type: Grass
+Frequency: Scene x2
+AC: 6
+Class: Status
+Range: 6, 1 Target, Powder
+Effect: The target is Paralyzed.
+Contest Type: Smart
+Contest Effect: Excitement
+Move: Synthesis
+Type: Grass
+Frequency: Daily x2
+AC: None
+Class: Status
+Range: Self
+Effect: The user regains Hit Points equal to half of its
+full Hit Point value. If it is Sunny, the user gains 2/3 of its
+full Hit Point value instead. If it is Rainy, Sand Storming
+or Hailing the user gains 1/4 of their full Hit Point value
+instead.
+Contest Type: Smart
+Contest Effect: Reflective Appeal
+Move: Vine Whip
+Type: Grass
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: 4, 1 Target
+Effect: None
+Contest Type: Cool
+Contest Effect: Steady Performance
+Special: Grants Threaded
+Move: Wood Hammer
+Type: Grass
+Frequency: Scene x2
+AC: 2
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: Melee, 1 Target, Dash, Recoil 1/3
+Effect: None
+Contest Type: Tough
+Contest Effect: Desperation
+Move: Worry Seed
+Type: Grass
+Frequency: Scene
+AC: 2
+Class: Status
+Range: 8, 1 Target
+Effect: You choose one of the target's Abilities. Worry
+Seed changes that Ability to Insomnia for the remainder
+of the encounter.
+Contest Type: Beauty
+Contest Effect: Excitement
+

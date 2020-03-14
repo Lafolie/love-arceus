@@ -1,0 +1,242 @@
+May 2015 Playtest
+5
+Gadgeteer Research Field
+Improvised Gadgets
+Prerequisites: Novice Technology Education
+Bind 2 AP ­ Extended Action
+Target: A willing Pokémon with the Magnetic, Zapper,
+or Threaded Capability
+Effect: Choose one of the Capabilities listed in the
+Target line that the target Pokémon has. You create a
+Main or Off-Hand Equipment Item usable by Trainers
+that grants the user the chosen Capability. Whenever a
+Trainer makes Struggle Attacks using Zapper through
+this Item, they may choose to use your Technology
+Education Rank tripled in place of an offensive Stat.
+When this Feature is Unbound, the Equipment Item
+breaks and cannot be repaired. You may only have X
+instances of this Feature Bound at once, where X is
+equal to half your Technology Education Rank.
+I Meant to Do That
+Prerequisites: Improvised Gadgets, Adept Technology
+Education
+At-Will ­ Special
+Condition: You must have at least one Equipment Item
+you created with Improvised Gadgets equipped to use
+this Feature.
+Effect: Choose one of your equipped items you
+created with Improved Gadgets. It is destroyed and
+cannot be repaired, and that instance of Improvised
+Gadgets is immediately Unbound. Use the effect below
+corresponding to the Capability granted by the chosen
+item.
+»
+» Magnetic: You may activate this effect as a Standard
+Action Interrupt whenever a Steel or Electric-Type
+attack or an attack with a metal Weapon would hit a
+target within 5 meters. The attack instead misses all
+targets within 5 meters.
+»
+» Threaded: Choose up to 3 targets within 4 meters
+and perform an AC 4 Status Attack against them as
+a Standard Acion. All hit targets become Stuck and
+Trapped for one full round.
+»
+» Zapper: You may activate this effect as a Swift
+Action upon hitting a foe with a Zapper-modified
+Struggle Attack. The foe is Paralyzed.
+Capsule Science
+Prerequisites: Improvised Gadgets, Expert Technology
+Education
+Static
+Effect: You learn the Cap Cannon, Cap Ammo, and
+Wonder Launcher recipes, and you gain the following
+additional effects when using those items.
+»
+» Bean Caps: You gain a +10 Damage Bonus when
+using Bean Caps.
+»
+» Glue Caps: Your Effect Range when using Glue
+Caps is increased by +3.
+»
+» Nets Caps: Targets affected by your Net Caps gain
+a -X penalty to all Damage Rolls, where X is your
+Technology Education Rank.
+»
+» Wonder Launcher: Whenever you apply an item
+to a target using the Wonder Launcher, they gain
+Temporary Hit Points equal to your Technology
+Education Rank.
+Enhanced Capsules
+Prerequisites: Capsule Science, Master Technology
+Education
+Daily x3 ­ Extended Action
+Target: A willing Pokémon with one of the Capabilities
+listed below
+Effect: Choose one of the Capabilities below which the
+target Pokémon has. You create a consumable item with
+the effect below, depending on the chosen Capability.
+All unused items created with Enhanced Capsules
+are rendered inert after an Extended Rest (including
+modifications to other items).
+»
+» Glow: This item may be attached to a Wonder
+Launcher as a Standard Action to give the following
+effect for the rest of the Scene: Whenever you apply
+an Item to a target using this Wonder Launcher, that
+target gains the Illuminate Ability for one full round.
+»
+» Magnetic: This item may be loaded into a Cap
+Cannon to provide two Bean Cap Ammo. When
+fired, these Bean Caps cannot miss.
+»
+» Threaded: This item may be loaded into a Cap
+Cannon to provide two Glue Cap Ammo. When
+fired, they affect a Blast 2 instead of a single target.
+»
+» Zapper: This item may be loaded into a Cap Cannon
+as a single Net Cap Ammo. Targets trapped by this
+Net Cap are Suppressed while trapped. Targets
+immune to Electric-Type attacks are immune to this
+effect.
+May 2015 Playtest
+6
+Gadgeteer Recipes
+Cap Cannon
+At-Will ­ Extended Action
+Effect: You create a Cap Cannon for $2000.
+Cap Ammo
+At-Will ­ Extended Action
+Effect: You create a Bean Cap for $25, a Glue Cap for
+$50, or a Net Cap for $100.
+Wonder Launcher
+At-Will ­ Extended Action
+Effect: You create a Wonder Launcher for $5000.
+Additional Changes
+Mechanical Scrap is a new Scrap category that encom-
+passes Items made with the Gadgeteer, Engineer, and
+Upgrader Fields of Study.
+Glue Cannons and Weighted Nets are replaced with
+Cap Cannons, which have the following rules text:
+Cap Cannon - Capsule Cannons - or Cap Cannons for
+short - are two-handed pieces of Equipment which can
+be loaded with different types of Capsules (Caps) and
+fired. They can be fired as a Standard Action, and the
+range and effect of the Cannon depends on the Cap
+used. A Cap Cannon may have up to five Caps loaded
+in it at once, and they do not have to be fired in any
+particular order. You may load up to two Caps into a
+Cannon as a Standard Action. There are three types of
+Caps: Bean Caps, Glue Caps, and Net Caps. In addi-
+tion to Caps, Capsule Cannons can also be loaded with
+Smoke Bombs, Pester Balls, and Poke Balls. When fired
+this way, these items behave normally but have a Range
+of 10 meters. Capsule Cannons cost $5000.
+Bean Cap - Bean Caps shoot as a small cloth projectile
+filled with beads, which explodes upon contact, dealing
+some damage.
+Cost per Cap: $50
+AC: ( 6 minus Tech Edu Rank, Minimum 2 )
+Range: 10 meters
+Effect: The target takes 20 Physical, Normal-Type Dam-
+age. On 18+, the target is Tripped and loses a Tick of Hit
+Points.
+Glue Cap - Glue Caps shoot as a sticky orb that explodes
+upon contact, covering the target in a sticky adhesive.
+Cost per Cap: $100
+AC: ( 8 minus Tech Edu Rank, Minimum 2 )
+Range: 8 meters
+Effect: Cause the target to become Slowed, and their
+Initiative is lowered by 5. On 18+, the target is also
+Stuck and Trapped.
+Net Cap - Net Caps expand into a strong fibrous net
+that cling to and entangle their target.
+Cost per Cap: $200
+AC: ( 10 minus Tech Edu Rank )
+Range: 6 Meters
+Effect: Targets hit by a Net Cap gain all the effects below
+while the net remains on them. Targets may attempt to
+remove the Net as a Standard Action; if they do, they
+make a Save Check with a DC of 15, adding their Power
+Capability as a bonus to their Roll. Targets may auto-
+matically remove the Net as an Extended Action.
+»
+» If the target is a Wild Pokémon, Capture Rate is in-
+creased by +20
+»
+» If the target is Large Size or smaller, they take a -3
+penalty to Accuracy Rolls
+»
+» If the target is Medium Size or smaller, they are
+Slowed and Vulnerable
+»
+» Sky and Levitate Speeds cannot be used; the target
+is forced to lower themselves to the ground (without
+taking fall damage).
+May 2015 Playtest
+7
+General Research Field
+Breadth of Knowledge
+Prerequisites: Novice General Education
+Static
+Effect: You gain three Edges for which you qualify.
+These Edges must be used to gain a Skill Edge with an
+Education Skill, or to gain an Edge that has an Education
+Skill as a Prerequisite that you meet.
+Bookworm
+Prerequisites: Breadth of Knowledge
+Static
+Effect: You gain X Study Points, where X is equal to 2
+plus one more for every other General Research Feature
+you have. You may Drain Study Points to benefit from
+studying Books, instead of Draining your Action Points.
+Study Points are restored to your maximum after an
+Extended Rest, just like Action Points.
+Well Read
+Prerequisites: Bookworm, Expert General Education
+Static
+Effect: You may use your General Education Rank
+to qualify for Books, instead of the Book's usual Skill
+Prerequisites, provided you have the normal Prerequisite
+at at least Novice Rank.
+Echoes of the Future
+Prerequisite: Breadth of Knowledge, Master General
+Education
+Daily x2 ­ Free Action
+Trigger: You or your Pokémon make a roll
+Effect: You may roll twice and keep the best result.
+Book Item Mechanics
+Books hold knowledge, and knowledge is power! Books are Items associated with Education Skills that can be used
+during Extended Actions to Drain your AP to receive certain benefits.
+After half an hour of study, you can Drain 1 AP to gain the benefits of one Rank of a Book , if you meet the prereq-
+uisite Skill for that Book's Rank. Ranks in an individual book must be gained sequentially (e.g. you must have the
+Novice Rank effect to gain the the Expert Rank effect).
+The benefits from a Book last until an Extended Rest is taken; when an Extended Rest is taken, you may choose to
+renew any Drain previously held from Books and continue to gain the effects.
+Books generally cost $1000, but we are still looking at how to best price them. Give us feedback!
+General Education Books
+Study Manual
+Description: A Study Manual is always assigned to a
+single Skill and covers a specific narrow field that can
+be taken as a Skill Stunt. A list of examples is provided.
+Rank 1 - Novice General Education: You gain a Skill
+Stunt in the associated Skill of the Study Manual cover-
+ing the narrow field specified by the Study Manual.
+Rank 2 - Expert General Education: You gain a general
++2 Bonus to the associated Skill. This Bonus does not
+stack with other bonuses from Books or Equipment to
+the same Skill.
+Examples: Gossip Mag - Charm (regional celebrities),
+Locksmith's Manual - Stealth (lock-picking), Paleontol-
+ogy Manual - Survival (digging up fossils), How to be
+1337 - Technology Education (hacking)
+The Joy of Cooking
+Description: A cookbook for novice and experienced
+chefs alike.
+Rank 1 - Novice General Education: Your material
+costs for crafting Food Items of any variety are reduced
+by 10%.
+Rank 2 - Expert General Education: Meal and Re-
+freshment Items you create cause whoever eats them to
+gain a Tick of Hit Points.
+

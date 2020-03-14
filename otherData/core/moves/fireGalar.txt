@@ -1,0 +1,12 @@
+Fire Moves:
+Move: Pyro Ball
+Type: Fire
+Frequency: Scene x2
+AC: 4
+Damage Base 12: 3d12+10 / 30
+Class: Physical
+Range: 6, 1 Target, Smite
+Effect: The target is Burned on 19+.
+Contest Type: Cool
+Contest Effect: Attention Grabber
+

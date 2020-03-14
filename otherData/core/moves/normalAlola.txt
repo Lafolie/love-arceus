@@ -1,0 +1,77 @@
+Normal Moves:
+Move: Laser Focus
+Type: Normal
+Frequency: Scene x2
+AC: None
+Class: Status
+Range: Self
+Effect: The next successful damaging attack made by
+the user is automatically a Critical Hit.
+Contest Type: Smart
+Contest Effect: Get Ready
+Move: Multi-Attack
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Physical
+Range: Melee, 1 Target
+Effect: Multi-Attack is the same Type as the Memory
+Disc, Plate, or Drive Item held.
+Contest Type: Cool
+Contest Effect: Reflective Appeal
+Move: Revelation Dance
+Type: Normal
+Frequency: EOT
+AC: 2
+Damage Base 9: 2d10+10 / 21
+Class: Special
+Range: 6, 1 Target
+Effect: Revelation Dance is the same Type as the
+user's primary Type (the first one listed in the
+Pokédex). Revelation Dance deals +5 Bonus Damage
+for every other Dance Move used by the user this
+round, to a maximum of +15.
+Contest Type: Beauty
+Contest Effect: Reliable
+Move: Spotlight
+Type: Normal
+Frequency: Daily
+AC: None
+Class: Status
+Range: 6, 1 Target, Priority
+Effect: Until the end of the user's next turn, the target
+is Blinded and Vulnerable.
+Contest Type: Smart
+Contest Effect: Attention Grabber
+Move: Swagger
+Type: Normal
+Frequency: EOT
+AC: 5
+Class: Status
+Range: 6, 1 Target, Social
+Effect: The target's Attack is raised 2 Combat Stages.
+Swagger Confuses the target.
+Contest Type: Cute
+Contest Effect: Excitement
+Move: Tackle
+Type: Normal
+Frequency: At-Will
+AC: 2
+Damage Base 4: 1d8+6 / 11
+Class: Physical
+Range: Melee, 1 Target, Dash, Push
+Effect: The target is pushed 2 Meters.
+Contest Type: Tough
+Contest Effect: Steady Performance
+Move: Tearful Look
+Type: Normal
+Frequency: EOT
+AC: 2
+Class: Status
+Range: Burst 1, Social, Friendly
+Effect: Tearful Look lowers all Legal Targets' Attack
+and Special Attack 1 Combat Stage.
+Contest Type: Cute
+Contest Effect: Sabotage
+

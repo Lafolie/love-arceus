@@ -1,0 +1,130 @@
+Trainer Classes
+137
+Fashionista
+[Class]
+Prerequisites: Two of Charm, Command, Guile, Intimidate, or Intuition at Novice
+At-Will ­ Extended Action
+Effect: You may craft any Fashionista Recipe for which you qualify.
+Special: When you take Fashionista, choose two of Charm, Command, Guile, Intimidate, or Intuition to become
+your Fashionista Skills. The Skills you choose must be at Novice Rank or higher.
+Dashing Makeover
+Prerequisites: Fashionista
+Bind 2 AP ­ Extended Action
+Target: A Trainer or Pokémon
+Effect: When you activate Dashing Makeover, choose
+one Equipment or Held Item you can create. While
+this Feature is Bound, the target gains the effects of the
+chosen item, as long as they would normally be able to
+equip it (ex: Trainers cannot equip Incense Items).They
+do not need to take up an Equipment or Held Item slot
+to gain this benefit. A target may only be affected by one
+instance of Dashing Makeover at a time.
+Style is Eternal
+Prerequisites: Fashionista
+1 AP ­ Free Action
+Trigger: Your Pokémon is Disarmed or would have
+their Held Item removed by another effect such as Thief
+or Covet
+Effect: Your Pokémon instead retains their Held Item.
+Style is Eternal may only be used once per Scene per
+Pokémon.
+Accessorize
+Prerequisites: Dashing Makeover, one Fashionista Skill
+at Adept
+Static
+Effect: You may wear and benefit from two Accessory
+Slot Items at once. The two items must be of different
+types and must not share an effect. For example, a Fire
+Brace cannot be paired with another Fire Brace or a Fire
+Plate, but it could be paired with an Ice Brace, a Fire
+Booster, or a Stat Booster.
+Parfumier
+Prerequisites: Fashionista, one Fashionista Skill at
+Expert
+Static
+Effect: Whenever you create an Incense Held Item,
+choose Sweet Scent or Aromatic Mist. While your
+Pokémon is holding that Incense Item in an active Held
+Item slot, they add the chosen Move to their Move List.
+Versatile Wardrobe
+Prerequisites: Fashionista, two Fashionista Skills at
+Adept
+At-Will ­ Extended Action
+Target: Your Pokémon with at least 2 Tutor Points
+remaining
+Effect: The target loses 2 Tutor Points and then becomes
+chic. Chic Pokémon gain two extra Held Item slots with
+which they can carry Held Items. However, the items in
+these slots have no effect and are not treated as equipped.
+As a Swift Action on their turn, Chic Pokémon may
+swap a currently active Held Item with an item stored in
+these slots. Chic Pokémon may not carry multiple items
+of the same type or with repeated effects.
+Note: A Chic Pokémon does not become Suppressed
+until they switch a Choice Item into their active Held
+Item slot, but even if they then switch the Choice Item
+out, they remain Suppressed for the remainder of
+combat. A Mega-Evolved Chic Pokémon remains Mega-
+Evolved even if they switch their active Held Item.
+Dress to Impress
+[Orders]
+Prerequisites: Versatile Wardrobe, two Fashionista
+Skills at Expert
+Scene x2 ­ Standard Action
+Target: Your Chic Pokémon
+Effect: Your Pokémon gains the effect of all items in
+extra slots granted by Versatile Wardrobe for one full
+round. Dress to Impress may only target a Pokémon
+once per Scene.
+Trainer Classes
+138
+Contest Trends
+Prerequisites: Fashionista
+Effect: You can create Contest Accessories for $750,
+Contest Fashion Items for $500, and Fancy Clothes for
+$2500.
+Basic Fashion
+Prerequisites: Fashionista
+Cost: $500
+Effect: You create one of the Basic Fashion Items below
+for which you have the chosen Fashionista Skill. These
+are Accessory Slot Items and may be used as Held
+Items by Pokémon.
+Adorable Fashion
+Fashionista Skill: Charm
+Effect: The holder may activate this item once a Scene
+as a Free Action to gain +2 Evasion for one full round.
+Elegant Fashion
+Fashionista Skill: Intuition
+Effect: The holder may activate this item once a Scene
+as a Free Action when losing Combat Stages from a
+foe's effect to instead not lose those Combat Stages.
+Rad Fashion
+Fashionista Skill: Command
+Effect: The holder may activate this item once a Scene
+as a Free Action to gain a +4 bonus to a single Save
+Check.
+Rough Fashion
+Fashionista Skill: Intimidate
+Effect: The holder may activate this item once a Scene
+as a Free Action to cause a foe within 5 meters to take a
+-2 penalty to all rolls for one full round.
+Slick Fashion
+Fashionista Skill: Guile
+Effect: The holder may activate this item once a
+Scene as a Free Action when provoking an Attack of
+Opportunity to instead not provoke one.
+Practical Fashion
+Prerequisites: Dashing Makeover
+Effect: You can create Go-Goggles, Safety Goggles, or
+Winter Cloaks for $750.
+Focused Fashion
+Prerequisites: Style is Eternal
+Effect: You can create Focus Bands and Focus Sashes
+for $2000.
+Incense Maker
+Prerequisites: Parfumier
+Effect: You can create Lax Incense for $1000, Luck
+Incense for $900, and Full Incense for $450.
+Fashionista Recipes
+

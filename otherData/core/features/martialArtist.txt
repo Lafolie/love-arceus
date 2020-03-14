@@ -1,0 +1,122 @@
+Trainer Classes
+161
+Martial Artist
+[Class]
+Prerequisites: Basic Martial Arts, Novice Combat
+Static
+Effect: Choose one of the abilities listed below. You gain the chosen Ability, and its associated tags. Whenever you
+gain any Martial Artist Feature, you also gain the associated tags.
+Guts [+HP]
+Inner Focus [+Speed]
+Iron Fist [+Defense]
+Limber [+Speed]
+Reckless [+Attack]
+Technician [+Speed]
+Martial Training
+[Ranked 3]
+Rank 1 Prerequisites: Martial Artist
+Rank 2 Prerequisites: Martial Artist, Expert Combat
+Rank 3 Prerequisites: Martial Artist, Master Combat
+Static
+Effect: Learn two Martial Artist Moves. You may choose any Move marked with the Martial Training Rank you
+are taking or lower. You must meet a Move's Prerequisites to choose that Move.
+Rank 1 Moves
+Move Prerequisites
+Acupressure Limber
+Arm Thrust Technician
+Double Kick None
+Focus Energy None
+Karate Chop Inner Focus
+Low Sweep None
+Mach Punch Iron Fist
+Rolling Kick Reckless
+Vital Throw Guts
+Rank 2 Moves
+Move Prerequisites
+Brick Break None
+Circle Throw Guts
+Comet Punch Iron Fist
+Counter Limber
+Low Kick Inner Focus
+Jump Kick Reckless
+Power Trick Limber
+Quick Guard Technician
+Rank 3 Moves
+Move Prerequisites
+Cross Chop Inner Focus
+Close Combat None
+Triple Kick Technician
+High Jump
+Kick
+Reckless
+Sky Uppercut Iron Fist
+Storm Throw Guts
+Martial Artist Moves
+Trainer Classes
+162
+My Kung-Fu is Stronger
+Prerequisites: Martial Training Rank 1
+At-Will ­ Free Action
+Trigger: A foe provokes an Attack of Opportunity
+Effect: You may use Rock Smash instead of an unarmed
+Struggle Attack. If you do, Rock Smash's Effect Range is
+increased by +2.
+Martial Achievement
+Prerequisites: Martial Artist
+Static
+Effect: You gain a Martial Achievement based on your
+Chosen Ability.
+Second Strike
+Prerequisites: Martial Artist
+At-Will ­ Free Action
+Trigger: You attempt to use a Grapple, Push, Trip, or
+Disarm Combat Maneuver but fail the Opposed Roll
+Effect: You may immediately use Rock Smash or a
+Struggle Attack against your target as a Free Action.
+Wrestlemania
+Prerequisites: Guts Ability
+1 AP ­ Swift Action
+Trigger: You begin your turn with Dominance in a
+Grapple
+Effect: This turn, you may perform two different
+Grappling Effects as a Full Action instead of just one.
+Heightened Intensity
+Prerequisites: Inner Focus Ability
+2 AP ­ Shift Action
+Effect: You may use Focus Energy as a Free Action
+Pummeling Momentum
+Prerequisites: Iron Fist Ability
+1 AP ­ Free Action
+Trigger: You hit a foe with a Move affected by Iron Fist
+Effect: You Tag the triggering foe and gain a +1 bonus
+to your Accuracy Rolls and Evasion against that foe.
+Each subsequent time that you hit the Tagged foe with
+a Move affected by Iron Fist, this bonus increases by +1,
+to a maximum of your Combat Rank. If you ever spend
+a turn without successfully hitting your Tagged foe, the
+foe loses their Tag and the bonus is lost.
+Bend Like the Willow
+Prerequisites: Limber Ability
+2 AP ­ Free Action, Interrupt
+Trigger: An adjacent foe initiates a Disarm, Grapple,
+Push, or Trip Maneuver against you, and either misses
+or fails the Opposed Check.
+Effect: You may attempt the same Combat Maneuver
+against the triggering foe as a Free Action.
+Soft Landing
+Prerequisites: Reckless Ability
+1 AP ­ Free Action
+Trigger: You take fall damage, or miss with Jump Kick
+or High Jump Kick
+Effect: When taking fall damage, calculate the result
+as if you had fallen X meters less, where X is half your
+Combat Rank. If you miss with Jump Kick or High
+Jump Kick, you lose no Hit Points as a result.
+Whirlwind Strikes
+Prerequisites: Technician
+1 AP ­ Full Action
+Effect: You may use Rock Smash, targeting against any
+number of adjacent foes. You do not count as Flanked
+for one full round.
+Martial Achievements
+

@@ -1,0 +1,88 @@
+Trainer Classes
+157
+Dancer
+[Class] [+Speed]
+Prerequisites: Novice Acrobatics; Novice Athletics or Charm
+Static
+Effect: Choose Spinning Dance or Own Tempo. You gain the chosen Ability.
+Dance Form
+[+Speed]
+Prerequisites: Dancer
+Static
+Effect: Create and learn two Dance Moves, plus one more
+for each other Dancer Feature you have. Whenever you
+gain another Dancer Feature, create and learn another
+Dance Move.
+Beguiling Dance
+[+Speed]
+Prerequisites: Dance Form
+Static
+Effect: When creating Dance Moves, you can choose to
+create a Dance Move that has Range: 4, 1 Target, AC
+3, and lowers a Combat Stat (chosen at creation) by
+-2 Combat Stages. This Move is otherwise the same as
+other Dance Moves you could create except that Dance
+Moves created with this template have the Contest
+Effect Excitement instead of Get Ready!.
+Dance Practice
+[+Speed]
+Prerequisites: Dancer
+At-Will ­ Extended Action
+Target: Your Pokémon with at least 2 Tutor Points
+Effect: The target loses 2 Tutor Points and gains your
+choice of Spinning Dance or Own Tempo. Dance
+Practice may target a Pokémon only once.
+Choreographer
+[+Speed]
+Prerequisites: Dance Form; Adept Acrobatics, Athletics,
+or Charm
+At-Will ­ Extended Action
+Target: Your Pokémon with at least 2 Tutor Points
+Effect: The target loses 2 Tutor Point and learns a Dance
+Move created by yourself. Choreographer may target a
+Pokémon multiple times.
+Power Pirouette
+[+Speed]
+Prerequisites: Dance Form; Expert Acrobatics, Athlet-
+ics, or Charm
+Scene x2 ­ Swift Action
+Trigger: You perform a Dance Move
+Effect: Choose one effect:
+»
+» All adjacent targets are Confused.
+»
+» You gain +1 Combat Stage to a Stat of your choice
+not raised by the triggering Move.
+»
+» Destroy all Hazards within 5 meters, and remove
+Leech Seed, Trapped, and Stuck from yourself.
+Passing Waltz
+[+Speed]
+Prerequisites: Dance Practice; Master Acrobatics, Ath-
+letics, or Charm
+1 AP ­ Free Action
+Trigger: You or one of your Pokémon with Own Tempo
+or Spinning Dance uses a Dance Move
+Effect: Choose an ally within 3 meters of the triggering
+target. That ally gains Combat Stages from the triggering
+Move instead of the user.
+Mechanic ­ Dance Moves: Dance Moves you create with the Dance Form Feature
+look like the Move on the right. First, name the Dance Move whatever you like.
+Secondly, choose two Combat Stage gains for the effect. This may either be +2
+Combat Stages to a single Stat, like Swords Dance, or +1 Combat Stage to two
+different Stats, like Dragon Dance. Once chosen, this cannot be changed. Dragon
+Dance, Quiver Dance, and Swords Dance count as Dance Moves for the purposes
+of Dancer Features as well. A Dance Move's Contest Type must be chosen from a
+Contest Type associated with a Stat that the Dance Move affects. Cool is associated
+with Attack, Tough is associated with Defense, Beauty is associated with Special
+Attack, Smart is associated with Special Defense, and Cute is associated with Speed.
+Name
+Type: Normal
+Frequency: EOT
+AC: None
+Class: Status
+Range: Self
+Effect:
+Contest Type:
+Contest Effect: Get Ready!
+

@@ -1,0 +1,32 @@
+Fairy Moves:
+Move: Decorate
+Type: Fairy
+Frequency: Scene
+AC: None
+Class: Status
+Range: Melee, 1 Target
+Effect: The target gains +2 CS in both Attack and
+Special Attack.
+Contest Type: Beauty
+Contest Effect: Reflective Appeal
+Move: Spirit Break
+Type: Fairy
+Frequency: EOT
+AC: 2
+Damage Base 8: 2d8+10 / 19
+Class: Physical
+Range: Melee, 1 Target
+Effect: The target's Special Attack stat is lowered 1 CS.
+Contest Type: Tough
+Contest Effect: Sabotage
+Move: Strange Steam
+Type: Fairy
+Frequency: Scene x2
+AC: 3
+Damage Base 9: 2d10+10 / 21
+Class: Special
+Range: Burst 1
+Effect: The target is confused on 17+.
+Contest Type: Beauty
+Contest Effect: Good Show
+

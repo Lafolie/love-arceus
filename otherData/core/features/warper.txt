@@ -1,0 +1,77 @@
+Trainer Classes
+195
+Warper
+[Class] [+Speed]
+Prerequisites: Elemental Connection (Psychic), Novice Guile
+Static
+Effect: You gain the Probability Control Ability.
+Space Distortion
+[+Speed]
+Prerequisites: Warper
+Static
+Effect: You learn the Moves Teleport and Ally Switch.
+Warping Ground
+[+Speed]
+Prerequisites: Warper
+Static
+Effect: You learn the Moves Gravity and Trick.
+Strange Energy
+[+Speed]
+Prerequisites: Warping Ground, Space Distortion
+Static
+Effect: You learn the Moves Heal Block and Magic Coat.
+Farcast
+[+Speed]
+Prerequisites: Space Distortion, Expert Guile
+Daily x3 ­ Free Action
+Trigger: You use the Move Teleport or activate the
+Teleporter Capability
+Choose One Effect: You activate Teleporter as if your
+Teleporter value were three times its normal value or
+you may take one willing Pokémon or Trainer along
+with you as you teleport so long as you are touching
+them when you activate Farcast. You may expend two
+uses of Farcast at once to choose both effects.
+Warped Transmission
+[+Speed]
+Prerequisites: Farcast, Master Guile
+2 AP ­ Swift Action
+Trigger: You activate the Teleporter Capability or use
+the Move Ally Switch
+Effect: All adjacent foes to the square you end in after
+teleporting or using Ally Switch have their Evasion
+lowered by 3 for one full round and cannot trigger
+Attacks of Opportunity against you for Shifting until
+the end of your next turn.
+Reality Bender
+[+Speed]
+Prerequisites: Warper, Expert Guile
+Daily ­ Free Action
+Effect: You are able to subconsciously alter the fabric
+of reality to change small facts or circumstances. If
+your character is confronting a "random" event such as
+a die roll, coin flip, or cards being dealt, the character
+may activate this Feature to influence the event. In
+this scenario, the GM provides you with two possible
+outcomes, and you pick one of them to actually occur.
+This means you always decide the outcome of binary
+events such as a coin flip; cheating cards or slot machines
+is much harder, as there are multiple outcomes and you
+only get to pick between two. This Feature can also be
+used to generate common items worth $250 or less that
+the character might normally possess, such as a Potion
+or Poké Ball, when in a pinch. The character just happens
+to find the needed item among their belongings. This
+Feature can only create items you wish to use at that
+moment, and of which you have none available; such as
+needing to heal a Pokémon but having no Potions left.
+Items created with Reality Bender must be used quickly
+after activating the feature and cannot be stored for later.
+Doxy: To be clear, this Feature refers to die rolls ­in
+game-, not any die rolls used to PLAY the
+game. Also, GMs are encouraged to whap
+any Warpers on the nose with a rolled up
+newspaper if they try to apply to this to combat...
+except, perhaps, if they or their Pokémon attempts to
+use the Move Metronome...
+

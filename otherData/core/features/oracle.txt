@@ -1,0 +1,117 @@
+Trainer Classes
+186
+Oracle
+[Class] [+Special Defense]
+Prerequisites: Mystic Senses, Novice Perception
+Static
+Effect: You gain the Pickup Ability.
+Divination
+[+Special Defense]
+Prerequisites: Oracle
+Daily x3 ­ Extended Action
+Effect: You may perform an Augury or Scrying.
+Augury
+Target: Self
+Effect: The user has a vision, dream, or similar that may
+depict past, present, or future events. The clarity of the
+dream may vary, as well as the user's ability to remember
+it. See the next page for more details.
+Scrying
+Target: An item you are touching, or your current
+location
+Effect: You see visions of what has happened to the target
+over the last 24 hours. The images may be jumbled or
+unclear, to the discretion of your GM. See the next page
+for more details.
+Unveiled Sight
+[+Special Defense]
+Prerequisites: Oracle
+Static
+Effect: You can see through Illusions. This means
+you can spot Illusions from the Illusionist capability,
+Illusion Ability, and Genjutsu Feature as being fake.
+You are immune to Moves with the Illusion keyword,
+Double Team cannot be activated against you, and you
+bypass Substitutes. As a Standard Action, you can create
+a Burst 4, dispelling all Illusion effects within.
+Disguises and Illusions: Disguises in general refer to
+things with physical components; a mundane disguise
+would be the kind with props and fake moustaches and
+the like. An example of a magical disguise would be a
+Ditto's transformation. Illusions are magical effects,
+such as the Move Double Team, Substitute, or the
+Illusion Ability.
+Small Prophecies
+[+Special Defense]
+Prerequisites: Divination, Adept Perception
+1 AP ­ Swift Action
+Effect: Roll 1d20 and note the result. Until the end of
+your next turn, you may choose to replace a single d20
+roll you or a willing ally makes with the noted result.
+Mark of Vision
+[+Special Defense]
+Prerequisites: Oracle, Adept Perception
+Bind 1 AP ­ Extended Action
+Target: A willing Trainer
+Effect: You mark the target with a mystical power which
+allows you to close your eyes and focus to perceive the
+world with their senses from their perspective. You may
+Bind this Ability multiple times, each time on a different
+target, but you may only concentrate on one Mark of
+Vision at a time, and you may only have a number of
+Marks at one time equal to half your Perception Rank.
+A target may choose to end this effect at any time, or
+to deny you access to their senses temporarily without
+ending the effect entirely. You have a rough sense of
+how far away and in what direction marked targets are.
+Two-Second Preview
+[+Special Defense]
+Prerequisites: 3 Oracle Features, Expert Perception
+Static
+Effect: You gain the Instinct Ability.
+Prescience
+[+Special Defense]
+Prerequisites: Unveiled Sight, Master Perception
+Scene ­ Free Action
+Trigger: You are hit by an attack
+Effect: The attack instead misses.
+Trainer Classes
+187
+GM's of the world! It's up to you to make Scrying and
+Augury fun, and "worth it". So here's some advice.
+First, you and your player should negotiate their PC's
+method for scrying and making auguries. Maybe they
+need to read tea leaves to use this ability; or gaze into
+open flames. Maybe they trigger it "Accidentally"
+while sleeping, or during another mundane activity.
+Maybe they need to pry information from an enigmatic
+Spiritomb that appears to them after they light a
+candle and say a prayer. If you want to be thoroughly
+boring, maybe they only need to focus on activating
+their mystic abilities. Have fun with coming up with
+a method; it should be something that's relatively easy
+to do though, regardless of their location (don't make
+them have to buy expensive items to do it each time, or
+to scale a specific mountain in the region just to activate
+this ability!).
+Next, consider how you as a GM want to give
+information. You shouldn't feel obligated to spoil plot
+points that you don't want to hand out; at the same time,
+this is a great way to give information to a PC that you
+DO want them to know. Don't be afraid to make things
+vague enough that they don't make sense at the time,
+but do make sense later; don't ALWAYS do this though,
+or the warnings given to them by their powers will feel
+more like taunts if they never realize their meaning
+until it's too late to do anything about it.
+Scrying is the more straightforward effect and shouldn't
+be too difficult. Simply consider how you want to
+present the information. Augury is a bit more subtle.
+Again, don't be afraid to be vague occasionally, or to
+give incomplete information (e.g. - "You gain a feeling
+you shouldn't trust <insert name here>, but you don't
+know why" or "You see a rare herd of Kangaskhan and
+sense that they're nearby, but you don't know in which
+direction" are examples of perfectly acceptable visions).
+Scrying and Augury
+

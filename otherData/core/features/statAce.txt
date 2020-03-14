@@ -1,0 +1,143 @@
+Trainer Classes
+112
+Stat Ace
+[Class] [Branch]
+Prerequisites: Ace Trainer or Style Expert, 1 Pokémon with the chosen stat of 15 or more, Novice Command or
+Focus
+Prerequisites: 3 Pokémon with the chosen stat at 20 or higher, Novice Command or Focus
+Static
+Effect: Your Pokémon have their Chosen Base Stat increased by +1, and by +1 more for every 10 Levels they have
+(for example, a Level 20 Pokémon would have your Chosen Stat's base value increased by +3). Additionally, your
+Pokémon may ignore Base Relations, as long as they are adding to the Stat chosen for Stat Ace, and you do not need
+to "correct" Stats due to this inflated Stat Value.
+Note: When you take Stat Ace, choose Attack, Defense, Special Attack, Special Defense, or Speed. This becomes
+your Pokémon's Chosen Stat. You may take Stat Ace multiple times, choosing different Stats each time. If using
+Style Expert to qualify for Stat Ace, your Chosen Stat must be the Stat that correlates to your Chosen Contest Stat.
+Beauty is Special Attack, Cool is Attack, Cute is Speed, Smart is Special Defense, and Tough is Defense.
+Stat Link
+[Branch]
+Prerequisites: Stat Ace
+1 AP ­ Free Action
+Trigger: At the end of your Pokémon's turn, their
+Chosen Stat is at its default number of Combat Stages
+or less.
+Effect: The triggering Pokémon has gains +1 Combat
+Stage in your Chosen Stat. (Note: The "Default" number
+of Combat Stages is usually 0)
+Stat Training
+[Branch]
+Prerequisites: Stat Ace
+At-Will ­ Extended Action
+Target: Your Pokémon with at least 1 Tutor Point
+Effect: Your Pokémon loses 1 Tutor Point, and learns a
+Move based on your Chosen Stat, even if your Pokémon
+cannot normally learn this Move:
+»
+» Attack: Swords Dance or Rage
+»
+» Defense: Iron Defense or Reflect
+»
+» Special Attack: Nasty Plot or Hidden Power
+»
+» Special Defense: Amnesia or Light Screen
+»
+» Speed: Agility or After You
+Stat Maneuver
+[Branch]
+Prerequisites: Stat Ace, Adept Command or Focus
+Scene ­ Free Action
+Effect: Stat Maneuver's Effect depends on your Chosen
+Stat:
+Attack Effect: You may activate this Feature to cause
+one of your Pokémon to use a Physical "Melee, 1-Target"
+Move as if its range was "Melee, Pass" or "Melee,
+3-Targets" instead.
+Defense Effect: You may activate this feature whenever
+your Pokémon is hit by a Physical Attack to receive the
+blow as if your Pokémon's Defense Combat Stages were
+at +6 instead of their current value.
+Special Attack Effect: You may activate this Feature to
+allow your Pokémon to use a Special Burst, Cone, Close
+Blast, Ranged Blast, or Line of any size as a Burst 1,
+Cone 2, Close Blast 2, or Line 4 instead.
+Special Defense Effect: You may activate this feature
+whenever your Pokémon is hit by a Special Attack to
+receive the blow as if your Pokémon's Special Defense
+Combat Stages were at +6 instead of their current value.
+Speed Effect: You may activate this Feature at any time
+to cause your Pokémon to use a Move as Priority or a
+Priority Move as Priority (Advanced).
+Trainer Classes
+113
+Stat Mastery
+[Branch]
+Prerequisites: Stat Maneuver
+Static
+Effect: Stat Mastery's Effect depends on your Chosen
+Stat:
+Attack Effect: When your Pokémon successfully uses
+a Push, Disarm, or Dirty Trick Combat Maneuver, the
+target of the Maneuver loses a Tick of Hit Points.
+Defense Effect: Whenever your Pokémon do not spend
+their Shift Action to Shift during a turn, they gain +5
+Damage Reduction for one full round.
+Special Attack Effect: The Range of your Pokémon's
+Special Non-Melee Moves is increased by +2. This does
+not affect the size of Area-Of-Effect moves (But does
+affect the range at which you can place Ranged Blasts).
+Special Defense Effect: Whenever your Pokémon
+would lose a Tick of Hit Points from Status Afflictions,
+Weather, or other effects, they lose 5 fewer Hit Points, to
+a minimum of 1.
+Speed Effect: Your Pokémon may take Disengage
+Maneuvers as Swift Actions.
+Stat Embodiment
+[Branch]
+Prerequisites: 4 Stat Ace Features, Expert Command or
+Focus
+1 AP ­ Swift Action, Priority (Limited)
+Target: Your Pokémon
+Effect: Your Pokémon gains an Ability, based on your
+Chosen Stat, for the remainder of the Scene. Switching
+does not end this effect. Stat Embodiment may only
+grant one Ability to a Pokémon at a time. If it is used
+a second time on the same target, it replaces the first
+granted Ability.
+»
+» Attack Aces give Sheer Force or Defiant
+»
+» Defense Aces give Filter or Battle Armor
+»
+» Special Attack Aces give Tinted Lens or Competitive
+»
+» Special Defense Aces give Multiscale or Tolerance
+»
+» Speed Aces give Speed Boost or Vanguard
+Stat Stratagem
+[Branch] [Order] [Stratagem]
+Prerequisites: Stat Link, Stat Training, Master Focus or
+Command
+2 AP ­ Standard Action
+Target: Your Pokémon
+Effect: While this Feature is Bound, the target has the
+following bonuses based on your Chosen Stat:
+Attack Effect: The target's damaging Melee Attacks have
+their Critical Hit Range increased by 1 for each positive
+Combat Stage they have in Attack, up to a maximum of
++3.
+Defense Effect: The target gains a +2 bonus to Save
+Checks against Paralysis, Sleep, and Freeze for each
+positive Combat Stage they have in Defense, up to a
+maximum of +6.
+Special Attack Effect: The target's damaging Ranged
+Attacks have their Effect Range increased by 1 for each
+positive Combat Stage they have in Special Attack, up to
+a maximum of +3.
+Special Defense Effect: The target gains a +2 bonus to
+Save Checks against Confusion, Rage, and Infatuation
+for each positive Combat Stage they have in Special
+Defense, up to a maximum of +6.
+Speed Effect: The target's Movement Capabilities are
+increased by 1 for each positive Combat Stage they have
+in Speed, up to a maximum of +3.
+

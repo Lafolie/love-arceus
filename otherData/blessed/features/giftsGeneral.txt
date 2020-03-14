@@ -1,0 +1,151 @@
+The Blessed and Damned
+­53­
+General Legendary Gifts
+Among the more general Gifts that can be granted by
+Legendaries, there are a number that simply aid in living
+in this world where humans can be touched by gods and
+given a spark of divinity. These such Gifts allow one to
+identify others who have received Gifts or even in some
+rare specific circumstances be able to shut down their
+Gifts.
+Gift of Command
+While many times Legendary Pokémon simply have
+separate domains, sometimes there is a distinct
+hierarchy among them. In these cases, the hierarchy
+passes down to the Gifted as well. While this does not
+allow those Gifted by, say, Ho-oh to directly command
+someone Gifted by Raikou or Entei, it does allow them
+a measure of ease in detecting those who have the Gifts
+of the subservient Legendary Pokémon and the ability
+to disable their powers.
+The following Legendary Pokémon have subservient
+Pokémon to them:
+Lugia: Articuno, Zapdos, Moltres
+Ho-oh: Entei, Raikou, Suicune
+Rayquaza: Groudon, Kyogre
+Landorus: Thundurus, Tornadus
+Regigigas: Regice, Regirock, Registeel
+Cobalion: Virizion, Terrakion, Keldeo
+Gift of Command
+[PATRON STATS]
+Prerequisites: One Major Gift from Your Patron
+Legendary
+Static | 2 AP - Standard Action, Interrupt
+Static Effect: You sense the presence of and can identify
+those with Gifts coming from your patron's subservient
+Pokémon. You know which Gifts someone has from
+your patron's subservient Pokémon by looking at them.
+2 AP Effect: Target Trainer within 8 meters with a Gift
+from your patron's subservient Pokémon has the Gift
+of your choice from that subservient Pokémon disabled
+for the next ten minutes.
+Symbolsight
+Each Legendary Pokémon holds dominion over a set
+of domains, and with these domains come particular
+symbols. A Legendary who presides over War may take
+the Spear or the Sword as its symbol, while a master
+of Creativity is symbolized by the Pen, and guardians
+of Death itself are marked by a Skull or Tombstone.
+Even without the blessing of a Legendary, humans can
+often be influential in these domains themselves, such
+as a powerful politician's effect on the realm of Law or a
+famous civil rights activist's influence upon Peace.
+Symbolsight is the ability to perceive these symbolic
+connections between mortal and divine realms. When
+perceiving a Trainer or Pokémon through Symbolsight,
+one can see their form change to match the symbols of
+their Patron's realms or, as a weaker manifestation, to
+match the realms they are influential in despite a lack
+of Legendary Gift.
+Viewed through Symbolsight, a Trainer with the Gifts
+of Cobalion may appear to have three swords sheathed
+on their person, the emblem of a knight, and a scale of
+justice hanging above their head. A famous mechanic
+and artisan may appear with the stains of their work
+upon them, a faint imprint of their tie to the domain of
+Creation, whereas a Trainer Gifted by Regigigas would
+have a more substantial manifestation - their hands
+appear as a blacksmith's hammerheads, the glowing
+sparks of a forge fly all about them, and each step they
+take leaves an imprint of soot upon the ground that
+quickly disappears.
+Pokémon in the service of a Legendary or objects with a
+mystical connection to a Legendary or its domains also
+appear with the symbols of their Patron when viewed
+through Symbolsight. Ordinary inanimate object and
+mundane people and Pokémon appear as normal
+through Symbolsight.
+Note that Symbolsight is a useful Feature to give to a PC
+who is otherwise uninvolved in the acquisition of Gifts
+from Legendaries to avoid excluding them too much
+from a Legendary-heavy plot-line. It especially fits
+highly perceptive PCs, those with mystical or psionic
+talents, or someone who performs extensive hands-on
+The Blessed and Damned
+­54­
+research on the supernatural.
+Symbolsight
+[PATRON STAT]
+Prerequisites: GM Permission
+Static | 1 AP - Standard Action
+Target: Self
+Static: You know when there are people, Pokémon, or
+objects that would appear differently to you through
+Symbolsight within an area of you about the size of a
+small town. You do not know their location, number, or
+distance from you, only that there is at least one within
+the range of your sense.
+1 AP Effect: For the next ten minutes, you see the world
+through the lens of Symbolsight. You may end this
+effect early as a Free Action.
+Giftsapper
+There are those for whom the Gifts of a Legendary are
+anathema. The reasons may vary greatly depending on
+what's possible in your campaign and setting - they may
+simply have had a cursed birth or were at the epicenter
+of a supernatural disaster, or they may have specifically
+studied arcane arts to combat the Gifted. Either way,
+these individuals have no ability to gain Gifts of their
+own but pose a potent danger to the Gifted by making it
+more difficult for them to use their powers when nearby.
+Giftsapper is also a potent Feature to give antagonists
+facing off against a Gifted party.
+Giftsapper
+[+Any Stat]
+Prerequisites: GM Permission, No Gifts
+Static
+Effect: As long as Giftsapper's user is conscious, all
+Trainers within 10 meters must make a Focus Check
+with DC equal to three times the highest Skill Rank
+of Giftsapper's user between Focus, Intimidate, or
+Command in order to activate their Gifts. This Check
+is made each time a Trainer attempts to use an activated
+Gift, and a failure means neither any resources such
+as AP nor the frequency of the Gift is expended. For
+Gifts with Static or ongoing effects, the Check is made
+each turn, and a failure ends the effect for that turn.
+Giftsapper's user may never gain Gifts.
+Godslayer
+This gift is a very curious one ­ one only the Higher
+Pantheon, some Outsiders, and Arceus himself can
+bestow. Normally reserved for the greatest champions
+or followers of a God, this gift grants the Trainer the
+ability to shatter Legendary Auras. Doing so can
+effectively grant this mortal the power to commit
+deicide. This gift doesn't always come in the same
+fashion ­ it might be from an artifact or a gift, such
+as a weapon, piece of armor or amulet. It might come
+from extensive training or require extremely rare and
+expensive reagents. Or it might just be a divine gift in
+its own right. The specifics are a minor detail; the gift
+itself is one to be handled with great care.
+Godslayer
+[PATRON STAT]
+Perquisites: GM Permission
+Standard Action ­ EOT
+Target: A Legendary Pokémon.
+Effect: You may attempt to shatter one of the target's
+Legendary Auras. The AC of this action is 10. If you
+successfully disabled the Aura, but rolled a 10-15, the
+feedback from the action gives you an Injury.
+

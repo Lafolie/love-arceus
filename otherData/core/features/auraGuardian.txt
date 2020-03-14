@@ -1,0 +1,59 @@
+Trainer Classes
+177
+Aura Guardian
+[Class] [+Attack or Special Attack]
+Prerequisites: Elemental Connection (Fighting)
+Static
+Effect: Choose two of Detect, Vacuum Wave, or Force Palm. You learn the chosen Moves.
+Aura Reader
+[+Attack or Special Attack]
+Prerequisites: Aura Guardian
+2 AP ­ Swift Action
+Effect: You gain the Aura Reader Capability for the rest
+of the scene. If your Intuition is Adept Rank or higher,
+you also gain the Aura Pulse Capability.
+The Power of Aura
+[+Attack or Special Attack] [Ranked 2]
+Rank 1 Prerequisites: Aura Guardian
+Rank 2 Prerequisites: Aura Guardian, Expert Intuition
+Static
+Effect: Each Rank, choose Scrappy or Aura Storm. You
+gain the Chosen Ability.
+Sword of Body and Soul
+[+Attack or Special Attack]
+Prerequisites: Aura Guardian, Adept Intuition
+2 AP ­ Swift Action
+Trigger: You use a damaging Aura Guardian Move
+against an adjacent foe
+Effect: You may have the triggering Move deal damage
+as if it was your choice of Physical or Special Classes.
+Regardless, add both your Attack and Special Attack
+Stats to the Damage Roll, and this attack ignores Damage
+Reduction. This does not stack with Twisted Power.
+Ambient Aura
+[+Attack or Special Attack]
+Prerequisites: Aura Reader, Expert Intuition
+Scene x2 ­ Swift Action
+Trigger: You use a Move with the Aura keyword
+Effect: You gain an Aura Blessing that can be spent any
+time as a Free Action Interrupt. When you spend an
+Aura Blessing, you choose one of the effects below. You
+may only have one Aura Blessing at a time, and you must
+have the Aura Pulse Capability to use Ambient Aura.
+»
+» You create an energy barrier around you or an ally
+within 5 meters granting Damage Reduction equal
+to your Intuition Rank tripled until the end of your
+next turn.
+»
+» You cure yourself of a Volatile Status Affliction.
+»
+» Gain the Blindsense Capability until the end of the
+Scene.
+Aura Mastery
+[+Attack or Special Attack]
+Prerequisites: Aura Guardian, Expert Intuition
+Static
+Effect: Choose two of Aura Sphere, Focus Blast, Drain
+Punch, or Focus Punch. You learn the chosen Moves.
+

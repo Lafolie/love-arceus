@@ -1,0 +1,109 @@
+Trainer Classes
+179
+Channeler
+[Class]
+Prerequisites: Mystic Senses
+At-Will ­ Swift Action
+Target: A Pokémon.
+Effect: You Channel the target Pokémon. If you attempt to Channel a Hostile Pokémon, you must make an Intuition
+Check with a DC of 15 to Channel the target. You may stop Channeling a Pokémon as a Free Action at any time.
+You may Channel a number of Pokémon at a time up to your Intuition Rank. If a Channeled Pokémon goes further
+than 20 meters from you, they stop being Channeled.
+Mechanic: While Channeling a Pokémon, it may communicate its intentions, emotions, and motivations to you
+and you may communicate similarly with them; neither party may be deceitful in this exchange. You also become
+aware of all of its Moves, Abilities, and Capabilities. Allied Channeled Pokémon may always attempt Intercept
+Maneuvers for each other, regardless of Loyalty. If you are Fainted, you stop Channeling all Pokémon. Whenever
+you Channel a Pokémon, you have a vague knowledge of what has happened in the Pokémon's past hour as if they
+were your own memories.
+Note: Channeler has a couple Features with the [Orders] tag. However, because they require that a Pokémon be
+Channeled, which isn't League Legal, they actually aren't of any use in League Legal battles!
+Shared Senses
+Prerequisites: Channeler
+Bind 1 AP ­ Swift Action
+Target: A Channeled Pokémon
+Effect: You Imprint the target for the duration of this
+Feature. You receive all sensory information being
+sensed by Imprinted Pokémon, and Imprinted Pokémon
+are not subject to the distance limit on Channeling. If
+you have Imprinted more than one Pokémon, you may
+only concentrate on the senses of one Pokémon at a
+time, and only choose one such Pokémon per round.
+If you stop Channeling a Pokémon, they are no longer
+Imprinted as well.
+Battle Synchronization
+[Orders]
+Prerequisites: Channeler
+Scene x3 ­ Standard Action
+Effect: For one full round, whenever a Channeled
+Pokémon successfully hits a foe, all Channeled Pokémon
+gain +1 Accuracy and +1 Evasion against that foe for
+the duration of this Feature.
+Spirit Boost
+[Orders] [Stratagem]
+Prerequisites: Channeler
+Bind 2 AP ­ Standard Action
+Target: A Channeled Pokémon
+Effect: When you use Spirit Boost, choose a Channeled
+Pokémon. You may choose the target of Spirit Boost if
+you wish. While Spirit Boost is Bound, the target has
+one of the following effects, depending on the highest
+Combat Stat of the chosen Pokémon. (In the event of a
+tie, you choose which Stat to use)
+»
+» Attack: The target gains Bonus Damage when using
+Physical attacks equal to your Intuition Rank.
+»
+» Defense: The target gains Damage Reduction against
+Physical attacks equal to your Intuition Rank.
+»
+» Special Attack: The target gains gain Bonus Damage
+when using Special attacks equal to your Intuition
+Rank.
+»
+» Special Defense: The target gains Damage Reduc-
+tion against Special attacks equal to your Intuition
+Rank.
+»
+» Speed: The target gains a bonus to their Initiative
+equal to your Intuition Rank.
+Trainer Classes
+180
+Power Conduit
+Prerequisites: Channeler, Adept Intuition
+2 AP ­ Swift Action
+Target: Channeled Pokémon
+Choose One Effect:
+»
+» Trade all Combat Stages for a single Stat between
+two Channeled Pokémon
+»
+» Transfer a Coat from one Channeled Pokémon to
+another.
+»
+» Give up a use of Scene or Daily Move from one
+willing Channeled Pokémon to regain use of a
+Scene Move which another Channeled Pokémon
+has used. This effect may only refresh a Move for
+each Pokémon once per Scene.
+Pain Dampening
+Prerequisites: Channeler, Expert Intuition
+Scene x2 ­ Free Action
+Trigger: A Channeled Pokémon would be Fainted by a
+damaging attack
+Effect: Choose any number of Channeled Pokémon,
+which must include the triggering Pokémon. Instead
+of resolving the attack normally, divide the damage
+from the attack by the number of chosen Pokémon.
+Each chosen Pokémon then loses that many Hit Points.
+For each chosen Pokémon that Resists or is Immune
+to the Type of the triggering attack, subtract your
+Intuition Rank from the damage of the attack before all
+calculations.
+Soothing Connection
+Prerequisites: Pain Dampening, Master Intuition
+Daily x2 ­ Standard Action
+Target: Channeled Pokémon
+Effect: Distribute 5 points in any way among Pokémon
+you are Channeling. For each point you assign to a
+Channeled Pokémon, they gain a Tick of Hit Points.
+
