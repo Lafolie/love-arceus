@@ -5,6 +5,7 @@
 		 {name = "resultTableIndex", str = "sectionHeaderString"}
 	 }
 ]]
+local m = string.match
 
 local function parser(str, sections)
 	table.insert(sections, {str = "$"}) --append end of string
@@ -14,7 +15,17 @@ local function parser(str, sections)
 		local start = current.str
 		local finish = sections[n + 1].str
 
-		local sectionStr = string.match(str, "(" .. current .. ".-)" .. finish)
+		local sectionStr = m(str, "(" .. current .. ".-)" .. finish)
+
+		-- trim identifier from string if required
+		if current.trim then
+			sectionStr = m(sectionStr, current .. "(.+)")	
+		end
+
+		-- cleanup
+		sectionStr = string.gsub(sectionStr, "\r\n", " ")
+		sectionStr = m(sectionStr, "%s*(.+%S)")
+
 		result[current.name] = sectionStr
 	end
 
