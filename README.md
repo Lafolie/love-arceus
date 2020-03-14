@@ -20,6 +20,8 @@ Data from the Alola and Galar supplements are included.
 The code for this project isn't super optimised, neither is it a paradise of decoupling, and there are several globals.
 
 ## Running
+Love-Arceus is built using the [Löve framework](https://love2d.org/), and targets **version 11.3**.
+
 Currently, there is no .love build, so clone the repo and run from cmdline. 
 
 Love-Arceus has a few cmd args to speed up execution, mainly for development. Run the tool with the `-help` arg for available options.
