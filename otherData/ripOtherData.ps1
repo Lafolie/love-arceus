@@ -123,7 +123,7 @@ $app = "E:\ChromeDownloads\xpdf-tools-win-4.02\xpdf-tools-win-4.02\bin64\pdftote
 .$app -f 134 -l 135 -raw $core "E:\Python\love-arceus\otherData\core\features\chronicler.txt"
 .$app -f 137 -l 138 -raw $core "E:\Python\love-arceus\otherData\core\features\fashionista.txt"
 .$app -f 140 -l 147 -raw $core "E:\Python\love-arceus\otherData\core\features\researcher.txt"
-.$app -f 149 -l 151 -raw $core "E:\Python\love-arceus\otherData\core\features\survivlist.txt"
+.$app -f 149 -l 151 -raw $core "E:\Python\love-arceus\otherData\core\features\survivalist.txt"
 .$app -f 155 -l 155 -raw $core "E:\Python\love-arceus\otherData\core\features\athlete.txt"
 .$app -f 157 -l 157 -raw $core "E:\Python\love-arceus\otherData\core\features\dancer.txt"
 .$app -f 159 -l 159 -raw $core "E:\Python\love-arceus\otherData\core\features\hunter.txt"
