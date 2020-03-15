@@ -1,0 +1,122 @@
+Trainer Classes
+96
+Duelist
+[Class]
+Prerequisites: Focused Training, Novice Focus
+At-Will ­ Swift Action
+Target: A Pokémon or Trainer
+Effect: The Foe becomes Tagged; or if the foe is already Tagged, the foe loses the Tag. Only one foe can be Tagged
+this way at a time. If a new Foe is Tagged, all other Tags are lost.
+Your Pokémon under the effects of Focused Training gain half their Momentum (rounded up) as a Bonus to
+Accuracy and Evasion against Tagged Foes, but as long as a Foe is Tagged, they do not benefit from Focused
+Training's Accuracy Bonus against other foes.
+Mechanic ­ Momentum:
+»
+» Your Pokémon begins each Scene with 0 Momentum.
+»
+» At the end of each Combat round, your Pokémon gains +1 Momentum.
+»
+» Whenever your Pokémon hits a Tagged foe, they gain +1 Momentum.
+»
+» Your Pokémon has a maximum of 6 Momentum. So use a d6 to track it.
+»
+» All Momentum is lost when your Pokémon Faints, your Pokémon is recalled, or combat ends.
+Expend Momentum
+[Orders]
+Prerequisites: Duelist
+At-Will ­ Standard Action
+Target: Your Pokémon under the effects of Focused
+Training
+Effect: Apply one of the following effects on the target
+by spending that much Momentum.
+»
+» Spend 1 Momentum: Your Pokémon regains use of
+a EOT Frequency Move.
+»
+» Spend 2 Momentum: Your Pokémon automatically
+rolls an 11 on one d20 Roll of your choice on their
+next turn.
+»
+» Spend 3 Momentum: Your Pokémon regains a use
+of Scene Frequency Move. May be chosen only once
+per Scene per Pokémon.
+Effective Methods
+Prerequisites: Duelist
+At-Will ­ Extended Action
+Target: Your Pokémon with at least 2 Tutor Points
+remaining
+Effect: Your Pokémon loses 2 Tutor Points and gains
+your choice of the Exploit or Tolerance Ability. You may
+only target a Pokémon once with Effective Methods.
+Directed Focus
+Prerequisites: Effective Methods
+Static
+Effect: Whenever your Pokémon with the Exploit or
+Tolerance Ability are targeted by an [Order], deal Super-
+Effective Damage, or take Super-Effective Damage, they
+gain +1 Momentum after all effects of the Move or
+Order are resolved.
+Type Methodology
+Prerequisites: Effective Methods, Adept Focus
+Scene x2 ­ Free Action
+Trigger: See Effect
+Effect: Effects depend on whether your Pokémon has
+the Tolerance or Exploit ability.
+»
+» Whenever your Pokémon with Tolerance takes
+Super-Effective damage from a Tagged foe, your
+Pokémon may lose 2 Momentum to Resist that
+attack one step.
+»
+» Whenever your Pokémon with Exploit deals
+Resisted damage to a Tagged foe, your Pokémon
+may lose 2 Momentum to increase the effectiveness
+of the attack one step.
+Trainer Classes
+97
+Duelist's Manual
+[Orders]
+Prerequisites: Expend Momentum, Effective Methods,
+Expert Focus
+2 AP ­ Standard Action
+Target: Your Pokémon under the effects of Focused
+Training
+Effect: Apply one of the following effects. To choose
+an effect, your Pokémon must have a certain amount
+of Momentum. (Duelist's Manual does not spend
+Momentum).
+»
+» 1 Momentum: Your Pokémon doubles their
+bonuses from Tolerance or Exploit until the end
+of their next turn and may change their Tolerance
+Ability into Exploit, or vice versa, until the end of
+their next turn.
+»
+» 2 Momentum: Your Pokémon's next Pass, Cone,
+Close Blast, or Burst attack becomes a single target
+Melee attack, or their next Line or Ranged Blast
+attack becomes a single target Ranged attack. If this
+attack hits, the target becomes Vulnerable for one
+full round and has their Initiative set to 0 until the
+end of their next turn.
+»
+» 3 Momentum: Your Pokémon may act while
+ignoring the Confused, Rage, Infatuation, and
+Suppressed Volatile Status on their next turn as long
+as they attempt to attack a Tagged foe. May only be
+used once per Scene per Pokémon.
+Seize The Moment
+Prerequisites: Duelist, Master Focus
+Scene x2 ­ Free Action
+Trigger: Your Pokémon would gain Momentum while
+already at 6 Momentum
+Effect: Your Pokémon loses 6 Momentum, and then
+gains +1 Momentum. Your Pokémon may immediately
+make an attack as an Interrupt, but this attack must
+target only a Tagged Foe. If the attack misses, it still
+deals damage as if it had the Smite keyword. If the
+attack hits, it's automatically a Critical Hit. If it would
+have already been a Critical Hit, your Pokémon gains
+Hit Points equal to half of its maximum Hit Points. May
+be used only once per Scene per Pokémon .
+

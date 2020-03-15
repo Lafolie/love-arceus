@@ -110,6 +110,7 @@ $app = "E:\ChromeDownloads\xpdf-tools-win-4.02\xpdf-tools-win-4.02\bin64\pdftote
 .$app -f 86 -l 86 -raw $core "E:\Python\love-arceus\otherData\core\features\hobbyist.txt"
 .$app -f 88 -l 89 -raw $core "E:\Python\love-arceus\otherData\core\features\mentor.txt"
 .$app -f 93 -l 94 -raw $core "E:\Python\love-arceus\otherData\core\features\cheerleader.txt"
+.$app -f 96 -l 97 -raw $core "E:\Python\love-arceus\otherData\core\features\duelist.txt"
 .$app -f 99 -l 99 -raw $core "E:\Python\love-arceus\otherData\core\features\enduringSoul.txt"
 .$app -f 101 -l 101 -raw $core "E:\Python\love-arceus\otherData\core\features\juggler.txt"
 .$app -f 103 -l 103 -raw $core "E:\Python\love-arceus\otherData\core\features\rider.txt"
