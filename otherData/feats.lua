@@ -96,6 +96,7 @@ local function getFeatSections(str)
 	local fx = m(str, ".-(\r\nEffect%s*:)")
 	local special = m(str, "\r\nSpecial%s*:")
 	local note = m(str, "\r\nNote%s*:")
+	local momentum = m(str, "\r\nMechanic %- Momentum:")
 
 	-- insert if required
 	if tags then
@@ -141,6 +142,12 @@ local function getFeatSections(str)
 	end
 	if note then
 		table.insert(sections, {ptn = note, name = "note"})
+	end
+
+	-- duelist
+	if momentum then
+		momentum = gsub(momentum, "%-", "%%-")
+		table.insert(sections, {ptn = momentum, name = "momentumMechanic"})
 	end
 
 	table.insert(sections, {ptn = "$", name = ""})
