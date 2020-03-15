@@ -146,7 +146,7 @@ $app = "E:\ChromeDownloads\xpdf-tools-win-4.02\xpdf-tools-win-4.02\bin64\pdftote
 .$app -f 3 -l 4 -raw $errata_a "E:\Python\love-arceus\otherData\core\features\backpacker.txt"
 .$app -f 5 -l 7 -raw $errata_a "E:\Python\love-arceus\otherData\core\features\gadgeteer.txt"
 .$app -f 3 -l 3 -raw $errata_b "E:\Python\love-arceus\otherData\core\features\cheerleaderErrata.txt"
-.$app -f 6 -l 6 -raw $core "E:\Python\love-arceus\otherData\core\features\medic.txt"
+.$app -f 6 -l 6 -raw $errata_b "E:\Python\love-arceus\otherData\core\features\medic.txt"
 
 
 # .$app -f 74 -l 89 -raw $core "E:\Python\love-arceus\otherData\core\features\classIntro.txt"
