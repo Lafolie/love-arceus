@@ -148,13 +148,13 @@ local function getFeatSections(str)
 	-- duelist
 	if momentum then
 		momentum = gsub(momentum, "%-", "%%-")
-		table.insert(sections, {ptn = momentum, name = "mechanic"})
+		table.insert(sections, {ptn = momentum, name = "mechanicMomentum"})
 	end
 
 	-- taskmaster
 	if hardened then
 		hardened = gsub(hardened, "%-", "%%-")
-		table.insert(sections, {ptn = hardened, name = "mechanic"})
+		table.insert(sections, {ptn = hardened, name = "mechanicHardened"})
 	end
 
 	table.insert(sections, {ptn = "$", name = ""})
