@@ -205,6 +205,7 @@ function parseFeaturesData(tbl)
 		-- clean up
 		pagesFlat = gsub(pagesFlat, "Skills, Edges, Feats\r\n%d*\r\n", "")
 		pagesFlat = gsub(pagesFlat, "Trainer Classes\r\n%d*\r\n", "")
+		pagesFlat = gsub(pagesFlat, "Sept 2015 Playtest\r\n%d*\r\n", "")
 		pagesFlat = replaceBadChars(pagesFlat)
 		-- log:print(pagesFlat)
 		-- log:print(parser.stripFunc(parser, pagesFlat))
