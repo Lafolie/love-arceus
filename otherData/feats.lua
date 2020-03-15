@@ -97,6 +97,7 @@ local function getFeatSections(str)
 	local special = m(str, "\r\nSpecial%s*:")
 	local note = m(str, "\r\nNote%s*:")
 	local momentum = m(str, "\r\nMechanic %- Momentum:")
+	local hardened = m(str, "\r\nMechanic %- Hardened:")
 
 	-- insert if required
 	if tags then
@@ -147,7 +148,13 @@ local function getFeatSections(str)
 	-- duelist
 	if momentum then
 		momentum = gsub(momentum, "%-", "%%-")
-		table.insert(sections, {ptn = momentum, name = "momentumMechanic"})
+		table.insert(sections, {ptn = momentum, name = "mechanic"})
+	end
+
+	-- taskmaster
+	if hardened then
+		hardened = gsub(hardened, "%-", "%%-")
+		table.insert(sections, {ptn = hardened, name = "mechanic"})
 	end
 
 	table.insert(sections, {ptn = "$", name = ""})
