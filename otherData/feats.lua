@@ -98,6 +98,7 @@ local function getFeatSections(str)
 	local note = m(str, "\r\nNote%s*:")
 	local momentum = m(str, "\r\nMechanic %- Momentum:")
 	local hardened = m(str, "\r\nMechanic %- Hardened:")
+	local songs = m(str, "\r\nMechanic: Songs %-")
 
 	-- insert if required
 	if tags then
@@ -155,6 +156,12 @@ local function getFeatSections(str)
 	if hardened then
 		hardened = gsub(hardened, "%-", "%%-")
 		table.insert(sections, {ptn = hardened, name = "mechanicHardened"})
+	end
+
+	-- musician
+	if songs then
+		songs = gsub(songs, "%-", "%%-")
+		table.insert(sections, {ptn = songs, name = "mechanicSongs"})
 	end
 
 	table.insert(sections, {ptn = "$", name = ""})
