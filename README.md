@@ -19,7 +19,7 @@ Data from the Alola and Galar supplements are included.
 
 Eventually, text for some fields such as effects for moves/abilties/feats/etc will be pre-formatted using markdown notation.
 
-The code for this project isn't super optimised, neither is it a paradise of decoupling, and there are several globals.
+The code for this project sucks, but it works. I just want to get it done.
 
 ## Running
 Love-Arceus is built using the [Löve framework](https://love2d.org/), and targets **version 11.3**.
