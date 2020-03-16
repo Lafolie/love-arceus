@@ -15,6 +15,8 @@ local m = string.match
 
 local function strip(parser, str)
 	-- local firstFeat = parser.names[1]
+	str = string.gsub(str, "Prerequisites: 3 Pokémon", ", 3 Pokémon")
+
 	return str
 end
 
