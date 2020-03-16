@@ -5,7 +5,7 @@ This tool takes plaintext converted output of the official PDF files and convert
 
 It is built specifically for the (in-progress) Arceus PTU web application, but the resultant JSON should be usable by others.
 
-The following data is extracted into `json/` folder in the [Löve save directory]([https://love2d.org/wiki/love.filesystem](https://love2d.org/wiki/love.filesystem)):
+The following data is extracted into `json/` folder in the [Löve save directory](https://love2d.org/wiki/love.filesystem):
 - `pokedex.json` - contains the entire PTU Pokédex, including all formes, evolution tables, and movesets
 - `moves.json` - contains Pokémon Moves
 - `abilities.json`- contains Pokémon Abilities
