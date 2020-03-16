@@ -764,7 +764,7 @@ end
 
 function getGenderRatio(p)
 	local ratio = m(p, "Gender%s*Ratio%s*:%s*(.-)%%")
-	return ratio and ratio or 'none'
+	return ratio --and ratio or 'none'
 end
 
 function getHatchRate(p)

@@ -65,6 +65,7 @@ All JSON files are stored in minimised formats. If you need to browse and famili
 - Height/Weight are stored using the metric system
 - Height Classes are stored as a string (under the *size* attribute), Weight is not stored as it is easily calculated
 - Additional information has been added (dex numbers, generation introduced, formes list)
+- Gender ratios are stored as the Male percentage only
 
 ### Pokédex Move Lists
 - Level Up Moves are stored without the Move's Type
