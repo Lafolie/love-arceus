@@ -18,7 +18,6 @@ local function strip(parser, str)
 end
 
 local function fixFeats(feats)
-	-- apply some errata as notes, May 2015 Packet
 	for k, feat in ipairs(feats) do
 		local fx, listStr, items
 		if feat.name == "Training Regime" then
