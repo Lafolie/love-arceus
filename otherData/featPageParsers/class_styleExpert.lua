@@ -29,7 +29,7 @@ local gsub = string.gsub
 local function strip(parser, str)
 	-- local firstFeat = parser.names[1]
 	str = gsub(str, "Cast:", "Note:")
-	str = gsub(str, "Prerequisites: Coordinator,", "Coordinator,")
+	str = gsub(str, "Prerequisites: Coordinator,", ", Coordinator,")
 	str = gsub(str, "\r\nBeauty Expert Features\r\n", "\r\n")
 	str = gsub(str, "\r\nCool Expert Features\r\n", "\r\n")
 	str = gsub(str, "\r\nCute Expert Features\r\n", "\r\n")
