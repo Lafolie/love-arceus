@@ -3,10 +3,16 @@ local gsub = string.gsub
 local accentedE = string.char(0xe9)
 local dash = string.char(0xad)
 local dgt = string.char(0xbb)
+local errataBadStr = string.char(0xef, 0xbf, 0xbd)
+local errataAccentedE = string.format("Pok%s", errataBadStr)
+local errataDgt = string.format("\r\n%s\r\n%s ", errataBadStr, errataBadStr)
 function replaceBadChars(s)
 	s = gsub(s, accentedE, "é")
 	s = gsub(s, dash, "-")
 	s = gsub(s, dgt, "")
+	s = gsub(s, errataAccentedE, "Poké")
+	s = gsub(s, errataDgt, "\r\n")
+	s = gsub(s, errataBadStr, "-")
 	return s
 end
 
