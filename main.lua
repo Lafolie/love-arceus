@@ -33,11 +33,6 @@
 	development. Run the tool with the -help arg for available options.
 
 	To parse everything, run the tool with the -all arg.
-
-	EXPORTED DATA NOTES
-	-------------------
-	Move Lists:
-		-Level up moves with a level of 0 should be printed as 'Evo'
 ]]
 
 json = require 'json'
@@ -102,14 +97,21 @@ configOptions['-edges'] = 'Parse edges'
 configOptions['-capabilities'] = 'Parse capabilities'
 configOptions['-moves'] = 'Parse moves'
 configOptions['-feats'] = 'Parse features'
+configOptions['-log'] = 'Write log files'
 
 local function processArgs(args)
 	for k, arg in ipairs(args) do
+		-- add all parsing flags
 		if arg == "-all" then
 			for option, txt in ipairs(configOptions) do
-				option = option:m("%-(.+)")
-				sessionConfigTbl[option] = true
+				-- log arg doesn't need to be added unless explicitly specified
+				if option ~= "-log" then
+					option = option:m("%-(.+)")
+					sessionConfigTbl[option] = true
+				end
 			end
+
+		-- print flag table
 		elseif arg == "-help" then
 			sessionConfigTbl.help = true
 			p2 '\nCommandline options for love-arceus:'
@@ -119,6 +121,8 @@ local function processArgs(args)
 				p2('', option)
 				p2('\t', txt)
 			end
+
+		-- handle the rest
 		elseif configOptions[arg] then
 			local option = arg:match('%-(.+)')
 			sessionConfigTbl[option] = true
@@ -143,6 +147,9 @@ function love.load(args)
 
 	-- HAX FOR DEVELOPMENT
 	sessionConfigTbl.feats = true
+	sessionConfigTbl.log = true
+
+
 	-- harvest other data
 	harvestOtherData()
 
@@ -155,10 +162,12 @@ function love.load(args)
 		harvest(pages)
 	end
 
-	flushLoggers()
+	if sessionConfig "log" then
+		flushLoggers()
+	end
 
 	-- auto-exit?
-	love.event.push 'quit'
+	-- love.event.push 'quit'
 end
 
 function doFormeStuff(pages)
@@ -296,7 +305,10 @@ local function error_printer(msg, layer)
 end
  
 function love.errorhandler(msg)
-	flushLoggers()
+	if sessionConfig "log" then
+		flushLoggers()
+	end
+	
 	msg = tostring(msg)
  
 	error_printer(msg, 2)
