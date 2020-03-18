@@ -3,11 +3,11 @@ May 2015 Playtest
 Gadgeteer Research Field
 Improvised Gadgets
 Prerequisites: Novice Technology Education
-Bind 2 AP ­ Extended Action
-Target: A willing Pokémon with the Magnetic, Zapper,
+Bind 2 AP ï¿½ Extended Action
+Target: A willing Pokï¿½mon with the Magnetic, Zapper,
 or Threaded Capability
 Effect: Choose one of the Capabilities listed in the
-Target line that the target Pokémon has. You create a
+Target line that the target Pokï¿½mon has. You create a
 Main or Off-Hand Equipment Item usable by Trainers
 that grants the user the chosen Capability. Whenever a
 Trainer makes Struggle Attacks using Zapper through
@@ -20,7 +20,7 @@ equal to half your Technology Education Rank.
 I Meant to Do That
 Prerequisites: Improvised Gadgets, Adept Technology
 Education
-At-Will ­ Special
+At-Will ï¿½ Special
 Condition: You must have at least one Equipment Item
 you created with Improvised Gadgets equipped to use
 this Feature.
@@ -30,19 +30,19 @@ cannot be repaired, and that instance of Improvised
 Gadgets is immediately Unbound. Use the effect below
 corresponding to the Capability granted by the chosen
 item.
-»
-» Magnetic: You may activate this effect as a Standard
+ï¿½
+ï¿½ Magnetic: You may activate this effect as a Standard
 Action Interrupt whenever a Steel or Electric-Type
 attack or an attack with a metal Weapon would hit a
 target within 5 meters. The attack instead misses all
 targets within 5 meters.
-»
-» Threaded: Choose up to 3 targets within 4 meters
+ï¿½
+ï¿½ Threaded: Choose up to 3 targets within 4 meters
 and perform an AC 4 Status Attack against them as
 a Standard Acion. All hit targets become Stuck and
 Trapped for one full round.
-»
-» Zapper: You may activate this effect as a Swift
+ï¿½
+ï¿½ Zapper: You may activate this effect as a Swift
 Action upon hitting a foe with a Zapper-modified
 Struggle Attack. The foe is Paralyzed.
 Capsule Science
@@ -52,49 +52,49 @@ Static
 Effect: You learn the Cap Cannon, Cap Ammo, and
 Wonder Launcher recipes, and you gain the following
 additional effects when using those items.
-»
-» Bean Caps: You gain a +10 Damage Bonus when
+ï¿½
+ï¿½ Bean Caps: You gain a +10 Damage Bonus when
 using Bean Caps.
-»
-» Glue Caps: Your Effect Range when using Glue
+ï¿½
+ï¿½ Glue Caps: Your Effect Range when using Glue
 Caps is increased by +3.
-»
-» Nets Caps: Targets affected by your Net Caps gain
+ï¿½
+ï¿½ Nets Caps: Targets affected by your Net Caps gain
 a -X penalty to all Damage Rolls, where X is your
 Technology Education Rank.
-»
-» Wonder Launcher: Whenever you apply an item
+ï¿½
+ï¿½ Wonder Launcher: Whenever you apply an item
 to a target using the Wonder Launcher, they gain
 Temporary Hit Points equal to your Technology
 Education Rank.
 Enhanced Capsules
 Prerequisites: Capsule Science, Master Technology
 Education
-Daily x3 ­ Extended Action
-Target: A willing Pokémon with one of the Capabilities
+Daily x3 ï¿½ Extended Action
+Target: A willing Pokï¿½mon with one of the Capabilities
 listed below
 Effect: Choose one of the Capabilities below which the
-target Pokémon has. You create a consumable item with
+target Pokï¿½mon has. You create a consumable item with
 the effect below, depending on the chosen Capability.
 All unused items created with Enhanced Capsules
 are rendered inert after an Extended Rest (including
 modifications to other items).
-»
-» Glow: This item may be attached to a Wonder
+ï¿½
+ï¿½ Glow: This item may be attached to a Wonder
 Launcher as a Standard Action to give the following
 effect for the rest of the Scene: Whenever you apply
 an Item to a target using this Wonder Launcher, that
 target gains the Illuminate Ability for one full round.
-»
-» Magnetic: This item may be loaded into a Cap
+ï¿½
+ï¿½ Magnetic: This item may be loaded into a Cap
 Cannon to provide two Bean Cap Ammo. When
 fired, these Bean Caps cannot miss.
-»
-» Threaded: This item may be loaded into a Cap
+ï¿½
+ï¿½ Threaded: This item may be loaded into a Cap
 Cannon to provide two Glue Cap Ammo. When
 fired, they affect a Blast 2 instead of a single target.
-»
-» Zapper: This item may be loaded into a Cap Cannon
+ï¿½
+ï¿½ Zapper: This item may be loaded into a Cap Cannon
 as a single Net Cap Ammo. Targets trapped by this
 Net Cap are Suppressed while trapped. Targets
 immune to Electric-Type attacks are immune to this
@@ -103,14 +103,14 @@ effect.
 6
 Gadgeteer Recipes
 Cap Cannon
-At-Will ­ Extended Action
+At-Will ï¿½ Extended Action
 Effect: You create a Cap Cannon for $2000.
 Cap Ammo
-At-Will ­ Extended Action
+At-Will ï¿½ Extended Action
 Effect: You create a Bean Cap for $25, a Glue Cap for
 $50, or a Net Cap for $100.
 Wonder Launcher
-At-Will ­ Extended Action
+At-Will ï¿½ Extended Action
 Effect: You create a Wonder Launcher for $5000.
 Additional Changes
 Mechanical Scrap is a new Scrap category that encom-
@@ -160,17 +160,17 @@ remove the Net as a Standard Action; if they do, they
 make a Save Check with a DC of 15, adding their Power
 Capability as a bonus to their Roll. Targets may auto-
 matically remove the Net as an Extended Action.
-»
-» If the target is a Wild Pokémon, Capture Rate is in-
+ï¿½
+ï¿½ If the target is a Wild Pokï¿½mon, Capture Rate is in-
 creased by +20
-»
-» If the target is Large Size or smaller, they take a -3
+ï¿½
+ï¿½ If the target is Large Size or smaller, they take a -3
 penalty to Accuracy Rolls
-»
-» If the target is Medium Size or smaller, they are
+ï¿½
+ï¿½ If the target is Medium Size or smaller, they are
 Slowed and Vulnerable
-»
-» Sky and Levitate Speeds cannot be used; the target
+ï¿½
+ï¿½ Sky and Levitate Speeds cannot be used; the target
 is forced to lower themselves to the ground (without
 taking fall damage).
 May 2015 Playtest
@@ -202,8 +202,8 @@ at at least Novice Rank.
 Echoes of the Future
 Prerequisite: Breadth of Knowledge, Master General
 Education
-Daily x2 ­ Free Action
-Trigger: You or your Pokémon make a roll
+Daily x2 ï¿½ Free Action
+Trigger: You or your Pokï¿½mon make a roll
 Effect: You may roll twice and keep the best result.
 Book Item Mechanics
 Books hold knowledge, and knowledge is power! Books are Items associated with Education Skills that can be used
