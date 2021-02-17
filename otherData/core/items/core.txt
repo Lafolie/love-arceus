@@ -4,41 +4,41 @@ Chapter 9:
 Gear and Items
 Trainer Essentials
 A number of items are absolutely essential to a Trainer's
-journey though the world of Pokémon. Usually, a Trainer
-given a Pokémon for the first time by a sponsoring
-Professor or the Pokémon League organization will
+journey though the world of Pokï¿½mon. Usually, a Trainer
+given a Pokï¿½mon for the first time by a sponsoring
+Professor or the Pokï¿½mon League organization will
 be given a small package of gear to begin with. Other
 times, Trainers scrape up the money themselves to buy
 the basics before they begin their adventure.
-Poké Balls
-Poké Balls are specialized pieces of technology that
-capture Pokémon by transforming them into an energy
+Pokï¿½ Balls
+Pokï¿½ Balls are specialized pieces of technology that
+capture Pokï¿½mon by transforming them into an energy
 form and storing them in a shrinkable metal ball. They
 come in many varieties, designed for different situations.
 Some are better suited for capturing particular Types of
-Pokémon while others have special effects upon capture.
-Throwing Poké Balls is an AC6 Status Attack, with a
+Pokï¿½mon while others have special effects upon capture.
+Throwing Pokï¿½ Balls is an AC6 Status Attack, with a
 range equal to the Trainer's Throwing Range: 4 plus
 their Athletics Rank. Resolve the attack like you would
-any other. If it misses, the Poké Ball lands harmlessly in
-the terrain beyond the target. If it hits, and the Pokémon
+any other. If it misses, the Pokï¿½ Ball lands harmlessly in
+the terrain beyond the target. If it hits, and the Pokï¿½mon
 is able to be Captured, you then make a Capture Roll by
 rolling 1d100 and subtracting the Trainer's Level. The
-Type of Ball will also modify the Capture Roll. Poké
-Balls can recall Pokémon into them from 8 meters away.
-Poké Balls cannot ever capture a Pokémon that's been
+Type of Ball will also modify the Capture Roll. Pokï¿½
+Balls can recall Pokï¿½mon into them from 8 meters away.
+Pokï¿½ Balls cannot ever capture a Pokï¿½mon that's been
 reduced to 0 Hit Points or less. The energizing process
-is too dangerous for seriously injured Pokémon and
-is thus halted by a failsafe built into all Poké Balls and
-Poké Ball parts sold on the market for self-assembly.
-And of course, Poké Balls fail to activate against owned
-Pokémon already registered to a Trainer and Ball!
-Pokédex
+is too dangerous for seriously injured Pokï¿½mon and
+is thus halted by a failsafe built into all Pokï¿½ Balls and
+Pokï¿½ Ball parts sold on the market for self-assembly.
+And of course, Pokï¿½ Balls fail to activate against owned
+Pokï¿½mon already registered to a Trainer and Ball!
+Pokï¿½dex
 This hand-held computer with an advanced camera and
 image recognition software is given out to new trainers
 at the start of their journey. As a Standard Action, a
-Trainer can use their Pokédex to identify a Pokémon
-within 10 meters using the Pokédex's scanner. Doing
+Trainer can use their Pokï¿½dex to identify a Pokï¿½mon
+within 10 meters using the Pokï¿½dex's scanner. Doing
 so reveals the average height and weight of the species,
 height and weight of the individual being targeted,
 Moves that the Species learns through Level Up, and
@@ -51,78 +51,78 @@ in most circumstances they should be made available
 for free to starting characters.
 Gear and Items
 272
-Poké Ball Chart
+Pokï¿½ Ball Chart
 Basic Balls are sold for $250, Great Balls for $400 and Ultra Balls for $800. All Special balls are usually sold for
 $800 as well, though they may not always be available in every shop.
-Why are Poké Balls so cheap for pieces of advanced technology, especially compared to other items available in the
-Pokémon Tabletop United handbook? Well, it's largely because the game is so dependent on their easy accessibility.
-If you need an in-setting reason, Poké Ball production is likely subsidized by the government due to their ubiquity.
+Why are Pokï¿½ Balls so cheap for pieces of advanced technology, especially compared to other items available in the
+Pokï¿½mon Tabletop United handbook? Well, it's largely because the game is so dependent on their easy accessibility.
+If you need an in-setting reason, Pokï¿½ Ball production is likely subsidized by the government due to their ubiquity.
 Ball # Spr Ball Name Modifier Special
-01 Basic Ball +0 Basic Poké Ball; often called just a "Poké Ball".
-02 Great Ball -10 A better Poké Ball with no special effects.
-03 Ultra Ball -15 The best generic Poké Ball.
+01 Basic Ball +0 Basic Pokï¿½ Ball; often called just a "Pokï¿½ Ball".
+02 Great Ball -10 A better Pokï¿½ Ball with no special effects.
+03 Ultra Ball -15 The best generic Pokï¿½ Ball.
 04 Master Ball -100 Incredibly Rare. Worth at least $300,000. Sold nowhere.
 05 Safari Ball +0 Used during Safari hunts.
 06 Level Ball +0
--20 Modifier if the target is under half the level your active Pokémon
+-20 Modifier if the target is under half the level your active Pokï¿½mon
 is.
 07 Lure Ball +0 -20 Modifier if the target was baited into the encounter with food.
 08 Moon Ball +0 -20 Modifier if the target evolves with an Evolution Stone.
-09 Friend Ball -5 A caught Pokémon will start with +1 Loyalty.
+09 Friend Ball -5 A caught Pokï¿½mon will start with +1 Loyalty.
 10 Love Ball +0
--30 Modifier if the user has an active Pokémon that is of the same
+-30 Modifier if the user has an active Pokï¿½mon that is of the same
 evolutionary line as the target, and the opposite gender. Does not work
-with genderless Pokémon.
+with genderless Pokï¿½mon.
 11 Heavy Ball +0 -5 Modifier for each Weight Class the target is above 1.
 12 Fast Ball +0 -20 Modifier if the target has a Movement Capability above 7.
 13 Sport Ball +0 Used during Safari hunts.
 14 Premier Ball +0 Given as promotional balls during sales.
-15 Repeat Ball +0 -20 Modifier if you already own a Pokémon of the target's species.
+15 Repeat Ball +0 -20 Modifier if you already own a Pokï¿½mon of the target's species.
 16 Timer Ball +5
 -5 to the Modifier after every round since the beginning of the en-
 counter, until the Modifier is -20.
 17 Nest Ball +0 -20 Modifier if the target is under level 10.
 18 Net Ball +0 -20 Modifier, if the target is Water or Bug type.
 19 Dive Ball +0 -20 Modifier, if the target was found underwater or underground.
-20 Luxury Ball -5 A caught Pokémon is easily pleased and starts with a raised happiness.
+20 Luxury Ball -5 A caught Pokï¿½mon is easily pleased and starts with a raised happiness.
 Gear and Items
 273
-21 Heal Ball -5 A caught Pokémon will heal to Max HP immediately upon capture.
+21 Heal Ball -5 A caught Pokï¿½mon will heal to Max HP immediately upon capture.
 22 Quick Ball -20
 +5 to Modifier after 1 round of the encounter, +10 to Modifier after
 round 2, +20 to modifier after round 3.
 23 Dusk Ball +0 -20 Modifier if it is dark, or if there is very little light out, when used.
-24 Cherish Ball -5 A decorative Poké Ball often given out during special events.
+24 Cherish Ball -5 A decorative Pokï¿½ Ball often given out during special events.
 25 Park Ball -15 Used during Safari hunts.
-GM Tip: A good way to give towns in your campaign a little flavor is to make different kinds of Special Poké Balls
+GM Tip: A good way to give towns in your campaign a little flavor is to make different kinds of Special Pokï¿½ Balls
 be available in each. This can be based on what sort of Apricorns grow nearby, or simply due to the location of the
 town; a town next to a large cave system may produce Dusk Balls, while a town by the beach may produce Lure or
 Dive Balls.
-You may even want to invent your own custom Poké Balls for your campaign. Think about what kinds of
+You may even want to invent your own custom Pokï¿½ Balls for your campaign. Think about what kinds of
 customizations would be useful to the locals or visitors. A snowy mountain town may have invented a variation of
-the Net Ball that catches Rock and Ice Type Pokémon more easily, for example.
+the Net Ball that catches Rock and Ice Type Pokï¿½mon more easily, for example.
 Gear and Items
 274
 Bait: Bait is a tasty, strong-smelling morsel of food
-designed to attract Pokémon. It may be used in two
-ways; to lure Pokémon, or to distract Pokémon. Bait can
+designed to attract Pokï¿½mon. It may be used in two
+ways; to lure Pokï¿½mon, or to distract Pokï¿½mon. Bait can
 be bought for $250.
-To lure Pokémon, set the bait on a route. Every 15
+To lure Pokï¿½mon, set the bait on a route. Every 15
 minutes thereafter, roll 1d20 until you roll 15 or higher.
 If you roll 3 times without success, the bait loses its
 potency and fails. If you succeed however, a random
-Pokémon, based on your GM's discretion will appear.
-The Pokémon attracted with bait should usually be of a
-Level comparable to the party's Pokémon. Bait is often
+Pokï¿½mon, based on your GM's discretion will appear.
+The Pokï¿½mon attracted with bait should usually be of a
+Level comparable to the party's Pokï¿½mon. Bait is often
 used for Fishing in this way.
-To distract Pokémon, throw it at a Wild Pokémon as a
+To distract Pokï¿½mon, throw it at a Wild Pokï¿½mon as a
 Standard Action. The target must then make a Focus
-Roll with a DC of 12. If they fail, the Pokémon gives up
+Roll with a DC of 12. If they fail, the Pokï¿½mon gives up
 its next Standard Action to eat the food.
 Collection Jar: A simple sealable glass jar. Useful when
-collecting Items from Pokémon, such as Honey from
-Pokémon with the Honey Gather Ability, or MooMoo
-Milk from Pokémon with the Milk Collection Ability.
+collecting Items from Pokï¿½mon, such as Honey from
+Pokï¿½mon with the Honey Gather Ability, or MooMoo
+Milk from Pokï¿½mon with the Milk Collection Ability.
 Available almost everywhere, and cost $100.
 First Aid Kit: Required to use the First Aid Expertise
 Feature. By Draining 1 AP, any Trainer can make a
@@ -134,31 +134,31 @@ to use a Fishing Lure when attempting to Fish. Fishing
 Lures work just like Bait, but can be used multiple times.
 If the line snaps or the fish gets away, they may take your
 lure with them, however. Fishing Lures cost $1500.
-Saddle: Saddles help Trainers ride Pokémon. They are
-created with a specific Pokémon species in mind, and
-only Pokémon with that body type can wear the saddle.
+Saddle: Saddles help Trainers ride Pokï¿½mon. They are
+created with a specific Pokï¿½mon species in mind, and
+only Pokï¿½mon with that body type can wear the saddle.
 A common Saddle type fits Ponyta, Rapidash, Blitzle,
 and Zebstrika, for example. Saddles grant a +3 bonus to
-all Skill Checks made to mount Pokémon, or to remain
+all Skill Checks made to mount Pokï¿½mon, or to remain
 on the Saddle when hit by an attack. Costs $2000.
 Rope: Rope has many different uses, and is thus popular
 gear for explorers, campers, and hikers. Rope can only
 be damaged by Fire-Type attacks, or attacks made with
-sharp objects ­ knives, swords, sharp teeth, and Moves
+sharp objects ï¿½ knives, swords, sharp teeth, and Moves
 like Scratch, Slash, Leaf Blade, Razor Leaf, etc. The
 Move Cut ignores all Damage Reduction against Rope.
 Rope can be bought in any length of 25 Feet up to 300.
 The listed prices below reflect 25 feet of rope; simply
 multiply the price appropriately for more.
-»
-» Basic Rope: Basic Fiber Rope. Has a tensile strength
+ï¿½
+ï¿½ Basic Rope: Basic Fiber Rope. Has a tensile strength
 of 35 kg or 77 lbs. It has 5 Hit Points. Costs $100
-»
-» Utility Rope: Braided Utility Rope. Has a tensile
+ï¿½
+ï¿½ Utility Rope: Braided Utility Rope. Has a tensile
 strength of 80 kg or 176 lbs. It has 20 Hit Points and
 10 Damage Reduction. Costs $200
-»
-» Sturdy Rope: Sturdy Rope with a tensile strength
+ï¿½
+ï¿½ Sturdy Rope: Sturdy Rope with a tensile strength
 of 225 kg or roughly 500lbs. 30 Hit Points and 20
 Damage Reduction. Costs $400
 Sleeping Bag: A standard sleeping bag. Costs $1000 for
@@ -166,7 +166,7 @@ a single, or $1800 for a double.
 Tents: Standard outdoor tents. Provide protection from
 the elements of nature. Costs $400 per meter cubed.
 (A small one person tent would be about 1m x 1.5m x
-1.5m, or 2.25 cubic meters­ meaning 900 in price. )
+1.5m, or 2.25 cubic metersï¿½ meaning 900 in price. )
 Lighter: For creating flames in a hurry. A regular
 convenience store lighter costs $150; a waterproof
 lighter costs $1000.
@@ -180,57 +180,57 @@ Travel Gear
 275
 Repels: Repels can be sprayed on one's self in order to
 ward off wilds with a subtle smell that greatly annoys
-Pokémon. It's best to not make your own Pokémon
+Pokï¿½mon. It's best to not make your own Pokï¿½mon
 endure the smell while using Repels yourself. Most wild
-Pokémon won't bother you when you spray Repel on
+Pokï¿½mon won't bother you when you spray Repel on
 yourself, and will make themselves scarce before you
 even approach.
-Spraying a wild Pokémon directly with Repel will cause
-that Pokémon, if the Repel can affect Pokémon of that
+Spraying a wild Pokï¿½mon directly with Repel will cause
+that Pokï¿½mon, if the Repel can affect Pokï¿½mon of that
 level, to immediately shift away from the user as far as
-the Pokémon is able as an Interrupt, forfeiting their next
-Shift Action. Spraying a Pokémon with a Repel is an
+the Pokï¿½mon is able as an Interrupt, forfeiting their next
+Shift Action. Spraying a Pokï¿½mon with a Repel is an
 AC6 Status Attack.
 Strength Effect Price
 Repel
-Lasts 1 hour; causes Pokémon
+Lasts 1 hour; causes Pokï¿½mon
 of level 15 or lower to flee.
 $200
 Super Repel
-Lasts 2 hours; causes Pokémon
+Lasts 2 hours; causes Pokï¿½mon
 of level 25 or lower to flee.
 $300
 Max Repel
-Lasts 5 hours; causes Pokémon
+Lasts 5 hours; causes Pokï¿½mon
 of level 35 or lower to flee.
 $400
 Gear and Items
 276
 Medicines
 Potions and other Basic Restorative Items are
-a useful way for Trainers to keep their Pokémon
+a useful way for Trainers to keep their Pokï¿½mon
 in fighting shape without needing to return
-to a Pokémon center every single time they
-run into an angry wild Pokémon. Potions are
+to a Pokï¿½mon center every single time they
+run into an angry wild Pokï¿½mon. Potions are
 sold in small, one time use spray bottles that
-when sprayed on a Pokémon, sterilize and heal
+when sprayed on a Pokï¿½mon, sterilize and heal
 wounds.
 Potions and other Basic Restoratives can be
-used on Pokémon and Humans alike to repair
+used on Pokï¿½mon and Humans alike to repair
 damaged tissue and seal wounds. If the entire
 bottle of Potion isn't used, it cannot take effect
-on the Pokémon.
+on the Pokï¿½mon.
 Be careful with "Repulsive" medicines! They
-decrease a Pokémon's loyalty with repeated use.
+decrease a Pokï¿½mon's loyalty with repeated use.
 Most of these items are available for sale at
-PokéMarts. They are essential equipment that
+Pokï¿½Marts. They are essential equipment that
 adventuring Trainers need to have access to
 while they are out on the road, far from any
-Pokémon Centers.
+Pokï¿½mon Centers.
 X-Items on the other hand are a bit rarer, often
 sold only in specialty shops or large shopping
 centers. Unlike Basic Restorative items, they
-only function on Pokémon ­ not on Trainers ­
+only function on Pokï¿½mon ï¿½ not on Trainers ï¿½
 and are used for augmenting Combat Stages in
 battle rather than healing wounds. Their effect
 lasts until the end of an encounter.
@@ -259,43 +259,43 @@ Burn Heal Cures Burns $200
 Ice Heal Cures Freezing $200
 Full Heal Cures all Persistent Status Afflictions $450
 Full Restore
-Heals a Pokémon for 80 Hit Points
+Heals a Pokï¿½mon for 80 Hit Points
 and cures any Status Afflictions
 $1450
 Revive
-Revives fainted Pokémon and sets to
+Revives fainted Pokï¿½mon and sets to
 20 Hit Points
 $300
 Energy Powder Heals 25 Hit Points - Repulsive $150
 Energy Root Heals 70 Hit Points - Repulsive $500
 Heal Powder
 Cure all Persistent Status Afflictions
-­ Repulsive
+ï¿½ Repulsive
 $350
 Revival Herb
-Revives Pokémon and sets to 50%
+Revives Pokï¿½mon and sets to 50%
 Hit Points - Repulsive
 $350
 X-Items
 Item Effect Cost
 X Attack
-Increases the Pokémon's Attack by two
+Increases the Pokï¿½mon's Attack by two
 Combat Stages
 $350
 X Defend
-Increases the Pokémon's Defense by two
+Increases the Pokï¿½mon's Defense by two
 Combat Stages
 $350
 X Special
-Increases the Pokémon's Special Attack
+Increases the Pokï¿½mon's Special Attack
 by two Combat Stages
 $350
 X Sp. Def
-Increases the Pokémon's Special Defense
+Increases the Pokï¿½mon's Special Defense
 by two Combat Stages
 $350
 X Speed
-Increases the Pokémon's Speed by two
+Increases the Pokï¿½mon's Speed by two
 Combat Stages
 $350
 Dire Hit
@@ -305,7 +305,7 @@ $600
 X Accuracy Increases Accuracy by +2 $600
 Guard Spec
 Prevents reduction of Combat Stages or
-Accuracy on the Pokémon for 5 Turns
+Accuracy on the Pokï¿½mon for 5 Turns
 $700
 Gear and Items
 277
@@ -314,18 +314,18 @@ Bandages are important medical supplies for
 traveling Trainers that aren't quite the same as
 other Restorative Items.
 Bandages are applied as Extended Actions
-on Pokémon or Trainers. Bandages last for 6
+on Pokï¿½mon or Trainers. Bandages last for 6
 hours; while applied, they double the Natural Healing
-Rate of Pokémon or Trainers, meaning a Pokémon or
+Rate of Pokï¿½mon or Trainers, meaning a Pokï¿½mon or
 Trainer will heal 1/8th of their Hit Points per half hour.
 Bandages also immediately heal one Injury if they
 remain in place for their full duration.
-If a Pokémon is damaged or loses Hit Points in any way,
+If a Pokï¿½mon is damaged or loses Hit Points in any way,
 the Bandages immediately stop working.
 Bandages can be found in even minor convenience
 stores for $300. Poultices have the same effect as
-Bandages, but are itchy and irritating to the skin ­ they
-may lower the loyalty of Pokémon if used too often,
+Bandages, but are itchy and irritating to the skin ï¿½ they
+may lower the loyalty of Pokï¿½mon if used too often,
 much like Repulsive medicine.
 Note: Multiple Bandages may be used throughout the
 day to heal injuries, but only 3 Injuries can be removed
@@ -333,7 +333,7 @@ per day through any combination of Items, Features, or
 Natural Healing.
 Bandages are incredibly helpful for extended treks in
 the wilderness where you might accrue multiple injuries
-over days without seeing a Pokémon Center.
+over days without seeing a Pokï¿½mon Center.
 Item Effect Cost
 Bandages See attached Section $300
 Poultices See attached Section - Repulsive $225
@@ -349,7 +349,7 @@ other kinds of food
 exist too. Candy Bars
 and Refreshments are
 commonly sold in
-PokéMarts. Leftovers
+Pokï¿½Marts. Leftovers
 or Black Sludge must
 be found in more
 specialized shops.
@@ -367,14 +367,14 @@ the rest of the encounter.
 $350
 Black
 Sludge
-Poison-Type Pokémon may consume the Black Sludge as a
+Poison-Type Pokï¿½mon may consume the Black Sludge as a
 Snack Item; when the Digestion Buff is traded in, they recover
 1/8th of their Max Hit Points at the beginning of each turn for
 the rest of the encounter.
 $500
-Snacks may be consumed at any time by a Pokémon or
+Snacks may be consumed at any time by a Pokï¿½mon or
 Trainer as an Extended Action to grant a Digestion Buff.
-A Pokémon or Trainer may only have one Digestion Buff
+A Pokï¿½mon or Trainer may only have one Digestion Buff
 stored at a time unless they have the Gluttony Ability,
 and they made trade in this Buff during battle to
 use the effect of the Snack. Berries are considered
@@ -394,18 +394,18 @@ diverse varieties of Snacks by using ingredients.
 Gear and Items
 279
 Refreshment Items
-Pokémon and Trainers alike love to relax and have some food. Refreshments are Items that grant their effects when
+Pokï¿½mon and Trainers alike love to relax and have some food. Refreshments are Items that grant their effects when
 they are consumed as an Extended Action outside of combat.
 While they can't heal in a pinch like Potions do,
 they are a cheaper alternative for healing while
-outside of battle. A Pokémon or Trainer can
+outside of battle. A Pokï¿½mon or Trainer can
 only consume one refreshment per half hour,
 unless they have the Gluttony Ability.
 Miscellaneous Food
 Food under this category is basically only food fluff-wise; they are consumable items that require an Extended
 Action to consume, have varying effects, and do not affect how many Snacks or Refreshments you can eat or drink.
-Baby Food: A nutritious food that causes young Pokémon to grow quickly. When consumed, increases Experience
-Gain of Pokémon at level 15 or lower by 20% for the rest of the day.
+Baby Food: A nutritious food that causes young Pokï¿½mon to grow quickly. When consumed, increases Experience
+Gain of Pokï¿½mon at level 15 or lower by 20% for the rest of the day.
 Item Effects Cost
 Enriched Water Heals 20 Hit Points. $75
 Shuckle's Berry Juice Heals 30 Hit Points. ---
@@ -417,7 +417,7 @@ MooMoo Milk Heals 80 Hit Points. $500
 Apricorns, Berries, and Herbs
 Berries and Herbs are a particular kind of snack food item which grow naturally throughout the world. Some
 berries, like Oran Berries, are very common, while others are very rare. Herbs in general tend to be rare in the wild.
-Common Berries are easily found in Pokémon supply stores, grocery stores, and similar. Rare berries and herbs
+Common Berries are easily found in Pokï¿½mon supply stores, grocery stores, and similar. Rare berries and herbs
 may only be found at specialty shops.
 Apricorns, Berries, and Herbs may be grown by a Trainer with the appropriate Features or Edges, assuming they
 have access to enough space to plant their Plants.
@@ -462,7 +462,7 @@ Kee Berry, Maranga Berry
 $500
 Gear and Items
 281
-Apricorn Type Poké Ball
+Apricorn Type Pokï¿½ Ball
 Red Apricorns Level Ball
 Yellow Apricorns Moon Ball
 Blue Apricorns Lure Ball
@@ -476,7 +476,7 @@ Heals 70 Hit Points -
 Repulsive
 $500
 Revival Herb
-Revives Pokémon and
+Revives Pokï¿½mon and
 sets to 50% Hit Points -
 Repulsive
 $350
@@ -520,11 +520,11 @@ Check. If identified, you may roll to see which stats that
 mushroom affects ahead of time.
 Apricorns
 Apricorns are fruit that can be turned into Apricorn
-Poké Balls. Finding a smith to make them isn't always
-easy. It's usually simpler to buy the Poké Balls in stores.
+Pokï¿½ Balls. Finding a smith to make them isn't always
+easy. It's usually simpler to buy the Pokï¿½ Balls in stores.
 Herbs
 Herbs have varied effects, ranging from acting as
-repulsive restorative items to giving Pokémon unique
+repulsive restorative items to giving Pokï¿½mon unique
 advantages in the middle of battle. Energy Roots and
 Revival Herbs are used as restorative items in battle.
 Mental, Power, and White Herbs are Snack Items.
@@ -675,12 +675,12 @@ Physical Move.
 CS. Activates as a Free
 Action when hit by a
 Special Move.
-* Treat Berries heal 1/8th of the Pokémon's Max HP. If
+* Treat Berries heal 1/8th of the Pokï¿½mon's Max HP. If
 the user likes the Treat's flavor, it heals 1/6th instead. If
 the user dislikes the treat's flavor, the user is Confused.
 * Suppressant Berries lower the indicated Base Stat by 1
-when consumed by a Pokémon. This effect only works if
-the Pokémon's trainer wishes it to.
+when consumed by a Pokï¿½mon. This effect only works if
+the Pokï¿½mon's trainer wishes it to.
 * Berries that Weaken a Type of Move allow the user to
 trade in their Digestion Buff to grant one step of resis-
 tance when hit by a Move of the indicated type.
@@ -781,9 +781,9 @@ and Durin Berries raise Smart; Aspear, Iapapa, Pinap,
 Durin, and Belue Berries raise Tough. Poffins can be
 purchased for $500 in bakeries and Contest halls, and
 Poffin Mixers cost $500 as well.
-Poké Ball Tool Box: These tool boxes let those with the
-know-how craft and repair Poké Balls. They cost $500
-and can be found in most Poké Marts.
+Pokï¿½ Ball Tool Box: These tool boxes let those with the
+know-how craft and repair Pokï¿½ Balls. They cost $500
+and can be found in most Pokï¿½ Marts.
 Portable Grower / Berry Planter: Portable Growers can
 be used to grow berries and herbs. Portable Growers
 protect the plants within them from external weather,
@@ -809,7 +809,7 @@ For example, a Chef taking home leftover ingredients
 from a restaurant at the end of a day might have Scrap
 to pay for $500 of Chef Features. A gadgeteer rooting
 through a junkyard might be able to salvage parts equal
-to $1000 worth of Poké Ball crafting. This lets a GM to
+to $1000 worth of Pokï¿½ Ball crafting. This lets a GM to
 regularly reward players who rely on Crafting with the
 resources they need to function without tempting play-
 ers with extra crash to buy TMs or other luxury items.
@@ -820,18 +820,18 @@ can cut up Fancy Clothes for cloth Scraps worth $1250
 for using their other Features.
 Scrap is always tied to a particular item category. Here
 are some suggestions for those categories.
-»
-» Food: Snack Items, Refreshment Items, Bait Items,
+ï¿½
+ï¿½ Food: Snack Items, Refreshment Items, Bait Items,
 Baby Food
-»
-» Medicines: All Basic Restoratives, X-Items, Dire
+ï¿½
+ï¿½ Medicines: All Basic Restoratives, X-Items, Dire
 Hit, Guard Spec, Vitamins
-»
-» Repellents: All Repel Items, all Pester Balls
-»
-» Poké Balls: All Poké Balls
-»
-» Fashion Items: Items the Fashionista creates
+ï¿½
+ï¿½ Repellents: All Repel Items, all Pester Balls
+ï¿½
+ï¿½ Pokï¿½ Balls: All Pokï¿½ Balls
+ï¿½
+ï¿½ Fashion Items: Items the Fashionista creates
 Gear and Items
 286
 Equipment
@@ -843,8 +843,8 @@ are usable by Trainers as well; most Held Items are accessory-slot items when us
 according to their description. See the next section for details on Held Items.
 Equipping an Item or switching one for another takes a Standard Action. Handing another Trainer an item or
 equipment piece is similarly a Standard Action, but this does not equip the item for them, only grants them
-the ability to equip it themselves. Equipping a Held Item onto a Pokémon is a Standard Action that causes the
-Pokémon to forfeit their next turn.
+the ability to equip it themselves. Equipping a Held Item onto a Pokï¿½mon is a Standard Action that causes the
+Pokï¿½mon to forfeit their next turn.
 Gear and Items
 287
 Weapons
@@ -868,7 +868,7 @@ else wielding a weapon in a professional capacity.
 There are four kinds of Weapons; Large Melee Weapons,
 Small Melee Weapons, Short-Range Weapons, and
 Long-Range Weapons. If a Weapon is One-Handed, it
-simply takes up the Main Hand slot ­ if it's two handed,
+simply takes up the Main Hand slot ï¿½ if it's two handed,
 it takes up the Off-Hand Slot as well. When wielding a
 One-Handed Weapon in the Off-Hand slot, Trainers do
 not gain a Master Move from that Weapon and take a -2
@@ -887,7 +887,7 @@ Short Range Weapons have a Range of 4 meters. Short-
 Range weapons are one-handed.
 Long Range Weapons raise the AC of the Attack by
 +1, have a range of 12 meters, and raise the Damage
-Base by +1. Long Range Weapons can't target Pokémon
+Base by +1. Long Range Weapons can't target Pokï¿½mon
 or Trainers that are closer than 4 meters from the user.
 Long Range Weapons are two-handed.
 Improvised Weapons: If your Trainers make attacks
@@ -929,7 +929,7 @@ $6000 for Fine Weapons.
 Another thing to think about is what sort of weapons
 are allowed. Maybe the police is going to show up very
 quickly at the sight of teenagers traveling with swords,
-bows, and spears ­ definitely Simple or Fine Weapons.
+bows, and spears ï¿½ definitely Simple or Fine Weapons.
 But what about baseball bats, slingshots, and hockey
 sticks as Crude Weapons? Establishing the framework of
 what constitutes a common `weapon' in your campaign
@@ -946,19 +946,19 @@ For example, Pierce! would go well on a spear, but Bash!
 would not.
 Weapon Moves are read in the same format as regular
 Moves, though there is a bit of extra notation for them.
-»
-» "WR" is short for "Weapon Range" refers to the
+ï¿½
+ï¿½ "WR" is short for "Weapon Range" refers to the
 Weapon's innate range. That is, Melee for Large and
 Small Melee Weapons, 4 meters for Short Range
 Weapons, and 12 meters for Long Range Weapons
 with a restriction that they can't target anyone closer
 than 4 meters.
-»
-» Limitations refer to the kinds of weapons that can
+ï¿½
+ï¿½ Limitations refer to the kinds of weapons that can
 be granted the Move. For example, Backswing can
 only be found on Large Melee Weapons.
-»
-» Weapon Suggestions are simply our suggestions for
+ï¿½
+ï¿½ Weapon Suggestions are simply our suggestions for
 what kinds of weapons the Move makes sense for, in
 case it was confusing or you need a bit of guidance.
 Some Features also allow you to use Moves you learn as
@@ -1251,7 +1251,7 @@ Heavy Armor grants +10 Damage Reduction. Heavy Armor causes the wearer's
 Speed's Default Combat Stage to be -1.
 $12,000
 Fancy Clothes
-Each set of Fancy Clothes is assigned a Contest Stat ­ either Beauty, Cool, Cute,
+Each set of Fancy Clothes is assigned a Contest Stat ï¿½ either Beauty, Cool, Cute,
 Smart, or Tough. Trainers wearing these clothes may roll 2d6 during the Introduction
 Stage of a Contest to try to generate Contest Stat Dice for the assigned Stat.
 $5000
@@ -1277,7 +1277,7 @@ The user gains 15 Damage Reduction against Critical Hits. The user resists the
 Moves Headbutt and Zen Headbutt and can't be flinched by these Moves.
 $2250
 Re-Breather
-This small partial face mask allows Trainers and Pokémon to breathe underwater
+This small partial face mask allows Trainers and Pokï¿½mon to breathe underwater
 as if they had the Gilled Capability for up to an hour. The Re-Breather is refilled
 automatically in 5 minutes while in open air.
 $4000
@@ -1317,32 +1317,32 @@ and additional charge packets costs $100.
 Hand Net
 A long net, usually on the end of a long stick, these pieces of two-handed Equipment are usually
 used for bug catching or fishing. As an AC6 Status Attack, you may attempt to net a Small
-Pokémon using this item. If you hit, you manage to scoop up the Pokémon, trapping them. You
-may move with the Pokémon, dragging them with you. Pokémon may still attack from the Hand
+Pokï¿½mon using this item. If you hit, you manage to scoop up the Pokï¿½mon, trapping them. You
+may move with the Pokï¿½mon, dragging them with you. Pokï¿½mon may still attack from the Hand
 Net using long-range attacks, or try to attack the net itself, potentially breaking it and freeing
-themselves. Capture Rolls against Pokémon in a net receive a -20 bonus.
+themselves. Capture Rolls against Pokï¿½mon in a net receive a -20 bonus.
 Hand Nets with 50 Hit Points cost $100; 100 Hit Points cost $600; and 200 Hit Points cost
 $1500. Nets aren't broken until all of their Hit Points are depleted.
 Weighted
 Nets
-Weighted Nets are foldable nets used for trapping Pokémon. These two-handed nets, when
+Weighted Nets are foldable nets used for trapping Pokï¿½mon. These two-handed nets, when
 Equipped, can be thrown at a target as a Standard Action, as a Status Attack with an AC of 8.
-While a Pokémon is netted, you may pull on the rope attached to the Net to pull the Pokémon 1
+While a Pokï¿½mon is netted, you may pull on the rope attached to the Net to pull the Pokï¿½mon 1
 Meter towards you as a Standard Action.
-Pokémon hit by a weighted net become Slowed as long as the net remains and cannot use Sky or
-Levitate Speeds except to safely lower themselves back to the ground. A Pokémon may attack the
-Net to attempt to break free. Capture Rolls against Pokémon in a net receive a -20 bonus.
+Pokï¿½mon hit by a weighted net become Slowed as long as the net remains and cannot use Sky or
+Levitate Speeds except to safely lower themselves back to the ground. A Pokï¿½mon may attack the
+Net to attempt to break free. Capture Rolls against Pokï¿½mon in a net receive a -20 bonus.
 Weighted Nets with 50 Hit Points cost $500; 80 Hit Points cost $850; and 150 Hit Points cost
 $1200.
 Capture
 Styler
-A Capture Styler is a Main-Hand specialized piece of equipment used by some certified Pokémon
+A Capture Styler is a Main-Hand specialized piece of equipment used by some certified Pokï¿½mon
 Rangers in a region. It emits a string of energy that is used in a similar fashion to a lasso but is too
-weak to physically restrain a target. Instead, the energy has a calming effect on Pokémon.
+weak to physically restrain a target. Instead, the energy has a calming effect on Pokï¿½mon.
 Trainers using a Capture Styler may use Survival in place of Charm when raising the Disposition
-of Pokémon. Acquiring a Capture Styler is easy for those who become certified Pokémon Rangers;
+of Pokï¿½mon. Acquiring a Capture Styler is easy for those who become certified Pokï¿½mon Rangers;
 most qualified Rangers receive one as part of the job. They are not for sale to the general public
-and may cost upwards of $7500 on the black market due to their iconic nature ­ it's easy to
+and may cost upwards of $7500 on the black market due to their iconic nature ï¿½ it's easy to
 assume that someone who has a Capture Styler is a Ranger.
 Light Shield
 A Shield is an Off-Hand defensive item held in one hand or braced to an arm. Light Shields
@@ -1362,7 +1362,7 @@ Wonder
 Launcher
 This strange and complicated two-handed machine can only be used by those that have an
 Expert-Level Medicine or Technology Education Skill. The wielder can spend 1 AP to activate
-it, and apply an X-Item at a Pokémon within 8 meters. X-Items applied through the Wonder
+it, and apply an X-Item at a Pokï¿½mon within 8 meters. X-Items applied through the Wonder
 Launcher do not cause the target to forfeit any actions. Items combined by a Researcher may be
 used in the Wonder Launcher, and do not cause the target to forfeit any actions even if they are
 also a Restorative. Wonder Launchers cost $10,000 or more.
@@ -1376,27 +1376,27 @@ the Equipment Slot. Focuses are not usually found in stores, but may sometimes b
 $6000 at your GM's discretion.
 Snag Machine
 Snag Machines are extremely illegal machines that allow trainers to steal another Trainer's
-Pokémon. They come in both large, immovable varieties and smaller portable varieties. The
-Portable Variety is an Accessory-Slot Item. Inserting a Poké Ball into a Large Snag Machine
-turns it into a Snag Ball permanently, but Large Snag Machines may only turn 5 Poké Balls
-into Snag Balls per day. Inserting a Poké Ball into a Portable Snag Machine, which is a Swift
+Pokï¿½mon. They come in both large, immovable varieties and smaller portable varieties. The
+Portable Variety is an Accessory-Slot Item. Inserting a Pokï¿½ Ball into a Large Snag Machine
+turns it into a Snag Ball permanently, but Large Snag Machines may only turn 5 Pokï¿½ Balls
+into Snag Balls per day. Inserting a Pokï¿½ Ball into a Portable Snag Machine, which is a Swift
 Action, turns it into a Snag Ball after one round, but only for that round. Snag Balls have
-the same properties as the Poké Ball type they were before being inserted into the machine,
-but receive a -2 penalty on all Poké Ball attack rolls, and are capable of capturing owned
-Pokémon. Snag Machines cannot be bought in stores, but may sell on the black market for
+the same properties as the Pokï¿½ Ball type they were before being inserted into the machine,
+but receive a -2 penalty on all Pokï¿½ Ball attack rolls, and are capable of capturing owned
+Pokï¿½mon. Snag Machines cannot be bought in stores, but may sell on the black market for
 prices of $30,000 or more.
 Mega Ring
-Mega Rings are extraordinarily rare accessories that allow a Trainer's Pokémon to Mega Evolve
+Mega Rings are extraordinarily rare accessories that allow a Trainer's Pokï¿½mon to Mega Evolve
 when used in conjunction with a Mega Stone. They cannot be bought in stores anywhere and
 must usually be earned through a trial of sorts, governed by a Gym Leader or other influential
-Pokémon Trainer. They can take the form of a bracelet, a necklace, or an actual ring.
+Pokï¿½mon Trainer. They can take the form of a bracelet, a necklace, or an actual ring.
 GM TIP: Creating Your Own Items
 You're going to want to create your own equipment; don't be afraid to do so! One way to provide trainers with
 useful and flavorful equipment is to provide gear that gives small bonuses to Skills; ranging from +1 to +4 at the
 maximum. Some Gear may provide these bonuses only in specific circumstances; that kind of gear can afford to
 give higher bonuses, or simply be cheaper.
-Feel free to tailor these items to your PCs or NPCs, and to your setting. A "Pokémon League Cap" could be a great
-item to include to grant +2 to Command Checks in a Standard Pokémon setting; a Pokémon War Setting might be
+Feel free to tailor these items to your PCs or NPCs, and to your setting. A "Pokï¿½mon League Cap" could be a great
+item to include to grant +2 to Command Checks in a Standard Pokï¿½mon setting; a Pokï¿½mon War Setting might be
 better off with a "Officer's Stripes" or similar.
 When creating Items, assign them to an equipment slot that makes sense; that +2 Intimidate Eyepatch obviously
 goes on the Head Slot, but that +2 Intimidate Studded Leather Jacket could be a Body or Accessory Slot Item.
@@ -1408,19 +1408,19 @@ items go in which equipment slots. While it'd make no sense to wear a Gas Mask a
 someone wears a Helmet in their Head Slot, you may let them wear Sunglasses as an Accessory Slot Item.
 Gear and Items
 296
-Pokémon Items
+Pokï¿½mon Items
 Held Items
-During battle, a Pokémon may be given a single "Held Item". Berries, Herbs, and Snack Foods are common
+During battle, a Pokï¿½mon may be given a single "Held Item". Berries, Herbs, and Snack Foods are common
 consumable held items that are destroyed when used, but there are many other items crafted especially for battle.
 On the following page is a chart listing various Held Items that grant a specific boon while held as a Static ability.
-They do not need to be activated; simply holding them is enough. Held Items may be dropped by Pokémon
+They do not need to be activated; simply holding them is enough. Held Items may be dropped by Pokï¿½mon
 on their turn as a Free Action. Many held items can be used by Trainers as well. When this is the case, they're
 described with the associated equipment slot used by a Trainer. Not all Held Items can be purchased. Some are rare
 and must be found; these Held Items are marked with a -- in place of a price.
 Fluffing Held Items: Fluffing Held Items may in some cases be a little awkward. The most convenient explanation
-is to simply view them as amulets to be worn on a cord around the Pokémon's neck or on a collar. Or perhaps a
-nice hat; everyone loves hats. Some Items like Stat Boosters may be fluffed as armor that covers the Pokémon, or
-even weapons that can be attached to the Pokémon's natural weapons.
+is to simply view them as amulets to be worn on a cord around the Pokï¿½mon's neck or on a collar. Or perhaps a
+nice hat; everyone loves hats. Some Items like Stat Boosters may be fluffed as armor that covers the Pokï¿½mon, or
+even weapons that can be attached to the Pokï¿½mon's natural weapons.
 Held Item Effect Cost
 Big Root HP stealing moves restore double HP. Cannot be used by Trainers. $1000
 Bright Powder +2 to Speed Evasion. Cannot be used by Trainers. $2000
@@ -1441,9 +1441,9 @@ Move of the chosen Type. Cannot be used by Trainers.
 $1000
 Everstone Evolution is prevented for the holder. Cannot be used by Trainers. $1500
 Eviolite
-Only affects not-fully-evolved Pokémon of a single family, decided when the
+Only affects not-fully-evolved Pokï¿½mon of a single family, decided when the
 Eviolite is made. Grants a +5 Bonus to two different Stats, after Combat Stages,
-decided when the Eviolite is made. Prevents Pokémon from evolving when held.
+decided when the Eviolite is made. Prevents Pokï¿½mon from evolving when held.
 Cannot be used by Trainers.
 $4000
 Expert Belt
@@ -1501,10 +1501,10 @@ Whenever the user damages a foe, they gain a Tick of Temporary Hit Points.
 Accessory Item for Trainers.
 $5200
 Shock Collar
-Comes with a remote activator, which when pressed, causes the Pokémon or
+Comes with a remote activator, which when pressed, causes the Pokï¿½mon or
 Trainer wearing the shock collar to lose Hit Points equal to 1/6th of their Max
 Hit Points. This may be used to activate the "Press" Feature. Collars that work
-on Ground Type Pokémon are available for an additional $500.
+on Ground Type Pokï¿½mon are available for an additional $500.
 $3500
 Stat Boosters
 These items have a chosen Stat, either Attack, Defense, Special Attack, Special
@@ -1534,7 +1534,7 @@ These Rare items come in a variety of each of the Elemental Types, and act as
 both a Type Booster and a Type Brace. Accessory Slot Item for Trainers.
 --
 Mega Stone
-An item that allows a Pokémon to Mega Evolve when used in conjunction with a
+An item that allows a Pokï¿½mon to Mega Evolve when used in conjunction with a
 Mega Ring. Each Mega Stone is specific to one species and Mega Evolved form.
 --
 Metal Powder
@@ -1555,24 +1555,24 @@ Stat Booster.
 --
 Gear and Items
 298
-Pokémon Toolkits
+Pokï¿½mon Toolkits
 The following Items help with various tasks related to
-the raising of Pokémon.
+the raising of Pokï¿½mon.
 Egg Warmer: Egg Warmers are insulated cases that
-carry up to four Pokémon Eggs and protect them from
-harm. They also cause Pokémon to hatch twice as fast;
+carry up to four Pokï¿½mon Eggs and protect them from
+harm. They also cause Pokï¿½mon to hatch twice as fast;
 each day spent in an Egg Warmer counts as 2 days for
 the purposes of Hatch Rate. Egg Warmers cost $2500.
 Groomer's Kit: Used by Trainers with the Groomer
-Edge to clean their Pokémon. Costs $500.
+Edge to clean their Pokï¿½mon. Costs $500.
 Reanimation Machine: Can be used to revive Fossils.
 Reanimation Machines also come in a smaller but
 more expensive Portable variety. Prices are up to GM
-discretion, often upwards of $10,000. See the Pokémon
+discretion, often upwards of $10,000. See the Pokï¿½mon
 Fossils section for more details (page 216).
 Evolutionary Items
-Some Pokémon evolve upon contact with radioactive Elemental Stones, while rarer evolutions take place only
-once a Pokémon becomes bonded to a keepsake of sorts. Here are the relevant Elemental Stones and a list of
+Some Pokï¿½mon evolve upon contact with radioactive Elemental Stones, while rarer evolutions take place only
+once a Pokï¿½mon becomes bonded to a keepsake of sorts. Here are the relevant Elemental Stones and a list of
 Evolutionary Keepsake. All of these items can be bought for $3000 in major stores.
 Evolutionary Stones
 Item Effect
@@ -1626,9 +1626,9 @@ Evolves Swirlix
 Gear and Items
 299
 Vitamins
-Vitamins are special nutritional drinks which can permanently improve aspects of your Pokémon. However, you
-may only get use out of up to five Vitamins per Pokémon. After you have used five Vitamins on a Pokémon, any
-Vitamins fed to a Pokémon afterwards will have no effect.
+Vitamins are special nutritional drinks which can permanently improve aspects of your Pokï¿½mon. However, you
+may only get use out of up to five Vitamins per Pokï¿½mon. After you have used five Vitamins on a Pokï¿½mon, any
+Vitamins fed to a Pokï¿½mon afterwards will have no effect.
 Vitamin Effect Cost
 HP Up Raise the user's HP Base Stat 1. $4900
 Protein Raise the user's Attack Base Stat 1. $4900
@@ -1636,8 +1636,8 @@ Iron Raise the user's Defense Base Stat 1. $4900
 Calcium Raise the user's Special Attack Base Stat 1. $4900
 Zinc Raise the user's Special Defense Base Stat 1. $4900
 Carbos Raise the user's Speed Base Stat 1. $4900
-Heart Booster The Pokémon gains 2 Tutor Points. Use only one per Pokémon. $9800
-PP Up Raise one of the user's Move's Frequency one level. Use only one per Pokémon. $9800
+Heart Booster The Pokï¿½mon gains 2 Tutor Points. Use only one per Pokï¿½mon. $9800
+PP Up Raise one of the user's Move's Frequency one level. Use only one per Pokï¿½mon. $9800
 Note: PP Ups work differently than they have in previous versions.
 At-Will Moves cannot have their Frequency increased further. EOT Moves become At-Will. Daily and Scene
 Moves gain an additional use in their Frequency's unit of time. For example, a Daily Move becomes Daily x2, and
@@ -1649,36 +1649,36 @@ create the Heart Booster vitamin. Luvdiscs will produce them occasionally; they 
 es, and ancient ones can be found in desert, caves, or underground. Heart Scales cannot normally be bought, but
 Heart Boosters are detailed in the vitamins section.
 Rare Candy: These very rare treats are created from Shuckles that have held a Berry for a long time. When ingested
-by a Pokémon, the eater gains enough experience to reach its next Level. Pokémon may benefit from up to five Rare
+by a Pokï¿½mon, the eater gains enough experience to reach its next Level. Pokï¿½mon may benefit from up to five Rare
 Candies in their lifetime. Rare Candies can cost $9800 or more.
-Stat Suppressants: These medicines have an identical effect to the Suppressant Berries ­ they lower one of the
-user's Base Stats by 1 point and only function if the Trainer of the Pokémon wants them to. These cost $500.
+Stat Suppressants: These medicines have an identical effect to the Suppressant Berries ï¿½ they lower one of the
+user's Base Stats by 1 point and only function if the Trainer of the Pokï¿½mon wants them to. These cost $500.
 Gear and Items
 300
 TMs and HMs
-TMs and HMs, or Technical Machines and Hidden Machines, are objects used to teach Pokémon Moves.
+TMs and HMs, or Technical Machines and Hidden Machines, are objects used to teach Pokï¿½mon Moves.
 TMs are dispensable, one-time use items. HMs on the other hand can be used once per day. TMs and HMs take
-about an hour to take effect; after this time is up, the Pokémon learns the move associated with the TM or HM.
-Not every Pokémon can learn every TM though; check the Pokémon's TM List to see if they are capable of learning
-that TM. Furthermore, be aware that only 3 of a Pokémon's Moves can come from TMs or Tutor Moves. See the
-"Moves" section under Pokémon for more details (page 200). TM Moves cost a Pokémon 1 Tutor Point to learn,
+about an hour to take effect; after this time is up, the Pokï¿½mon learns the move associated with the TM or HM.
+Not every Pokï¿½mon can learn every TM though; check the Pokï¿½mon's TM List to see if they are capable of learning
+that TM. Furthermore, be aware that only 3 of a Pokï¿½mon's Moves can come from TMs or Tutor Moves. See the
+"Moves" section under Pokï¿½mon for more details (page 200). TM Moves cost a Pokï¿½mon 1 Tutor Point to learn,
 though if this Move is forgotten and replaced by another TM Move (keeping the total number of TM Moves the
 same or lower than previously), the new Move does not cost an extra Tutor Point.
 GM TIP: As to what TMs and HMs actually ARE, well, that's something every GM needs to decide and establish
 at the beginning of their campaign.
-The easiest solution is to make them small compact discs, activated by the TM Case itself. The Pokémon's Poké
-Ball is then inserted into the TM Case, which then digitally transfers the Move information to the Pokémon. If
-this method is used, know that using TMs on Pokémon without Poké Balls will be impossible. Furthermore, the
-Pokémon being taught the Move is unavailable for the hour it takes to fully learn the Move.
-Another solution is to make them Syringes that need to be injected into a Pokémon. If this is the case, consider
+The easiest solution is to make them small compact discs, activated by the TM Case itself. The Pokï¿½mon's Pokï¿½
+Ball is then inserted into the TM Case, which then digitally transfers the Move information to the Pokï¿½mon. If
+this method is used, know that using TMs on Pokï¿½mon without Pokï¿½ Balls will be impossible. Furthermore, the
+Pokï¿½mon being taught the Move is unavailable for the hour it takes to fully learn the Move.
+Another solution is to make them Syringes that need to be injected into a Pokï¿½mon. If this is the case, consider
 requiring trainers to make a Medicine Education Check with a DC of 8 or so to apply Syringes; you don't want to
 inject the TM liquid in the wrong place, after all! You should decide what failure means; is the TM simply wasted?
-Or is the Pokémon injured instead? Both? Before choosing this option, consider the barrier to entry it poses to
-trainers both mechanically and psychologically; most trainers don't want to drive needles into their own Pokémon,
+Or is the Pokï¿½mon injured instead? Both? Before choosing this option, consider the barrier to entry it poses to
+trainers both mechanically and psychologically; most trainers don't want to drive needles into their own Pokï¿½mon,
 after all.
 You can use one, both, or neither of the methods above. Feel free to come up with your own solutions about the
 nature of TMs. If your campaign takes place in an alternate setting, consider adjusting TMs accordingly. In one
-"Wild West" Themed setting, TMs were represented as hallucinogenic substances designed to take Pokémon on a
+"Wild West" Themed setting, TMs were represented as hallucinogenic substances designed to take Pokï¿½mon on a
 "spirit quest" to teach them the new Move.
 Gear and Items
 301
@@ -1740,13 +1740,13 @@ specialty shops for $500.
 Dream Mist: Dream Mist may be used as an AC 6
 Melee Status Attack, performed as a Standard Action.
 If it hits, the target falls Asleep. Dream Mist is collected
-from Pokémon with the eponymous Capability using a
+from Pokï¿½mon with the eponymous Capability using a
 Collection Jar but is also in rare occult shops for $500.
 Magic Flute: Magic Flutes are rare artifacts made only
 by skilled crafters with occult knowledge. They are not
 usually found in stores. When a Flute is crafted, it is
 tied to a particular Status Condition. Once per day, the
-Flute may be played as a Standard Action. All Pokémon
+Flute may be played as a Standard Action. All Pokï¿½mon
 and Trainers within 20 meters of the Flute are cured of
 that Status. These rare artifacts cannot be found in most
 ordinary stores but may cost upwards of $4000 from an
@@ -1756,7 +1756,7 @@ with a prayer or incantation written on them. When
 created, the creator makes an Occult Education Roll;
 this is the Cleanse Tag's Power Value.
 When glued, taped, or nailed to a surface, they stop
-Pokémon or Trainers within 30 meters of the tag from
+Pokï¿½mon or Trainers within 30 meters of the tag from
 Phasing through that surface, as if it was solid, unless
 they make a Focus Skill Check with a result greater than
 the Tag's Power Value. On a success, the tag is destroyed;
@@ -1764,14 +1764,14 @@ on failure, the tag holds, and the encroacher cannot try
 again for at least an hour.
 They may also be stuck onto a weapon or appendage to
 let a Normal or Fighting-Type Attack hit a Ghost-Type
-Pokémon for Regularly-Effective Damage; once damage
+Pokï¿½mon for Regularly-Effective Damage; once damage
 has been dealt, the Cleanse Tag is destroyed.
 Those with an Occult Education of Novice or higher can
 also burn a Cleanse Tag as a Standard Action to remove
 the Cursed, Suppressed, or Disabled condition from a
 single target within 5 meters.
 Those with an Occult Education of Expert or higher can
-burn a Cleanse Tags to cause all Pokémon and Trainers
+burn a Cleanse Tags to cause all Pokï¿½mon and Trainers
 within 30 meters with the Invisibility and Phasing
 Capabilities to make a Focus Check; those whose
 result does not exceed the Tag's Power Value lose both
@@ -1793,7 +1793,7 @@ Burn, Poison, Paralysis, and Sleep.
 After being hit by any Pester Ball, a target becomes
 immune to the effects of further Pester Balls for 1 hour.
 Throwing and hitting with Pester Balls is the same as
-with Poké Balls.
+with Pokï¿½ Balls.
 Pester Balls cost $350.
 Smoke Ball: When used, a Smoke Ball creates a 3
 meter blast that fills the area with smoke, as if the move
